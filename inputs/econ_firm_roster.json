@@ -1,0 +1,1660 @@
+{
+  "capturedAt": "2026-09-27",
+  "sourceCount": 232,
+  "note": "Economic-consulting firm universe for ECS. scope='all' keeps every internship/entry-level role that passes the function filter; scope='econ' additionally requires an economics/disputes/transfer-pricing/policy keyword (used for large multi-practice firms); any other scope value is a case-insensitive regex the title/department must match.",
+  "categories": [
+    "Litigation, Antitrust & Damages",
+    "Competition & Regulatory (Europe)",
+    "Economic Consulting (APAC)",
+    "Policy & Research Economics",
+    "Energy & Environmental Economics",
+    "Transfer Pricing & Valuation",
+    "Big 4 & Advisory Economics",
+    "Health Economics & HEOR",
+    "Macro & Economic Research"
+  ],
+  "companies": [
+    {
+      "name": "Analysis Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "analysisgroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "Cornerstone Research",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "cornerstone.com",
+      "scope": "all"
+    },
+    {
+      "name": "Compass Lexecon",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "compasslexecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Charles River Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "crai.com",
+      "scope": "all"
+    },
+    {
+      "name": "NERA Economic Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "nera.com",
+      "scope": "\\bNERA\\b"
+    },
+    {
+      "name": "The Brattle Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "brattle.com",
+      "scope": "all"
+    },
+    {
+      "name": "Bates White",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "bateswhite.com",
+      "scope": "all"
+    },
+    {
+      "name": "Keystone Strategy",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "keystone.com",
+      "scope": "all"
+    },
+    {
+      "name": "Edgeworth Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "edgewortheconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Berkeley Research Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "thinkbrg.com",
+      "scope": "econ"
+    },
+    {
+      "name": "FTI Consulting (Economic Consulting)",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "fticonsulting.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Econ One",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "econone.com",
+      "scope": "all"
+    },
+    {
+      "name": "Secretariat",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "secretariat-intl.com",
+      "scope": "all"
+    },
+    {
+      "name": "Intensity",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "intensity.com",
+      "scope": "all"
+    },
+    {
+      "name": "Ankura",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "ankura.com",
+      "scope": "econ"
+    },
+    {
+      "name": "AlixPartners",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "alixpartners.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Guidehouse",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "guidehouse.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Kroll",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "kroll.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Stout",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "stout.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Houlihan Lokey (Dispute Resolution Consulting)",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "hl.com",
+      "scope": "dispute|valuation"
+    },
+    {
+      "name": "Coherent Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "coherentecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Integra FEC",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "integrafec.com",
+      "scope": "all"
+    },
+    {
+      "name": "Global Economics Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "globaleconomicsgroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "Greylock McKinnon Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "gma-us.com",
+      "scope": "all"
+    },
+    {
+      "name": "Economists Incorporated",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "ei.com",
+      "scope": "all"
+    },
+    {
+      "name": "OnPoint Analytics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "onpointanalytics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Resolution Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "resecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Welch Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "welchcon.com",
+      "scope": "all"
+    },
+    {
+      "name": "MiCRA",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "micradc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Vega Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "vegaeconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Epsilon Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "epsiloneconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Monument Economics Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "megconsulting.com",
+      "scope": "all"
+    },
+    {
+      "name": "Quantitative Economic Solutions",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "qes-llc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Christensen Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "lrca.com",
+      "scope": "all"
+    },
+    {
+      "name": "Nathan Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "nathaninc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Applied Economics Consulting Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "aecgi.com",
+      "scope": "all"
+    },
+    {
+      "name": "Micronomics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "micronomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Ashenfelter & Ashmore",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Finnerty Economic Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "finnertyeconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Fideres",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "UK",
+      "domain": "fideres.com",
+      "scope": "all"
+    },
+    {
+      "name": "DCI Consulting Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "dciconsult.com",
+      "scope": "all"
+    },
+    {
+      "name": "Precision Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "precisionecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Capital Trade",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "capitaltrade.com",
+      "scope": "all"
+    },
+    {
+      "name": "Georgetown Economic Services",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Economic Consulting Services",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Empiris",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "empiris.com",
+      "scope": "all"
+    },
+    {
+      "name": "BLDS",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "blds.com",
+      "scope": "all"
+    },
+    {
+      "name": "EmployStats",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "employstats.com",
+      "scope": "all"
+    },
+    {
+      "name": "ERS Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "ersgroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "Crowninshield Financial Research",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "crowninshield.com",
+      "scope": "all"
+    },
+    {
+      "name": "Stanford Consulting Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "stanfordconsultinggroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "Market Platform Dynamics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "marketplatforms.com",
+      "scope": "all"
+    },
+    {
+      "name": "Invotex",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "invotex.com",
+      "scope": "all"
+    },
+    {
+      "name": "The Kenrich Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "kenrichgroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "J.S. Held",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "jsheld.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Gnarus Advisors",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "gnarusllc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Analysis & Inference",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "ainf.com",
+      "scope": "all"
+    },
+    {
+      "name": "Summit Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "summitllc.us",
+      "scope": "all"
+    },
+    {
+      "name": "Hemming Morse",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "hemming.com",
+      "scope": "all"
+    },
+    {
+      "name": "Pinnacle Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "pinnacleeconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "LitiNomics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "litinomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Quadrant Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "quadrantecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Vocational Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "vocecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "ARPC",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "arpc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Bates Group",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "US",
+      "domain": "batesgroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "Alvarez & Marsal (Disputes & Investigations)",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "US",
+      "domain": "alvarezandmarsal.com",
+      "scope": "econ"
+    },
+    {
+      "name": "HKA",
+      "category": "Litigation, Antitrust & Damages",
+      "hq": "UK",
+      "domain": "hka.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Oxera",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "oxera.com",
+      "scope": "all"
+    },
+    {
+      "name": "Frontier Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "frontier-economics.com",
+      "scope": "all"
+    },
+    {
+      "name": "RBB Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "rbbecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Copenhagen Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Denmark",
+      "domain": "copenhageneconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "E.CA Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Germany",
+      "domain": "e-ca.com",
+      "scope": "all"
+    },
+    {
+      "name": "Economic Insight",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "economic-insight.com",
+      "scope": "all"
+    },
+    {
+      "name": "Europe Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "europe-economics.com",
+      "scope": "all"
+    },
+    {
+      "name": "CEPA",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "cepa.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "London Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "londoneconomics.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "Cambridge Econometrics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "camecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Aurora Energy Research",
+      "category": "Energy & Environmental Economics",
+      "hq": "UK",
+      "domain": "auroraer.com",
+      "scope": "all"
+    },
+    {
+      "name": "Cornwall Insight",
+      "category": "Energy & Environmental Economics",
+      "hq": "UK",
+      "domain": "cornwall-insight.com",
+      "scope": "all"
+    },
+    {
+      "name": "Swiss Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Switzerland",
+      "domain": "swiss-economics.ch",
+      "scope": "all"
+    },
+    {
+      "name": "Polynomics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Switzerland",
+      "domain": "polynomics.ch",
+      "scope": "all"
+    },
+    {
+      "name": "DIW Econ",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Germany",
+      "domain": "diw-econ.de",
+      "scope": "all"
+    },
+    {
+      "name": "WIK-Consult",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Germany",
+      "domain": "wik.org",
+      "scope": "all"
+    },
+    {
+      "name": "Ecorys",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Netherlands",
+      "domain": "ecorys.com",
+      "scope": "all"
+    },
+    {
+      "name": "Technopolis Group",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Belgium",
+      "domain": "technopolis-group.com",
+      "scope": "all"
+    },
+    {
+      "name": "Vivid Economics (McKinsey)",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "mckinsey.com",
+      "scope": "vivid economics"
+    },
+    {
+      "name": "Accuracy",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "France",
+      "domain": "accuracy.com",
+      "scope": "all"
+    },
+    {
+      "name": "Economic Consulting Associates",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "eca-uk.com",
+      "scope": "all"
+    },
+    {
+      "name": "Lear",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Italy",
+      "domain": "learlab.com",
+      "scope": "all"
+    },
+    {
+      "name": "Reckon LLP",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "reckon.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "Perspective Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "perspectiveeconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "DotEcon",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "dotecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Cebr",
+      "category": "Macro & Economic Research",
+      "hq": "UK",
+      "domain": "cebr.com",
+      "scope": "all"
+    },
+    {
+      "name": "Fathom Consulting",
+      "category": "Macro & Economic Research",
+      "hq": "UK",
+      "domain": "fathom-consulting.com",
+      "scope": "all"
+    },
+    {
+      "name": "Pantheon Macroeconomics",
+      "category": "Macro & Economic Research",
+      "hq": "UK",
+      "domain": "pantheonmacro.com",
+      "scope": "all"
+    },
+    {
+      "name": "Volterra Partners",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Plum Consulting",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "plumconsulting.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "Aldwych Partners",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Indepen",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "First Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Analysys Mason",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "analysysmason.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Baringa",
+      "category": "Energy & Environmental Economics",
+      "hq": "UK",
+      "domain": "baringa.com",
+      "scope": "econ"
+    },
+    {
+      "name": "LCP Delta",
+      "category": "Energy & Environmental Economics",
+      "hq": "UK",
+      "domain": "lcp.com",
+      "scope": "econ"
+    },
+    {
+      "name": "AFRY Management Consulting",
+      "category": "Energy & Environmental Economics",
+      "hq": "Sweden",
+      "domain": "afry.com",
+      "scope": "econ"
+    },
+    {
+      "name": "SEO Amsterdam Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Netherlands",
+      "domain": "seo.nl",
+      "scope": "all"
+    },
+    {
+      "name": "Lexonomics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Belgium",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "CE Delft",
+      "category": "Energy & Environmental Economics",
+      "hq": "Netherlands",
+      "domain": "ce.nl",
+      "scope": "all"
+    },
+    {
+      "name": "Decisio",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Netherlands",
+      "domain": "decisio.nl",
+      "scope": "all"
+    },
+    {
+      "name": "DICE Consult",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Germany",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Prognos",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Germany",
+      "domain": "prognos.com",
+      "scope": "all"
+    },
+    {
+      "name": "BAK Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Switzerland",
+      "domain": "bak-economics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Ecoplan",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Switzerland",
+      "domain": "ecoplan.ch",
+      "scope": "all"
+    },
+    {
+      "name": "INFRAS",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Switzerland",
+      "domain": "infras.ch",
+      "scope": "all"
+    },
+    {
+      "name": "Menon Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Norway",
+      "domain": "menon.no",
+      "scope": "all"
+    },
+    {
+      "name": "Oslo Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Norway",
+      "domain": "osloeconomics.no",
+      "scope": "all"
+    },
+    {
+      "name": "Vista Analyse",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Norway",
+      "domain": "vista-analyse.no",
+      "scope": "all"
+    },
+    {
+      "name": "THEMA Consulting Group",
+      "category": "Energy & Environmental Economics",
+      "hq": "Norway",
+      "domain": "thema.no",
+      "scope": "all"
+    },
+    {
+      "name": "Ramboll Management Consulting",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Denmark",
+      "domain": "ramboll.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Afi",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Spain",
+      "domain": "afi.es",
+      "scope": "all"
+    },
+    {
+      "name": "REF-E",
+      "category": "Energy & Environmental Economics",
+      "hq": "Italy",
+      "domain": "ref-e.com",
+      "scope": "all"
+    },
+    {
+      "name": "Prometeia",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Italy",
+      "domain": "prometeia.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Indecon",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Ireland",
+      "domain": "indecon.ie",
+      "scope": "all"
+    },
+    {
+      "name": "DKM Economic Consultants",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "Ireland",
+      "domain": "dkm.ie",
+      "scope": "all"
+    },
+    {
+      "name": "SQW",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "sqw.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "Steer",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "steergroup.com",
+      "scope": "econ"
+    },
+    {
+      "name": "BiGGAR Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "biggareconomics.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "Metro Dynamics",
+      "category": "Competition & Regulatory (Europe)",
+      "hq": "UK",
+      "domain": "metrodynamics.co.uk",
+      "scope": "all"
+    },
+    {
+      "name": "HoustonKemp",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "houstonkemp.com",
+      "scope": "all"
+    },
+    {
+      "name": "CEG (Competition Economists Group)",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "ceg-global.com",
+      "scope": "all"
+    },
+    {
+      "name": "Sapere Research Group",
+      "category": "Economic Consulting (APAC)",
+      "hq": "New Zealand",
+      "domain": "srgexpert.com",
+      "scope": "all"
+    },
+    {
+      "name": "Frontier Economics Australia",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "frontier-economics.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Deloitte Access Economics",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "deloitte.com",
+      "scope": "econ"
+    },
+    {
+      "name": "NZIER",
+      "category": "Economic Consulting (APAC)",
+      "hq": "New Zealand",
+      "domain": "nzier.org.nz",
+      "scope": "all"
+    },
+    {
+      "name": "Castalia",
+      "category": "Economic Consulting (APAC)",
+      "hq": "New Zealand",
+      "domain": "castalia-advisors.com",
+      "scope": "all"
+    },
+    {
+      "name": "ACIL Allen",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "acilallen.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Synergies Economic Consulting",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "synergies.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "The Centre for International Economics",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "thecie.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Marsden Jacob Associates",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "marsdenjacob.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Oakley Greenwood",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "oakleygreenwood.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Incenta Economic Consulting",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "incenta.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Axiom Economics",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Mandala Partners",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Nous Group",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "nousgroup.com",
+      "scope": "econ"
+    },
+    {
+      "name": "SGS Economics & Planning",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Australia",
+      "domain": "sgsep.com.au",
+      "scope": "all"
+    },
+    {
+      "name": "Infometrics",
+      "category": "Economic Consulting (APAC)",
+      "hq": "New Zealand",
+      "domain": "infometrics.co.nz",
+      "scope": "all"
+    },
+    {
+      "name": "BERL",
+      "category": "Economic Consulting (APAC)",
+      "hq": "New Zealand",
+      "domain": "berl.co.nz",
+      "scope": "all"
+    },
+    {
+      "name": "Asia Competition Associates",
+      "category": "Economic Consulting (APAC)",
+      "hq": "Hong Kong",
+      "domain": "",
+      "scope": "all"
+    },
+    {
+      "name": "Mathematica",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "mathematica.org",
+      "scope": "all"
+    },
+    {
+      "name": "Abt Global",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "abtglobal.com",
+      "scope": "econ"
+    },
+    {
+      "name": "ICF",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "icf.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Industrial Economics (IEc)",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "indecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Eastern Research Group",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "erg.com",
+      "scope": "all"
+    },
+    {
+      "name": "RTI International",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "rti.org",
+      "scope": "econ"
+    },
+    {
+      "name": "Westat",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "westat.com",
+      "scope": "econ"
+    },
+    {
+      "name": "NORC at the University of Chicago",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "norc.org",
+      "scope": "all"
+    },
+    {
+      "name": "American Institutes for Research",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "air.org",
+      "scope": "econ"
+    },
+    {
+      "name": "Urban Institute",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "urban.org",
+      "scope": "all"
+    },
+    {
+      "name": "The Cadmus Group",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "cadmusgroup.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Chemonics International",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "chemonics.com",
+      "scope": "econ"
+    },
+    {
+      "name": "DAI Global",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "dai.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Econsult Solutions",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "econsultsolutions.com",
+      "scope": "all"
+    },
+    {
+      "name": "Economic & Planning Systems",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "epsys.com",
+      "scope": "all"
+    },
+    {
+      "name": "HR&A Advisors",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "hraadvisors.com",
+      "scope": "all"
+    },
+    {
+      "name": "RCLCO",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "rclco.com",
+      "scope": "all"
+    },
+    {
+      "name": "BAE Urban Economics",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "bae1.com",
+      "scope": "all"
+    },
+    {
+      "name": "Keyser Marston Associates",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "keysermarston.com",
+      "scope": "all"
+    },
+    {
+      "name": "TischlerBise",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "tischlerbise.com",
+      "scope": "all"
+    },
+    {
+      "name": "EBP US",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "ebp-us.com",
+      "scope": "all"
+    },
+    {
+      "name": "Lightcast",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "lightcast.io",
+      "scope": "econ"
+    },
+    {
+      "name": "REMI",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "remi.com",
+      "scope": "all"
+    },
+    {
+      "name": "MDRC",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "mdrc.org",
+      "scope": "all"
+    },
+    {
+      "name": "Acumen",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "acumenllc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Econometrica",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "econometricainc.com",
+      "scope": "all"
+    },
+    {
+      "name": "L&M Policy Research",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "lmpolicyresearch.com",
+      "scope": "all"
+    },
+    {
+      "name": "ECONorthwest",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "econw.com",
+      "scope": "all"
+    },
+    {
+      "name": "Beacon Economics",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "beaconecon.com",
+      "scope": "all"
+    },
+    {
+      "name": "Chmura Economics & Analytics",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "chmura.com",
+      "scope": "all"
+    },
+    {
+      "name": "Camoin Associates",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "camoinassociates.com",
+      "scope": "all"
+    },
+    {
+      "name": "Estolano Advisors",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "estolano.com",
+      "scope": "all"
+    },
+    {
+      "name": "Appleseed",
+      "category": "Policy & Research Economics",
+      "hq": "US",
+      "domain": "appleseedinc.com",
+      "scope": "all"
+    },
+    {
+      "name": "Energy + Environmental Economics (E3)",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "ethree.com",
+      "scope": "all"
+    },
+    {
+      "name": "Christensen Associates Energy Consulting",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "caenergy.com",
+      "scope": "all"
+    },
+    {
+      "name": "London Economics International",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "londoneconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Concentric Energy Advisors",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "ceadvisors.com",
+      "scope": "all"
+    },
+    {
+      "name": "ScottMadden",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "scottmadden.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Synapse Energy Economics",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "synapse-energy.com",
+      "scope": "all"
+    },
+    {
+      "name": "Demand Side Analytics",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "demandsideanalytics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Wood Mackenzie",
+      "category": "Energy & Environmental Economics",
+      "hq": "UK",
+      "domain": "woodmac.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Resources for the Future",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "rff.org",
+      "scope": "all"
+    },
+    {
+      "name": "Rhodium Group",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "rhg.com",
+      "scope": "all"
+    },
+    {
+      "name": "Potomac Economics",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "potomaceconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Monitoring Analytics",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "monitoringanalytics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Opinion Dynamics",
+      "category": "Energy & Environmental Economics",
+      "hq": "US",
+      "domain": "opiniondynamics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Deloitte (Economics / Transfer Pricing)",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "US",
+      "domain": "deloitte.com",
+      "scope": "econ"
+    },
+    {
+      "name": "PwC (Economics / Transfer Pricing / Forensics)",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "US",
+      "domain": "pwc.com",
+      "scope": "transfer pricing|econom|forensic|investigations|valuation|disputes"
+    },
+    {
+      "name": "EY (QUEST / Economic Advisory / Transfer Pricing)",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "US",
+      "domain": "ey.com",
+      "scope": "econ"
+    },
+    {
+      "name": "KPMG (Economic & Valuation Services)",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "US",
+      "domain": "kpmg.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Grant Thornton (Transfer Pricing / Economics)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "grantthornton.com",
+      "scope": "econ"
+    },
+    {
+      "name": "BDO (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "bdo.com",
+      "scope": "econ"
+    },
+    {
+      "name": "RSM (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "rsmus.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Crowe (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "crowe.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Baker Tilly (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "bakertilly.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Ryan (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "ryan.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Andersen (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "andersen.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Economics Partners",
+      "category": "Transfer Pricing & Valuation",
+      "hq": "US",
+      "domain": "economicspartners.com",
+      "scope": "all"
+    },
+    {
+      "name": "Deloitte UK Economic Advisory",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "UK",
+      "domain": "deloitte.com",
+      "scope": "econ"
+    },
+    {
+      "name": "KPMG UK Economics",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "UK",
+      "domain": "kpmgcareers.co.uk",
+      "scope": "econ"
+    },
+    {
+      "name": "EY UK Economic Advisory",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "UK",
+      "domain": "ey.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Grant Thornton UK Economic Consulting",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "UK",
+      "domain": "grantthornton.co.uk",
+      "scope": "econ"
+    },
+    {
+      "name": "KPMG Singapore Economics & Regulation",
+      "category": "Big 4 & Advisory Economics",
+      "hq": "Singapore",
+      "domain": "kpmg.com",
+      "scope": "econ"
+    },
+    {
+      "name": "PRECISIONheor (Precision AQ)",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "precisionaq.com",
+      "scope": "econ"
+    },
+    {
+      "name": "IQVIA (HEOR)",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "iqvia.com",
+      "scope": "heor|health economics|outcomes research|market access|real world"
+    },
+    {
+      "name": "Evidera (Thermo Fisher)",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "thermofisher.com",
+      "scope": "heor|health economics|outcomes|value and access|evidera"
+    },
+    {
+      "name": "Avalere Health",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "avalerehealth.com",
+      "scope": "all"
+    },
+    {
+      "name": "Dobson DaVanzo & Associates",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "dobsondavanzo.com",
+      "scope": "all"
+    },
+    {
+      "name": "Milliman",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "milliman.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Health Management Associates",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "healthmanagement.com",
+      "scope": "all"
+    },
+    {
+      "name": "Genesis Research Group",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "genesisrg.com",
+      "scope": "all"
+    },
+    {
+      "name": "Lumanity",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "lumanity.com",
+      "scope": "all"
+    },
+    {
+      "name": "Xcenda (Cencora)",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "xcenda.com",
+      "scope": "econ"
+    },
+    {
+      "name": "Trinity Life Sciences",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "trinitylifesciences.com",
+      "scope": "all"
+    },
+    {
+      "name": "OPEN Health",
+      "category": "Health Economics & HEOR",
+      "hq": "UK",
+      "domain": "openhealthgroup.com",
+      "scope": "all"
+    },
+    {
+      "name": "Medicus Economics",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "medicuseconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "KNG Health Consulting",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "knghealth.com",
+      "scope": "all"
+    },
+    {
+      "name": "RTI Health Solutions",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "rtihs.org",
+      "scope": "all"
+    },
+    {
+      "name": "Broadstreet HEOR",
+      "category": "Health Economics & HEOR",
+      "hq": "Canada",
+      "domain": "broadstreetheor.com",
+      "scope": "all"
+    },
+    {
+      "name": "Health Advances",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "healthadvances.com",
+      "scope": "all"
+    },
+    {
+      "name": "Wakely Consulting Group",
+      "category": "Health Economics & HEOR",
+      "hq": "US",
+      "domain": "wakely.com",
+      "scope": "all"
+    },
+    {
+      "name": "Oxford Economics",
+      "category": "Macro & Economic Research",
+      "hq": "UK",
+      "domain": "oxfordeconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Capital Economics",
+      "category": "Macro & Economic Research",
+      "hq": "UK",
+      "domain": "capitaleconomics.com",
+      "scope": "all"
+    },
+    {
+      "name": "Moody's Analytics (Economics)",
+      "category": "Macro & Economic Research",
+      "hq": "US",
+      "domain": "moodys.com",
+      "scope": "econ"
+    },
+    {
+      "name": "S&P Global (Economics)",
+      "category": "Macro & Economic Research",
+      "hq": "US",
+      "domain": "spglobal.com",
+      "scope": "econom"
+    }
+  ],
+  "aliases": {
+    "Navigant": "Guidehouse",
+    "Duff & Phelps": "Kroll",
+    "Ceteris": "Kroll",
+    "Lexecon": "Compass Lexecon",
+    "CRA International": "Charles River Associates",
+    "BRG": "Berkeley Research Group",
+    "IHS Markit": "S&P Global (Economics)",
+    "Emsi": "Lightcast",
+    "Burning Glass": "Lightcast",
+    "Abt Associates": "Abt Global",
+    "IMPAQ International": "American Institutes for Research",
+    "Economic Development Research Group": "EBP US",
+    "Ocean Tomo": "J.S. Held",
+    "Precision Health Economics": "PRECISIONheor (Precision AQ)",
+    "Leavitt Partners": "Health Management Associates",
+    "Marsh McLennan (NERA)": "NERA Economic Consulting"
+  }
+}

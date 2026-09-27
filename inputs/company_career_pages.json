@@ -1,0 +1,1139 @@
+{
+  "generatedAt": "2026-09-27T00:00:00.000Z",
+  "companies": {
+    "Analysis Group": {
+      "careerPages": [
+        "https://www.analysisgroup.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Cornerstone Research": {
+      "careerPages": [
+        "https://www.cornerstone.com/careers/analyst/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Compass Lexecon": {
+      "careerPages": [
+        "https://www.compasslexecon.com/careers/students-graduates"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Charles River Associates": {
+      "careerPages": [
+        "https://www.crai.com/cra-careers/jobs/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "NERA Economic Consulting": {
+      "careerPages": [
+        "https://www.nera.com/open-roles.html"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "The Brattle Group": {
+      "careerPages": [
+        "https://www.brattle.com/careers/current-openings/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Bates White": {
+      "careerPages": [
+        "https://www.bateswhite.com/careers/current-openings"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Keystone Strategy": {
+      "careerPages": [
+        "https://www.keystone.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Edgeworth Economics": {
+      "careerPages": [
+        "https://www.edgewortheconomics.com/careers-open-positions"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Berkeley Research Group": {
+      "careerPages": [
+        "https://www.thinkbrg.com/careers/early-careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "FTI Consulting (Economic Consulting)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Econ One": {
+      "careerPages": [
+        "https://econone.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Secretariat": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Intensity": {
+      "careerPages": [
+        "https://intensity.com/opening/analyst"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Ankura": {
+      "careerPages": [
+        "https://ankura.com/job-openings"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "AlixPartners": {
+      "careerPages": [
+        "https://www.alixpartners.com/careers/job-search/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Guidehouse": {
+      "careerPages": [
+        "https://guidehouse.com/careers/internship"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Kroll": {
+      "careerPages": [
+        "https://careers.kroll.com/en/students"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Stout": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Houlihan Lokey (Dispute Resolution Consulting)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Coherent Economics": {
+      "careerPages": [
+        "https://coherentecon.com/job-openings/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Integra FEC": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Global Economics Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Greylock McKinnon Associates": {
+      "careerPages": [
+        "https://www.gma-us.com/openings/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Economists Incorporated": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "OnPoint Analytics": {
+      "careerPages": [
+        "https://onpointanalytics.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Resolution Economics": {
+      "careerPages": [
+        "https://resecon.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Welch Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "MiCRA": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Vega Economics": {
+      "careerPages": [
+        "https://vegaeconomics.com/careers/openings"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Epsilon Economics": {
+      "careerPages": [
+        "https://www.epsiloneconomics.com/join-us"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Monument Economics Group": {
+      "careerPages": [
+        "https://www.megconsulting.com/careers/current-positions/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Quantitative Economic Solutions": {
+      "careerPages": [
+        "https://www.qes-llc.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Christensen Associates": {
+      "careerPages": [
+        "https://www.lrca.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Nathan Associates": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Applied Economics Consulting Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Micronomics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Ashenfelter & Ashmore": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Finnerty Economic Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Fideres": {
+      "careerPages": [
+        "https://job-boards.eu.greenhouse.io/fideres"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "DCI Consulting Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Precision Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Capital Trade": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Georgetown Economic Services": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Economic Consulting Services": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Empiris": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "BLDS": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "EmployStats": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "ERS Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Crowninshield Financial Research": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Stanford Consulting Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Market Platform Dynamics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Invotex": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "The Kenrich Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "J.S. Held": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Gnarus Advisors": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Analysis & Inference": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Summit Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Hemming Morse": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Pinnacle Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "LitiNomics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Quadrant Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Vocational Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "ARPC": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Bates Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Alvarez & Marsal (Disputes & Investigations)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "HKA": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Oxera": {
+      "careerPages": [
+        "https://careers.oxera.com/jobs"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Frontier Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "RBB Economics": {
+      "careerPages": [
+        "https://www.rbbecon.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Copenhagen Economics": {
+      "careerPages": [
+        "https://copenhageneconomics.com/careers/vacancies/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "E.CA Economics": {
+      "careerPages": [
+        "https://e-ca.jobs.personio.de/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Economic Insight": {
+      "careerPages": [
+        "https://www.economic-insight.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Europe Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "CEPA": {
+      "careerPages": [
+        "https://www.cepa.co.uk/careers/working-at-cepa"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "London Economics": {
+      "careerPages": [
+        "https://londoneconomics.co.uk/recruitment/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Cambridge Econometrics": {
+      "careerPages": [
+        "https://www.camecon.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Aurora Energy Research": {
+      "careerPages": [
+        "https://careers.auroraer.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Cornwall Insight": {
+      "careerPages": [
+        "https://cornwallinsight.pinpointhq.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Swiss Economics": {
+      "careerPages": [
+        "https://www.swiss-economics.ch/career.html"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Polynomics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "DIW Econ": {
+      "careerPages": [
+        "https://diw-econ.de/en/career/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "WIK-Consult": {
+      "careerPages": [
+        "https://www.wik.org/ueber-uns/karriere"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Ecorys": {
+      "careerPages": [
+        "https://careers.ecorys.com/en/vacancies"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Technopolis Group": {
+      "careerPages": [
+        "https://technopolis-group.jobs.personio.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Vivid Economics (McKinsey)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Accuracy": {
+      "careerPages": [
+        "https://careers.accuracy.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Economic Consulting Associates": {
+      "careerPages": [
+        "https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Lear": {
+      "careerPages": [
+        "https://www.learlab.com/careers/vacancies/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Reckon LLP": {
+      "careerPages": [
+        "https://www.reckon.co.uk/junior-consultant-opportunity"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Perspective Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "DotEcon": {
+      "careerPages": [
+        "https://www.dotecon.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Cebr": {
+      "careerPages": [
+        "https://cebr.com/join-the-team/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Fathom Consulting": {
+      "careerPages": [
+        "https://www.fathom-consulting.com/career-enquiries/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Pantheon Macroeconomics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Volterra Partners": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Plum Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Aldwych Partners": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Indepen": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "First Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Analysys Mason": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Baringa": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "LCP Delta": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "AFRY Management Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "SEO Amsterdam Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Lexonomics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "CE Delft": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Decisio": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "DICE Consult": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Prognos": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "BAK Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Ecoplan": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "INFRAS": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Menon Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Oslo Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Vista Analyse": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "THEMA Consulting Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Ramboll Management Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Afi": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "REF-E": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Prometeia": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Indecon": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "DKM Economic Consultants": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "SQW": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Steer": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "BiGGAR Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Metro Dynamics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "HoustonKemp": {
+      "careerPages": [
+        "https://houstonkemp.com/careers/graduates/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "CEG (Competition Economists Group)": {
+      "careerPages": [
+        "https://www.ceg-global.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Sapere Research Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Frontier Economics Australia": {
+      "careerPages": [
+        "https://www.frontier-economics.com.au/careers/current-opportunities/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Deloitte Access Economics": {
+      "careerPages": [
+        "https://jobs.deloitte.com.au/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "NZIER": {
+      "careerPages": [
+        "https://www.nzier.org.nz/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Castalia": {
+      "careerPages": [
+        "https://castalia-advisors.com/join/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "ACIL Allen": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Synergies Economic Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "The Centre for International Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Marsden Jacob Associates": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Oakley Greenwood": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Incenta Economic Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Axiom Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Mandala Partners": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Nous Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "SGS Economics & Planning": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Infometrics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "BERL": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Asia Competition Associates": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Mathematica": {
+      "careerPages": [
+        "https://careers.mathematica.org/search-jobs"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Abt Global": {
+      "careerPages": [
+        "https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "ICF": {
+      "careerPages": [
+        "https://careers.icf.com/us/en"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Industrial Economics (IEc)": {
+      "careerPages": [
+        "https://indecon.com/open-positions/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Eastern Research Group": {
+      "careerPages": [
+        "https://www.erg.com/jobs"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "RTI International": {
+      "careerPages": [
+        "https://careers.rti.org/jobs"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Westat": {
+      "careerPages": [
+        "https://www.westat.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "NORC at the University of Chicago": {
+      "careerPages": [
+        "https://www.norc.org/about/careers/job-openings.html"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "American Institutes for Research": {
+      "careerPages": [
+        "https://www.air.org/build-career-air"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Urban Institute": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "The Cadmus Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Chemonics International": {
+      "careerPages": [
+        "https://www.chemonics.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "DAI Global": {
+      "careerPages": [
+        "https://careers.daicompanies.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Econsult Solutions": {
+      "careerPages": [
+        "https://econsultsolutions.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Economic & Planning Systems": {
+      "careerPages": [
+        "https://www.epsys.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "HR&A Advisors": {
+      "careerPages": [
+        "https://hraadvisors.applytojob.com/apply/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "RCLCO": {
+      "careerPages": [
+        "https://job-boards.greenhouse.io/rclco"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "BAE Urban Economics": {
+      "careerPages": [
+        "https://www.bae1.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Keyser Marston Associates": {
+      "careerPages": [
+        "https://www.keysermarston.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "TischlerBise": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "EBP US": {
+      "careerPages": [
+        "https://www.ebp-us.com/en/job-openings-0"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Lightcast": {
+      "careerPages": [
+        "https://jobs.lever.co/economicmodeling/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "REMI": {
+      "careerPages": [
+        "https://www.remi.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "MDRC": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Acumen": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Econometrica": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "L&M Policy Research": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "ECONorthwest": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Beacon Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Chmura Economics & Analytics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Camoin Associates": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Estolano Advisors": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Appleseed": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Energy + Environmental Economics (E3)": {
+      "careerPages": [
+        "https://www.ethree.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Christensen Associates Energy Consulting": {
+      "careerPages": [
+        "https://www.caenergy.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "London Economics International": {
+      "careerPages": [
+        "https://londoneconomics.com/careers"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Concentric Energy Advisors": {
+      "careerPages": [
+        "https://ceadvisors.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "ScottMadden": {
+      "careerPages": [
+        "https://www.scottmadden.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Synapse Energy Economics": {
+      "careerPages": [
+        "https://synapse.hire.trakstar.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Demand Side Analytics": {
+      "careerPages": [
+        "https://demandsideanalytics.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Wood Mackenzie": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Resources for the Future": {
+      "careerPages": [
+        "https://www.rff.org/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Rhodium Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Potomac Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Monitoring Analytics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Opinion Dynamics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Deloitte (Economics / Transfer Pricing)": {
+      "careerPages": [
+        "https://apply.deloitte.com/en_US/careers/SearchJobs/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "PwC (Economics / Transfer Pricing / Forensics)": {
+      "careerPages": [
+        "https://jobs.us.pwc.com/entry-level-transfer-pricing"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "EY (QUEST / Economic Advisory / Transfer Pricing)": {
+      "careerPages": [
+        "https://usearlycareers.ey.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "KPMG (Economic & Valuation Services)": {
+      "careerPages": [
+        "https://www.kpmguscareers.com/early-career/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Grant Thornton (Transfer Pricing / Economics)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "BDO (Transfer Pricing)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "RSM (Transfer Pricing)": {
+      "careerPages": [
+        "https://jobs.rsmus.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Crowe (Transfer Pricing)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Baker Tilly (Transfer Pricing)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Ryan (Transfer Pricing)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Andersen (Transfer Pricing)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Economics Partners": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Deloitte UK Economic Advisory": {
+      "careerPages": [
+        "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "KPMG UK Economics": {
+      "careerPages": [
+        "https://www.kpmgcareers.co.uk/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "EY UK Economic Advisory": {
+      "careerPages": [
+        "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Grant Thornton UK Economic Consulting": {
+      "careerPages": [
+        "https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "KPMG Singapore Economics & Regulation": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "PRECISIONheor (Precision AQ)": {
+      "careerPages": [
+        "https://job-boards.greenhouse.io/precisionaq"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "IQVIA (HEOR)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Evidera (Thermo Fisher)": {
+      "careerPages": [
+        "https://jobs.thermofisher.com/global/en/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Avalere Health": {
+      "careerPages": [
+        "https://jobs.lever.co/avalerehealth"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Dobson DaVanzo & Associates": {
+      "careerPages": [
+        "https://www.dobsondavanzo.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Milliman": {
+      "careerPages": [
+        "https://careers.milliman.com/en/Search"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Health Management Associates": {
+      "careerPages": [
+        "https://www.healthmanagement.com/career-opportunities/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Genesis Research Group": {
+      "careerPages": [
+        "https://genesisrg.com/careers/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Lumanity": {
+      "careerPages": [
+        "https://lumanity.com/careers/current-openings/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Xcenda (Cencora)": {
+      "careerPages": [
+        "https://www.xcenda.com/careers-student-programs"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Trinity Life Sciences": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "OPEN Health": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Medicus Economics": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "KNG Health Consulting": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "RTI Health Solutions": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Broadstreet HEOR": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Health Advances": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Wakely Consulting Group": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Oxford Economics": {
+      "careerPages": [
+        "https://careers.oxfordeconomics.com/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Capital Economics": {
+      "careerPages": [
+        "https://apply.workable.com/capital-economics/"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "Moody's Analytics (Economics)": {
+      "careerPages": [
+        "https://careers.moodys.com/en/search-jobs"
+      ],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    },
+    "S&P Global (Economics)": {
+      "careerPages": [],
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    }
+  }
+}

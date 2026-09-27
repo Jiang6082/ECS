@@ -1,0 +1,317 @@
+{
+  "note": "Firms whose careers sites can't be enumerated from Node (anti-bot SPAs, unsupported ATS, or own-site listings). An agent/browser renders each URL, reads role text via the selector, and writes snapshots/<key>.json as {\"key\",\"firm\",\"capturedAt\",\"roles\":[{\"title\",\"location\",\"url\"}]}. The v2 scan folds snapshot roles into the report (filtered by the same role rules) and treats a firm with no snapshot as 'could not fully verify'.",
+  "sites": [
+    {
+      "key": "bates-white",
+      "firm": "Bates White",
+      "url": "https://www.bateswhite.com/careers/current-openings",
+      "selector": "a[href*='viglobalcloud'], a[href*='viRecruit'], .job-title a",
+      "reason": "viRecruit (viGlobalCloud) portal has no public JSON API",
+      "scope": "all"
+    },
+    {
+      "key": "mathematica",
+      "firm": "Mathematica",
+      "url": "https://careers.mathematica.org/search-jobs?k=intern",
+      "selector": "a[href*='/job/']",
+      "reason": "Radancy/TalentBrew front-end; roles render server-side but ATS feed is private",
+      "scope": "all"
+    },
+    {
+      "key": "deloitte-us",
+      "firm": "Deloitte (Economics / Transfer Pricing)",
+      "url": "https://apply.deloitte.com/en_US/careers/SearchJobs/?search=transfer+pricing+intern",
+      "selector": "a[href*='/JobDetail/']",
+      "reason": "Avature ATS (anti-bot)",
+      "scope": "econ"
+    },
+    {
+      "key": "ey-us",
+      "firm": "EY (QUEST / Economic Advisory / Transfer Pricing)",
+      "url": "https://usearlycareers.ey.com/search/?q=economics+intern",
+      "selector": "a[href*='/job/']",
+      "reason": "SuccessFactors-style portal",
+      "scope": "econ"
+    },
+    {
+      "key": "kpmg-us",
+      "firm": "KPMG (Economic & Valuation Services)",
+      "url": "https://www.kpmguscareers.com/early-career/",
+      "selector": "a[href*='jobdetail'], a[href*='jobId']",
+      "reason": "Custom KPMG portal",
+      "scope": "econ"
+    },
+    {
+      "key": "kroll",
+      "firm": "Kroll",
+      "url": "https://careers.kroll.com/en/listing-page",
+      "selector": "a[href*='/job/']",
+      "reason": "Custom portal over Oracle Recruiting (site id unknown)",
+      "scope": "econ"
+    },
+    {
+      "key": "rsm",
+      "firm": "RSM (Transfer Pricing)",
+      "url": "https://jobs.rsmus.com/search-jobs/transfer%20pricing%20intern",
+      "selector": "a[href*='/job/']",
+      "reason": "Custom front-end",
+      "scope": "econ"
+    },
+    {
+      "key": "moodys",
+      "firm": "Moody's Analytics (Economics)",
+      "url": "https://careers.moodys.com/en/search-jobs/intern",
+      "selector": "a[href*='/job/']",
+      "reason": "Radancy front-end",
+      "scope": "econ"
+    },
+    {
+      "key": "milliman",
+      "firm": "Milliman",
+      "url": "https://careers.milliman.com/en/Search?keyword=intern",
+      "selector": "a[href*='/job']",
+      "reason": "Custom portal",
+      "scope": "econ"
+    },
+    {
+      "key": "cencora-xcenda",
+      "firm": "Xcenda (Cencora)",
+      "url": "https://careers.cencora.com/us/en/search-results?keywords=HEOR%20intern",
+      "selector": "a[href*='/job/']",
+      "reason": "Phenom front-end",
+      "scope": "econ"
+    },
+    {
+      "key": "thermo-evidera",
+      "firm": "Evidera (Thermo Fisher)",
+      "url": "https://jobs.thermofisher.com/global/en/search-results?keywords=HEOR%20intern",
+      "selector": "a[href*='/job/']",
+      "reason": "Phenom front-end",
+      "scope": "heor|health economics|outcomes|value and access|evidera"
+    },
+    {
+      "key": "rti",
+      "firm": "RTI International",
+      "url": "https://careers.rti.org/jobs?keywords=intern",
+      "selector": "a[href*='/jobs/']",
+      "reason": "Jibe-style portal",
+      "scope": "econ"
+    },
+    {
+      "key": "westat",
+      "firm": "Westat",
+      "url": "https://www.westat.com/careers/",
+      "selector": "a[href*='job']",
+      "reason": "Portal not enumerable from Node",
+      "scope": "econ"
+    },
+    {
+      "key": "air",
+      "firm": "American Institutes for Research",
+      "url": "https://www.air.org/build-career-air",
+      "selector": "a[href*='job']",
+      "reason": "Portal not enumerable from Node",
+      "scope": "econ"
+    },
+    {
+      "key": "norc",
+      "firm": "NORC at the University of Chicago",
+      "url": "https://www.norc.org/about/careers/job-openings.html",
+      "selector": "a[href*='job']",
+      "reason": "Portal not enumerable from Node",
+      "scope": "all"
+    },
+    {
+      "key": "dai",
+      "firm": "DAI Global",
+      "url": "https://careers.daicompanies.com/",
+      "selector": "a[href*='taleo'], a[href*='job']",
+      "reason": "Taleo",
+      "scope": "econ"
+    },
+    {
+      "key": "chemonics",
+      "firm": "Chemonics International",
+      "url": "https://www.chemonics.com/careers/",
+      "selector": "a[href*='job']",
+      "reason": "Portal not enumerable from Node",
+      "scope": "econ"
+    },
+    {
+      "key": "eca",
+      "firm": "Economic Consulting Associates",
+      "url": "https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/",
+      "selector": "a[href*='/jobs/']",
+      "reason": "GoHire",
+      "scope": "all"
+    },
+    {
+      "key": "accuracy",
+      "firm": "Accuracy",
+      "url": "https://careers.accuracy.com/",
+      "selector": "a[href*='job'], a[href*='offer']",
+      "reason": "ATS not identified",
+      "scope": "all"
+    },
+    {
+      "key": "copenhagen",
+      "firm": "Copenhagen Economics",
+      "url": "https://copenhageneconomics.com/careers/vacancies/",
+      "selector": "a[href*='vacanc'], a[href*='job']",
+      "reason": "Vacancies listed on own site",
+      "scope": "all"
+    },
+    {
+      "key": "frontier-au",
+      "firm": "Frontier Economics Australia",
+      "url": "https://www.frontier-economics.com.au/careers/current-opportunities/",
+      "selector": "a[href*='opportunit'], a[href*='job']",
+      "reason": "Own-site listings + application form",
+      "scope": "all"
+    },
+    {
+      "key": "deloitte-access",
+      "firm": "Deloitte Access Economics",
+      "url": "https://jobs.deloitte.com.au/",
+      "selector": "a[href*='job']",
+      "reason": "SuccessFactors-style portal",
+      "scope": "econ"
+    },
+    {
+      "key": "deloitte-uk",
+      "firm": "Deloitte UK Economic Advisory",
+      "url": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
+      "selector": "a[href*='job'], a[href*='vacanc']",
+      "reason": "Custom portal",
+      "scope": "econ"
+    },
+    {
+      "key": "kpmg-uk",
+      "firm": "KPMG UK Economics",
+      "url": "https://www.kpmgcareers.co.uk/",
+      "selector": "a[href*='job'], a[href*='vacanc']",
+      "reason": "Custom portal",
+      "scope": "econ"
+    },
+    {
+      "key": "ey-uk",
+      "firm": "EY UK Economic Advisory",
+      "url": "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship",
+      "selector": "a[href*='job'], a[href*='apply']",
+      "reason": "Programme page; applications via EY portal",
+      "scope": "econ"
+    },
+    {
+      "key": "grant-thornton-uk",
+      "firm": "Grant Thornton UK Economic Consulting",
+      "url": "https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/",
+      "selector": "a[href*='job'], a[href*='vacanc']",
+      "reason": "Custom portal",
+      "scope": "econ"
+    },
+    {
+      "key": "iec",
+      "firm": "Industrial Economics (IEc)",
+      "url": "https://indecon.com/open-positions/",
+      "selector": "a[href*='position'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "qes",
+      "firm": "Quantitative Economic Solutions",
+      "url": "https://www.qes-llc.com/careers",
+      "selector": "a[href*='career'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "vega",
+      "firm": "Vega Economics",
+      "url": "https://vegaeconomics.com/careers/openings",
+      "selector": "a[href*='opening'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "epsilon",
+      "firm": "Epsilon Economics",
+      "url": "https://www.epsiloneconomics.com/join-us",
+      "selector": "a[href*='join'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "gma",
+      "firm": "Greylock McKinnon Associates",
+      "url": "https://www.gma-us.com/openings/",
+      "selector": "a[href*='opening'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "resecon",
+      "firm": "Resolution Economics",
+      "url": "https://resecon.com/careers/",
+      "selector": "a[href*='career'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "intensity",
+      "firm": "Intensity",
+      "url": "https://intensity.com/opening/analyst",
+      "selector": "a[href*='opening']",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "christensen",
+      "firm": "Christensen Associates",
+      "url": "https://www.lrca.com/careers/",
+      "selector": "a[href*='career'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "lear",
+      "firm": "Lear",
+      "url": "https://www.learlab.com/careers/vacancies/",
+      "selector": "a[href*='vacanc'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "houstonkemp",
+      "firm": "HoustonKemp",
+      "url": "https://houstonkemp.com/careers/graduates/",
+      "selector": "a[href*='career'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "econsult",
+      "firm": "Econsult Solutions",
+      "url": "https://econsultsolutions.com/careers/",
+      "selector": "a[href*='career'], h2, h3",
+      "reason": "Own-site listings (internships also on Handshake)",
+      "scope": "all"
+    },
+    {
+      "key": "cepa",
+      "firm": "CEPA",
+      "url": "https://www.cepa.co.uk/careers/working-at-cepa",
+      "selector": "a[href*='career'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    },
+    {
+      "key": "london-economics",
+      "firm": "London Economics",
+      "url": "https://londoneconomics.co.uk/recruitment/",
+      "selector": "a[href*='recruit'], h2, h3",
+      "reason": "Own-site listings",
+      "scope": "all"
+    }
+  ]
+}

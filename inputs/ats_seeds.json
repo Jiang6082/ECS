@@ -1,0 +1,331 @@
+{
+  "note": "Known ATS boards per firm. Every token below was observed in a real posting/board URL during research (2026-09-27). The scanner also auto-discovers boards from saved career pages and guessed slugs.",
+  "firms": {
+    "Analysis Group": {
+      "icims": [
+        "analystcareers-analysisgroup",
+        "associatecareers-analysisgroup"
+      ]
+    },
+    "Cornerstone Research": {
+      "workday": [
+        {
+          "host": "cornerstone.wd501.myworkdayjobs.com",
+          "site": "CornerstoneResearch_Careers"
+        }
+      ]
+    },
+    "Compass Lexecon": {
+      "lever": [
+        "compasslexecon"
+      ],
+      "workday": [
+        {
+          "host": "fticonsulting.wd108.myworkdayjobs.com",
+          "site": "CompassLexeconCareers"
+        }
+      ]
+    },
+    "Charles River Associates": {
+      "greenhouse": [
+        "charlesriverassociates"
+      ]
+    },
+    "NERA Economic Consulting": {
+      "workday": [
+        {
+          "host": "mmc.wd1.myworkdayjobs.com",
+          "site": "MMC",
+          "searchText": "NERA"
+        }
+      ]
+    },
+    "The Brattle Group": {
+      "greenhouse": [
+        "thebrattlegroup"
+      ]
+    },
+    "Keystone Strategy": {
+      "greenhouse": [
+        "keystonestrategy"
+      ]
+    },
+    "Edgeworth Economics": {
+      "paylocity": [
+        "84ca0b5b-570a-409a-8e91-242f0baca23d",
+        "f8543b4d-e4d0-4534-b3e4-d140776e9a98"
+      ]
+    },
+    "Berkeley Research Group": {
+      "workday": [
+        {
+          "host": "thinkbrg.wd5.myworkdayjobs.com",
+          "site": "BRG_External_Career_Site"
+        }
+      ]
+    },
+    "FTI Consulting (Economic Consulting)": {
+      "workday": [
+        {
+          "host": "fticonsulting.wd108.myworkdayjobs.com",
+          "site": "FTIConsultingCareers"
+        }
+      ]
+    },
+    "Econ One": {
+      "workable": [
+        "econ-one-research"
+      ]
+    },
+    "Secretariat": {
+      "workday": [
+        {
+          "host": "secretariat.wd5.myworkdayjobs.com",
+          "site": "Secretariat_careers"
+        }
+      ]
+    },
+    "Ankura": {
+      "workday": [
+        {
+          "host": "ankura.wd5.myworkdayjobs.com",
+          "site": "Ankura"
+        }
+      ]
+    },
+    "AlixPartners": {
+      "greenhouse": [
+        "alixpartners"
+      ]
+    },
+    "Guidehouse": {
+      "workday": [
+        {
+          "host": "guidehouse.wd1.myworkdayjobs.com",
+          "site": "External"
+        }
+      ]
+    },
+    "Stout": {
+      "workday": [
+        {
+          "host": "stout.wd5.myworkdayjobs.com",
+          "site": "Stout-Student-Careers"
+        },
+        {
+          "host": "stout.wd5.myworkdayjobs.com",
+          "site": "Stout-Careers"
+        }
+      ]
+    },
+    "Houlihan Lokey (Dispute Resolution Consulting)": {
+      "workday": [
+        {
+          "host": "hl.wd1.myworkdayjobs.com",
+          "site": "Campus"
+        }
+      ]
+    },
+    "Coherent Economics": {
+      "greenhouse": [
+        "coherenteconomicsllc"
+      ]
+    },
+    "Integra FEC": {
+      "greenhouse": [
+        "integra"
+      ]
+    },
+    "Fideres": {
+      "greenhouse_eu": [
+        "fideres"
+      ]
+    },
+    "Oxera": {
+      "teamtailor": [
+        "oxera"
+      ]
+    },
+    "Frontier Economics": {
+      "workday": [
+        {
+          "host": "frontiereconomics.wd3.myworkdayjobs.com",
+          "site": "Frontier_Economics_Careers"
+        }
+      ]
+    },
+    "E.CA Economics": {
+      "personio": [
+        "e-ca"
+      ]
+    },
+    "Aurora Energy Research": {
+      "pinpoint_host": [
+        "careers.auroraer.com"
+      ]
+    },
+    "Cornwall Insight": {
+      "pinpoint": [
+        "cornwallinsight"
+      ]
+    },
+    "Technopolis Group": {
+      "personio_com": [
+        "technopolis-group"
+      ]
+    },
+    "Abt Global": {
+      "oracle": [
+        {
+          "host": "egpy.fa.us2.oraclecloud.com",
+          "site": "JoinAbt"
+        }
+      ]
+    },
+    "ICF": {
+      "workday": [
+        {
+          "host": "icf.wd5.myworkdayjobs.com",
+          "site": "ICFExternal_Career_Site"
+        }
+      ]
+    },
+    "Eastern Research Group": {
+      "lever": [
+        "erg"
+      ]
+    },
+    "Urban Institute": {
+      "workday": [
+        {
+          "host": "urban.wd1.myworkdayjobs.com",
+          "site": "Urban-Careers"
+        }
+      ]
+    },
+    "The Cadmus Group": {
+      "icims": [
+        "careers-cadmusgroup"
+      ]
+    },
+    "Economic & Planning Systems": {
+      "workable": [
+        "epsys"
+      ]
+    },
+    "HR&A Advisors": {
+      "jazzhr": [
+        "hraadvisors"
+      ]
+    },
+    "RCLCO": {
+      "greenhouse": [
+        "rclco"
+      ]
+    },
+    "Lightcast": {
+      "lever": [
+        "economicmodeling"
+      ]
+    },
+    "Chmura Economics & Analytics": {
+      "paylocity": [
+        "c20c50e7-d8a9-4afb-9ce5-fed1e8d6f570"
+      ]
+    },
+    "Energy + Environmental Economics (E3)": {
+      "lever": [
+        "ethree"
+      ]
+    },
+    "Synapse Energy Economics": {
+      "trakstar": [
+        "synapse",
+        "synapseenergy"
+      ]
+    },
+    "Wood Mackenzie": {
+      "workday": [
+        {
+          "host": "woodmac.wd3.myworkdayjobs.com",
+          "site": "woodmaccareers"
+        }
+      ]
+    },
+    "PwC (Economics / Transfer Pricing / Forensics)": {
+      "workday": [
+        {
+          "host": "pwc.wd3.myworkdayjobs.com",
+          "site": "US_Entry_Level_Careers"
+        },
+        {
+          "host": "pwc.wd3.myworkdayjobs.com",
+          "site": "Global_Campus_Careers"
+        }
+      ]
+    },
+    "Grant Thornton (Transfer Pricing / Economics)": {
+      "oracle": [
+        {
+          "host": "ehzq.fa.us2.oraclecloud.com",
+          "site": "CX_1"
+        }
+      ]
+    },
+    "BDO (Transfer Pricing)": {
+      "oracle": [
+        {
+          "host": "ebqb.fa.us2.oraclecloud.com",
+          "site": "CX_1001"
+        }
+      ]
+    },
+    "PRECISIONheor (Precision AQ)": {
+      "greenhouse": [
+        "precisionaq"
+      ]
+    },
+    "IQVIA (HEOR)": {
+      "workday": [
+        {
+          "host": "iqvia.wd1.myworkdayjobs.com",
+          "site": "IQVIA"
+        }
+      ]
+    },
+    "Avalere Health": {
+      "lever": [
+        "avalerehealth"
+      ]
+    },
+    "Trinity Life Sciences": {
+      "workday": [
+        {
+          "host": "trinitylifesciences.wd108.myworkdayjobs.com",
+          "site": "Trinity"
+        }
+      ]
+    },
+    "Oxford Economics": {
+      "breezy": [
+        "oxford-economics"
+      ],
+      "pinpoint_host": [
+        "careers.oxfordeconomics.com"
+      ]
+    },
+    "Capital Economics": {
+      "workable": [
+        "capital-economics"
+      ]
+    },
+    "S&P Global (Economics)": {
+      "workday": [
+        {
+          "host": "spgi.wd5.myworkdayjobs.com",
+          "site": "SPGI_Careers"
+        }
+      ]
+    }
+  }
+}
