@@ -4,6 +4,8 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 > **No scan has been run yet.** Run `npm run scan:all` (or trigger the GitHub Action) to populate the role lists below.
 
+> ✅ **[Verified open roles list](reports/VERIFIED_OPEN_ROLES.md)** — hand-checked status (open / likely open / closed) with title + link for every role found ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
+
 **Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)
 
 ---
@@ -135,6 +137,7 @@ Every `v2`/`all` run rebuilds [reports/LATEST_ECON_SCAN.md](reports/LATEST_ECON_
 | File | What it is |
 |------|-----------|
 | [reports/LATEST_ECON_SCAN.md](reports/LATEST_ECON_SCAN.md) | Latest scan summary + newest roles |
+| [reports/VERIFIED_OPEN_ROLES.md](reports/VERIFIED_OPEN_ROLES.md) | Hand-verified role status list (title + link) |
 | [reports/econ_internship_roles_scan_v2.md](reports/econ_internship_roles_scan_v2.md) | Full current internship list (detailed, with coverage status per firm) |
 | [reports/econ_internship_roles_scan_v2.csv](reports/econ_internship_roles_scan_v2.csv) | Full current internship list (spreadsheet) |
 | [reports/econ_entry_level_roles.md](reports/econ_entry_level_roles.md) | Entry-level analyst roles found on the same boards |

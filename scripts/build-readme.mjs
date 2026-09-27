@@ -116,6 +116,7 @@ out += `**${firmCount || '230+'}-firm universe**. `;
 out += `GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.\n\n`;
 out += hasScan ? '' : `> **No scan has been run yet.** Run \`npm run scan:all\` (or trigger the GitHub Action) to populate the role lists below.\n\n`;
 if (hasScan) out += `> **Last scan:** ${scanDate} &nbsp;•&nbsp; **${roles.length} open internships** &nbsp;•&nbsp; **${added.length} new today**${entryCount ? ` &nbsp;•&nbsp; **${entryCount} entry-level analyst roles** ([list](reports/econ_entry_level_roles.md))` : ''}${closedCount ? ` &nbsp;•&nbsp; **${closedCount} closed** ([history](reports/closed_roles_history.md))` : ''}\n\n`;
+if (fs.existsSync(path.join(repo, 'reports/VERIFIED_OPEN_ROLES.md'))) out += `> ✅ **[Verified open roles list](reports/VERIFIED_OPEN_ROLES.md)** — hand-checked status (open / likely open / closed) with title + link for every role found ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).\n\n`;
 out += `**Jump to:** [🆕 New Roles Released Today](#-new-roles-released-today) · [📋 All Roles Available](#-all-roles-available) · [How to Run](#how-to-run)\n\n`;
 out += `---\n\n`;
 
@@ -218,6 +219,7 @@ out += `- **[custom-ats-watch/](custom-ats-watch/)** — firms whose careers sit
 out += `### Key Files\n\n`;
 out += `| File | What it is |\n|------|-----------|\n`;
 out += `| [reports/LATEST_ECON_SCAN.md](reports/LATEST_ECON_SCAN.md) | Latest scan summary + newest roles |\n`;
+out += `| [reports/VERIFIED_OPEN_ROLES.md](reports/VERIFIED_OPEN_ROLES.md) | Hand-verified role status list (title + link) |\n`;
 out += `| [reports/econ_internship_roles_scan_v2.md](reports/econ_internship_roles_scan_v2.md) | Full current internship list (detailed, with coverage status per firm) |\n`;
 out += `| [reports/econ_internship_roles_scan_v2.csv](reports/econ_internship_roles_scan_v2.csv) | Full current internship list (spreadsheet) |\n`;
 out += `| [reports/econ_entry_level_roles.md](reports/econ_entry_level_roles.md) | Entry-level analyst roles found on the same boards |\n`;
