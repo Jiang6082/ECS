@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:00:00.000Z",
+  "generatedAt": "2026-09-28T20:04:07.317Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -192,8 +192,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Applied Economics Consulting Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://jobs.applied.com/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Micronomics": {
       "careerPages": [],
@@ -226,8 +228,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Georgetown Economic Services": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.georgetown.edu/admissions/",
+        "https://uadmissions.georgetown.edu/apply/first-year-applicants/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Economic Consulting Services": {
       "careerPages": [],
@@ -290,16 +295,21 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Pinnacle Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.pinnaclesys.com/en/",
+        "https://pinnacle.pvschools.net/enroll"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "LitiNomics": {
       "careerPages": [],
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Quadrant Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://quadrant.gg/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Vocational Economics": {
       "careerPages": [],
@@ -310,16 +320,21 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Bates Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://my.batestech.edu/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Alvarez & Marsal (Disputes & Investigations)": {
       "careerPages": [],
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "HKA": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://careers.hka.com/",
+        "https://careers.hka.com/jobs"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Oxera": {
       "careerPages": [
@@ -478,8 +493,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Volterra Partners": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://volterrakirkland.com/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Plum Consulting": {
       "careerPages": [],
@@ -494,8 +511,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "First Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.firstphx.org/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Analysys Mason": {
       "careerPages": [],
@@ -530,8 +549,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "DICE Consult": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
+        "https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Prognos": {
       "careerPages": [],
@@ -594,8 +616,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Steer": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://steer.education/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "BiGGAR Economics": {
       "careerPages": [],
@@ -658,8 +682,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Marsden Jacob Associates": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://careers.marsden.com/",
+        "https://careers.marsden.com/company/marsden-central"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Oakley Greenwood": {
       "careerPages": [],
@@ -850,8 +877,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Beacon Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://beacons.ai/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Chmura Economics & Analytics": {
       "careerPages": [],
@@ -866,8 +895,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Appleseed": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://appleseed.apple.com/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Energy + Environmental Economics (E3)": {
       "careerPages": [
@@ -962,12 +993,17 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Grant Thornton (Transfer Pricing / Economics)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.grants.gov/",
+        "https://grantable.co/grants"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "BDO (Transfer Pricing)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.bdo.com/careers"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "RSM (Transfer Pricing)": {
       "careerPages": [
@@ -976,8 +1012,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Crowe (Transfer Pricing)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.crowe.com/careers",
+        "https://careers.crowe.com/",
+        "https://careers.crowe.com/student-careers"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Baker Tilly (Transfer Pricing)": {
       "careerPages": [],
@@ -1020,8 +1060,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "KPMG Singapore Economics & Regulation": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://kpmg.com/us/en.html",
+        "https://www.kpmguscareers.com/early-career/",
+        "https://www.kpmguscareers.com/job-search/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "PRECISIONheor (Precision AQ)": {
       "careerPages": [
@@ -1030,8 +1074,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "IQVIA (HEOR)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://jobs.iqvia.com/en",
+        "https://iqvia.wd1.myworkdayjobs.com/IQVIA/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Evidera (Thermo Fisher)": {
       "careerPages": [
@@ -1082,24 +1129,31 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Trinity Life Sciences": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.trinitychurch.com/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "OPEN Health": {
       "careerPages": [],
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Medicus Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://medicushcs.com/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "KNG Health Consulting": {
       "careerPages": [],
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "RTI Health Solutions": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.rti.org/careers",
+        "https://careers.rti.org/"
+      ],
+      "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Broadstreet HEOR": {
       "careerPages": [],

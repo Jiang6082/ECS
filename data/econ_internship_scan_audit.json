@@ -1,0 +1,3194 @@
+{
+  "scannedAt": "2026-09-28T20:02:35.511Z",
+  "companies": [
+    "Analysis Group",
+    "Cornerstone Research",
+    "Compass Lexecon",
+    "Charles River Associates",
+    "NERA Economic Consulting",
+    "The Brattle Group",
+    "Bates White",
+    "Keystone Strategy",
+    "Edgeworth Economics",
+    "Berkeley Research Group",
+    "FTI Consulting (Economic Consulting)",
+    "Econ One",
+    "Secretariat",
+    "Intensity",
+    "Ankura",
+    "AlixPartners",
+    "Guidehouse",
+    "Kroll",
+    "Stout",
+    "Houlihan Lokey (Dispute Resolution Consulting)",
+    "Coherent Economics",
+    "Integra FEC",
+    "Global Economics Group",
+    "Greylock McKinnon Associates",
+    "Economists Incorporated",
+    "OnPoint Analytics",
+    "Resolution Economics",
+    "Welch Consulting",
+    "MiCRA",
+    "Vega Economics",
+    "Epsilon Economics",
+    "Monument Economics Group",
+    "Quantitative Economic Solutions",
+    "Christensen Associates",
+    "Nathan Associates",
+    "Applied Economics Consulting Group",
+    "Micronomics",
+    "Ashenfelter & Ashmore",
+    "Finnerty Economic Consulting",
+    "Fideres",
+    "DCI Consulting Group",
+    "Precision Economics",
+    "Capital Trade",
+    "Georgetown Economic Services",
+    "Economic Consulting Services",
+    "Empiris",
+    "BLDS",
+    "EmployStats",
+    "ERS Group",
+    "Crowninshield Financial Research",
+    "Stanford Consulting Group",
+    "Market Platform Dynamics",
+    "Invotex",
+    "The Kenrich Group",
+    "J.S. Held",
+    "Gnarus Advisors",
+    "Analysis & Inference",
+    "Summit Consulting",
+    "Hemming Morse",
+    "Pinnacle Economics",
+    "LitiNomics",
+    "Quadrant Economics",
+    "Vocational Economics",
+    "ARPC",
+    "Bates Group",
+    "Alvarez & Marsal (Disputes & Investigations)",
+    "HKA",
+    "Oxera",
+    "Frontier Economics",
+    "RBB Economics",
+    "Copenhagen Economics",
+    "E.CA Economics",
+    "Economic Insight",
+    "Europe Economics",
+    "CEPA",
+    "London Economics",
+    "Cambridge Econometrics",
+    "Aurora Energy Research",
+    "Cornwall Insight",
+    "Swiss Economics",
+    "Polynomics",
+    "DIW Econ",
+    "WIK-Consult",
+    "Ecorys",
+    "Technopolis Group",
+    "Vivid Economics (McKinsey)",
+    "Accuracy",
+    "Economic Consulting Associates",
+    "Lear",
+    "Reckon LLP",
+    "Perspective Economics",
+    "DotEcon",
+    "Cebr",
+    "Fathom Consulting",
+    "Pantheon Macroeconomics",
+    "Volterra Partners",
+    "Plum Consulting",
+    "Aldwych Partners",
+    "Indepen",
+    "First Economics",
+    "Analysys Mason",
+    "Baringa",
+    "LCP Delta",
+    "AFRY Management Consulting",
+    "SEO Amsterdam Economics",
+    "Lexonomics",
+    "CE Delft",
+    "Decisio",
+    "DICE Consult",
+    "Prognos",
+    "BAK Economics",
+    "Ecoplan",
+    "INFRAS",
+    "Menon Economics",
+    "Oslo Economics",
+    "Vista Analyse",
+    "THEMA Consulting Group",
+    "Ramboll Management Consulting",
+    "Afi",
+    "REF-E",
+    "Prometeia",
+    "Indecon",
+    "DKM Economic Consultants",
+    "SQW",
+    "Steer",
+    "BiGGAR Economics",
+    "Metro Dynamics",
+    "HoustonKemp",
+    "CEG (Competition Economists Group)",
+    "Sapere Research Group",
+    "Frontier Economics Australia",
+    "Deloitte Access Economics",
+    "NZIER",
+    "Castalia",
+    "ACIL Allen",
+    "Synergies Economic Consulting",
+    "The Centre for International Economics",
+    "Marsden Jacob Associates",
+    "Oakley Greenwood",
+    "Incenta Economic Consulting",
+    "Axiom Economics",
+    "Mandala Partners",
+    "Nous Group",
+    "SGS Economics & Planning",
+    "Infometrics",
+    "BERL",
+    "Asia Competition Associates",
+    "Mathematica",
+    "Abt Global",
+    "ICF",
+    "Industrial Economics (IEc)",
+    "Eastern Research Group",
+    "RTI International",
+    "Westat",
+    "NORC at the University of Chicago",
+    "American Institutes for Research",
+    "Urban Institute",
+    "The Cadmus Group",
+    "Chemonics International",
+    "DAI Global",
+    "Econsult Solutions",
+    "Economic & Planning Systems",
+    "HR&A Advisors",
+    "RCLCO",
+    "BAE Urban Economics",
+    "Keyser Marston Associates",
+    "TischlerBise",
+    "EBP US",
+    "Lightcast",
+    "REMI",
+    "MDRC",
+    "Acumen",
+    "Econometrica",
+    "L&M Policy Research",
+    "ECONorthwest",
+    "Beacon Economics",
+    "Chmura Economics & Analytics",
+    "Camoin Associates",
+    "Estolano Advisors",
+    "Appleseed",
+    "Energy + Environmental Economics (E3)",
+    "Christensen Associates Energy Consulting",
+    "London Economics International",
+    "Concentric Energy Advisors",
+    "ScottMadden",
+    "Synapse Energy Economics",
+    "Demand Side Analytics",
+    "Wood Mackenzie",
+    "Resources for the Future",
+    "Rhodium Group",
+    "Potomac Economics",
+    "Monitoring Analytics",
+    "Opinion Dynamics",
+    "Deloitte (Economics / Transfer Pricing)",
+    "PwC (Economics / Transfer Pricing / Forensics)",
+    "EY (QUEST / Economic Advisory / Transfer Pricing)",
+    "KPMG (Economic & Valuation Services)",
+    "Grant Thornton (Transfer Pricing / Economics)",
+    "BDO (Transfer Pricing)",
+    "RSM (Transfer Pricing)",
+    "Crowe (Transfer Pricing)",
+    "Baker Tilly (Transfer Pricing)",
+    "Ryan (Transfer Pricing)",
+    "Andersen (Transfer Pricing)",
+    "Economics Partners",
+    "Deloitte UK Economic Advisory",
+    "KPMG UK Economics",
+    "EY UK Economic Advisory",
+    "Grant Thornton UK Economic Consulting",
+    "KPMG Singapore Economics & Regulation",
+    "PRECISIONheor (Precision AQ)",
+    "IQVIA (HEOR)",
+    "Evidera (Thermo Fisher)",
+    "Avalere Health",
+    "Dobson DaVanzo & Associates",
+    "Milliman",
+    "Health Management Associates",
+    "Genesis Research Group",
+    "Lumanity",
+    "Xcenda (Cencora)",
+    "Trinity Life Sciences",
+    "OPEN Health",
+    "Medicus Economics",
+    "KNG Health Consulting",
+    "RTI Health Solutions",
+    "Broadstreet HEOR",
+    "Health Advances",
+    "Wakely Consulting Group",
+    "Oxford Economics",
+    "Capital Economics",
+    "Moody's Analytics (Economics)",
+    "S&P Global (Economics)"
+  ],
+  "companyAudits": [
+    {
+      "company": "Analysis Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "iCIMS:analystcareers-analysisgroup",
+          "origin": "seeded",
+          "ok": true,
+          "count": 13
+        },
+        {
+          "source": "iCIMS:associatecareers-analysisgroup",
+          "origin": "seeded",
+          "ok": true,
+          "count": 7
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 20,
+      "relevantInternships": 10,
+      "entryLevelRoles": 4,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 5,
+        "PhD/MBA/JD-only": 1
+      }
+    },
+    {
+      "company": "Cornerstone Research",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:cornerstone/CornerstoneResearch_Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 6
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 6,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 4,
+        "non-economics function": 2
+      }
+    },
+    {
+      "company": "Compass Lexecon",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Lever:compasslexecon",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        },
+        {
+          "source": "Workday:fticonsulting/CompassLexeconCareers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 34
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 34,
+      "relevantInternships": 13,
+      "entryLevelRoles": 2,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 16,
+        "non-economics function": 3
+      }
+    },
+    {
+      "company": "Charles River Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:charlesriverassociates",
+          "origin": "seeded",
+          "ok": true,
+          "count": 84
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 84,
+      "relevantInternships": 6,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 62,
+        "PhD/MBA/JD-only": 4,
+        "non-economics function": 12
+      }
+    },
+    {
+      "company": "NERA Economic Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:mmc/MMC",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 4,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 9,
+        "PhD/MBA/JD-only": 2,
+        "outside firm scope (\\bNERA\\b)": 22,
+        "non-economics function": 3
+      }
+    },
+    {
+      "company": "The Brattle Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:thebrattlegroup",
+          "origin": "seeded",
+          "ok": true,
+          "count": 50
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 50,
+      "relevantInternships": 8,
+      "entryLevelRoles": 10,
+      "rejectedByReason": {
+        "PhD/MBA/JD-only": 20,
+        "not an internship or entry-level role": 9,
+        "non-economics function": 3
+      }
+    },
+    {
+      "company": "Bates White",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Keystone Strategy",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:keystonestrategy",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Edgeworth Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Paylocity:84ca0b5b",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        },
+        {
+          "source": "Paylocity:f8543b4d",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Berkeley Research Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:thinkbrg/BRG_External_Career_Site",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 3,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 20,
+        "non-economics function": 3,
+        "not an internship or entry-level role": 13,
+        "dated for a past cycle": 1
+      }
+    },
+    {
+      "company": "FTI Consulting (Economic Consulting)",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:fticonsulting/FTIConsultingCareers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 34,
+        "not an internship or entry-level role": 4,
+        "non-economics function": 2
+      }
+    },
+    {
+      "company": "Econ One",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workable:econ-one-research",
+          "origin": "seeded",
+          "ok": true,
+          "count": 7
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 7,
+      "relevantInternships": 1,
+      "entryLevelRoles": 1,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 5
+      }
+    },
+    {
+      "company": "Secretariat",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:secretariat/Secretariat_careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Intensity",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Ankura",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:ankura/Ankura",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 11,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 10,
+        "outside firm scope (econ)": 18,
+        "non-economics function": 1
+      }
+    },
+    {
+      "company": "AlixPartners",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:alixpartners",
+          "origin": "seeded",
+          "ok": true,
+          "count": 115
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 115,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 13,
+        "outside firm scope (econ)": 79,
+        "not an internship or entry-level role": 23
+      }
+    },
+    {
+      "company": "Guidehouse",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:guidehouse/External",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 5,
+        "outside firm scope (econ)": 35
+      }
+    },
+    {
+      "company": "Kroll",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Stout",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [
+        {
+          "source": "Workday:stout/Stout-Student-Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 8
+        },
+        {
+          "source": "Workday:stout/Stout-Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        },
+        {
+          "source": "Ashby:stout",
+          "origin": "guessed",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 48,
+      "relevantInternships": 11,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 22,
+        "not an internship or entry-level role": 11,
+        "non-economics function": 4
+      }
+    },
+    {
+      "company": "Houlihan Lokey (Dispute Resolution Consulting)",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Workday:hl/Campus",
+          "origin": "seeded",
+          "ok": true,
+          "count": 30
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 30,
+      "relevantInternships": 1,
+      "entryLevelRoles": 1,
+      "rejectedByReason": {
+        "outside firm scope (dispute|valuation)": 28
+      }
+    },
+    {
+      "company": "Coherent Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:coherenteconomicsllc",
+          "origin": "seeded",
+          "ok": true,
+          "count": 2
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 2,
+      "relevantInternships": 1,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "Integra FEC",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:integra",
+          "origin": "seeded",
+          "ok": true,
+          "count": 11
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 11,
+      "relevantInternships": 4,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 2,
+        "PhD/MBA/JD-only": 3,
+        "non-economics function": 2
+      }
+    },
+    {
+      "company": "Global Economics Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Greylock McKinnon Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Economists Incorporated",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "OnPoint Analytics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Resolution Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:resolution",
+          "origin": "guessed",
+          "ok": true,
+          "count": 5
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 5,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 5
+      }
+    },
+    {
+      "company": "Welch Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "MiCRA",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Vega Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Epsilon Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Monument Economics Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Quantitative Economic Solutions",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Christensen Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Nathan Associates",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Applied Economics Consulting Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Micronomics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Ashenfelter & Ashmore",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Finnerty Economic Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Fideres",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:fideres",
+          "origin": "guessed",
+          "ok": true,
+          "count": 8
+        }
+      ],
+      "failedSeededBoards": [
+        "greenhouse_eu:fideres"
+      ],
+      "jobsSeen": 8,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 8
+      }
+    },
+    {
+      "company": "DCI Consulting Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Precision Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Capital Trade",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Georgetown Economic Services",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Economic Consulting Services",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Empiris",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "BLDS",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "EmployStats",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "ERS Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Crowninshield Financial Research",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Stanford Consulting Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Market Platform Dynamics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Invotex",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "The Kenrich Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "J.S. Held",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Gnarus Advisors",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Analysis & Inference",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Summit Consulting",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Hemming Morse",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Pinnacle Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "LitiNomics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Quadrant Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Vocational Economics",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "ARPC",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Bates Group",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Alvarez & Marsal (Disputes & Investigations)",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "HKA",
+      "category": "Litigation, Antitrust & Damages",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Oxera",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [
+        {
+          "source": "Teamtailor:oxera",
+          "origin": "seeded",
+          "ok": true,
+          "count": 1
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 1,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "Frontier Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [
+        {
+          "source": "Workday:frontiereconomics/Frontier_Economics_Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 5
+        },
+        {
+          "source": "Ashby:frontier",
+          "origin": "guessed",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 5,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 4,
+        "PhD/MBA/JD-only": 1
+      }
+    },
+    {
+      "company": "RBB Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Copenhagen Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "E.CA Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [
+        {
+          "source": "Personio:e-ca",
+          "origin": "seeded",
+          "ok": true,
+          "count": 3
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 3,
+      "relevantInternships": 1,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 2
+      }
+    },
+    {
+      "company": "Economic Insight",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Europe Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "CEPA",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "London Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Cambridge Econometrics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Aurora Energy Research",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "Pinpoint:careers.auroraer.com",
+          "origin": "seeded",
+          "ok": true,
+          "count": 101
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 101,
+      "relevantInternships": 6,
+      "entryLevelRoles": 2,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 87,
+        "non-economics function": 6
+      }
+    },
+    {
+      "company": "Cornwall Insight",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "Pinpoint:cornwallinsight.pinpointhq.com",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Swiss Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Polynomics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "DIW Econ",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "WIK-Consult",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Ecorys",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Technopolis Group",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [
+        {
+          "source": "Personio:technopolis-group",
+          "origin": "seeded",
+          "ok": true,
+          "count": 13
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 13,
+      "relevantInternships": 2,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 10,
+        "non-economics function": 1
+      }
+    },
+    {
+      "company": "Vivid Economics (McKinsey)",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:vivid",
+          "origin": "guessed",
+          "ok": true,
+          "count": 2
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 2,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (vivid economics)": 2
+      }
+    },
+    {
+      "company": "Accuracy",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Economic Consulting Associates",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Lear",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Reckon LLP",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Perspective Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "DotEcon",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Cebr",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Fathom Consulting",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [
+        {
+          "source": "Ashby:fathom",
+          "origin": "guessed",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Pantheon Macroeconomics",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Volterra Partners",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Plum Consulting",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Aldwych Partners",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Indepen",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "First Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Analysys Mason",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Baringa",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:baringa",
+          "origin": "guessed",
+          "ok": true,
+          "count": 88
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 88,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 6,
+        "outside firm scope (econ)": 74,
+        "not an internship or entry-level role": 5,
+        "recruiting event / talent pool": 3
+      }
+    },
+    {
+      "company": "LCP Delta",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "AFRY Management Consulting",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "SEO Amsterdam Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Lexonomics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "CE Delft",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Decisio",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "DICE Consult",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Prognos",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "BAK Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Ecoplan",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "INFRAS",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Menon Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Oslo Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Vista Analyse",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "THEMA Consulting Group",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Ramboll Management Consulting",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Afi",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "REF-E",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Prometeia",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Indecon",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "DKM Economic Consultants",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "SQW",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Steer",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "BiGGAR Economics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Metro Dynamics",
+      "category": "Competition & Regulatory (Europe)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "HoustonKemp",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "CEG (Competition Economists Group)",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Sapere Research Group",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Frontier Economics Australia",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Deloitte Access Economics",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "NZIER",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Castalia",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "ACIL Allen",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Synergies Economic Consulting",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "The Centre for International Economics",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Marsden Jacob Associates",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Oakley Greenwood",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Incenta Economic Consulting",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Axiom Economics",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:axiom",
+          "origin": "guessed",
+          "ok": true,
+          "count": 18
+        },
+        {
+          "source": "Ashby:axiom",
+          "origin": "guessed",
+          "ok": true,
+          "count": 3
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 21,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 3,
+        "not an internship or entry-level role": 18
+      }
+    },
+    {
+      "company": "Mandala Partners",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Nous Group",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:nousgroup",
+          "origin": "guessed",
+          "ok": true,
+          "count": 10
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 10,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 3,
+        "recruiting event / talent pool": 7
+      }
+    },
+    {
+      "company": "SGS Economics & Planning",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Infometrics",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "BERL",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Asia Competition Associates",
+      "category": "Economic Consulting (APAC)",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Mathematica",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Abt Global",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Oracle:egpy/JoinAbt",
+          "origin": "seeded",
+          "ok": true,
+          "count": 12
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 12,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 12
+      }
+    },
+    {
+      "company": "ICF",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Workday:icf/ICFExternal_Career_Site",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 1,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 6,
+        "not an internship or entry-level role": 1,
+        "outside firm scope (econ)": 32
+      }
+    },
+    {
+      "company": "Industrial Economics (IEc)",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:industrial",
+          "origin": "guessed",
+          "ok": true,
+          "count": 1
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 1,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "Eastern Research Group",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Lever:erg",
+          "origin": "seeded",
+          "ok": true,
+          "count": 33
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 33,
+      "relevantInternships": 0,
+      "entryLevelRoles": 1,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 26,
+        "recruiting event / talent pool": 2,
+        "non-economics function": 4
+      }
+    },
+    {
+      "company": "RTI International",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Westat",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "NORC at the University of Chicago",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "American Institutes for Research",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:americaninstitutesforresearch",
+          "origin": "guessed",
+          "ok": true,
+          "count": 8
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 8,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 2,
+        "outside firm scope (econ)": 6
+      }
+    },
+    {
+      "company": "Urban Institute",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [
+        "workday:urban.wd1.myworkdayjobs.com/Urban-Careers"
+      ],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "The Cadmus Group",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "iCIMS:careers-cadmusgroup",
+          "origin": "seeded",
+          "ok": true,
+          "count": 13
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 13,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 11,
+        "non-economics function": 2
+      }
+    },
+    {
+      "company": "Chemonics International",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "DAI Global",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Econsult Solutions",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Economic & Planning Systems",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Workable:epsys",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "HR&A Advisors",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "JazzHR:hraadvisors",
+          "origin": "seeded",
+          "ok": true,
+          "count": 13
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 13,
+      "relevantInternships": 0,
+      "entryLevelRoles": 5,
+      "rejectedByReason": {
+        "non-economics function": 2,
+        "not an internship or entry-level role": 6
+      }
+    },
+    {
+      "company": "RCLCO",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:rclco",
+          "origin": "seeded",
+          "ok": true,
+          "count": 4
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 4,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 4
+      }
+    },
+    {
+      "company": "BAE Urban Economics",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Keyser Marston Associates",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "TischlerBise",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "EBP US",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Lightcast",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Lever:economicmodeling",
+          "origin": "seeded",
+          "ok": true,
+          "count": 19
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 19,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 9,
+        "not an internship or entry-level role": 5,
+        "non-economics function": 3,
+        "recruiting event / talent pool": 2
+      }
+    },
+    {
+      "company": "REMI",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:remi",
+          "origin": "guessed",
+          "ok": true,
+          "count": 1
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 1,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "MDRC",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Acumen",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:acumen",
+          "origin": "guessed",
+          "ok": true,
+          "count": 1
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 1,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "Econometrica",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "L&M Policy Research",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "ECONorthwest",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Beacon Economics",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Chmura Economics & Analytics",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [
+        {
+          "source": "Paylocity:c20c50e7",
+          "origin": "seeded",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Camoin Associates",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Estolano Advisors",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Appleseed",
+      "category": "Policy & Research Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Energy + Environmental Economics (E3)",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "Lever:ethree",
+          "origin": "seeded",
+          "ok": true,
+          "count": 6
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 6,
+      "relevantInternships": 1,
+      "entryLevelRoles": 1,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 4
+      }
+    },
+    {
+      "company": "Christensen Associates Energy Consulting",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "London Economics International",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Concentric Energy Advisors",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "ScottMadden",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Synapse Energy Economics",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "Trakstar:synapse",
+          "origin": "seeded",
+          "ok": true,
+          "count": 1
+        },
+        {
+          "source": "Trakstar:synapseenergy",
+          "origin": "seeded",
+          "ok": true,
+          "count": 2
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 3,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 3
+      }
+    },
+    {
+      "company": "Demand Side Analytics",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Wood Mackenzie",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [
+        {
+          "source": "Workday:woodmac/woodmaccareers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 68
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 68,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 18,
+        "outside firm scope (econ)": 42,
+        "not an internship or entry-level role": 8
+      }
+    },
+    {
+      "company": "Resources for the Future",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Rhodium Group",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Potomac Economics",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Monitoring Analytics",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Opinion Dynamics",
+      "category": "Energy & Environmental Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Deloitte (Economics / Transfer Pricing)",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [
+        {
+          "source": "Workday:pwc/US_Entry_Level_Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 215
+        },
+        {
+          "source": "Workday:pwc/Global_Campus_Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 1482
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 1697,
+      "relevantInternships": 10,
+      "entryLevelRoles": 1,
+      "rejectedByReason": {
+        "outside firm scope (transfer pricing|econom|forensic|investigations|valuation|disputes)": 1536,
+        "PhD/MBA/JD-only": 1,
+        "not an internship or entry-level role": 33,
+        "non-economics function": 82,
+        "recruiting event / talent pool": 32,
+        "dated for a past cycle": 2
+      }
+    },
+    {
+      "company": "EY (QUEST / Economic Advisory / Transfer Pricing)",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "KPMG (Economic & Valuation Services)",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [
+        {
+          "source": "Lever:kpmg",
+          "origin": "guessed",
+          "ok": true,
+          "count": 0
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Grant Thornton (Transfer Pricing / Economics)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [
+        {
+          "source": "Oracle:ehzq/CX_1",
+          "origin": "seeded",
+          "ok": true,
+          "count": 190
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 190,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 179,
+        "non-economics function": 8,
+        "not an internship or entry-level role": 3
+      }
+    },
+    {
+      "company": "BDO (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [
+        {
+          "source": "Oracle:ebqb/CX_1001",
+          "origin": "seeded",
+          "ok": true,
+          "count": 123
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 123,
+      "relevantInternships": 7,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econ)": 115,
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "RSM (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Crowe (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Baker Tilly (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Ryan (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Andersen (Transfer Pricing)",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Economics Partners",
+      "category": "Transfer Pricing & Valuation",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Deloitte UK Economic Advisory",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "KPMG UK Economics",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "EY UK Economic Advisory",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Grant Thornton UK Economic Consulting",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "KPMG Singapore Economics & Regulation",
+      "category": "Big 4 & Advisory Economics",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "PRECISIONheor (Precision AQ)",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [
+        {
+          "source": "Greenhouse:precisionaq",
+          "origin": "seeded",
+          "ok": true,
+          "count": 43
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 43,
+      "relevantInternships": 1,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "non-economics function": 10,
+        "outside firm scope (econ)": 19,
+        "not an internship or entry-level role": 13
+      }
+    },
+    {
+      "company": "IQVIA (HEOR)",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [
+        {
+          "source": "Workday:iqvia/IQVIA",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 36,
+        "non-economics function": 4
+      }
+    },
+    {
+      "company": "Evidera (Thermo Fisher)",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Avalere Health",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [
+        {
+          "source": "Lever:avalerehealth",
+          "origin": "seeded",
+          "ok": true,
+          "count": 57
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 57,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 41,
+        "non-economics function": 16
+      }
+    },
+    {
+      "company": "Dobson DaVanzo & Associates",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Milliman",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Health Management Associates",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Genesis Research Group",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Lumanity",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Xcenda (Cencora)",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [
+        {
+          "source": "Workday:trinitylifesciences/Trinity",
+          "origin": "seeded",
+          "ok": true,
+          "count": 98
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 98,
+      "relevantInternships": 8,
+      "entryLevelRoles": 2,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 84,
+        "non-economics function": 4
+      }
+    },
+    {
+      "company": "OPEN Health",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Medicus Economics",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "KNG Health Consulting",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "RTI Health Solutions",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Broadstreet HEOR",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Health Advances",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Wakely Consulting Group",
+      "category": "Health Economics & HEOR",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "Oxford Economics",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [
+        {
+          "source": "Pinpoint:careers.oxfordeconomics.com",
+          "origin": "seeded",
+          "ok": true,
+          "count": 20
+        }
+      ],
+      "failedSeededBoards": [
+        "breezy:oxford-economics"
+      ],
+      "jobsSeen": 20,
+      "relevantInternships": 1,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "recruiting event / talent pool": 2,
+        "not an internship or entry-level role": 12,
+        "non-economics function": 5
+      }
+    },
+    {
+      "company": "Capital Economics",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [
+        {
+          "source": "Workable:capital-economics",
+          "origin": "seeded",
+          "ok": true,
+          "count": 2
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 2,
+      "relevantInternships": 0,
+      "entryLevelRoles": 1,
+      "rejectedByReason": {
+        "not an internship or entry-level role": 1
+      }
+    },
+    {
+      "company": "Moody's Analytics (Economics)",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [],
+      "failedSeededBoards": [],
+      "jobsSeen": 0,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
+    },
+    {
+      "company": "S&P Global (Economics)",
+      "category": "Macro & Economic Research",
+      "resolvedBoards": [
+        {
+          "source": "Workday:spgi/SPGI_Careers",
+          "origin": "seeded",
+          "ok": true,
+          "count": 40
+        }
+      ],
+      "failedSeededBoards": [],
+      "jobsSeen": 40,
+      "relevantInternships": 0,
+      "entryLevelRoles": 0,
+      "rejectedByReason": {
+        "outside firm scope (econom)": 34,
+        "non-economics function": 6
+      }
+    }
+  ]
+}

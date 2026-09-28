@@ -1,0 +1,3290 @@
+{
+  "generatedAt": "2026-09-28T20:05:07.472Z",
+  "scanStartedAt": "2026-09-28T20:04:07.316Z",
+  "sourceRosterEntries": 232,
+  "canonicalCompanies": 232,
+  "counts": {
+    "matching-role-found": 24,
+    "confirmed-no-open-postings": 7,
+    "confirmed-openings-no-matching-role": 27,
+    "could-not-fully-verify": 174
+  },
+  "companies": [
+    {
+      "company": "Analysis Group",
+      "sourceRosterNames": [
+        "Analysis Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.analysisgroup.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 11,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Cornerstone Research",
+      "sourceRosterNames": [
+        "Cornerstone Research"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.cornerstone.com/careers/analyst/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 17,
+      "relevantRoles": 1
+    },
+    {
+      "company": "Compass Lexecon",
+      "sourceRosterNames": [
+        "Compass Lexecon"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.compasslexecon.com/careers/students-graduates"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Charles River Associates",
+      "sourceRosterNames": [
+        "Charles River Associates"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.crai.com/cra-careers/jobs/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NERA Economic Consulting",
+      "sourceRosterNames": [
+        "NERA Economic Consulting"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.nera.com/open-roles.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "The Brattle Group",
+      "sourceRosterNames": [
+        "The Brattle Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.brattle.com/careers/current-openings/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Bates White",
+      "sourceRosterNames": [
+        "Bates White"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.bateswhite.com/careers/current-openings"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Keystone Strategy",
+      "sourceRosterNames": [
+        "Keystone Strategy"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.keystone.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Edgeworth Economics",
+      "sourceRosterNames": [
+        "Edgeworth Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.edgewortheconomics.com/careers-open-positions"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Berkeley Research Group",
+      "sourceRosterNames": [
+        "Berkeley Research Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.thinkbrg.com/careers/early-careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "FTI Consulting (Economic Consulting)",
+      "sourceRosterNames": [
+        "FTI Consulting (Economic Consulting)"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Econ One",
+      "sourceRosterNames": [
+        "Econ One"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://econone.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Secretariat",
+      "sourceRosterNames": [
+        "Secretariat"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Intensity",
+      "sourceRosterNames": [
+        "Intensity"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://intensity.com/opening/analyst"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ankura",
+      "sourceRosterNames": [
+        "Ankura"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://ankura.com/job-openings"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "AlixPartners",
+      "sourceRosterNames": [
+        "AlixPartners"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.alixpartners.com/careers/job-search/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Guidehouse",
+      "sourceRosterNames": [
+        "Guidehouse"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://guidehouse.com/careers/internship"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kroll",
+      "sourceRosterNames": [
+        "Kroll"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.kroll.com/en/students"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stout",
+      "sourceRosterNames": [
+        "Stout"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "matching-role-found",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Houlihan Lokey (Dispute Resolution Consulting)",
+      "sourceRosterNames": [
+        "Houlihan Lokey (Dispute Resolution Consulting)"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Coherent Economics",
+      "sourceRosterNames": [
+        "Coherent Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://coherentecon.com/job-openings/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Integra FEC",
+      "sourceRosterNames": [
+        "Integra FEC"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "matching-role-found",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Global Economics Group",
+      "sourceRosterNames": [
+        "Global Economics Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Greylock McKinnon Associates",
+      "sourceRosterNames": [
+        "Greylock McKinnon Associates"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.gma-us.com/openings/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economists Incorporated",
+      "sourceRosterNames": [
+        "Economists Incorporated"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OnPoint Analytics",
+      "sourceRosterNames": [
+        "OnPoint Analytics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://onpointanalytics.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Resolution Economics",
+      "sourceRosterNames": [
+        "Resolution Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://resecon.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Welch Consulting",
+      "sourceRosterNames": [
+        "Welch Consulting"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "MiCRA",
+      "sourceRosterNames": [
+        "MiCRA"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vega Economics",
+      "sourceRosterNames": [
+        "Vega Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://vegaeconomics.com/careers/openings"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Epsilon Economics",
+      "sourceRosterNames": [
+        "Epsilon Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.epsiloneconomics.com/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Monument Economics Group",
+      "sourceRosterNames": [
+        "Monument Economics Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.megconsulting.com/careers/current-positions/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Quantitative Economic Solutions",
+      "sourceRosterNames": [
+        "Quantitative Economic Solutions"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.qes-llc.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Christensen Associates",
+      "sourceRosterNames": [
+        "Christensen Associates"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.lrca.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Nathan Associates",
+      "sourceRosterNames": [
+        "Nathan Associates"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Applied Economics Consulting Group",
+      "sourceRosterNames": [
+        "Applied Economics Consulting Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.applied.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Micronomics",
+      "sourceRosterNames": [
+        "Micronomics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ashenfelter & Ashmore",
+      "sourceRosterNames": [
+        "Ashenfelter & Ashmore"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Finnerty Economic Consulting",
+      "sourceRosterNames": [
+        "Finnerty Economic Consulting"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Fideres",
+      "sourceRosterNames": [
+        "Fideres"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.eu.greenhouse.io/fideres"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DCI Consulting Group",
+      "sourceRosterNames": [
+        "DCI Consulting Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Precision Economics",
+      "sourceRosterNames": [
+        "Precision Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Capital Trade",
+      "sourceRosterNames": [
+        "Capital Trade"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Georgetown Economic Services",
+      "sourceRosterNames": [
+        "Georgetown Economic Services"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.georgetown.edu/admissions/",
+        "https://uadmissions.georgetown.edu/apply/first-year-applicants/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic Consulting Services",
+      "sourceRosterNames": [
+        "Economic Consulting Services"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Empiris",
+      "sourceRosterNames": [
+        "Empiris"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BLDS",
+      "sourceRosterNames": [
+        "BLDS"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EmployStats",
+      "sourceRosterNames": [
+        "EmployStats"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ERS Group",
+      "sourceRosterNames": [
+        "ERS Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Crowninshield Financial Research",
+      "sourceRosterNames": [
+        "Crowninshield Financial Research"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stanford Consulting Group",
+      "sourceRosterNames": [
+        "Stanford Consulting Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Market Platform Dynamics",
+      "sourceRosterNames": [
+        "Market Platform Dynamics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Invotex",
+      "sourceRosterNames": [
+        "Invotex"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "The Kenrich Group",
+      "sourceRosterNames": [
+        "The Kenrich Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "J.S. Held",
+      "sourceRosterNames": [
+        "J.S. Held"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Gnarus Advisors",
+      "sourceRosterNames": [
+        "Gnarus Advisors"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Analysis & Inference",
+      "sourceRosterNames": [
+        "Analysis & Inference"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Summit Consulting",
+      "sourceRosterNames": [
+        "Summit Consulting"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Hemming Morse",
+      "sourceRosterNames": [
+        "Hemming Morse"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Pinnacle Economics",
+      "sourceRosterNames": [
+        "Pinnacle Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.pinnaclesys.com/en/",
+        "https://pinnacle.pvschools.net/enroll"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "LitiNomics",
+      "sourceRosterNames": [
+        "LitiNomics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Quadrant Economics",
+      "sourceRosterNames": [
+        "Quadrant Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://quadrant.gg/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vocational Economics",
+      "sourceRosterNames": [
+        "Vocational Economics"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ARPC",
+      "sourceRosterNames": [
+        "ARPC"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Bates Group",
+      "sourceRosterNames": [
+        "Bates Group"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://my.batestech.edu/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Alvarez & Marsal (Disputes & Investigations)",
+      "sourceRosterNames": [
+        "Alvarez & Marsal (Disputes & Investigations)"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HKA",
+      "sourceRosterNames": [
+        "HKA"
+      ],
+      "category": "Litigation, Antitrust & Damages",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.hka.com/",
+        "https://careers.hka.com/jobs"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 20,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oxera",
+      "sourceRosterNames": [
+        "Oxera"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.oxera.com/jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Frontier Economics",
+      "sourceRosterNames": [
+        "Frontier Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RBB Economics",
+      "sourceRosterNames": [
+        "RBB Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.rbbecon.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Copenhagen Economics",
+      "sourceRosterNames": [
+        "Copenhagen Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://copenhageneconomics.com/careers/vacancies/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 1,
+      "relevantRoles": 0
+    },
+    {
+      "company": "E.CA Economics",
+      "sourceRosterNames": [
+        "E.CA Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://e-ca.jobs.personio.de/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic Insight",
+      "sourceRosterNames": [
+        "Economic Insight"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.economic-insight.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Europe Economics",
+      "sourceRosterNames": [
+        "Europe Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "CEPA",
+      "sourceRosterNames": [
+        "CEPA"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.cepa.co.uk/careers/working-at-cepa"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "London Economics",
+      "sourceRosterNames": [
+        "London Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://londoneconomics.co.uk/recruitment/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Cambridge Econometrics",
+      "sourceRosterNames": [
+        "Cambridge Econometrics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.camecon.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Aurora Energy Research",
+      "sourceRosterNames": [
+        "Aurora Energy Research"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://careers.auroraer.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 101,
+      "relevantRoles": 8
+    },
+    {
+      "company": "Cornwall Insight",
+      "sourceRosterNames": [
+        "Cornwall Insight"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://cornwallinsight.pinpointhq.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Swiss Economics",
+      "sourceRosterNames": [
+        "Swiss Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.swiss-economics.ch/career.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Polynomics",
+      "sourceRosterNames": [
+        "Polynomics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DIW Econ",
+      "sourceRosterNames": [
+        "DIW Econ"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://diw-econ.de/en/career/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "WIK-Consult",
+      "sourceRosterNames": [
+        "WIK-Consult"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.wik.org/ueber-uns/karriere"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ecorys",
+      "sourceRosterNames": [
+        "Ecorys"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.ecorys.com/en/vacancies"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Technopolis Group",
+      "sourceRosterNames": [
+        "Technopolis Group"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://technopolis-group.jobs.personio.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vivid Economics (McKinsey)",
+      "sourceRosterNames": [
+        "Vivid Economics (McKinsey)"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Accuracy",
+      "sourceRosterNames": [
+        "Accuracy"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.accuracy.com/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic Consulting Associates",
+      "sourceRosterNames": [
+        "Economic Consulting Associates"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lear",
+      "sourceRosterNames": [
+        "Lear"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.learlab.com/careers/vacancies/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Reckon LLP",
+      "sourceRosterNames": [
+        "Reckon LLP"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.reckon.co.uk/junior-consultant-opportunity"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Perspective Economics",
+      "sourceRosterNames": [
+        "Perspective Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DotEcon",
+      "sourceRosterNames": [
+        "DotEcon"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.dotecon.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Cebr",
+      "sourceRosterNames": [
+        "Cebr"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://cebr.com/join-the-team/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Fathom Consulting",
+      "sourceRosterNames": [
+        "Fathom Consulting"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.fathom-consulting.com/career-enquiries/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Pantheon Macroeconomics",
+      "sourceRosterNames": [
+        "Pantheon Macroeconomics"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Volterra Partners",
+      "sourceRosterNames": [
+        "Volterra Partners"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://volterrakirkland.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Plum Consulting",
+      "sourceRosterNames": [
+        "Plum Consulting"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Aldwych Partners",
+      "sourceRosterNames": [
+        "Aldwych Partners"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Indepen",
+      "sourceRosterNames": [
+        "Indepen"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "First Economics",
+      "sourceRosterNames": [
+        "First Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.firstphx.org/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Analysys Mason",
+      "sourceRosterNames": [
+        "Analysys Mason"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Baringa",
+      "sourceRosterNames": [
+        "Baringa"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "LCP Delta",
+      "sourceRosterNames": [
+        "LCP Delta"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "AFRY Management Consulting",
+      "sourceRosterNames": [
+        "AFRY Management Consulting"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "SEO Amsterdam Economics",
+      "sourceRosterNames": [
+        "SEO Amsterdam Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lexonomics",
+      "sourceRosterNames": [
+        "Lexonomics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "CE Delft",
+      "sourceRosterNames": [
+        "CE Delft"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Decisio",
+      "sourceRosterNames": [
+        "Decisio"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DICE Consult",
+      "sourceRosterNames": [
+        "DICE Consult"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
+        "https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Prognos",
+      "sourceRosterNames": [
+        "Prognos"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BAK Economics",
+      "sourceRosterNames": [
+        "BAK Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ecoplan",
+      "sourceRosterNames": [
+        "Ecoplan"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "INFRAS",
+      "sourceRosterNames": [
+        "INFRAS"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Menon Economics",
+      "sourceRosterNames": [
+        "Menon Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oslo Economics",
+      "sourceRosterNames": [
+        "Oslo Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vista Analyse",
+      "sourceRosterNames": [
+        "Vista Analyse"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "THEMA Consulting Group",
+      "sourceRosterNames": [
+        "THEMA Consulting Group"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ramboll Management Consulting",
+      "sourceRosterNames": [
+        "Ramboll Management Consulting"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Afi",
+      "sourceRosterNames": [
+        "Afi"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "REF-E",
+      "sourceRosterNames": [
+        "REF-E"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Prometeia",
+      "sourceRosterNames": [
+        "Prometeia"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Indecon",
+      "sourceRosterNames": [
+        "Indecon"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DKM Economic Consultants",
+      "sourceRosterNames": [
+        "DKM Economic Consultants"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "SQW",
+      "sourceRosterNames": [
+        "SQW"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Steer",
+      "sourceRosterNames": [
+        "Steer"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://steer.education/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BiGGAR Economics",
+      "sourceRosterNames": [
+        "BiGGAR Economics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Metro Dynamics",
+      "sourceRosterNames": [
+        "Metro Dynamics"
+      ],
+      "category": "Competition & Regulatory (Europe)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HoustonKemp",
+      "sourceRosterNames": [
+        "HoustonKemp"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://houstonkemp.com/careers/graduates/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "CEG (Competition Economists Group)",
+      "sourceRosterNames": [
+        "CEG (Competition Economists Group)"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.ceg-global.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Sapere Research Group",
+      "sourceRosterNames": [
+        "Sapere Research Group"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Frontier Economics Australia",
+      "sourceRosterNames": [
+        "Frontier Economics Australia"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.frontier-economics.com.au/careers/current-opportunities/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte Access Economics",
+      "sourceRosterNames": [
+        "Deloitte Access Economics"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.deloitte.com.au/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NZIER",
+      "sourceRosterNames": [
+        "NZIER"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.nzier.org.nz/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Castalia",
+      "sourceRosterNames": [
+        "Castalia"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://castalia-advisors.com/join/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ACIL Allen",
+      "sourceRosterNames": [
+        "ACIL Allen"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Synergies Economic Consulting",
+      "sourceRosterNames": [
+        "Synergies Economic Consulting"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "The Centre for International Economics",
+      "sourceRosterNames": [
+        "The Centre for International Economics"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Marsden Jacob Associates",
+      "sourceRosterNames": [
+        "Marsden Jacob Associates"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.marsden.com/",
+        "https://careers.marsden.com/company/marsden-central"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oakley Greenwood",
+      "sourceRosterNames": [
+        "Oakley Greenwood"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Incenta Economic Consulting",
+      "sourceRosterNames": [
+        "Incenta Economic Consulting"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Axiom Economics",
+      "sourceRosterNames": [
+        "Axiom Economics"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Mandala Partners",
+      "sourceRosterNames": [
+        "Mandala Partners"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Nous Group",
+      "sourceRosterNames": [
+        "Nous Group"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "SGS Economics & Planning",
+      "sourceRosterNames": [
+        "SGS Economics & Planning"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Infometrics",
+      "sourceRosterNames": [
+        "Infometrics"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BERL",
+      "sourceRosterNames": [
+        "BERL"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Asia Competition Associates",
+      "sourceRosterNames": [
+        "Asia Competition Associates"
+      ],
+      "category": "Economic Consulting (APAC)",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Mathematica",
+      "sourceRosterNames": [
+        "Mathematica"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.mathematica.org/search-jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Abt Global",
+      "sourceRosterNames": [
+        "Abt Global"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ICF",
+      "sourceRosterNames": [
+        "ICF"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://careers.icf.com/us/en"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Industrial Economics (IEc)",
+      "sourceRosterNames": [
+        "Industrial Economics (IEc)"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://indecon.com/open-positions/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 1,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Eastern Research Group",
+      "sourceRosterNames": [
+        "Eastern Research Group"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.erg.com/jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RTI International",
+      "sourceRosterNames": [
+        "RTI International"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.rti.org/jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Westat",
+      "sourceRosterNames": [
+        "Westat"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.westat.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NORC at the University of Chicago",
+      "sourceRosterNames": [
+        "NORC at the University of Chicago"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.norc.org/about/careers/job-openings.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "American Institutes for Research",
+      "sourceRosterNames": [
+        "American Institutes for Research"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.air.org/build-career-air"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 8,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Urban Institute",
+      "sourceRosterNames": [
+        "Urban Institute"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "The Cadmus Group",
+      "sourceRosterNames": [
+        "The Cadmus Group"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Chemonics International",
+      "sourceRosterNames": [
+        "Chemonics International"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.chemonics.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DAI Global",
+      "sourceRosterNames": [
+        "DAI Global"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.daicompanies.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Econsult Solutions",
+      "sourceRosterNames": [
+        "Econsult Solutions"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://econsultsolutions.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic & Planning Systems",
+      "sourceRosterNames": [
+        "Economic & Planning Systems"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.epsys.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HR&A Advisors",
+      "sourceRosterNames": [
+        "HR&A Advisors"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://hraadvisors.applytojob.com/apply/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RCLCO",
+      "sourceRosterNames": [
+        "RCLCO"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/rclco"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BAE Urban Economics",
+      "sourceRosterNames": [
+        "BAE Urban Economics"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.bae1.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Keyser Marston Associates",
+      "sourceRosterNames": [
+        "Keyser Marston Associates"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.keysermarston.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "TischlerBise",
+      "sourceRosterNames": [
+        "TischlerBise"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EBP US",
+      "sourceRosterNames": [
+        "EBP US"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.ebp-us.com/en/job-openings-0"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lightcast",
+      "sourceRosterNames": [
+        "Lightcast"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.lever.co/economicmodeling/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "REMI",
+      "sourceRosterNames": [
+        "REMI"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.remi.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "MDRC",
+      "sourceRosterNames": [
+        "MDRC"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Acumen",
+      "sourceRosterNames": [
+        "Acumen"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Econometrica",
+      "sourceRosterNames": [
+        "Econometrica"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "L&M Policy Research",
+      "sourceRosterNames": [
+        "L&M Policy Research"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ECONorthwest",
+      "sourceRosterNames": [
+        "ECONorthwest"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Beacon Economics",
+      "sourceRosterNames": [
+        "Beacon Economics"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://beacons.ai/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Chmura Economics & Analytics",
+      "sourceRosterNames": [
+        "Chmura Economics & Analytics"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Camoin Associates",
+      "sourceRosterNames": [
+        "Camoin Associates"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Estolano Advisors",
+      "sourceRosterNames": [
+        "Estolano Advisors"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Appleseed",
+      "sourceRosterNames": [
+        "Appleseed"
+      ],
+      "category": "Policy & Research Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://appleseed.apple.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Energy + Environmental Economics (E3)",
+      "sourceRosterNames": [
+        "Energy + Environmental Economics (E3)"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.ethree.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Christensen Associates Energy Consulting",
+      "sourceRosterNames": [
+        "Christensen Associates Energy Consulting"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.caenergy.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "London Economics International",
+      "sourceRosterNames": [
+        "London Economics International"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://londoneconomics.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Concentric Energy Advisors",
+      "sourceRosterNames": [
+        "Concentric Energy Advisors"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://ceadvisors.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ScottMadden",
+      "sourceRosterNames": [
+        "ScottMadden"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.scottmadden.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Synapse Energy Economics",
+      "sourceRosterNames": [
+        "Synapse Energy Economics"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://synapse.hire.trakstar.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Demand Side Analytics",
+      "sourceRosterNames": [
+        "Demand Side Analytics"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://demandsideanalytics.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "sourceRosterNames": [
+        "Wood Mackenzie"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Resources for the Future",
+      "sourceRosterNames": [
+        "Resources for the Future"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.rff.org/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Rhodium Group",
+      "sourceRosterNames": [
+        "Rhodium Group"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Potomac Economics",
+      "sourceRosterNames": [
+        "Potomac Economics"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Monitoring Analytics",
+      "sourceRosterNames": [
+        "Monitoring Analytics"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Opinion Dynamics",
+      "sourceRosterNames": [
+        "Opinion Dynamics"
+      ],
+      "category": "Energy & Environmental Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte (Economics / Transfer Pricing)",
+      "sourceRosterNames": [
+        "Deloitte (Economics / Transfer Pricing)"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://apply.deloitte.com/en_US/careers/SearchJobs/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "sourceRosterNames": [
+        "PwC (Economics / Transfer Pricing / Forensics)"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://jobs.us.pwc.com/entry-level-transfer-pricing"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EY (QUEST / Economic Advisory / Transfer Pricing)",
+      "sourceRosterNames": [
+        "EY (QUEST / Economic Advisory / Transfer Pricing)"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://usearlycareers.ey.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG (Economic & Valuation Services)",
+      "sourceRosterNames": [
+        "KPMG (Economic & Valuation Services)"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.kpmguscareers.com/early-career/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Grant Thornton (Transfer Pricing / Economics)",
+      "sourceRosterNames": [
+        "Grant Thornton (Transfer Pricing / Economics)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.grants.gov/",
+        "https://grantable.co/grants"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BDO (Transfer Pricing)",
+      "sourceRosterNames": [
+        "BDO (Transfer Pricing)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.bdo.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 1416,
+      "relevantRoles": 14
+    },
+    {
+      "company": "RSM (Transfer Pricing)",
+      "sourceRosterNames": [
+        "RSM (Transfer Pricing)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.rsmus.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 40,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Crowe (Transfer Pricing)",
+      "sourceRosterNames": [
+        "Crowe (Transfer Pricing)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.crowe.com/careers",
+        "https://careers.crowe.com/",
+        "https://careers.crowe.com/student-careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Baker Tilly (Transfer Pricing)",
+      "sourceRosterNames": [
+        "Baker Tilly (Transfer Pricing)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ryan (Transfer Pricing)",
+      "sourceRosterNames": [
+        "Ryan (Transfer Pricing)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Andersen (Transfer Pricing)",
+      "sourceRosterNames": [
+        "Andersen (Transfer Pricing)"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economics Partners",
+      "sourceRosterNames": [
+        "Economics Partners"
+      ],
+      "category": "Transfer Pricing & Valuation",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte UK Economic Advisory",
+      "sourceRosterNames": [
+        "Deloitte UK Economic Advisory"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG UK Economics",
+      "sourceRosterNames": [
+        "KPMG UK Economics"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.kpmgcareers.co.uk/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EY UK Economic Advisory",
+      "sourceRosterNames": [
+        "EY UK Economic Advisory"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Grant Thornton UK Economic Consulting",
+      "sourceRosterNames": [
+        "Grant Thornton UK Economic Consulting"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG Singapore Economics & Regulation",
+      "sourceRosterNames": [
+        "KPMG Singapore Economics & Regulation"
+      ],
+      "category": "Big 4 & Advisory Economics",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://kpmg.com/us/en.html",
+        "https://www.kpmguscareers.com/early-career/",
+        "https://www.kpmguscareers.com/job-search/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "PRECISIONheor (Precision AQ)",
+      "sourceRosterNames": [
+        "PRECISIONheor (Precision AQ)"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/precisionaq"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "IQVIA (HEOR)",
+      "sourceRosterNames": [
+        "IQVIA (HEOR)"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.iqvia.com/en",
+        "https://iqvia.wd1.myworkdayjobs.com/IQVIA/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Evidera (Thermo Fisher)",
+      "sourceRosterNames": [
+        "Evidera (Thermo Fisher)"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.thermofisher.com/global/en/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Avalere Health",
+      "sourceRosterNames": [
+        "Avalere Health"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.lever.co/avalerehealth"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Dobson DaVanzo & Associates",
+      "sourceRosterNames": [
+        "Dobson DaVanzo & Associates"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.dobsondavanzo.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Milliman",
+      "sourceRosterNames": [
+        "Milliman"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.milliman.com/en/Search"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Health Management Associates",
+      "sourceRosterNames": [
+        "Health Management Associates"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.healthmanagement.com/career-opportunities/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 10,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Genesis Research Group",
+      "sourceRosterNames": [
+        "Genesis Research Group"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://genesisrg.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lumanity",
+      "sourceRosterNames": [
+        "Lumanity"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://lumanity.com/careers/current-openings/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 28,
+      "relevantRoles": 1
+    },
+    {
+      "company": "Xcenda (Cencora)",
+      "sourceRosterNames": [
+        "Xcenda (Cencora)"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.xcenda.com/careers-student-programs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 40,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "sourceRosterNames": [
+        "Trinity Life Sciences"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.trinitychurch.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OPEN Health",
+      "sourceRosterNames": [
+        "OPEN Health"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Medicus Economics",
+      "sourceRosterNames": [
+        "Medicus Economics"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://medicushcs.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KNG Health Consulting",
+      "sourceRosterNames": [
+        "KNG Health Consulting"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RTI Health Solutions",
+      "sourceRosterNames": [
+        "RTI Health Solutions"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.rti.org/careers",
+        "https://careers.rti.org/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 9,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Broadstreet HEOR",
+      "sourceRosterNames": [
+        "Broadstreet HEOR"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Health Advances",
+      "sourceRosterNames": [
+        "Health Advances"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wakely Consulting Group",
+      "sourceRosterNames": [
+        "Wakely Consulting Group"
+      ],
+      "category": "Health Economics & HEOR",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oxford Economics",
+      "sourceRosterNames": [
+        "Oxford Economics"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://careers.oxfordeconomics.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Capital Economics",
+      "sourceRosterNames": [
+        "Capital Economics"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://apply.workable.com/capital-economics/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Moody's Analytics (Economics)",
+      "sourceRosterNames": [
+        "Moody's Analytics (Economics)"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.moodys.com/en/search-jobs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "S&P Global (Economics)",
+      "sourceRosterNames": [
+        "S&P Global (Economics)"
+      ],
+      "category": "Macro & Economic Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    }
+  ]
+}

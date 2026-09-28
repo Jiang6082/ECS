@@ -1,0 +1,2650 @@
+{
+  "searchedAt": "2026-09-28T20:04:07.316Z",
+  "companies": [
+    "Analysis Group",
+    "Cornerstone Research",
+    "Compass Lexecon",
+    "Charles River Associates",
+    "NERA Economic Consulting",
+    "The Brattle Group",
+    "Bates White",
+    "Keystone Strategy",
+    "Edgeworth Economics",
+    "Berkeley Research Group",
+    "FTI Consulting (Economic Consulting)",
+    "Econ One",
+    "Secretariat",
+    "Intensity",
+    "Ankura",
+    "AlixPartners",
+    "Guidehouse",
+    "Kroll",
+    "Stout",
+    "Houlihan Lokey (Dispute Resolution Consulting)",
+    "Coherent Economics",
+    "Integra FEC",
+    "Global Economics Group",
+    "Greylock McKinnon Associates",
+    "Economists Incorporated",
+    "OnPoint Analytics",
+    "Resolution Economics",
+    "Welch Consulting",
+    "MiCRA",
+    "Vega Economics",
+    "Epsilon Economics",
+    "Monument Economics Group",
+    "Quantitative Economic Solutions",
+    "Christensen Associates",
+    "Nathan Associates",
+    "Applied Economics Consulting Group",
+    "Micronomics",
+    "Ashenfelter & Ashmore",
+    "Finnerty Economic Consulting",
+    "Fideres",
+    "DCI Consulting Group",
+    "Precision Economics",
+    "Capital Trade",
+    "Georgetown Economic Services",
+    "Economic Consulting Services",
+    "Empiris",
+    "BLDS",
+    "EmployStats",
+    "ERS Group",
+    "Crowninshield Financial Research",
+    "Stanford Consulting Group",
+    "Market Platform Dynamics",
+    "Invotex",
+    "The Kenrich Group",
+    "J.S. Held",
+    "Gnarus Advisors",
+    "Analysis & Inference",
+    "Summit Consulting",
+    "Hemming Morse",
+    "Pinnacle Economics",
+    "LitiNomics",
+    "Quadrant Economics",
+    "Vocational Economics",
+    "ARPC",
+    "Bates Group",
+    "Alvarez & Marsal (Disputes & Investigations)",
+    "HKA",
+    "Oxera",
+    "Frontier Economics",
+    "RBB Economics",
+    "Copenhagen Economics",
+    "E.CA Economics",
+    "Economic Insight",
+    "Europe Economics",
+    "CEPA",
+    "London Economics",
+    "Cambridge Econometrics",
+    "Aurora Energy Research",
+    "Cornwall Insight",
+    "Swiss Economics",
+    "Polynomics",
+    "DIW Econ",
+    "WIK-Consult",
+    "Ecorys",
+    "Technopolis Group",
+    "Vivid Economics (McKinsey)",
+    "Accuracy",
+    "Economic Consulting Associates",
+    "Lear",
+    "Reckon LLP",
+    "Perspective Economics",
+    "DotEcon",
+    "Cebr",
+    "Fathom Consulting",
+    "Pantheon Macroeconomics",
+    "Volterra Partners",
+    "Plum Consulting",
+    "Aldwych Partners",
+    "Indepen",
+    "First Economics",
+    "Analysys Mason",
+    "Baringa",
+    "LCP Delta",
+    "AFRY Management Consulting",
+    "SEO Amsterdam Economics",
+    "Lexonomics",
+    "CE Delft",
+    "Decisio",
+    "DICE Consult",
+    "Prognos",
+    "BAK Economics",
+    "Ecoplan",
+    "INFRAS",
+    "Menon Economics",
+    "Oslo Economics",
+    "Vista Analyse",
+    "THEMA Consulting Group",
+    "Ramboll Management Consulting",
+    "Afi",
+    "REF-E",
+    "Prometeia",
+    "Indecon",
+    "DKM Economic Consultants",
+    "SQW",
+    "Steer",
+    "BiGGAR Economics",
+    "Metro Dynamics",
+    "HoustonKemp",
+    "CEG (Competition Economists Group)",
+    "Sapere Research Group",
+    "Frontier Economics Australia",
+    "Deloitte Access Economics",
+    "NZIER",
+    "Castalia",
+    "ACIL Allen",
+    "Synergies Economic Consulting",
+    "The Centre for International Economics",
+    "Marsden Jacob Associates",
+    "Oakley Greenwood",
+    "Incenta Economic Consulting",
+    "Axiom Economics",
+    "Mandala Partners",
+    "Nous Group",
+    "SGS Economics & Planning",
+    "Infometrics",
+    "BERL",
+    "Asia Competition Associates",
+    "Mathematica",
+    "Abt Global",
+    "ICF",
+    "Industrial Economics (IEc)",
+    "Eastern Research Group",
+    "RTI International",
+    "Westat",
+    "NORC at the University of Chicago",
+    "American Institutes for Research",
+    "Urban Institute",
+    "The Cadmus Group",
+    "Chemonics International",
+    "DAI Global",
+    "Econsult Solutions",
+    "Economic & Planning Systems",
+    "HR&A Advisors",
+    "RCLCO",
+    "BAE Urban Economics",
+    "Keyser Marston Associates",
+    "TischlerBise",
+    "EBP US",
+    "Lightcast",
+    "REMI",
+    "MDRC",
+    "Acumen",
+    "Econometrica",
+    "L&M Policy Research",
+    "ECONorthwest",
+    "Beacon Economics",
+    "Chmura Economics & Analytics",
+    "Camoin Associates",
+    "Estolano Advisors",
+    "Appleseed",
+    "Energy + Environmental Economics (E3)",
+    "Christensen Associates Energy Consulting",
+    "London Economics International",
+    "Concentric Energy Advisors",
+    "ScottMadden",
+    "Synapse Energy Economics",
+    "Demand Side Analytics",
+    "Wood Mackenzie",
+    "Resources for the Future",
+    "Rhodium Group",
+    "Potomac Economics",
+    "Monitoring Analytics",
+    "Opinion Dynamics",
+    "Deloitte (Economics / Transfer Pricing)",
+    "PwC (Economics / Transfer Pricing / Forensics)",
+    "EY (QUEST / Economic Advisory / Transfer Pricing)",
+    "KPMG (Economic & Valuation Services)",
+    "Grant Thornton (Transfer Pricing / Economics)",
+    "BDO (Transfer Pricing)",
+    "RSM (Transfer Pricing)",
+    "Crowe (Transfer Pricing)",
+    "Baker Tilly (Transfer Pricing)",
+    "Ryan (Transfer Pricing)",
+    "Andersen (Transfer Pricing)",
+    "Economics Partners",
+    "Deloitte UK Economic Advisory",
+    "KPMG UK Economics",
+    "EY UK Economic Advisory",
+    "Grant Thornton UK Economic Consulting",
+    "KPMG Singapore Economics & Regulation",
+    "PRECISIONheor (Precision AQ)",
+    "IQVIA (HEOR)",
+    "Evidera (Thermo Fisher)",
+    "Avalere Health",
+    "Dobson DaVanzo & Associates",
+    "Milliman",
+    "Health Management Associates",
+    "Genesis Research Group",
+    "Lumanity",
+    "Xcenda (Cencora)",
+    "Trinity Life Sciences",
+    "OPEN Health",
+    "Medicus Economics",
+    "KNG Health Consulting",
+    "RTI Health Solutions",
+    "Broadstreet HEOR",
+    "Health Advances",
+    "Wakely Consulting Group",
+    "Oxford Economics",
+    "Capital Economics",
+    "Moody's Analytics (Economics)",
+    "S&P Global (Economics)"
+  ],
+  "companiesWithoutKnownCareerPage": [
+    "FTI Consulting (Economic Consulting)",
+    "Secretariat",
+    "Stout",
+    "Houlihan Lokey (Dispute Resolution Consulting)",
+    "Integra FEC",
+    "Global Economics Group",
+    "Economists Incorporated",
+    "Welch Consulting",
+    "MiCRA",
+    "Nathan Associates",
+    "Micronomics",
+    "Ashenfelter & Ashmore",
+    "Finnerty Economic Consulting",
+    "DCI Consulting Group",
+    "Precision Economics",
+    "Capital Trade",
+    "Economic Consulting Services",
+    "Empiris",
+    "BLDS",
+    "EmployStats",
+    "ERS Group",
+    "Crowninshield Financial Research",
+    "Stanford Consulting Group",
+    "Market Platform Dynamics",
+    "Invotex",
+    "The Kenrich Group",
+    "J.S. Held",
+    "Gnarus Advisors",
+    "Analysis & Inference",
+    "Summit Consulting",
+    "Hemming Morse",
+    "LitiNomics",
+    "Vocational Economics",
+    "ARPC",
+    "Alvarez & Marsal (Disputes & Investigations)",
+    "Frontier Economics",
+    "Europe Economics",
+    "Polynomics",
+    "Vivid Economics (McKinsey)",
+    "Perspective Economics",
+    "Pantheon Macroeconomics",
+    "Plum Consulting",
+    "Aldwych Partners",
+    "Indepen",
+    "Analysys Mason",
+    "Baringa",
+    "LCP Delta",
+    "AFRY Management Consulting",
+    "SEO Amsterdam Economics",
+    "Lexonomics",
+    "CE Delft",
+    "Decisio",
+    "Prognos",
+    "BAK Economics",
+    "Ecoplan",
+    "INFRAS",
+    "Menon Economics",
+    "Oslo Economics",
+    "Vista Analyse",
+    "THEMA Consulting Group",
+    "Ramboll Management Consulting",
+    "Afi",
+    "REF-E",
+    "Prometeia",
+    "Indecon",
+    "DKM Economic Consultants",
+    "SQW",
+    "BiGGAR Economics",
+    "Metro Dynamics",
+    "Sapere Research Group",
+    "ACIL Allen",
+    "Synergies Economic Consulting",
+    "The Centre for International Economics",
+    "Oakley Greenwood",
+    "Incenta Economic Consulting",
+    "Axiom Economics",
+    "Mandala Partners",
+    "Nous Group",
+    "SGS Economics & Planning",
+    "Infometrics",
+    "BERL",
+    "Asia Competition Associates",
+    "Urban Institute",
+    "The Cadmus Group",
+    "TischlerBise",
+    "MDRC",
+    "Acumen",
+    "Econometrica",
+    "L&M Policy Research",
+    "ECONorthwest",
+    "Chmura Economics & Analytics",
+    "Camoin Associates",
+    "Estolano Advisors",
+    "Wood Mackenzie",
+    "Rhodium Group",
+    "Potomac Economics",
+    "Monitoring Analytics",
+    "Opinion Dynamics",
+    "Baker Tilly (Transfer Pricing)",
+    "Ryan (Transfer Pricing)",
+    "Andersen (Transfer Pricing)",
+    "Economics Partners",
+    "OPEN Health",
+    "KNG Health Consulting",
+    "Broadstreet HEOR",
+    "Health Advances",
+    "Wakely Consulting Group",
+    "S&P Global (Economics)"
+  ],
+  "careerPageScanAudits": [
+    {
+      "company": "Analysis Group",
+      "pageUrl": "https://www.analysisgroup.com/careers/",
+      "resolvedUrl": "https://www.analysisgroup.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "datasciencecareers-analysisgroup",
+          "professionalcareers-analysisgroup",
+          "analystcareers-analysisgroup",
+          "associatecareers-analysisgroup"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:datasciencecareers-analysisgroup",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:professionalcareers-analysisgroup",
+          "jobsSeen": 11
+        }
+      ],
+      "jobsSeen": 11,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Cornerstone Research",
+      "pageUrl": "https://www.cornerstone.com/careers/analyst/",
+      "resolvedUrl": "https://www.cornerstone.com/careers/analyst/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "ug-chire",
+          "uguk-chire",
+          "ugbe-chire",
+          "grad-chire",
+          "graduk-chire",
+          "gradbe-chire",
+          "corpadmin-chire",
+          "corpadminuk-chire",
+          "exp-chire",
+          "expuk-chire",
+          "expbe-chire"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:ug-chire",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:uguk-chire",
+          "jobsSeen": 2
+        },
+        {
+          "source": "iCIMS:ugbe-chire",
+          "jobsSeen": 1
+        },
+        {
+          "source": "iCIMS:grad-chire",
+          "jobsSeen": 3
+        },
+        {
+          "source": "iCIMS:graduk-chire",
+          "jobsSeen": 3
+        },
+        {
+          "source": "iCIMS:gradbe-chire",
+          "jobsSeen": 3
+        },
+        {
+          "source": "iCIMS:corpadmin-chire",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:corpadminuk-chire",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:exp-chire",
+          "jobsSeen": 3
+        },
+        {
+          "source": "iCIMS:expuk-chire",
+          "jobsSeen": 1
+        },
+        {
+          "source": "iCIMS:expbe-chire",
+          "jobsSeen": 1
+        }
+      ],
+      "jobsSeen": 17,
+      "relevantRoles": 1
+    },
+    {
+      "company": "Compass Lexecon",
+      "pageUrl": "https://www.compasslexecon.com/careers/students-graduates",
+      "resolvedUrl": "https://www.compasslexecon.com/careers/students-graduates",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "fticonsulting.wd108.myworkdayjobs.com",
+            "site": "CompassLexeconCareers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Charles River Associates",
+      "pageUrl": "https://www.crai.com/cra-careers/jobs/",
+      "resolvedUrl": "https://www.crai.com/cra-careers/jobs/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NERA Economic Consulting",
+      "pageUrl": "https://www.nera.com/open-roles.html",
+      "resolvedUrl": "https://www.nera.com/open-roles.html",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "The Brattle Group",
+      "pageUrl": "https://www.brattle.com/careers/current-openings/",
+      "resolvedUrl": "https://www.brattle.com/careers/current-openings/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "thebrattlegroup"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Bates White",
+      "pageUrl": "https://www.bateswhite.com/careers/current-openings",
+      "resolvedUrl": "https://www.bateswhite.com/careers/current-openings",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "virecruit"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Keystone Strategy",
+      "pageUrl": "https://www.keystone.com/careers",
+      "resolvedUrl": "https://www.keystone.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Edgeworth Economics",
+      "pageUrl": "https://www.edgewortheconomics.com/careers-open-positions",
+      "resolvedUrl": "https://www.edgewortheconomics.com/careers-open-positions",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "paylocity": [
+          "84ca0b5b-570a-409a-8e91-242f0baca23d"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Berkeley Research Group",
+      "pageUrl": "https://www.thinkbrg.com/careers/early-careers/",
+      "resolvedUrl": "https://www.thinkbrg.com/careers/early-careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "thinkbrg.wd5.myworkdayjobs.com",
+            "site": "BRG_External_Career_Site"
+          }
+        ]
+      },
+      "unsupportedAts": [
+        "jobvite"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Econ One",
+      "pageUrl": "https://econone.com/careers/",
+      "resolvedUrl": "https://econone.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Intensity",
+      "pageUrl": "https://intensity.com/opening/analyst",
+      "resolvedUrl": "https://secretariat-intl.com/opening/analyst",
+      "pageOk": false,
+      "pageStatus": 404,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ankura",
+      "pageUrl": "https://ankura.com/job-openings",
+      "resolvedUrl": "https://ankura.com/job-openings",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "ankura.wd5.myworkdayjobs.com",
+            "site": "Ankura"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "AlixPartners",
+      "pageUrl": "https://www.alixpartners.com/careers/job-search/",
+      "resolvedUrl": "https://www.alixpartners.com/careers/job-search/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Guidehouse",
+      "pageUrl": "https://guidehouse.com/careers/internship",
+      "resolvedUrl": "https://guidehouse.com/careers/internship",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "guidehouse.wd1.myworkdayjobs.com",
+            "site": "External"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kroll",
+      "pageUrl": "https://careers.kroll.com/en/students",
+      "resolvedUrl": "https://careers.kroll.com/en/students",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "radancy"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Coherent Economics",
+      "pageUrl": "https://coherentecon.com/job-openings/",
+      "resolvedUrl": "https://coherentecon.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "coherenteconomicsllc"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Greylock McKinnon Associates",
+      "pageUrl": "https://www.gma-us.com/openings/",
+      "resolvedUrl": "https://www.gma-us.com/openings/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OnPoint Analytics",
+      "pageUrl": "https://onpointanalytics.com/careers/",
+      "resolvedUrl": "https://onpointanalytics.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Resolution Economics",
+      "pageUrl": "https://resecon.com/careers/",
+      "resolvedUrl": "https://resecon.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vega Economics",
+      "pageUrl": "https://vegaeconomics.com/careers/openings",
+      "resolvedUrl": "https://vegaeconomics.com/careers/openings",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Epsilon Economics",
+      "pageUrl": "https://www.epsiloneconomics.com/join-us",
+      "resolvedUrl": "https://www.epsiloneconomics.com/join-us",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Monument Economics Group",
+      "pageUrl": "https://www.megconsulting.com/careers/current-positions/",
+      "resolvedUrl": "https://www.megconsulting.com/careers/current-positions/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Quantitative Economic Solutions",
+      "pageUrl": "https://www.qes-llc.com/careers",
+      "resolvedUrl": "https://www.qes-llc.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Christensen Associates",
+      "pageUrl": "https://www.lrca.com/careers/",
+      "resolvedUrl": "https://www.lrca.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Applied Economics Consulting Group",
+      "pageUrl": "https://jobs.applied.com/",
+      "resolvedUrl": "https://jobs.applied.com/us/en",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "phenom"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Fideres",
+      "pageUrl": "https://job-boards.eu.greenhouse.io/fideres",
+      "resolvedUrl": "https://job-boards.eu.greenhouse.io/fideres",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "fideres"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Georgetown Economic Services",
+      "pageUrl": "https://www.georgetown.edu/admissions/",
+      "resolvedUrl": "https://www.georgetown.edu/admissions/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Georgetown Economic Services",
+      "pageUrl": "https://uadmissions.georgetown.edu/apply/first-year-applicants/",
+      "resolvedUrl": "https://uadmissions.georgetown.edu/apply/first-year-applicants/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Pinnacle Economics",
+      "pageUrl": "https://www.pinnaclesys.com/en/",
+      "resolvedUrl": "https://www.pinnaclesys.com/en/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Pinnacle Economics",
+      "pageUrl": "https://pinnacle.pvschools.net/enroll",
+      "resolvedUrl": "https://pinnacle.pvschools.net/enroll",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Quadrant Economics",
+      "pageUrl": "https://quadrant.gg/",
+      "resolvedUrl": "https://quadrant.gg/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Bates Group",
+      "pageUrl": "https://my.batestech.edu/",
+      "resolvedUrl": "https://my.batestech.edu/",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HKA",
+      "pageUrl": "https://careers.hka.com/",
+      "resolvedUrl": "https://careers.hka.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "teamtailor": [
+          "hka",
+          "www"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Teamtailor:hka",
+          "jobsSeen": 20
+        }
+      ],
+      "jobsSeen": 20,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HKA",
+      "pageUrl": "https://careers.hka.com/jobs",
+      "resolvedUrl": "https://careers.hka.com/jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "teamtailor": [
+          "hka",
+          "www"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Teamtailor:hka",
+          "jobsSeen": 20
+        }
+      ],
+      "jobsSeen": 20,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oxera",
+      "pageUrl": "https://careers.oxera.com/jobs",
+      "resolvedUrl": "https://careers.oxera.com/jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "teamtailor": [
+          "www"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RBB Economics",
+      "pageUrl": "https://www.rbbecon.com/careers/",
+      "resolvedUrl": "https://www.rbbecon.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Copenhagen Economics",
+      "pageUrl": "https://copenhageneconomics.com/careers/vacancies/",
+      "resolvedUrl": "https://copenhageneconomics.com/careers/vacancies/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "personio": [
+          "copenhagen-economics"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Personio:copenhagen-economics",
+          "jobsSeen": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantRoles": 0
+    },
+    {
+      "company": "E.CA Economics",
+      "pageUrl": "https://e-ca.jobs.personio.de/",
+      "resolvedUrl": "https://e-ca.jobs.personio.de/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "personio": [
+          "e-ca"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic Insight",
+      "pageUrl": "https://www.economic-insight.com/careers/",
+      "resolvedUrl": "https://www.economic-insight.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "CEPA",
+      "pageUrl": "https://www.cepa.co.uk/careers/working-at-cepa",
+      "resolvedUrl": "https://www.cepa.co.uk/careers/working-at-cepa",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "London Economics",
+      "pageUrl": "https://londoneconomics.co.uk/recruitment/",
+      "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Cambridge Econometrics",
+      "pageUrl": "https://www.camecon.com/careers",
+      "resolvedUrl": "https://www.camecon.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Aurora Energy Research",
+      "pageUrl": "https://careers.auroraer.com/",
+      "resolvedUrl": "https://careers.auroraer.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "pinpoint": [
+          "auroraer"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Pinpoint:auroraer.pinpointhq.com",
+          "jobsSeen": 101
+        }
+      ],
+      "jobsSeen": 101,
+      "relevantRoles": 8
+    },
+    {
+      "company": "Cornwall Insight",
+      "pageUrl": "https://cornwallinsight.pinpointhq.com/",
+      "resolvedUrl": "https://cornwallinsight.pinpointhq.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "pinpoint": [
+          "cornwallinsight"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Swiss Economics",
+      "pageUrl": "https://www.swiss-economics.ch/career.html",
+      "resolvedUrl": "https://www.swiss-economics.ch/career.html",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DIW Econ",
+      "pageUrl": "https://diw-econ.de/en/career/",
+      "resolvedUrl": "https://diw-econ.de/en/career/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "WIK-Consult",
+      "pageUrl": "https://www.wik.org/ueber-uns/karriere",
+      "resolvedUrl": "https://www.wik.org/ueber-uns/karriere",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ecorys",
+      "pageUrl": "https://careers.ecorys.com/en/vacancies",
+      "resolvedUrl": "https://careers.ecorys.com/en/vacancies",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Technopolis Group",
+      "pageUrl": "https://technopolis-group.jobs.personio.com/",
+      "resolvedUrl": "https://technopolis-group.jobs.personio.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "personio_com": [
+          "technopolis-group"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Accuracy",
+      "pageUrl": "https://careers.accuracy.com/",
+      "resolvedUrl": "https://careers.accuracy.com/",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic Consulting Associates",
+      "pageUrl": "https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/",
+      "resolvedUrl": "https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "gohire"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lear",
+      "pageUrl": "https://www.learlab.com/careers/vacancies/",
+      "resolvedUrl": "https://www.learlab.com/careers/vacancies/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Reckon LLP",
+      "pageUrl": "https://www.reckon.co.uk/junior-consultant-opportunity",
+      "resolvedUrl": "https://www.reckon.co.uk/junior-consultant-opportunity",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DotEcon",
+      "pageUrl": "https://www.dotecon.com/careers",
+      "resolvedUrl": "https://www.dotecon.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Cebr",
+      "pageUrl": "https://cebr.com/join-the-team/",
+      "resolvedUrl": "https://cebr.com/join-the-team/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Fathom Consulting",
+      "pageUrl": "https://www.fathom-consulting.com/career-enquiries/",
+      "resolvedUrl": "https://www.fathom-consulting.com/career-enquiries/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Volterra Partners",
+      "pageUrl": "https://volterrakirkland.com/",
+      "resolvedUrl": "https://volterrakirkland.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "First Economics",
+      "pageUrl": "https://www.firstphx.org/",
+      "resolvedUrl": "https://www.firstphx.org/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DICE Consult",
+      "pageUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
+      "resolvedUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DICE Consult",
+      "pageUrl": "https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5",
+      "resolvedUrl": "https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Steer",
+      "pageUrl": "https://steer.education/",
+      "resolvedUrl": "https://steer.education/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HoustonKemp",
+      "pageUrl": "https://houstonkemp.com/careers/graduates/",
+      "resolvedUrl": "https://houstonkemp.com/careers/graduates/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "CEG (Competition Economists Group)",
+      "pageUrl": "https://www.ceg-global.com/careers",
+      "resolvedUrl": "https://www.ceg-global.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Frontier Economics Australia",
+      "pageUrl": "https://www.frontier-economics.com.au/careers/current-opportunities/",
+      "resolvedUrl": "https://www.frontier-economics.com.au/careers/current-opportunities/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte Access Economics",
+      "pageUrl": "https://jobs.deloitte.com.au/",
+      "resolvedUrl": "https://jobs.deloitte.com.au/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "successfactors"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NZIER",
+      "pageUrl": "https://www.nzier.org.nz/careers",
+      "resolvedUrl": "https://www.nzier.org.nz/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Castalia",
+      "pageUrl": "https://castalia-advisors.com/join/",
+      "resolvedUrl": "https://castalia-advisors.com/join/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Marsden Jacob Associates",
+      "pageUrl": "https://careers.marsden.com/",
+      "resolvedUrl": "https://careers.marsden.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Marsden Jacob Associates",
+      "pageUrl": "https://careers.marsden.com/company/marsden-central",
+      "resolvedUrl": "https://careers.marsden.com/company/marsden-central",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Mathematica",
+      "pageUrl": "https://careers.mathematica.org/search-jobs",
+      "resolvedUrl": "https://careers.mathematica.org/search-jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Abt Global",
+      "pageUrl": "https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions",
+      "resolvedUrl": "https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "oracle": [
+          {
+            "host": "egpy.fa.us2.oraclecloud.com",
+            "site": "JoinAbt"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ICF",
+      "pageUrl": "https://careers.icf.com/us/en",
+      "resolvedUrl": "https://careers.icf.com/us/en",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "phenom"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Industrial Economics (IEc)",
+      "pageUrl": "https://indecon.com/open-positions/",
+      "resolvedUrl": "https://indecon.com/open-positions/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "breezy": [
+          "iec"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Breezy:iec",
+          "jobsSeen": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Eastern Research Group",
+      "pageUrl": "https://www.erg.com/jobs",
+      "resolvedUrl": "https://www.erg.com/jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "lever": [
+          "erg"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RTI International",
+      "pageUrl": "https://careers.rti.org/jobs",
+      "resolvedUrl": "https://careers.rti.org/jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "globalcareers-rtiinc",
+          "uscareers-rtiinc"
+        ]
+      },
+      "unsupportedAts": [
+        "adp"
+      ],
+      "boards": [
+        {
+          "source": "iCIMS:globalcareers-rtiinc",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:uscareers-rtiinc",
+          "jobsSeen": 0
+        }
+      ],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Westat",
+      "pageUrl": "https://www.westat.com/careers/",
+      "resolvedUrl": "https://www.westat.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "brassring"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NORC at the University of Chicago",
+      "pageUrl": "https://www.norc.org/about/careers/job-openings.html",
+      "resolvedUrl": "https://www.norc.org/about/careers/job-openings.html",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "American Institutes for Research",
+      "pageUrl": "https://www.air.org/build-career-air",
+      "resolvedUrl": "https://www.air.org/build-career-air",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "americaninstitutesforresearch"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:americaninstitutesforresearch",
+          "jobsSeen": 8
+        }
+      ],
+      "jobsSeen": 8,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Chemonics International",
+      "pageUrl": "https://www.chemonics.com/careers/",
+      "resolvedUrl": "https://www.chemonics.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DAI Global",
+      "pageUrl": "https://careers.daicompanies.com/",
+      "resolvedUrl": "https://careers.daicompanies.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "successfactors"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Econsult Solutions",
+      "pageUrl": "https://econsultsolutions.com/careers/",
+      "resolvedUrl": "https://econsultsolutions.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic & Planning Systems",
+      "pageUrl": "https://www.epsys.com/careers",
+      "resolvedUrl": "https://www.epsys.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HR&A Advisors",
+      "pageUrl": "https://hraadvisors.applytojob.com/apply/",
+      "resolvedUrl": "https://hraadvisors.applytojob.com/apply/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "jazzhr": [
+          "hraadvisors"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RCLCO",
+      "pageUrl": "https://job-boards.greenhouse.io/rclco",
+      "resolvedUrl": "https://job-boards.greenhouse.io/rclco",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "rclco"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BAE Urban Economics",
+      "pageUrl": "https://www.bae1.com/careers",
+      "resolvedUrl": "https://www.bae1.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Keyser Marston Associates",
+      "pageUrl": "https://www.keysermarston.com/careers/",
+      "resolvedUrl": "https://www.keysermarston.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EBP US",
+      "pageUrl": "https://www.ebp-us.com/en/job-openings-0",
+      "resolvedUrl": "https://www.ebp.global/us-en/job-openings-0",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lightcast",
+      "pageUrl": "https://jobs.lever.co/economicmodeling/",
+      "resolvedUrl": "https://jobs.lever.co/economicmodeling/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "lever": [
+          "economicmodeling",
+          "js"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "REMI",
+      "pageUrl": "https://www.remi.com/careers/",
+      "resolvedUrl": "https://www.remi.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Beacon Economics",
+      "pageUrl": "https://beacons.ai/",
+      "resolvedUrl": "https://beacons.ai/",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Appleseed",
+      "pageUrl": "https://appleseed.apple.com/",
+      "resolvedUrl": "https://beta.apple.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Energy + Environmental Economics (E3)",
+      "pageUrl": "https://www.ethree.com/careers/",
+      "resolvedUrl": "https://www.ethree.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "lever": [
+          "ethree"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Christensen Associates Energy Consulting",
+      "pageUrl": "https://www.caenergy.com/careers/",
+      "resolvedUrl": "https://www.caenergy.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "London Economics International",
+      "pageUrl": "https://londoneconomics.com/careers",
+      "resolvedUrl": "https://www.londoneconomics.com/about-us/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Concentric Energy Advisors",
+      "pageUrl": "https://ceadvisors.com/careers/",
+      "resolvedUrl": "https://ceadvisors.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ScottMadden",
+      "pageUrl": "https://www.scottmadden.com/careers/",
+      "resolvedUrl": "https://www.scottmadden.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "ultipro"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Synapse Energy Economics",
+      "pageUrl": "https://synapse.hire.trakstar.com/",
+      "resolvedUrl": "https://synapse.hire.trakstar.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "trakstar": [
+          "synapse"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Demand Side Analytics",
+      "pageUrl": "https://demandsideanalytics.com/careers/",
+      "resolvedUrl": "https://demandsideanalytics.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Resources for the Future",
+      "pageUrl": "https://www.rff.org/careers/",
+      "resolvedUrl": "https://www.rff.org/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte (Economics / Transfer Pricing)",
+      "pageUrl": "https://apply.deloitte.com/en_US/careers/SearchJobs/",
+      "resolvedUrl": "https://apply.deloitte.com/en_US/careers/SearchJobs/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "pageUrl": "https://jobs.us.pwc.com/entry-level-transfer-pricing",
+      "resolvedUrl": "https://jobs.us.pwc.com/entry-level-transfer-pricing",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EY (QUEST / Economic Advisory / Transfer Pricing)",
+      "pageUrl": "https://usearlycareers.ey.com/",
+      "resolvedUrl": "https://usearlycareers.ey.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "radancy"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG (Economic & Valuation Services)",
+      "pageUrl": "https://www.kpmguscareers.com/early-career/",
+      "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "avature"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Grant Thornton (Transfer Pricing / Economics)",
+      "pageUrl": "https://www.grants.gov/",
+      "resolvedUrl": "https://www.grants.gov/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Grant Thornton (Transfer Pricing / Economics)",
+      "pageUrl": "https://grantable.co/grants",
+      "resolvedUrl": "https://grantable.co/grants",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BDO (Transfer Pricing)",
+      "pageUrl": "https://www.bdo.com/careers",
+      "resolvedUrl": "https://www.bdo.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "oracle": [
+          {
+            "host": "ebqb.fa.us2.oraclecloud.com",
+            "site": "BDOExperiencedCareers"
+          },
+          {
+            "host": "ebqb.fa.us2.oraclecloud.com",
+            "site": "BDOEntryLevelCareers"
+          },
+          {
+            "host": "ebqb.fa.us2.oraclecloud.com",
+            "site": "CX_1001"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Oracle:ebqb/BDOExperiencedCareers",
+          "jobsSeen": 708
+        },
+        {
+          "source": "Oracle:ebqb/BDOEntryLevelCareers",
+          "jobsSeen": 708
+        }
+      ],
+      "jobsSeen": 1416,
+      "relevantRoles": 14
+    },
+    {
+      "company": "RSM (Transfer Pricing)",
+      "pageUrl": "https://jobs.rsmus.com/",
+      "resolvedUrl": "https://jobs.rsmus.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "rsm.wd1.myworkdayjobs.com",
+            "site": "RSMCareers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Workday:rsm/RSMCareers",
+          "jobsSeen": 40
+        }
+      ],
+      "jobsSeen": 40,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Crowe (Transfer Pricing)",
+      "pageUrl": "https://www.crowe.com/careers",
+      "resolvedUrl": "https://www.crowe.com/careers",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Crowe (Transfer Pricing)",
+      "pageUrl": "https://careers.crowe.com/",
+      "resolvedUrl": "https://careers.crowe.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "phenom"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Crowe (Transfer Pricing)",
+      "pageUrl": "https://careers.crowe.com/student-careers",
+      "resolvedUrl": "https://careers.crowe.com/student-careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "phenom"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte UK Economic Advisory",
+      "pageUrl": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
+      "resolvedUrl": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG UK Economics",
+      "pageUrl": "https://www.kpmgcareers.co.uk/",
+      "resolvedUrl": "https://www.kpmgcareers.co.uk/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EY UK Economic Advisory",
+      "pageUrl": "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship",
+      "resolvedUrl": "https://www.ey.com/en_uk/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Grant Thornton UK Economic Consulting",
+      "pageUrl": "https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/",
+      "resolvedUrl": "https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG Singapore Economics & Regulation",
+      "pageUrl": "https://kpmg.com/us/en.html",
+      "resolvedUrl": "https://kpmg.com/us/en.html",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG Singapore Economics & Regulation",
+      "pageUrl": "https://www.kpmguscareers.com/early-career/",
+      "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "avature"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG Singapore Economics & Regulation",
+      "pageUrl": "https://www.kpmguscareers.com/job-search/",
+      "resolvedUrl": "https://www.kpmguscareers.com/job-search/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "PRECISIONheor (Precision AQ)",
+      "pageUrl": "https://job-boards.greenhouse.io/precisionaq",
+      "resolvedUrl": "https://job-boards.greenhouse.io/precisionaq",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "precisionaq"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "IQVIA (HEOR)",
+      "pageUrl": "https://jobs.iqvia.com/en",
+      "resolvedUrl": "https://jobs.iqvia.com/en",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "IQVIA (HEOR)",
+      "pageUrl": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/",
+      "resolvedUrl": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "iqvia.wd1.myworkdayjobs.com",
+            "site": "IQVIA"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Evidera (Thermo Fisher)",
+      "pageUrl": "https://jobs.thermofisher.com/global/en/",
+      "resolvedUrl": "https://jobs.thermofisher.com/global/en/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "brassring",
+        "phenom"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Avalere Health",
+      "pageUrl": "https://jobs.lever.co/avalerehealth",
+      "resolvedUrl": "https://jobs.lever.co/avalerehealth",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "lever": [
+          "avalerehealth",
+          "js"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Dobson DaVanzo & Associates",
+      "pageUrl": "https://www.dobsondavanzo.com/careers/",
+      "resolvedUrl": "https://www.dobsondavanzo.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Milliman",
+      "pageUrl": "https://careers.milliman.com/en/Search",
+      "resolvedUrl": "https://careers.milliman.com/en/Search",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "ultipro"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Health Management Associates",
+      "pageUrl": "https://www.healthmanagement.com/career-opportunities/",
+      "resolvedUrl": "https://www.healthmanagement.com/career-opportunities/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "careers-healthmanagement"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:careers-healthmanagement",
+          "jobsSeen": 10
+        }
+      ],
+      "jobsSeen": 10,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Genesis Research Group",
+      "pageUrl": "https://genesisrg.com/careers/",
+      "resolvedUrl": "https://genesisrg.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lumanity",
+      "pageUrl": "https://lumanity.com/careers/current-openings/",
+      "resolvedUrl": "https://lumanity.com/careers/current-openings/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "uscareers-lumanity",
+          "emeacareers-lumanity",
+          "earlycareer-lumanity"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:uscareers-lumanity",
+          "jobsSeen": 14
+        },
+        {
+          "source": "iCIMS:emeacareers-lumanity",
+          "jobsSeen": 13
+        },
+        {
+          "source": "iCIMS:earlycareer-lumanity",
+          "jobsSeen": 1
+        }
+      ],
+      "jobsSeen": 28,
+      "relevantRoles": 1
+    },
+    {
+      "company": "Xcenda (Cencora)",
+      "pageUrl": "https://www.xcenda.com/careers-student-programs",
+      "resolvedUrl": "https://www.cencora.com/initiatives/pharma/mahc-student-programs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "myhrabc.wd5.myworkdayjobs.com",
+            "site": "Global"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Workday:myhrabc/Global",
+          "jobsSeen": 40
+        }
+      ],
+      "jobsSeen": 40,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "pageUrl": "https://www.trinitychurch.com/",
+      "resolvedUrl": "https://www.trinitychurch.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Medicus Economics",
+      "pageUrl": "https://medicushcs.com/",
+      "resolvedUrl": "https://medicushcs.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RTI Health Solutions",
+      "pageUrl": "https://www.rti.org/careers",
+      "resolvedUrl": "https://www.rti.org/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RTI Health Solutions",
+      "pageUrl": "https://careers.rti.org/",
+      "resolvedUrl": "https://careers.rti.org/careers-home",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "globalcareers-rtiinc",
+          "uscareers-rtiinc",
+          "rtihs-rtiinc"
+        ]
+      },
+      "unsupportedAts": [
+        "adp"
+      ],
+      "boards": [
+        {
+          "source": "iCIMS:globalcareers-rtiinc",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:uscareers-rtiinc",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:rtihs-rtiinc",
+          "jobsSeen": 9
+        }
+      ],
+      "jobsSeen": 9,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oxford Economics",
+      "pageUrl": "https://careers.oxfordeconomics.com/",
+      "resolvedUrl": "https://careers.oxfordeconomics.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Capital Economics",
+      "pageUrl": "https://apply.workable.com/capital-economics/",
+      "resolvedUrl": "https://apply.workable.com/capital-economics/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workable": [
+          "capital-economics"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Moody's Analytics (Economics)",
+      "pageUrl": "https://careers.moodys.com/en/search-jobs",
+      "resolvedUrl": "https://careers.moodys.com/en/search-jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "radancy",
+        "successfactors"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    }
+  ],
+  "customSourceAudits": [
+    {
+      "company": "Bates White",
+      "key": "bates-white",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Mathematica",
+      "key": "mathematica",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte (Economics / Transfer Pricing)",
+      "key": "deloitte-us",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EY (QUEST / Economic Advisory / Transfer Pricing)",
+      "key": "ey-us",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG (Economic & Valuation Services)",
+      "key": "kpmg-us",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kroll",
+      "key": "kroll",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RSM (Transfer Pricing)",
+      "key": "rsm",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Moody's Analytics (Economics)",
+      "key": "moodys",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Milliman",
+      "key": "milliman",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Xcenda (Cencora)",
+      "key": "cencora-xcenda",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Evidera (Thermo Fisher)",
+      "key": "thermo-evidera",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "RTI International",
+      "key": "rti",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Westat",
+      "key": "westat",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "American Institutes for Research",
+      "key": "air",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "NORC at the University of Chicago",
+      "key": "norc",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DAI Global",
+      "key": "dai",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Chemonics International",
+      "key": "chemonics",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Economic Consulting Associates",
+      "key": "eca",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Accuracy",
+      "key": "accuracy",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Copenhagen Economics",
+      "key": "copenhagen",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Frontier Economics Australia",
+      "key": "frontier-au",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte Access Economics",
+      "key": "deloitte-access",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Deloitte UK Economic Advisory",
+      "key": "deloitte-uk",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "KPMG UK Economics",
+      "key": "kpmg-uk",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "EY UK Economic Advisory",
+      "key": "ey-uk",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Grant Thornton UK Economic Consulting",
+      "key": "grant-thornton-uk",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Industrial Economics (IEc)",
+      "key": "iec",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Quantitative Economic Solutions",
+      "key": "qes",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vega Economics",
+      "key": "vega",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Epsilon Economics",
+      "key": "epsilon",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Greylock McKinnon Associates",
+      "key": "gma",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Resolution Economics",
+      "key": "resecon",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Intensity",
+      "key": "intensity",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Christensen Associates",
+      "key": "christensen",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Lear",
+      "key": "lear",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HoustonKemp",
+      "key": "houstonkemp",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Econsult Solutions",
+      "key": "econsult",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "CEPA",
+      "key": "cepa",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "London Economics",
+      "key": "london-economics",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    }
+  ]
+}
