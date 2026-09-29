@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T20:05:07.472Z",
-  "scanStartedAt": "2026-09-28T20:04:07.316Z",
+  "generatedAt": "2026-09-29T18:33:32.217Z",
+  "scanStartedAt": "2026-09-29T18:32:17.612Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 24,
     "confirmed-no-open-postings": 7,
-    "confirmed-openings-no-matching-role": 27,
-    "could-not-fully-verify": 174
+    "confirmed-openings-no-matching-role": 25,
+    "could-not-fully-verify": 176
   },
   "companies": [
     {
@@ -815,9 +815,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.summitsalonacademyportland.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1106,8 +1108,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 101,
-      "relevantRoles": 8
+      "jobsSeen": 100,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1445,10 +1447,14 @@
       ],
       "category": "Energy & Environmental Economics",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "careerPages": [
+        "https://www.baringa.com/en/careers/",
+        "https://www.baringa.com/en/careers/experienced/",
+        "https://job-boards.greenhouse.io/baringa"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 88,
       "relevantRoles": 0
     },
     {
@@ -2092,7 +2098,7 @@
         "ICF"
       ],
       "category": "Policy & Research Economics",
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.icf.com/us/en"
       ],
@@ -2113,7 +2119,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -2302,7 +2308,7 @@
       "careerPages": [
         "https://job-boards.greenhouse.io/rclco"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2454,9 +2460,11 @@
       ],
       "category": "Policy & Research Economics",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://econw.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2802,7 +2810,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1416,
+      "jobsSeen": 1424,
       "relevantRoles": 14
     },
     {
@@ -2844,9 +2852,11 @@
       ],
       "category": "Transfer Pricing & Valuation",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://bakerconstruction.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2972,7 +2982,7 @@
         "PRECISIONheor (Precision AQ)"
       ],
       "category": "Health Economics & HEOR",
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://job-boards.greenhouse.io/precisionaq"
       ],
@@ -2987,7 +2997,7 @@
         "IQVIA (HEOR)"
       ],
       "category": "Health Economics & HEOR",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.iqvia.com/en",
         "https://iqvia.wd1.myworkdayjobs.com/IQVIA/"
@@ -3099,7 +3109,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 28,
+      "jobsSeen": 29,
       "relevantRoles": 1
     },
     {
@@ -3186,7 +3196,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {
@@ -3249,7 +3259,7 @@
         "Capital Economics"
       ],
       "category": "Macro & Economic Research",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://apply.workable.com/capital-economics/"
       ],

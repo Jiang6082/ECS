@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-09-28 &nbsp;•&nbsp; **127 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **31 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md))
+> **Last scan:** 2026-09-29 &nbsp;•&nbsp; **126 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **29 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md))
 
 > ✅ **[Verified open roles list](reports/VERIFIED_OPEN_ROLES.md)** — hand-checked status (open / likely open / closed) with title + link for every role found ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,7 +12,7 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-09-28_
+_Scan date: 2026-09-29_
 
 _No new roles detected in the latest scan._
 
@@ -20,21 +20,20 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles Available
 
-**127** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**126** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (61)](#north-america) · [Europe (32)](#europe) · [Asia (4)](#asia) · [Middle East (1)](#middle-east) · [South America (4)](#south-america) · [Remote / Unspecified (25)](#remote--unspecified)
+**Regions:** [North America (59)](#north-america) · [Europe (33)](#europe) · [Asia (5)](#asia) · [Middle East (1)](#middle-east) · [South America (4)](#south-america) · [Remote / Unspecified (24)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>61 roles</strong> — click to expand</summary>
+<summary><strong>59 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Title Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — US-MA-Boston \| US-CA-Los Angeles \| US-CA-San Francisco \| US-NY-New York
 - **Analysis Group** — [Title Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) — US-MA-Boston \| US-IL-Chicago \| US-CO-Denver \| US-CA-Los Angeles
 - **Analysis Group** — [Title Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) — CA-QC-Montreal \| CA-ON-Toronto
 - **Analysis Group** — [Title Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) — CA-QC-Montreal \| CA-ON-Toronto
 - **Analysis Group** — [Title Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) \| Stage d&rsquo;&eacute;t&eacute; - Professionnel de recherche - G&eacute;n&eacute;raliste - Montr&eacute;al/Toronto (Date de d&eacute;but 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) — CA-QC-Montreal \| CA-ON-Toronto
-- **Ankura** — [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Construction--Disputes---Advisory_R104963) — Los Angeles, CA
 - **Ankura** — [University Intern, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987) — Los Angeles, CA
 - **Ankura** — [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991) — Washington D.C.
 - **Ankura** — [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990) — New York, NY
@@ -73,7 +72,6 @@ _No new roles detected in the latest scan._
 - **Integra FEC** — [(SPRING) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406115008) — Austin, Texas
 - **Integra FEC** — [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) — Austin, Texas
 - **Integra FEC** — [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) — Austin, Texas
-- **PRECISIONheor (Precision AQ)** — [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) — Boston, Massachusetts, United States
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) — Toronto, Ontario, Canada
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) — New York, New York, United States
@@ -96,16 +94,17 @@ _No new roles detected in the latest scan._
 ### Europe
 
 <details>
-<summary><strong>32 roles</strong> — click to expand</summary>
+<summary><strong>33 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — FR-Paris
-- **Analysis Group** — [Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Paris (2027 Start Date) / Stage - Analyste - &Eacute;conomie de la sant&eacute; et &eacute;pid&eacute;miologie - Paris (Date de d&eacute;but 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — UK-London
+- **Analysis Group** — [Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - &Eacute;conomie de la sant&eacute; et &eacute;pid&eacute;miologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — UK-London
 - **Analysis Group** — [Title Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - &Eacute;conomie de la sant&eacute;, biostatistique, et &eacute;pid&eacute;miologie - Montr&eacute;al / Toronto (Date de d&eacute;but 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) — UK-London
 - **Ankura** — [Summer Internship 2027, Construction, Disputes & Advisory (Graduate Programme conversion September 2028)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UK-London/Summer-Internship-2027--Construction--Disputes---Advisory--Graduate-Programme-conversion-September-2028-_R105050) — UK London
 - **Ankura** — [Summer Internship 2027, Construction, Disputes & Advisory (Graduate Programme conversion September 2028)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UK-London/Summer-Internship-2027--Construction--Disputes---Advisory--Graduate-Programme-conversion-September-2028-_R105051) — UK London
 - **Berkeley Research Group** — [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) — Berlin, GER
 - **Berkeley Research Group** — [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) — Brussels, BEL
 - **Berkeley Research Group** — [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) — Brussels, BEL
+- **Capital Economics** — [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) — London, England, United Kingdom
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium
 - **Charles River Associates** — [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) — Dusseldorf, Germany; Munich, Germany
 - **Compass Lexecon** — [Intern \| Competition Practice \| Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany
@@ -136,11 +135,12 @@ _No new roles detected in the latest scan._
 ### Asia
 
 <details>
-<summary><strong>4 roles</strong> — click to expand</summary>
+<summary><strong>5 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Title Summer Research Professional Intern-Health Care (HEOR, Epidemiology & Market Access) -Montreal/Toronto (2027 Start Date) \| Stage d&rsquo;&eacute;t&eacute;-Professionnel de recherche-&Eacute;conomie de la sant&eacute;, biostatistique, et &eacute;pid&eacute;miologie - Montr&eacute;al/Toronto (Date de d&eacute;but 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3065/job) — CN-Beijing
 - **Aurora Energy Research** — [P&C Analyst (Intern)](https://careers.auroraer.com/en/postings/d80c8fae-ba4e-43c9-8e68-264b953aa9d0) — Gurugram, India
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) — Tokyo, Japan
+- **Houlihan Lokey (Dispute Resolution Consulting)** — [Off-Cycle Intern, Financial and Valuation Advisory (Hong Kong)](https://hl.wd1.myworkdayjobs.com/Campus/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096) — Hong Kong, China
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore
 
 </details>
@@ -169,13 +169,12 @@ _No new roles detected in the latest scan._
 ### Remote / Unspecified
 
 <details>
-<summary><strong>25 roles</strong> — click to expand</summary>
+<summary><strong>24 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Title Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job)
 - **Ankura** — [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Phoenix-AZ/University-Intern--Construction--Disputes---Advisory_R104967-1) — 2 Locations
 - **Compass Lexecon** — [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) — 5 Locations
-- **Houlihan Lokey (Dispute Resolution Consulting)** — [Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915) — 3 Locations
-- **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations
+- **IQVIA (HEOR)** — [Intern in Evidence Synthesis - Health Economics - Athens or Lisbon (hybrid)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) — 2 Locations
 - **Lumanity** — [Job Posting Title Strategy Consulting Internship](https://earlycareer-lumanity.icims.com/jobs/2246/job)
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations
 - **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations

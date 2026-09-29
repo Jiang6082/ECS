@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-09-28T20:04:07.316Z",
+  "searchedAt": "2026-09-29T18:32:17.612Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -264,7 +264,6 @@
     "J.S. Held",
     "Gnarus Advisors",
     "Analysis & Inference",
-    "Summit Consulting",
     "Hemming Morse",
     "LitiNomics",
     "Vocational Economics",
@@ -280,7 +279,6 @@
     "Aldwych Partners",
     "Indepen",
     "Analysys Mason",
-    "Baringa",
     "LCP Delta",
     "AFRY Management Consulting",
     "SEO Amsterdam Economics",
@@ -324,7 +322,6 @@
     "Acumen",
     "Econometrica",
     "L&M Policy Research",
-    "ECONorthwest",
     "Chmura Economics & Analytics",
     "Camoin Associates",
     "Estolano Advisors",
@@ -333,7 +330,6 @@
     "Potomac Economics",
     "Monitoring Analytics",
     "Opinion Dynamics",
-    "Baker Tilly (Transfer Pricing)",
     "Ryan (Transfer Pricing)",
     "Andersen (Transfer Pricing)",
     "Economics Partners",
@@ -821,6 +817,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "Summit Consulting",
+      "pageUrl": "https://www.summitsalonacademyportland.com/",
+      "resolvedUrl": "https://www.summitsalonacademyportland.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Pinnacle Economics",
       "pageUrl": "https://www.pinnaclesys.com/en/",
       "resolvedUrl": "https://www.pinnaclesys.com/en/",
@@ -1040,11 +1048,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 101
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 101,
-      "relevantRoles": 8
+      "jobsSeen": 100,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1237,6 +1245,51 @@
       "relevantRoles": 0
     },
     {
+      "company": "Baringa",
+      "pageUrl": "https://www.baringa.com/en/careers/",
+      "resolvedUrl": "https://www.baringa.com/en/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Baringa",
+      "pageUrl": "https://www.baringa.com/en/careers/experienced/",
+      "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Baringa",
+      "pageUrl": "https://job-boards.greenhouse.io/baringa",
+      "resolvedUrl": "https://job-boards.greenhouse.io/baringa",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {
+        "greenhouse": [
+          "baringa"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:baringa",
+          "jobsSeen": 88
+        }
+      ],
+      "jobsSeen": 88,
+      "relevantRoles": 0
+    },
+    {
       "company": "DICE Consult",
       "pageUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
       "resolvedUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
@@ -1421,19 +1474,10 @@
       "resolvedUrl": "https://indecon.com/open-positions/",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {
-        "breezy": [
-          "iec"
-        ]
-      },
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Breezy:iec",
-          "jobsSeen": 1
-        }
-      ],
-      "jobsSeen": 1,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -1597,8 +1641,8 @@
       "company": "RCLCO",
       "pageUrl": "https://job-boards.greenhouse.io/rclco",
       "resolvedUrl": "https://job-boards.greenhouse.io/rclco",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "greenhouse": [
           "rclco"
@@ -1670,6 +1714,20 @@
       "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "ECONorthwest",
+      "pageUrl": "https://econw.com/careers/",
+      "resolvedUrl": "https://econw.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1906,14 +1964,14 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 708
+          "jobsSeen": 712
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
-          "jobsSeen": 708
+          "jobsSeen": 712
         }
       ],
-      "jobsSeen": 1416,
+      "jobsSeen": 1424,
       "relevantRoles": 14
     },
     {
@@ -1976,6 +2034,18 @@
       "unsupportedAts": [
         "phenom"
       ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Baker Tilly (Transfer Pricing)",
+      "pageUrl": "https://bakerconstruction.com/",
+      "resolvedUrl": "https://bakerconstruction.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2221,7 +2291,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 14
+          "jobsSeen": 15
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -2232,7 +2302,7 @@
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 28,
+      "jobsSeen": 29,
       "relevantRoles": 1
     },
     {
@@ -2322,10 +2392,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 9
+          "jobsSeen": 8
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {

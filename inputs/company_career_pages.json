@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:04:07.317Z",
+  "generatedAt": "2026-09-29T18:32:17.613Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -287,8 +287,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Summit Consulting": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.summitsalonacademyportland.com/"
+      ],
+      "updatedAt": "2026-09-29T18:32:17.613Z"
     },
     "Hemming Morse": {
       "careerPages": [],
@@ -521,8 +523,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Baringa": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.baringa.com/en/careers/",
+        "https://www.baringa.com/en/careers/experienced/",
+        "https://job-boards.greenhouse.io/baringa"
+      ],
+      "updatedAt": "2026-09-29T18:32:17.613Z"
     },
     "LCP Delta": {
       "careerPages": [],
@@ -873,8 +879,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "ECONorthwest": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://econw.com/careers/"
+      ],
+      "updatedAt": "2026-09-29T18:32:17.613Z"
     },
     "Beacon Economics": {
       "careerPages": [
@@ -1020,8 +1028,10 @@
       "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Baker Tilly (Transfer Pricing)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://bakerconstruction.com/"
+      ],
+      "updatedAt": "2026-09-29T18:32:17.613Z"
     },
     "Ryan (Transfer Pricing)": {
       "careerPages": [],

@@ -1,17 +1,17 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-09-28T20:02:35.511Z
+Scanned: 2026-09-29T18:30:39.778Z
 Firms in universe: 232
-Firms with at least one live ATS board: 59
-Internship roles: 111
-Entry-level analyst roles: 31
+Firms with at least one live ATS board: 57
+Internship roles: 110
+Entry-level analyst roles: 29
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
 ## Internships
 
 - **Analysis Group** — [Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — FR-Paris (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
-- **Analysis Group** — [Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Paris (2027 Start Date) / Stage - Analyste - &Eacute;conomie de la sant&eacute; et &eacute;pid&eacute;miologie - Paris (Date de d&eacute;but 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — UK-London (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
+- **Analysis Group** — [Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - &Eacute;conomie de la sant&eacute; et &eacute;pid&eacute;miologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — UK-London (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Title Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — Location not listed (Official ATS iCIMS:associatecareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Title Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - &Eacute;conomie de la sant&eacute;, biostatistique, et &eacute;pid&eacute;miologie - Montr&eacute;al / Toronto (Date de d&eacute;but 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) — UK-London (Official ATS iCIMS:associatecareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Title Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — US-MA-Boston | US-CA-Los Angeles | US-CA-San Francisco | US-NY-New York (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
@@ -23,7 +23,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Ankura** — [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) — UAE Dubai DIFC (Official ATS Workday:ankura/Ankura; timing: 2027)
 - **Ankura** — [Summer Internship 2027, Construction, Disputes & Advisory (Graduate Programme conversion September 2028)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UK-London/Summer-Internship-2027--Construction--Disputes---Advisory--Graduate-Programme-conversion-September-2028-_R105050) — UK London (Official ATS Workday:ankura/Ankura; timing: 2027)
 - **Ankura** — [Summer Internship 2027, Construction, Disputes & Advisory (Graduate Programme conversion September 2028)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UK-London/Summer-Internship-2027--Construction--Disputes---Advisory--Graduate-Programme-conversion-September-2028-_R105051) — UK London (Official ATS Workday:ankura/Ankura; timing: 2027)
-- **Ankura** — [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Construction--Disputes---Advisory_R104963) — Los Angeles, CA (Official ATS Workday:ankura/Ankura; timing not stated in title)
 - **Ankura** — [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Phoenix-AZ/University-Intern--Construction--Disputes---Advisory_R104967-1) — 2 Locations (Official ATS Workday:ankura/Ankura; timing not stated in title)
 - **Ankura** — [University Intern, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987) — Los Angeles, CA (Official ATS Workday:ankura/Ankura; timing not stated in title)
 - **Ankura** — [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991) — Washington D.C. (Official ATS Workday:ankura/Ankura; timing not stated in title)
@@ -47,6 +46,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Berkeley Research Group** — [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) — Berlin, GER (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
 - **Berkeley Research Group** — [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) — Brussels, BEL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing: 2027)
 - **Berkeley Research Group** — [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) — Brussels, BEL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
+- **Capital Economics** — [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) — London, England, United Kingdom (Official ATS Workable:capital-economics; timing not stated in title)
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) — Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) — Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) — Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
@@ -70,18 +70,17 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **E.CA Economics** — [Intern at Economics Consultancy (m/f/d)](https://e-ca.jobs.personio.de/job/369975) — Berlin (Official ATS Personio:e-ca; timing not stated in title)
 - **Econ One** — [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) — Los Angeles, California, United States (Official ATS Workable:econ-one-research; timing: Summer)
 - **Energy + Environmental Economics (E3)** — [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) — San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta (Official ATS Lever:ethree; timing: 2027)
-- **Houlihan Lokey (Dispute Resolution Consulting)** — [Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915) — 3 Locations (Official ATS Workday:hl/Campus; timing: Summer 2027)
-- **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations (Official ATS Workday:icf/ICFExternal_Career_Site; timing: 2027 Summer)
+- **Houlihan Lokey (Dispute Resolution Consulting)** — [Off-Cycle Intern, Financial and Valuation Advisory (Hong Kong)](https://hl.wd1.myworkdayjobs.com/Campus/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096) — Hong Kong, China (Official ATS Workday:hl/Campus; timing: Off-Cycle)
 - **Integra FEC** — [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406100008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SPRING)
 - **Integra FEC** — [(SPRING) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406115008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SPRING)
 - **Integra FEC** — [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SUMMER)
 - **Integra FEC** — [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SUMMER)
+- **IQVIA (HEOR)** — [Intern in Evidence Synthesis - Health Economics - Athens or Lisbon (hybrid)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) — 2 Locations (Official ATS Workday:iqvia/IQVIA; timing not stated in title)
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC; timing: Summer 2027)
 - **NERA Economic Consulting** — [NERA Summer Intern 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) — London - St. Botolph (Official ATS Workday:mmc/MMC; timing: 2027)
 - **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations (Official ATS Workday:mmc/MMC; timing: Summer 2028)
 - **NERA Economic Consulting** — [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) — 2 Locations (Official ATS Workday:mmc/MMC; timing not stated in title)
 - **Oxford Economics** — [2027 UK Placement Programme (London, Belfast & Oxford)](https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9) — London, UK (Official ATS Pinpoint:careers.oxfordeconomics.com; timing: 2027)
-- **PRECISIONheor (Precision AQ)** — [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA (Official ATS Greenhouse:precisionaq; timing: Summer 2027; graduation years mentioned: 2027, 2029)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Advisory - Intern - Milano - Deals Valuation Financial Services](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Advisory---Intern---Milano---Deals-Valuation-Financial-Services_605599WD) — Milan (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica - Roma](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) — Rome (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) — Palermo (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
@@ -128,7 +127,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Analysis Group** — [Title Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) — UK-London (Official ATS iCIMS:analystcareers-analysisgroup)
 - **Analysis Group** — [Title Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) — US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles (Official ATS iCIMS:analystcareers-analysisgroup)
 - **Analysis Group** — [Title Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) — CN-Beijing (Official ATS iCIMS:analystcareers-analysisgroup)
-- **Aurora Energy Research** — [2027 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/6cce184a-db54-45aa-9c8b-ace0ca9fa093) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com)
 - **Aurora Energy Research** — [2027 Graduate Analyst Program (Austin)](https://careers.auroraer.com/en/postings/c5211d96-2d16-4823-b845-e1425240c8c6) — Austin, USA (Official ATS Pinpoint:careers.auroraer.com)
 - **Capital Economics** — [Assistant Economist - Graduate Training Scheme](https://apply.workable.com/capital-economics/j/7CA67FCD5A/) — London, England, United Kingdom (Official ATS Workable:capital-economics)
 - **Compass Lexecon** — [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) — Beijing, China (Official ATS Workday:fticonsulting/CompassLexeconCareers)
@@ -136,7 +134,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Eastern Research Group** — [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) — Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA (Official ATS Lever:erg)
 - **Econ One** — [Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/2BCF058B45/) — Los Angeles, California, United States (Official ATS Workable:econ-one-research)
 - **Energy + Environmental Economics (E3)** — [Analyst](https://jobs.lever.co/ethree/5b7f68f4-07f5-4e5c-83b0-dba55cbe56a8) — San Francisco, CA; Boston, MA; Calgary, Alberta; New York, NY (Official ATS Lever:ethree)
-- **Houlihan Lokey (Dispute Resolution Consulting)** — [2027 Financial Analyst (Class of 2027), Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/XMLNAME-2027-Financial-Analyst--Class-of-2027---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R3496) — 6 Locations (Official ATS Workday:hl/Campus)
 - **HR&A Advisors** — [Analyst, Housing](https://hraadvisors.applytojob.com/apply/HP9SzqVzwK/Analyst-Housing) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/TAm8N2k8Xm/Analyst-Inclusive-Cities) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
@@ -274,6 +271,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - BERL
 - Asia Competition Associates
 - Mathematica
+- Industrial Economics (IEc)
 - RTI International
 - Westat
 - NORC at the University of Chicago
@@ -316,6 +314,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - EY UK Economic Advisory
 - Grant Thornton UK Economic Consulting
 - KPMG Singapore Economics & Regulation
+- PRECISIONheor (Precision AQ)
 - Evidera (Thermo Fisher)
 - Dobson DaVanzo & Associates
 - Milliman

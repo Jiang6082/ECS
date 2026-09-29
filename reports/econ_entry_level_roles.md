@@ -1,7 +1,7 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-09-28T20:04:07.316Z
-Roles: 31
+Scanned: 2026-09-29T18:32:17.612Z
+Roles: 29
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
@@ -35,10 +35,9 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Compass Lexecon** - [Analyst - Brussels - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Analyst---Brussels---Q3-2026_JR260997) - Brussels, Belgium - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Junior Compliance and Forensics Consultant - Start now](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/Junior-Compliance-and-Forensics-Consultant---Start-September-2026_662476WD-1) - Brussels - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title
 
-### Asia (5)
+### Asia (4)
 
 - **Analysis Group** - [Title Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) - CN-Beijing - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Aurora Energy Research** - [2027 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/6cce184a-db54-45aa-9c8b-ace0ca9fa093) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **Compass Lexecon** - [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) - Beijing, China - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
 - **Trinity Life Sciences** - [Analyst](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/India---Gurgaon/Analyst_JR100599) - India - Gurgaon - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing not stated in title
 - **Trinity Life Sciences** - [Associate Analyst](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/India---Gurgaon/Associate-Analyst_JR100430) - India - Gurgaon - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing not stated in title
@@ -63,6 +62,6 @@ _None._
 
 - **The Brattle Group** - [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) - Sydney, New South Wales, Australia - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing not stated in title; graduation years mentioned: 2027
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Houlihan Lokey (Dispute Resolution Consulting)** - [2027 Financial Analyst (Class of 2027), Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/XMLNAME-2027-Financial-Analyst--Class-of-2027---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R3496) - 6 Locations - Confirmed official posting (Official ATS Workday:hl/Campus): timing: 2027
+_None._
