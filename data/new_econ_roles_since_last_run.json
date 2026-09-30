@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-09-29T18:33:32.262Z",
-  "previousScanAt": "2026-09-28T20:04:07.316Z",
-  "currentScanAt": "2026-09-29T18:32:17.612Z",
-  "previousRows": 127,
-  "currentRows": 126,
-  "added": [],
-  "removed": []
+  "generatedAt": "2026-09-30T18:21:55.899Z",
+  "previousScanAt": "2026-09-29T18:32:17.612Z",
+  "currentScanAt": "2026-09-30T18:20:41.531Z",
+  "previousRows": 126,
+  "currentRows": 129,
+  "added": [
+    {
+      "Company": "Capital Economics",
+      "Category": "Macro & Economic Research",
+      "Title": "Research Assistant (London) - Industrial Placement Year",
+      "Location": "London, England, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://apply.workable.com/capital-economics/j/2789A61D4B/",
+      "Source": "Official ATS Workable:capital-economics",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Houlihan Lokey (Dispute Resolution Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Off-Cycle Intern, Financial and Valuation Advisory (Hong Kong)",
+      "Location": "Hong Kong, China",
+      "Region": "Asia",
+      "URL": "https://hl.wd1.myworkdayjobs.com/Campus/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096",
+      "Source": "Official ATS Workday:hl/Campus",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Construction, Disputes & Advisory",
+      "Location": "Los Angeles, CA",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Construction--Disputes---Advisory_R104963",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Houlihan Lokey (Dispute Resolution Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations",
+      "Location": "3 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915",
+      "Source": "Official ATS Workday:hl/Campus",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "ICF",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249",
+      "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

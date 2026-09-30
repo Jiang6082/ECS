@@ -1,24 +1,24 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-09-29T18:32:17.612Z
+Last updated: 2026-09-30T18:20:41.531Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 142
-- Current internship roles: 126
+- Career pages checked: 151
+- Current internship roles: 129
 - Entry-level analyst roles: 29 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 3
 - Firms with matching roles: 24
-- Confirmed no open postings: 7
+- Confirmed no open postings: 8
 - Openings but no matching role: 25
-- Could not fully verify: 176
+- Could not fully verify: 175
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 62
-- Transfer Pricing & Valuation: 32
+- Litigation, Antitrust & Damages: 66
+- Transfer Pricing & Valuation: 31
 - Health Economics & HEOR: 10
 - Big 4 & Advisory Economics: 10
 - Energy & Environmental Economics: 7
@@ -31,13 +31,13 @@ Last updated: 2026-09-29T18:32:17.612Z
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Capital Economics** - [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) - London, England, United Kingdom
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Houlihan Lokey (Dispute Resolution Consulting)** - [Off-Cycle Intern, Financial and Valuation Advisory (Hong Kong)](https://hl.wd1.myworkdayjobs.com/Campus/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096) - Hong Kong, China
 
 ### Oceania (0)
 
@@ -65,7 +65,9 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Ankura** - [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Construction--Disputes---Advisory_R104963) - Los Angeles, CA
+- **Houlihan Lokey (Dispute Resolution Consulting)** - [Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915) - 3 Locations
+- **ICF** - [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) - 2 Locations
 
 ## Full Reports
 

@@ -1,6 +1,6 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-09-29T18:32:17.612Z
+Scanned: 2026-09-30T18:20:41.531Z
 Roles: 29
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
@@ -31,8 +31,8 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 ### Europe (4)
 
 - **Analysis Group** - [Title Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - UK-London - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Aurora Energy Research** - [Graduate Analyst Programme (Oxford, 2027)](https://careers.auroraer.com/en/postings/0aa034dd-9e51-4c22-8707-01f4d8c98e6e) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **Capital Economics** - [Assistant Economist - Graduate Training Scheme](https://apply.workable.com/capital-economics/j/7CA67FCD5A/) - London, England, United Kingdom - Confirmed official posting (Official ATS Workable:capital-economics): timing not stated in title
-- **Compass Lexecon** - [Analyst - Brussels - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Analyst---Brussels---Q3-2026_JR260997) - Brussels, Belgium - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Junior Compliance and Forensics Consultant - Start now](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/Junior-Compliance-and-Forensics-Consultant---Start-September-2026_662476WD-1) - Brussels - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title
 
 ### Asia (4)

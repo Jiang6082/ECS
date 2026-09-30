@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-09-29T18:32:17.612Z",
+  "searchedAt": "2026-09-30T18:20:41.531Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -239,7 +239,6 @@
     "Secretariat",
     "Stout",
     "Houlihan Lokey (Dispute Resolution Consulting)",
-    "Integra FEC",
     "Global Economics Group",
     "Economists Incorporated",
     "Welch Consulting",
@@ -272,7 +271,6 @@
     "Frontier Economics",
     "Europe Economics",
     "Polynomics",
-    "Vivid Economics (McKinsey)",
     "Perspective Economics",
     "Pantheon Macroeconomics",
     "Plum Consulting",
@@ -289,11 +287,9 @@
     "BAK Economics",
     "Ecoplan",
     "INFRAS",
-    "Menon Economics",
     "Oslo Economics",
     "Vista Analyse",
     "THEMA Consulting Group",
-    "Ramboll Management Consulting",
     "Afi",
     "REF-E",
     "Prometeia",
@@ -303,7 +299,6 @@
     "BiGGAR Economics",
     "Metro Dynamics",
     "Sapere Research Group",
-    "ACIL Allen",
     "Synergies Economic Consulting",
     "The Centre for International Economics",
     "Oakley Greenwood",
@@ -318,7 +313,6 @@
     "Urban Institute",
     "The Cadmus Group",
     "TischlerBise",
-    "MDRC",
     "Acumen",
     "Econometrica",
     "L&M Policy Research",
@@ -363,10 +357,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 11
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
@@ -667,6 +661,60 @@
       "relevantRoles": 0
     },
     {
+      "company": "Integra FEC",
+      "pageUrl": "https://www.integrafec.com/careers",
+      "resolvedUrl": "https://www.integrafec.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "integra",
+          "integrainterns"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:integrainterns",
+          "jobsSeen": 8
+        }
+      ],
+      "jobsSeen": 8,
+      "relevantRoles": 4
+    },
+    {
+      "company": "Integra FEC",
+      "pageUrl": "https://job-boards.greenhouse.io/integra",
+      "resolvedUrl": "https://job-boards.greenhouse.io/integra",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "integra"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Integra FEC",
+      "pageUrl": "https://job-boards.greenhouse.io/integra?gh_src=web3.career",
+      "resolvedUrl": "https://job-boards.greenhouse.io/integra?gh_src=web3.career",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {
+        "greenhouse": [
+          "integra"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Greylock McKinnon Associates",
       "pageUrl": "https://www.gma-us.com/openings/",
       "resolvedUrl": "https://www.gma-us.com/openings/",
@@ -868,8 +916,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1052,7 +1100,7 @@
         }
       ],
       "jobsSeen": 100,
-      "relevantRoles": 7
+      "relevantRoles": 8
     },
     {
       "company": "Cornwall Insight",
@@ -1129,6 +1177,30 @@
           "technopolis-group"
         ]
       },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vivid Economics (McKinsey)",
+      "pageUrl": "https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9",
+      "resolvedUrl": "https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vivid Economics (McKinsey)",
+      "pageUrl": "https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d",
+      "resolvedUrl": "https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1272,10 +1344,13 @@
       "company": "Baringa",
       "pageUrl": "https://job-boards.greenhouse.io/baringa",
       "resolvedUrl": "https://job-boards.greenhouse.io/baringa",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "baringa"
+        ],
+        "greenhouse_eu": [
           "baringa"
         ]
       },
@@ -1283,10 +1358,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 88
+          "jobsSeen": 89
         }
       ],
-      "jobsSeen": 88,
+      "jobsSeen": 89,
       "relevantRoles": 0
     },
     {
@@ -1305,6 +1380,30 @@
       "company": "DICE Consult",
       "pageUrl": "https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5",
       "resolvedUrl": "https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Menon Economics",
+      "pageUrl": "https://menon.us/",
+      "resolvedUrl": "https://menon.us/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ramboll Management Consulting",
+      "pageUrl": "https://www.ramboll.com/careers",
+      "resolvedUrl": "https://www.ramboll.com/careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -1400,6 +1499,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "ACIL Allen",
+      "pageUrl": "https://careercenter.acil.org/",
+      "resolvedUrl": "https://careercenter.acil.org/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/",
       "resolvedUrl": "https://careers.marsden.com/",
@@ -1474,10 +1585,19 @@
       "resolvedUrl": "https://indecon.com/open-positions/",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {},
+      "atsTokens": {
+        "breezy": [
+          "iec"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Breezy:iec",
+          "jobsSeen": 2
+        }
+      ],
+      "jobsSeen": 2,
       "relevantRoles": 0
     },
     {
@@ -1641,8 +1761,8 @@
       "company": "RCLCO",
       "pageUrl": "https://job-boards.greenhouse.io/rclco",
       "resolvedUrl": "https://job-boards.greenhouse.io/rclco",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
           "rclco"
@@ -1710,6 +1830,18 @@
       "company": "REMI",
       "pageUrl": "https://www.remi.com/careers/",
       "resolvedUrl": "https://www.remi.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "MDRC",
+      "pageUrl": "https://www.mdrc.org/about/careers",
+      "resolvedUrl": "https://www.mdrc.org/about/careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -1964,14 +2096,14 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 712
+          "jobsSeen": 711
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
-          "jobsSeen": 712
+          "jobsSeen": 711
         }
       ],
-      "jobsSeen": 1424,
+      "jobsSeen": 1422,
       "relevantRoles": 14
     },
     {
@@ -2256,10 +2388,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 10
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -2291,18 +2423,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 15
+          "jobsSeen": 18
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 13
+          "jobsSeen": 15
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 29,
+      "jobsSeen": 34,
       "relevantRoles": 1
     },
     {
@@ -2392,10 +2524,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 8
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {

@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "Company": "Ankura",
+    "Title": "University Intern, Construction, Disputes & Advisory",
+    "Location": "Los Angeles, CA",
+    "Region": "North America",
+    "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Construction--Disputes---Advisory_R104963",
+    "Source": "Official ATS Workday:ankura/Ankura",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-29T18:32:17.612Z",
+    "detectedClosedAt": "2026-09-30T18:20:41.531Z"
+  },
+  {
+    "Company": "Houlihan Lokey (Dispute Resolution Consulting)",
+    "Title": "Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations",
+    "Location": "3 Locations",
+    "Region": "Remote / Unspecified",
+    "URL": "https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915",
+    "Source": "Official ATS Workday:hl/Campus",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-29T18:32:17.612Z",
+    "detectedClosedAt": "2026-09-30T18:20:41.531Z"
+  },
+  {
+    "Company": "ICF",
+    "Title": "2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)",
+    "Location": "2 Locations",
+    "Region": "Remote / Unspecified",
+    "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249",
+    "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-09-29T18:32:17.612Z",
+    "detectedClosedAt": "2026-09-30T18:20:41.531Z"
+  }
+]

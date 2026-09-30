@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:32:17.613Z",
+  "generatedAt": "2026-09-30T18:20:41.533Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -120,8 +120,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Integra FEC": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.integrafec.com/careers",
+        "https://job-boards.greenhouse.io/integra",
+        "https://job-boards.greenhouse.io/integra?gh_src=web3.career"
+      ],
+      "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Global Economics Group": {
       "careerPages": [],
@@ -441,8 +445,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Vivid Economics (McKinsey)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9",
+        "https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d"
+      ],
+      "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Accuracy": {
       "careerPages": [
@@ -578,8 +585,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Menon Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://menon.us/"
+      ],
+      "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Oslo Economics": {
       "careerPages": [],
@@ -594,8 +603,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Ramboll Management Consulting": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.ramboll.com/careers"
+      ],
+      "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Afi": {
       "careerPages": [],
@@ -676,8 +687,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "ACIL Allen": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://careercenter.acil.org/"
+      ],
+      "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Synergies Economic Consulting": {
       "careerPages": [],
@@ -863,8 +876,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "MDRC": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.mdrc.org/about/careers"
+      ],
+      "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Acumen": {
       "careerPages": [],
