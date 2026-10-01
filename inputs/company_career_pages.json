@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:20:41.533Z",
+  "generatedAt": "2026-10-01T18:45:37.965Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -72,8 +72,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Secretariat": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://secretariat-intl.com/careers/current-openings/",
+        "https://secretariat-intl.com/careers/",
+        "https://job-boards.greenhouse.io/secretariatadvisorsllc/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Intensity": {
       "careerPages": [
@@ -106,8 +110,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Stout": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.stout.com/en/careers",
+        "https://www.stout.com/en/careers/search",
+        "https://stout.wd5.myworkdayjobs.com/Stout-Careers"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Houlihan Lokey (Dispute Resolution Consulting)": {
       "careerPages": [],
@@ -247,8 +255,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "BLDS": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.bldsrestaurant.net/menu/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "EmployStats": {
       "careerPages": [],
@@ -263,8 +273,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Stanford Consulting Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.stanford.edu/about",
+        "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Market Platform Dynamics": {
       "careerPages": [],
@@ -322,8 +335,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "ARPC": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.arpc.afrc.af.mil/Services/Assignments/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Bates Group": {
       "careerPages": [
@@ -332,8 +347,10 @@
       "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Alvarez & Marsal (Disputes & Investigations)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://alvarezguitars.com/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "HKA": {
       "careerPages": [
@@ -643,8 +660,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Metro Dynamics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.metrostate.edu/students"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "HoustonKemp": {
       "careerPages": [
@@ -716,8 +735,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Axiom Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.axiomlaw.com/careers/lawyers"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Mandala Partners": {
       "careerPages": [],
@@ -882,8 +903,10 @@
       "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Acumen": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://acumen.org/jobs/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Econometrica": {
       "careerPages": [],
@@ -988,8 +1011,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Opinion Dynamics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://opiniondynamics.com/job-openings/",
+        "https://job-boards.greenhouse.io/opiniondynamics",
+        "https://opiniondynamics.com/about-us/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Deloitte (Economics / Transfer Pricing)": {
       "careerPages": [
@@ -1160,8 +1187,12 @@
       "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "OPEN Health": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.openhealthgroup.com/careers/",
+        "http://careers.openhealthgroup.com/",
+        "https://www.openhealthgroup.com/open-roles/"
+      ],
+      "updatedAt": "2026-10-01T18:45:37.965Z"
     },
     "Medicus Economics": {
       "careerPages": [

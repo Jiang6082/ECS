@@ -1,25 +1,29 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-09-29T18:32:17.612Z
-Current scan: 2026-09-30T18:20:41.531Z
-Previous rows: 126
-Current rows: 129
-New stable job URLs: 2
+Previous scan: 2026-09-30T18:20:41.531Z
+Current scan: 2026-10-01T18:45:37.964Z
+Previous rows: 129
+Current rows: 149
+New stable job URLs: 6
 No longer present: 3
 
 ## New Roles By Region
 
-### North America (0)
+### North America (5)
+
+- **Charles River Associates** - [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) - College Station, TX, United States; Tallahassee, FL, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates)
+- **Integra FEC** - [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5406101008) - Austin, Texas - Confirmed official posting (Career page Greenhouse:integrainterns)
+- **Integra FEC** - [(SPRING) Research Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5406116008) - Austin, Texas - Confirmed official posting (Career page Greenhouse:integrainterns)
+- **Integra FEC** - [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5406110008) - Austin, Texas - Confirmed official posting (Career page Greenhouse:integrainterns)
+- **Integra FEC** - [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5406120008) - Austin, Texas - Confirmed official posting (Career page Greenhouse:integrainterns)
+
+### Europe (0)
 
 _None._
 
-### Europe (1)
+### Asia (0)
 
-- **Capital Economics** - [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) - London, England, United Kingdom - Confirmed official posting (Official ATS Workable:capital-economics)
-
-### Asia (1)
-
-- **Houlihan Lokey (Dispute Resolution Consulting)** - [Off-Cycle Intern, Financial and Valuation Advisory (Hong Kong)](https://hl.wd1.myworkdayjobs.com/Campus/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096) - Hong Kong, China - Confirmed official posting (Official ATS Workday:hl/Campus)
+_None._
 
 ### Oceania (0)
 
@@ -41,12 +45,12 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations - Confirmed official posting (Official ATS Workday:pwc/US_Entry_Level_Careers)
 
 ## No Longer Present
 
-- **Ankura** - [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Construction--Disputes---Advisory_R104963)
-- **Houlihan Lokey (Dispute Resolution Consulting)** - [Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915)
-- **ICF** - [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249)
+- **Ankura** - [University Intern, Construction, Disputes & Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Phoenix-AZ/University-Intern--Construction--Disputes---Advisory_R104967-1)
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica - Roma](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3)
+- **Stout** - [Intern Summer 2027, Portfolio Valuation and Complex Securities (New York/San Diego)](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/New-York-NY/Intern-Summer-2027--Portfolio-Valuation-and-Complex-Securities--New-York-San-Diego-_r2202)

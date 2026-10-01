@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-09-30T18:20:41.531Z",
+  "searchedAt": "2026-10-01T18:45:37.964Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-09-30T18:20:41.533Z",
+    "generatedAt": "2026-10-01T18:45:37.965Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -308,8 +308,12 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Secretariat": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://secretariat-intl.com/careers/current-openings/",
+          "https://secretariat-intl.com/careers/",
+          "https://job-boards.greenhouse.io/secretariatadvisorsllc/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Intensity": {
         "careerPages": [
@@ -342,8 +346,12 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Stout": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.stout.com/en/careers",
+          "https://www.stout.com/en/careers/search",
+          "https://stout.wd5.myworkdayjobs.com/Stout-Careers"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Houlihan Lokey (Dispute Resolution Consulting)": {
         "careerPages": [],
@@ -483,8 +491,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "BLDS": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.bldsrestaurant.net/menu/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "EmployStats": {
         "careerPages": [],
@@ -499,8 +509,11 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Stanford Consulting Group": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.stanford.edu/about",
+          "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Market Platform Dynamics": {
         "careerPages": [],
@@ -558,8 +571,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "ARPC": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.arpc.afrc.af.mil/Services/Assignments/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Bates Group": {
         "careerPages": [
@@ -568,8 +583,10 @@
         "updatedAt": "2026-09-28T20:04:07.317Z"
       },
       "Alvarez & Marsal (Disputes & Investigations)": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://alvarezguitars.com/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "HKA": {
         "careerPages": [
@@ -879,8 +896,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Metro Dynamics": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.metrostate.edu/students"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "HoustonKemp": {
         "careerPages": [
@@ -952,8 +971,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Axiom Economics": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.axiomlaw.com/careers/lawyers"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Mandala Partners": {
         "careerPages": [],
@@ -1118,8 +1139,10 @@
         "updatedAt": "2026-09-30T18:20:41.533Z"
       },
       "Acumen": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://acumen.org/jobs/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Econometrica": {
         "careerPages": [],
@@ -1224,8 +1247,12 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Opinion Dynamics": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://opiniondynamics.com/job-openings/",
+          "https://job-boards.greenhouse.io/opiniondynamics",
+          "https://opiniondynamics.com/about-us/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Deloitte (Economics / Transfer Pricing)": {
         "careerPages": [
@@ -1396,8 +1423,12 @@
         "updatedAt": "2026-09-28T20:04:07.317Z"
       },
       "OPEN Health": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.openhealthgroup.com/careers/",
+          "http://careers.openhealthgroup.com/",
+          "https://www.openhealthgroup.com/open-roles/"
+        ],
+        "updatedAt": "2026-10-01T18:45:37.965Z"
       },
       "Medicus Economics": {
         "careerPages": [
@@ -1498,6 +1529,18 @@
       "pageUrl": "https://econone.com/careers/"
     },
     {
+      "company": "Secretariat",
+      "pageUrl": "https://secretariat-intl.com/careers/current-openings/"
+    },
+    {
+      "company": "Secretariat",
+      "pageUrl": "https://secretariat-intl.com/careers/"
+    },
+    {
+      "company": "Secretariat",
+      "pageUrl": "https://job-boards.greenhouse.io/secretariatadvisorsllc/"
+    },
+    {
       "company": "Intensity",
       "pageUrl": "https://intensity.com/opening/analyst"
     },
@@ -1516,6 +1559,18 @@
     {
       "company": "Kroll",
       "pageUrl": "https://careers.kroll.com/en/students"
+    },
+    {
+      "company": "Stout",
+      "pageUrl": "https://www.stout.com/en/careers"
+    },
+    {
+      "company": "Stout",
+      "pageUrl": "https://www.stout.com/en/careers/search"
+    },
+    {
+      "company": "Stout",
+      "pageUrl": "https://stout.wd5.myworkdayjobs.com/Stout-Careers"
     },
     {
       "company": "Coherent Economics",
@@ -1582,6 +1637,18 @@
       "pageUrl": "https://uadmissions.georgetown.edu/apply/first-year-applicants/"
     },
     {
+      "company": "BLDS",
+      "pageUrl": "https://www.bldsrestaurant.net/menu/"
+    },
+    {
+      "company": "Stanford Consulting Group",
+      "pageUrl": "https://www.stanford.edu/about"
+    },
+    {
+      "company": "Stanford Consulting Group",
+      "pageUrl": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/"
+    },
+    {
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/"
     },
@@ -1598,8 +1665,16 @@
       "pageUrl": "https://quadrant.gg/"
     },
     {
+      "company": "ARPC",
+      "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/"
+    },
+    {
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/"
+    },
+    {
+      "company": "Alvarez & Marsal (Disputes & Investigations)",
+      "pageUrl": "https://alvarezguitars.com/"
     },
     {
       "company": "HKA",
@@ -1746,6 +1821,10 @@
       "pageUrl": "https://steer.education/"
     },
     {
+      "company": "Metro Dynamics",
+      "pageUrl": "https://www.metrostate.edu/students"
+    },
+    {
       "company": "HoustonKemp",
       "pageUrl": "https://houstonkemp.com/careers/graduates/"
     },
@@ -1780,6 +1859,10 @@
     {
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/company/marsden-central"
+    },
+    {
+      "company": "Axiom Economics",
+      "pageUrl": "https://www.axiomlaw.com/careers/lawyers"
     },
     {
       "company": "Mathematica",
@@ -1866,6 +1949,10 @@
       "pageUrl": "https://www.mdrc.org/about/careers"
     },
     {
+      "company": "Acumen",
+      "pageUrl": "https://acumen.org/jobs/"
+    },
+    {
       "company": "ECONorthwest",
       "pageUrl": "https://econw.com/careers/"
     },
@@ -1908,6 +1995,18 @@
     {
       "company": "Resources for the Future",
       "pageUrl": "https://www.rff.org/careers/"
+    },
+    {
+      "company": "Opinion Dynamics",
+      "pageUrl": "https://opiniondynamics.com/job-openings/"
+    },
+    {
+      "company": "Opinion Dynamics",
+      "pageUrl": "https://job-boards.greenhouse.io/opiniondynamics"
+    },
+    {
+      "company": "Opinion Dynamics",
+      "pageUrl": "https://opiniondynamics.com/about-us/"
     },
     {
       "company": "Deloitte (Economics / Transfer Pricing)",
@@ -2032,6 +2131,18 @@
     {
       "company": "Trinity Life Sciences",
       "pageUrl": "https://www.trinitychurch.com/"
+    },
+    {
+      "company": "OPEN Health",
+      "pageUrl": "https://www.openhealthgroup.com/careers/"
+    },
+    {
+      "company": "OPEN Health",
+      "pageUrl": "http://careers.openhealthgroup.com/"
+    },
+    {
+      "company": "OPEN Health",
+      "pageUrl": "https://www.openhealthgroup.com/open-roles/"
     },
     {
       "company": "Medicus Economics",
@@ -2293,6 +2404,69 @@
       "relevantRoles": 0
     },
     {
+      "company": "Secretariat",
+      "pageUrl": "https://secretariat-intl.com/careers/current-openings/",
+      "resolvedUrl": "https://secretariat-intl.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "secretariatadvisorsllc"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:secretariatadvisorsllc",
+          "jobsSeen": 78
+        }
+      ],
+      "jobsSeen": 78,
+      "relevantRoles": 22
+    },
+    {
+      "company": "Secretariat",
+      "pageUrl": "https://secretariat-intl.com/careers/",
+      "resolvedUrl": "https://secretariat-intl.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "secretariatadvisorsllc"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:secretariatadvisorsllc",
+          "jobsSeen": 78
+        }
+      ],
+      "jobsSeen": 78,
+      "relevantRoles": 22
+    },
+    {
+      "company": "Secretariat",
+      "pageUrl": "https://job-boards.greenhouse.io/secretariatadvisorsllc/",
+      "resolvedUrl": "https://job-boards.greenhouse.io/secretariatadvisorsllc/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "secretariatadvisorsllc"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:secretariatadvisorsllc",
+          "jobsSeen": 78
+        }
+      ],
+      "jobsSeen": 78,
+      "relevantRoles": 22
+    },
+    {
       "company": "Intensity",
       "pageUrl": "https://intensity.com/opening/analyst",
       "resolvedUrl": "https://secretariat-intl.com/opening/analyst",
@@ -2364,6 +2538,89 @@
       "unsupportedAts": [
         "radancy"
       ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stout",
+      "pageUrl": "https://www.stout.com/en/careers",
+      "resolvedUrl": "https://www.stout.com/en/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Student-Careers"
+          },
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Experienced-Careers"
+          },
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Careers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Workday:stout/Stout-Experienced-Careers",
+          "jobsSeen": 40
+        }
+      ],
+      "jobsSeen": 40,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stout",
+      "pageUrl": "https://www.stout.com/en/careers/search",
+      "resolvedUrl": "https://www.stout.com/en/careers/search",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Student-Careers"
+          },
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Experienced-Careers"
+          },
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Careers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Workday:stout/Stout-Experienced-Careers",
+          "jobsSeen": 40
+        }
+      ],
+      "jobsSeen": 40,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stout",
+      "pageUrl": "https://stout.wd5.myworkdayjobs.com/Stout-Careers",
+      "resolvedUrl": "https://stout.wd5.myworkdayjobs.com/Stout-Careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "stout.wd5.myworkdayjobs.com",
+            "site": "Stout-Careers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2589,6 +2846,42 @@
       "relevantRoles": 0
     },
     {
+      "company": "BLDS",
+      "pageUrl": "https://www.bldsrestaurant.net/menu/",
+      "resolvedUrl": "https://www.bldsrestaurant.net/menu/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stanford Consulting Group",
+      "pageUrl": "https://www.stanford.edu/about",
+      "resolvedUrl": "https://www.stanford.edu/about",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stanford Consulting Group",
+      "pageUrl": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/",
+      "resolvedUrl": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/",
       "resolvedUrl": "https://www.summitsalonacademyportland.com/",
@@ -2637,11 +2930,35 @@
       "relevantRoles": 0
     },
     {
+      "company": "ARPC",
+      "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
+      "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Alvarez & Marsal (Disputes & Investigations)",
+      "pageUrl": "https://alvarezguitars.com/",
+      "resolvedUrl": "https://alvarezguitars.com/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2760,7 +3077,7 @@
     {
       "company": "Economic Insight",
       "pageUrl": "https://www.economic-insight.com/careers/",
-      "resolvedUrl": "https://www.economic-insight.com/careers/",
+      "resolvedUrl": "https://economic-insight.com/careers/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -2820,11 +3137,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 100
+          "jobsSeen": 103
         }
       ],
-      "jobsSeen": 100,
-      "relevantRoles": 8
+      "jobsSeen": 103,
+      "relevantRoles": 11
     },
     {
       "company": "Cornwall Insight",
@@ -3056,9 +3373,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -3140,6 +3461,18 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Metro Dynamics",
+      "pageUrl": "https://www.metrostate.edu/students",
+      "resolvedUrl": "https://www.metrostate.edu/students",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -3250,6 +3583,18 @@
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/company/marsden-central",
       "resolvedUrl": "https://careers.marsden.com/company/marsden-central",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Axiom Economics",
+      "pageUrl": "https://www.axiomlaw.com/careers/lawyers",
+      "resolvedUrl": "https://www.axiomlaw.com/careers/lawyers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -3409,10 +3754,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 8
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -3575,6 +3920,27 @@
       "relevantRoles": 0
     },
     {
+      "company": "Acumen",
+      "pageUrl": "https://acumen.org/jobs/",
+      "resolvedUrl": "https://acumen.org/jobs/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "acumen"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:acumen",
+          "jobsSeen": 1
+        }
+      ],
+      "jobsSeen": 1,
+      "relevantRoles": 0
+    },
+    {
       "company": "ECONorthwest",
       "pageUrl": "https://econw.com/careers/",
       "resolvedUrl": "https://econw.com/careers/",
@@ -3719,6 +4085,46 @@
       "relevantRoles": 0
     },
     {
+      "company": "Opinion Dynamics",
+      "pageUrl": "https://opiniondynamics.com/job-openings/",
+      "resolvedUrl": "https://opiniondynamics.com/job-openings/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Opinion Dynamics",
+      "pageUrl": "https://job-boards.greenhouse.io/opiniondynamics",
+      "resolvedUrl": "https://job-boards.greenhouse.io/opiniondynamics",
+      "pageOk": false,
+      "pageStatus": 404,
+      "atsTokens": {
+        "greenhouse": [
+          "opiniondynamics"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Opinion Dynamics",
+      "pageUrl": "https://opiniondynamics.com/about-us/",
+      "resolvedUrl": "https://opiniondynamics.com/about-us/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Deloitte (Economics / Transfer Pricing)",
       "pageUrl": "https://apply.deloitte.com/en_US/careers/SearchJobs/",
       "resolvedUrl": "https://apply.deloitte.com/en_US/careers/SearchJobs/",
@@ -3820,15 +4226,15 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 711
+          "jobsSeen": 708
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
-          "jobsSeen": 711
+          "jobsSeen": 708
         }
       ],
-      "jobsSeen": 1422,
-      "relevantRoles": 14
+      "jobsSeen": 1416,
+      "relevantRoles": 8
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -4147,7 +4553,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 18
+          "jobsSeen": 17
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -4155,11 +4561,11 @@
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
-          "jobsSeen": 1
+          "jobsSeen": 0
         }
       ],
-      "jobsSeen": 34,
-      "relevantRoles": 1
+      "jobsSeen": 32,
+      "relevantRoles": 0
     },
     {
       "company": "Xcenda (Cencora)",
@@ -4189,6 +4595,44 @@
       "company": "Trinity Life Sciences",
       "pageUrl": "https://www.trinitychurch.com/",
       "resolvedUrl": "https://www.trinitychurch.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OPEN Health",
+      "pageUrl": "https://www.openhealthgroup.com/careers/",
+      "resolvedUrl": "https://www.openhealthgroup.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OPEN Health",
+      "pageUrl": "http://careers.openhealthgroup.com/",
+      "resolvedUrl": "https://careers.openhealthgroup.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "successfactors"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OPEN Health",
+      "pageUrl": "https://www.openhealthgroup.com/open-roles/",
+      "resolvedUrl": "https://www.openhealthgroup.com/open-roles/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -4578,6 +5022,19 @@
       "Company": "Analysis Group",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
+      "Title": "Title Analyst Intern - Generalist / Stage - Analyste - G&eacute;n&eacute;raliste - Paris (2027 Start Date)",
+      "Location": "FR-Paris",
+      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3068/job",
+      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
+      "PostedAt": "",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Analysis Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
       "Title": "Title Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)",
       "Location": "FR-Paris",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3008/job",
@@ -4712,10 +5169,23 @@
       "Location": "UAE Dubai DIFC",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Middle East"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Part Time Intern, Disputes & Economics - Intellectual Property",
+      "Location": "Ann Arbor, MI",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "PostedAt": "Posted Yesterday",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
     },
     {
       "Company": "Ankura",
@@ -4725,7 +5195,7 @@
       "Location": "UK London",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/UK-London/Summer-Internship-2027--Construction--Disputes---Advisory--Graduate-Programme-conversion-September-2028-_R105050",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -4738,7 +5208,7 @@
       "Location": "UK London",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/UK-London/Summer-Internship-2027--Construction--Disputes---Advisory--Graduate-Programme-conversion-September-2028-_R105051",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -4751,7 +5221,7 @@
       "Location": "Los Angeles, CA",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -4764,7 +5234,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -4777,7 +5247,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -4790,7 +5260,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104993",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 2 Days Ago",
+      "PostedAt": "Posted 3 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -4803,7 +5273,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104995",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 2 Days Ago",
+      "PostedAt": "Posted 3 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -4816,7 +5286,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -4903,84 +5373,6 @@
       "Company": "BDO (Transfer Pricing)",
       "Category": "Transfer Pricing & Valuation",
       "Track": "Internship",
-      "Title": "Advisory Associate, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)",
-      "Location": "McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; New York, NY, United States; Chicago, IL, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13731",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "PostedAt": "2026-08-27",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Advisory Associate, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)",
-      "Location": "McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; New York, NY, United States; Chicago, IL, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13731",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-27",
-      "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Advisory Associate, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)",
-      "Location": "McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; New York, NY, United States; Chicago, IL, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13731",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-27",
-      "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Advisory Intern, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)",
-      "Location": "McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; Chicago, IL, United States; New York, NY, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13730",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "PostedAt": "2026-08-27",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Advisory Intern, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)",
-      "Location": "McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; Chicago, IL, United States; New York, NY, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13730",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-27",
-      "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Advisory Intern, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)",
-      "Location": "McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; Chicago, IL, United States; New York, NY, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13730",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-27",
-      "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
       "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)",
       "Location": "Atlanta, GA, United States",
       "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14014",
@@ -5013,45 +5405,6 @@
       "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
       "Status": "Confirmed official posting",
       "PostedAt": "2026-09-14",
-      "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Cleveland)",
-      "Location": "Cleveland, OH, United States; Akron, OH, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13710",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "PostedAt": "2026-08-26",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Cleveland)",
-      "Location": "Cleveland, OH, United States; Akron, OH, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13710",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-26",
-      "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Cleveland)",
-      "Location": "Cleveland, OH, United States; Akron, OH, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13710",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-26",
       "Notes": "career_page=https://www.bdo.com/careers | timing: Summer 2027",
       "Region": "North America"
     },
@@ -5176,11 +5529,24 @@
       "Company": "Berkeley Research Group",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
+      "Title": "2027 Summer Associate – Corporate Finance – Valuation (New York and Boston)",
+      "Location": "2 Locations",
+      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Associate---Corporate-Finance---Valuation--New-York-and-Boston-_JR101096",
+      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
+      "PostedAt": "Posted Today",
+      "Notes": "timing: 2027 Summer",
+      "Status": "Confirmed official posting",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Berkeley Research Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
       "Title": "Intern (m/f/d) - Competition Economics (E.CA)",
       "Location": "Berlin, GER",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 17 Days Ago",
+      "PostedAt": "Posted 18 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5193,7 +5559,7 @@
       "Location": "Brussels, BEL",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5206,7 +5572,7 @@
       "Location": "Brussels, BEL",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 17 Days Ago",
+      "PostedAt": "Posted 18 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5307,26 +5673,13 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Intern (European Competition practice) - m/f/d",
-      "Location": "Dusseldorf, Germany; Munich, Germany",
+      "Location": "Munich, Germany",
       "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914",
       "Source": "Official ATS Greenhouse:charlesriverassociates",
       "PostedAt": "2023-07-13T09:30:41-04:00",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
-    },
-    {
-      "Company": "Coherent Economics",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "Research Analyst Intern Summer 2027",
-      "Location": "College Station, Texas, United States",
-      "URL": "https://job-boards.greenhouse.io/coherenteconomicsllc/jobs/4382013009",
-      "Source": "Official ATS Greenhouse:coherenteconomicsllc",
-      "PostedAt": "2026-08-25T13:37:55-04:00",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
     },
     {
       "Company": "Compass Lexecon",
@@ -5336,7 +5689,7 @@
       "Location": "5 Locations",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 12 Days Ago",
+      "PostedAt": "Posted 13 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5349,7 +5702,7 @@
       "Location": "Berlin, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5362,7 +5715,7 @@
       "Location": "Brussels, Belgium",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5375,7 +5728,7 @@
       "Location": "Dusseldorf, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5388,7 +5741,7 @@
       "Location": "Helsinki, Finland",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5401,7 +5754,7 @@
       "Location": "Madrid, Spain",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Madrid-Spain/Intern---Competition-Practice---Madrid_JR261344",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5414,7 +5767,7 @@
       "Location": "Milan, Italy",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Milan-Italy/Intern---Competition-Practice---Milan_JR261355",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5427,7 +5780,7 @@
       "Location": "Paris, France",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Competition-Practice---Paris_JR261357",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5440,7 +5793,7 @@
       "Location": "Berlin, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Energy-Practice---Berlin_JR260415",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5453,7 +5806,7 @@
       "Location": "Helsinki, Finland",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Energy-Practice---Helsinki_JR260519",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5466,7 +5819,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Intern---Energy-Practice---London_JR261417",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5479,7 +5832,7 @@
       "Location": "Paris, France",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Energy-Practice---Paris_JR261413",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5492,7 +5845,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5550,6 +5903,71 @@
       "Region": "North America"
     },
     {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "2027 Industry Placement, Economic & Financial Consulting",
+      "Location": "London, United Kingdom",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "2027 Industry Placement, Forensic Accounting",
+      "Location": "London, United Kingdom",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Forensic-Accounting_JR260772",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Audit & Forensic Accounting, Forensic Litigation Consulting",
+      "Location": "Madrid, Spain",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Analyst-Intern--FLC-FAAS_JR260788",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Solutions, Forensic Litigation Consulting",
+      "Location": "Madrid, Spain",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Construction-Solutions--Forensic-Litigation-Consulting_JR260885",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Praktikant (m/w/d), Valuation & IP",
+      "Location": "2 Locations",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Remote / Unspecified"
+    },
+    {
       "Company": "Houlihan Lokey (Dispute Resolution Consulting)",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
@@ -5557,7 +5975,7 @@
       "Location": "Hong Kong, China",
       "URL": "https://hl.wd1.myworkdayjobs.com/Campus/job/Hong-Kong-China/Off-Cycle-Intern--Financial-and-Valuation-Advisory--Hong-Kong-_R3096",
       "Source": "Official ATS Workday:hl/Campus",
-      "PostedAt": "Posted Yesterday",
+      "PostedAt": "Posted 2 Days Ago",
       "Notes": "timing: Off-Cycle",
       "Status": "Confirmed official posting",
       "Region": "Asia"
@@ -5667,19 +6085,6 @@
       "Region": "North America"
     },
     {
-      "Company": "Lumanity",
-      "Category": "Health Economics & HEOR",
-      "Track": "Internship",
-      "Title": "Job Posting Title Strategy Consulting Internship",
-      "Location": "",
-      "URL": "https://earlycareer-lumanity.icims.com/jobs/2246/job",
-      "Source": "Career page iCIMS:earlycareer-lumanity",
-      "Status": "Confirmed official posting",
-      "PostedAt": "",
-      "Notes": "career_page=https://lumanity.com/careers/current-openings/ | timing not stated in title",
-      "Region": "Remote / Unspecified"
-    },
-    {
       "Company": "NERA Economic Consulting",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
@@ -5687,7 +6092,7 @@
       "Location": "6 Locations",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 30 Days Ago",
+      "PostedAt": "Posted 30+ Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5700,7 +6105,7 @@
       "Location": "London - St. Botolph",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 29 Days Ago",
+      "PostedAt": "Posted 30 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5713,7 +6118,7 @@
       "Location": "6 Locations",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing: Summer 2028",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5726,7 +6131,7 @@
       "Location": "2 Locations",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 30 Days Ago",
+      "PostedAt": "Posted 30+ Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5774,6 +6179,19 @@
       "Company": "PwC (Economics / Transfer Pricing / Forensics)",
       "Category": "Big 4 & Advisory Economics",
       "Track": "Internship",
+      "Title": "Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern | Milano [ADV]",
+      "Location": "Milan",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD",
+      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Track": "Internship",
       "Title": "Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)",
       "Location": "Palermo",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD",
@@ -5804,7 +6222,7 @@
       "Location": "Almaty",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Almaty/Intern-to-Business-Valuation_760362WD-1",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 22 Days Ago",
+      "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5843,7 +6261,7 @@
       "Location": "15 Locations",
       "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Intern---Summer-2027_756412WD",
       "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5856,7 +6274,7 @@
       "Location": "2 Locations",
       "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
       "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "PostedAt": "Posted Today",
+      "PostedAt": "Posted Yesterday",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5869,23 +6287,309 @@
       "Location": "Genève",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 14 Days Ago",
+      "PostedAt": "Posted 15 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
     },
     {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
+      "Company": "RCLCO",
+      "Category": "Policy & Research Economics",
       "Track": "Internship",
-      "Title": "Werkstudent Fiscaal - Real Estate Advisory & Valuations",
-      "Location": "Amsterdam",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Amsterdam/Werkstudent-Fiscaal---Real-Estate-Advisory---Valuations_654283WD",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 30+ Days Ago",
-      "Notes": "timing not stated in title",
+      "Title": "2027 Summer Intern, Investments & Portfolio Management",
+      "Location": "Los Angeles",
+      "URL": "https://job-boards.greenhouse.io/rclco/jobs/8243963",
+      "Source": "Official ATS Greenhouse:rclco",
+      "PostedAt": "2026-09-30T18:17:23-04:00",
+      "Notes": "timing: 2027 Summer",
       "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "Boston, Massachusetts, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419997009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-30T14:24:51-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "Houston, Texas, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396088009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-04T15:07:45-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "Atlanta, Georgia, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4395993009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-04T15:07:21-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396076009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-04T15:08:07-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "Los Angeles, California, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396459009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-08T09:17:08-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "International",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396461009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-08T09:17:11-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396514009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-08T09:17:26-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Construction Delay",
+      "Location": "International",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4396516009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-08T09:17:29-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title",
+      "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages & Valuations (Summer 2027)",
+      "Location": "Denver, Colorado, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-10T12:08:29-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages & Valuations (Summer 2027)",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-10T12:07:27-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages & Valuations (Summer 2027)",
+      "Location": "Downtown Boston, MA",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-24T12:39:30-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages & Valuations (Summer 2027)",
+      "Location": "Los Angeles, California, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-10T12:06:38-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages & Valuations (Summer 2027)",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-10T12:06:59-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages and Valuations",
+      "Location": "München, Bavaria, Germany",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-06-09T10:58:27-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing not stated in title",
       "Region": "Europe"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Economics (Summer 2027)",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4408897009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-17T09:47:54-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Engineering Sciences (Summer 2027)",
+      "Location": "New Orleans, Louisiana, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401524009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-11T11:51:12-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Engineering Sciences (Summer 2027)",
+      "Location": "Atlanta, Georgia, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399027009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-09T08:53:05-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Engineering Sciences (Summer 2027)",
+      "Location": "Downtown Boston, MA",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399032009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-09T08:53:26-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Engineering Sciences (Summer 2027)",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399042009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-09T08:54:01-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Engineering Sciences (Summer 2027)",
+      "Location": "Houston, Texas, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399038009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-09T08:54:21-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Engineering Sciences (Summer 2027)",
+      "Location": "Denver, Colorado, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401533009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-10T12:07:49-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Investigations & Forensic Accounting (Summer 2027)",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401661009",
+      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-11T11:51:30-04:00",
+      "Notes": "career_page=https://secretariat-intl.com/careers/ | timing: Summer 2027; graduation years mentioned: 2027, 2028",
+      "Region": "North America"
     },
     {
       "Company": "Stout",
@@ -5895,7 +6599,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5908,7 +6612,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2",
       "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5921,7 +6625,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5934,7 +6638,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2",
       "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5947,7 +6651,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5960,7 +6664,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182-1",
       "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5973,7 +6677,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5986,7 +6690,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-2",
       "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5999,7 +6703,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6012,7 +6716,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2",
       "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6074,10 +6778,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
+      "Location": "San Francisco, California, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:40-04:00",
+      "PostedAt": "2026-09-18T16:58:47-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6113,23 +6817,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "San Francisco, California, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:47-04:00",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "Research Analyst Intern (Economics) - Summer 2027",
       "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:50-04:00",
+      "PostedAt": "2026-09-18T16:58:40-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6148,6 +6839,19 @@
       "Region": "North America"
     },
     {
+      "Company": "The Brattle Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Research Analyst Intern (Economics) - Summer 2027",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
+      "Source": "Official ATS Greenhouse:thebrattlegroup",
+      "PostedAt": "2026-09-18T16:58:50-04:00",
+      "Notes": "timing: Summer 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
       "Company": "Trinity Life Sciences",
       "Category": "Health Economics & HEOR",
       "Track": "Internship",
@@ -6155,7 +6859,7 @@
       "Location": "New York, NY",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/Commercial-Strategy-Summer-Associate--NY-_JR100752",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 28 Days Ago",
+      "PostedAt": "Posted 29 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6168,7 +6872,7 @@
       "Location": "San Francisco, CA",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/Commercial-Strategy-Summer-Associate--SF-_JR100751",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6181,7 +6885,7 @@
       "Location": "Waltham, MA - Headquarters",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Commercial-Strategy-Summer-Associate--Waltham-_JR100749",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 28 Days Ago",
+      "PostedAt": "Posted 29 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6194,7 +6898,7 @@
       "Location": "New York, NY",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/Insights-Summer-Associate--New-York--NY-_JR100785",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 28 Days Ago",
+      "PostedAt": "Posted 29 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6207,7 +6911,7 @@
       "Location": "Waltham, MA - Headquarters",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Insights-Summer-Associate--Waltham--MA-_JR100784",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6220,7 +6924,7 @@
       "Location": "New York, NY",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6233,7 +6937,7 @@
       "Location": "San Francisco, CA",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 30 Days Ago",
+      "PostedAt": "Posted 30+ Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6246,7 +6950,7 @@
       "Location": "Waltham, MA - Headquarters",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 28 Days Ago",
+      "PostedAt": "Posted 29 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6258,7 +6962,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Title Analyst - Accounting (2027 Start Date)",
-      "Location": "US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC",
+      "Location": "US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3020/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -6322,6 +7026,45 @@
       "Company": "Aurora Energy Research",
       "Category": "Energy & Environmental Economics",
       "Track": "Entry-level",
+      "Title": "Analyst - EMEA",
+      "Location": "Warsaw, Poland",
+      "URL": "https://careers.auroraer.com/en/postings/bfca6e22-6f10-4bcc-bff6-a0e8552633fb",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "PostedAt": "",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Track": "Entry-level",
+      "Title": "Analyst, Client Solutions - EMEA",
+      "Location": "Warsaw, Poland",
+      "URL": "https://careers.auroraer.com/en/postings/fc8cea5b-255b-4dca-99b8-3663fd9aaeb2",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "PostedAt": "",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Track": "Entry-level",
+      "Title": "Analyst, Software Analytics - EMEA",
+      "Location": "Warsaw, Poland",
+      "URL": "https://careers.auroraer.com/en/postings/24e5014a-8166-438b-862d-2778bcb7d009",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "PostedAt": "",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Track": "Entry-level",
       "Title": "Graduate Analyst Programme (Oxford, 2027)",
       "Location": "Oxford, UK",
       "URL": "https://careers.auroraer.com/en/postings/0aa034dd-9e51-4c22-8707-01f4d8c98e6e",
@@ -6352,7 +7095,7 @@
       "Location": "Beijing, China",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 26 Days Ago",
+      "PostedAt": "Posted 27 Days Ago",
       "Notes": "timing: 2026",
       "Status": "Confirmed official posting",
       "Region": "Asia"
@@ -6462,6 +7205,19 @@
       "Region": "North America"
     },
     {
+      "Company": "Lightcast",
+      "Category": "Policy & Research Economics",
+      "Track": "Entry-level",
+      "Title": "Economic Research Analyst / Junior Data Scientist - 1089",
+      "Location": "Moscow, ID",
+      "URL": "https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277",
+      "Source": "Official ATS Lever:economicmodeling",
+      "PostedAt": "2026-09-25T21:53:01.053Z",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Remote / Unspecified"
+    },
+    {
       "Company": "PwC (Economics / Transfer Pricing / Forensics)",
       "Category": "Big 4 & Advisory Economics",
       "Track": "Entry-level",
@@ -6469,7 +7225,7 @@
       "Location": "Brussels",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/Junior-Compliance-and-Forensics-Consultant---Start-September-2026_662476WD-1",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6518,10 +7274,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics and Finance) - July 2027",
-      "Location": "San Francisco, California, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:15-04:00",
+      "PostedAt": "2026-08-14T16:44:16-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6531,10 +7287,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics and Finance) - July 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
+      "Location": "San Francisco, California, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:16-04:00",
+      "PostedAt": "2026-08-14T16:44:15-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6557,10 +7313,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics) - July 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:31-04:00",
+      "PostedAt": "2026-08-14T16:44:30-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6570,10 +7326,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics) - July 2027",
-      "Location": "Washington, District of Columbia, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:30-04:00",
+      "PostedAt": "2026-08-14T16:44:31-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6612,7 +7368,7 @@
       "Location": "India - Gurgaon",
       "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/India---Gurgaon/Analyst_JR100599",
       "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Asia"
@@ -6675,6 +7431,7 @@
     "Chmura Economics & Analytics",
     "Christensen Associates",
     "Christensen Associates Energy Consulting",
+    "Coherent Economics",
     "Concentric Energy Advisors",
     "Copenhagen Economics",
     "Cornwall Insight",
@@ -6715,7 +7472,6 @@
     "Estolano Advisors",
     "Europe Economics",
     "Evidera (Thermo Fisher)",
-    "FTI Consulting (Economic Consulting)",
     "Fathom Consulting",
     "Fideres",
     "Finnerty Economic Consulting",
@@ -6762,6 +7518,7 @@
     "LitiNomics",
     "London Economics",
     "London Economics International",
+    "Lumanity",
     "MDRC",
     "Mandala Partners",
     "Market Platform Dynamics",
@@ -6798,7 +7555,6 @@
     "Quadrant Economics",
     "Quantitative Economic Solutions",
     "RBB Economics",
-    "RCLCO",
     "REF-E",
     "REMI",
     "RSM (Transfer Pricing)",
@@ -6816,7 +7572,6 @@
     "SQW",
     "Sapere Research Group",
     "ScottMadden",
-    "Secretariat",
     "Stanford Consulting Group",
     "Steer",
     "Summit Consulting",
@@ -6848,8 +7603,8 @@
     "Edgeworth Economics",
     "Fathom Consulting",
     "Keystone Strategy",
-    "REMI",
-    "Secretariat"
+    "Oxera",
+    "REMI"
   ],
   "confirmedNoMatchingRoles": [
     "Abt Global",
@@ -6858,8 +7613,8 @@
     "Avalere Health",
     "Axiom Economics",
     "Baringa",
+    "Coherent Economics",
     "Eastern Research Group",
-    "FTI Consulting (Economic Consulting)",
     "Fideres",
     "Frontier Economics",
     "Grant Thornton (Transfer Pricing / Economics)",
@@ -6869,9 +7624,8 @@
     "Health Management Associates",
     "IQVIA (HEOR)",
     "Lightcast",
+    "Lumanity",
     "Nous Group",
-    "Oxera",
-    "RCLCO",
     "S&P Global (Economics)",
     "Synapse Energy Economics",
     "The Cadmus Group",
