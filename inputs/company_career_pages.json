@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:45:37.965Z",
+  "generatedAt": "2026-10-02T18:17:43.745Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -819,12 +819,20 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Urban Institute": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.urban.org/about/careers",
+        "https://urban.wd115.myworkdayjobs.com/Urban-Careers/",
+        "https://www.urban.org/tags/job-opportunities"
+      ],
+      "updatedAt": "2026-10-02T18:17:43.745Z"
     },
     "The Cadmus Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://cadmusgroup.com/careers/",
+        "https://cadmusgroup.com/search-careers/",
+        "https://careers-cadmusgroup.icims.com/jobs/intro"
+      ],
+      "updatedAt": "2026-10-02T18:17:43.745Z"
     },
     "Chemonics International": {
       "careerPages": [

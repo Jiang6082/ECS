@@ -1,11 +1,26 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 6
-Last updated: 2026-10-01T18:45:37.964Z
+Total closures recorded: 18
+Last updated: 2026-10-02T18:17:43.744Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-02 (12)
+
+- **BDO (Transfer Pricing)** - [Advisory Associate, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13731) - McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; New York, NY, United States; Chicago, IL, United States
+- **BDO (Transfer Pricing)** - [Advisory Associate, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13731) - McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; New York, NY, United States; Chicago, IL, United States
+- **BDO (Transfer Pricing)** - [Advisory Associate, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13731) - McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; New York, NY, United States; Chicago, IL, United States
+- **BDO (Transfer Pricing)** - [Advisory Intern, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13730) - McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; Chicago, IL, United States; New York, NY, United States
+- **BDO (Transfer Pricing)** - [Advisory Intern, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13730) - McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; Chicago, IL, United States; New York, NY, United States
+- **BDO (Transfer Pricing)** - [Advisory Intern, Forensic Technology - Summer 2027 (Atlanta, Boston, Chicago, New York, Greater Washington DC)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13730) - McLean, VA, United States; Atlanta, GA, United States; Boston, MA, United States; Chicago, IL, United States; New York, NY, United States
+- **BDO (Transfer Pricing)** - [Tax Associate, Transfer Pricing - Summer 2027 (Cleveland)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13710) - Cleveland, OH, United States; Akron, OH, United States
+- **BDO (Transfer Pricing)** - [Tax Associate, Transfer Pricing - Summer 2027 (Cleveland)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13710) - Cleveland, OH, United States; Akron, OH, United States
+- **BDO (Transfer Pricing)** - [Tax Associate, Transfer Pricing - Summer 2027 (Cleveland)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13710) - Cleveland, OH, United States; Akron, OH, United States
+- **Coherent Economics** - [Research Analyst Intern Summer 2027](https://job-boards.greenhouse.io/coherenteconomicsllc/jobs/4382013009) - College Station, Texas, United States
+- **Lumanity** - [Job Posting Title Strategy Consulting Internship](https://earlycareer-lumanity.icims.com/jobs/2246/job)
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Werkstudent Fiscaal - Real Estate Advisory & Valuations](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Amsterdam/Werkstudent-Fiscaal---Real-Estate-Advisory---Valuations_654283WD) - Amsterdam
 
 ### 2026-10-01 (3)
 
