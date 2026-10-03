@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-02T18:17:43.744Z",
+  "searchedAt": "2026-10-03T17:06:50.599Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -285,7 +285,6 @@
     "Vista Analyse",
     "THEMA Consulting Group",
     "Afi",
-    "REF-E",
     "Prometeia",
     "Indecon",
     "DKM Economic Consultants",
@@ -316,7 +315,6 @@
     "Andersen (Transfer Pricing)",
     "Economics Partners",
     "KNG Health Consulting",
-    "Broadstreet HEOR",
     "Health Advances",
     "Wakely Consulting Group",
     "S&P Global (Economics)"
@@ -570,10 +568,10 @@
       "boards": [
         {
           "source": "Greenhouse:secretariatadvisorsllc",
-          "jobsSeen": 79
+          "jobsSeen": 78
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantRoles": 22
     },
     {
@@ -591,10 +589,10 @@
       "boards": [
         {
           "source": "Greenhouse:secretariatadvisorsllc",
-          "jobsSeen": 79
+          "jobsSeen": 78
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantRoles": 22
     },
     {
@@ -612,10 +610,10 @@
       "boards": [
         {
           "source": "Greenhouse:secretariatadvisorsllc",
-          "jobsSeen": 79
+          "jobsSeen": 78
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantRoles": 22
     },
     {
@@ -1525,9 +1523,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1599,6 +1601,18 @@
       "resolvedUrl": "https://www.ramboll.com/careers",
       "pageOk": true,
       "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "REF-E",
+      "pageUrl": "https://asktheref.org/",
+      "resolvedUrl": "https://asktheref.org/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2182,10 +2196,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 2
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -2474,15 +2488,15 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 700
+          "jobsSeen": 710
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
-          "jobsSeen": 700
+          "jobsSeen": 710
         }
       ],
-      "jobsSeen": 1400,
-      "relevantRoles": 6
+      "jobsSeen": 1420,
+      "relevantRoles": 8
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2944,6 +2958,18 @@
         }
       ],
       "jobsSeen": 10,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Broadstreet HEOR",
+      "pageUrl": "https://broadstreetglobal.com/",
+      "resolvedUrl": "https://broadstreetglobal.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
