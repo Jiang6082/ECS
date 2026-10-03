@@ -83,6 +83,9 @@
           "host": "secretariat.wd5.myworkdayjobs.com",
           "site": "Secretariat_careers"
         }
+      ],
+      "greenhouse": [
+        "secretariatadvisorsllc"
       ]
     },
     "Ankura": {
@@ -133,7 +136,8 @@
     },
     "Integra FEC": {
       "greenhouse": [
-        "integra"
+        "integra",
+        "integrainterns"
       ]
     },
     "Fideres": {
@@ -269,6 +273,10 @@
         {
           "host": "ehzq.fa.us2.oraclecloud.com",
           "site": "CX_1"
+        },
+        {
+          "host": "ehzq.fa.us2.oraclecloud.com",
+          "site": "CX_4"
         }
       ]
     },
@@ -277,6 +285,10 @@
         {
           "host": "ebqb.fa.us2.oraclecloud.com",
           "site": "CX_1001"
+        },
+        {
+          "host": "ebqb.fa.us2.oraclecloud.com",
+          "site": "BDOEntryLevelCareers"
         }
       ]
     },

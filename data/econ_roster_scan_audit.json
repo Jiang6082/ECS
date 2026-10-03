@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-03T17:08:01.636Z",
+  "generatedAt": "2026-10-03T18:05:59.024Z",
   "scanStartedAt": "2026-10-03T17:06:50.599Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 25,
+    "matching-role-found": 23,
     "confirmed-no-open-postings": 8,
-    "confirmed-openings-no-matching-role": 25,
+    "confirmed-openings-no-matching-role": 27,
     "could-not-fully-verify": 174
   },
   "companies": [
@@ -303,7 +303,7 @@
         "Houlihan Lokey (Dispute Resolution Consulting)"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
@@ -2348,7 +2348,7 @@
         "RCLCO"
       ],
       "category": "Policy & Research Economics",
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://job-boards.greenhouse.io/rclco"
       ],

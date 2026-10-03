@@ -82,7 +82,7 @@
       "category": "Litigation, Antitrust & Damages",
       "hq": "US",
       "domain": "thinkbrg.com",
-      "scope": "econ"
+      "scope": "all"
     },
     {
       "name": "FTI Consulting (Economic Consulting)",
@@ -152,7 +152,7 @@
       "category": "Litigation, Antitrust & Damages",
       "hq": "US",
       "domain": "hl.com",
-      "scope": "dispute|valuation"
+      "scope": "dispute"
     },
     {
       "name": "Coherent Economics",
@@ -1377,7 +1377,7 @@
       "category": "Big 4 & Advisory Economics",
       "hq": "US",
       "domain": "pwc.com",
-      "scope": "transfer pricing|econom|forensic|investigations|valuation|disputes"
+      "scope": "transfer pricing|econom|forensics? consulting|investigations|disputes"
     },
     {
       "name": "EY (QUEST / Economic Advisory / Transfer Pricing)",
@@ -1559,7 +1559,7 @@
       "category": "Health Economics & HEOR",
       "hq": "US",
       "domain": "trinitylifesciences.com",
-      "scope": "all"
+      "scope": "\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics"
     },
     {
       "name": "OPEN Health",

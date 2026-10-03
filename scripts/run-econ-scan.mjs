@@ -53,6 +53,7 @@ if (["v2", "all"].includes(mode)) {
   await run("expand_econ_internship_search.mjs", passThrough);
   await run("build_econ_roster_scan_audit.mjs");
   await run("build_new_econ_roles_report.mjs");
+  await run("build_verified_roles.mjs");
   await run("build_scan_dashboard.mjs");
   await run("build-readme.mjs");
 }

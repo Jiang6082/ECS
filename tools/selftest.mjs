@@ -11,6 +11,7 @@ const routes = [
   [/boards-api\.eu\.greenhouse\.io\/v1\/boards\/demo\/jobs/, { jobs: [{ id: 2, title: "Summer Intern", location: { name: "London" }, absolute_url: "https://job-boards.eu.greenhouse.io/demo/jobs/2" }] }],
   [/api\.lever\.co\/v0\/postings\/demo/, [{ text: "Intern - Brussels", categories: { location: "Brussels", commitment: "Internship" }, hostedUrl: "https://jobs.lever.co/demo/abc", createdAt: 1767225600000 }]],
   [/api\.ashbyhq\.com\/posting-api\/job-board\/demo/, { jobs: [{ id: "x", title: "Research Analyst Intern", locationName: "Remote", jobUrl: "https://jobs.ashbyhq.com/demo/x" }] }],
+  [/paged\.wd1\.myworkdayjobs\.com/, "WORKDAY_PAGED"],
   [/demo\.wd1\.myworkdayjobs\.com\/wday\/cxs\/demo\/Ext\/jobs/, { total: 1, jobPostings: [{ title: "2027 Summer Associate (Intern)", locationsText: "Washington, DC", externalPath: "/job/DC/2027-Summer-Associate_JR1", postedOn: "Posted 3 Days Ago" }] }],
   [/api\.smartrecruiters\.com\/v1\/companies\/demo\/postings/, { totalFound: 1, content: [{ id: "9", name: "Economics Intern", location: { city: "Paris", country: "fr" }, releasedDate: "2026-09-10" }] }],
   [/apply\.workable\.com\/api\/v3\/accounts\/demo\/jobs/, { results: [{ shortcode: "ABC", title: "Analyst Intern", location: { city: "Los Angeles", region: "California", country: "United States" }, published: "2026-09-05" }] }],
@@ -19,14 +20,19 @@ const routes = [
   [/demo\.pinpointhq\.com\/postings\.json/, { data: [{ id: "u1", attributes: { title: "Energy Analyst Intern", location: { name: "London" }, url: "https://demo.pinpointhq.com/postings/u1" } }] }],
   [/demo\.breezy\.hr\/json/, [{ name: "Economist - Intern - Economic Impact - New York", url: "https://demo.breezy.hr/p/1", location: { name: "New York" } }]],
   [/demo\.applytojob\.com\/apply/, '<a href="https://demo.applytojob.com/apply/AbCdEf123/Summer-Analyst-Intern">Summer Analyst Internship</a><ul><li><i class="fa fa-map-marker"></i>New York, NY</li></ul>'],
-  [/careers-demo\.icims\.com\/jobs\/search\?ss=1&in_iframe=1&pr=0/, '<a href="https://careers-demo.icims.com/jobs/3005/summer-analyst-intern/job?in_iframe=1"><h3>Summer Analyst Intern - Generalist</h3></a><div>Job Locations<span>US-MA-Boston</span></div>'],
+  [/careers-demo\.icims\.com\/jobs\/search\?ss=1&in_iframe=1&pr=0/, '<li class="row"><div class="header left"><span class="sr-only field-label">Job Locations</span><span>US-MA-Boston</span></div><div class="header right"><span class="sr-only field-label">ID</span><span>2026-3005</span></div><div class="title"><a href="https://careers-demo.icims.com/jobs/3005/summer-analyst-intern/job?in_iframe=1"><span class="sr-only field-label">Title</span><h3>Summer Analyst Intern - Generalist</h3></a></div></li><li class="row"><div class="header left"><span class="sr-only field-label">Job Locations</span><span>FR-Paris</span></div><div class="header right"><span class="sr-only field-label">ID</span><span>2026-3068</span></div><div class="title"><a href="https://careers-demo.icims.com/jobs/3068/stage/job?in_iframe=1"><span class="sr-only field-label">Title</span><h3>Stage - Analyste - G&amp;eacute;n&amp;eacute;raliste</h3></a></div></li>'],
   [/careers-demo\.icims\.com\/jobs\/search\?ss=1&in_iframe=1&pr=1/, "<html>no more</html>"],
   [/paylocity\.com\/recruiting\/v2\/api\/feed\/jobs\/00000000-0000-0000-0000-000000000000/, { jobs: [{ jobId: 7, title: "Summer Economist", jobLocation: { city: "Washington", state: "DC" }, displayUrl: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/7" }] }],
   [/demo\.fa\.us2\.oraclecloud\.com\/hcmRestApi/, { items: [{ TotalJobsCount: 1, requisitionList: [{ Id: "55", Title: "Transfer Pricing Intern - Summer 2027", PrimaryLocation: "Chicago, IL, United States", PostedDate: "2026-09-02" }] }] }],
   [/demo\.hire\.trakstar\.com/, '<div class="js-careers-page-job-list-item" data-href="/jobs/abc123/"><h3 class="js-job-list-opening-name">Research Associate Intern</h3><span>Cambridge, MA</span></div>'],
 ];
 
-globalThis.fetch = async (url) => {
+globalThis.fetch = async (url, opts = {}) => {
+  if (/paged\.wd1\.myworkdayjobs\.com/.test(String(url))) {
+    const { offset } = JSON.parse(opts.body || "{}");
+    const n = Math.max(0, Math.min(20, 55 - offset));
+    return new Response(JSON.stringify({ total: offset === 0 ? 55 : 0, jobPostings: Array.from({ length: n }, (_, k) => ({ title: `Job ${offset + k}`, externalPath: `/job/x_${offset + k}` })) }), { status: 200 });
+  }
   const hit = routes.find(([re]) => re.test(String(url)));
   if (!hit) return new Response("not found", { status: 404 });
   const body = typeof hit[1] === "string" ? hit[1] : JSON.stringify(hit[1]);
@@ -46,20 +52,25 @@ const checks = [
   ["pinpoint", () => C.pinpoint("Demo", "demo"), "London"],
   ["breezy", () => C.breezy("Demo", "demo"), "New York"],
   ["jazzhr", () => C.jazzhr("Demo", "demo"), "New York, NY"],
-  ["icims", () => C.icims("Demo", "careers-demo"), "US-MA-Boston"],
+  ["icims", () => C.icims("Demo", "careers-demo"), "US-MA-Boston", 2],
   ["paylocity", () => C.paylocity("Demo", "00000000-0000-0000-0000-000000000000"), "Washington, DC"],
   ["oracle", () => C.oracle("Demo", { host: "demo.fa.us2.oraclecloud.com", site: "CX_1" }), "Chicago, IL, United States"],
   ["trakstar", () => C.trakstar("Demo", "demo"), "Cambridge, MA"],
 ];
 let failures = 0;
-for (const [name, fn, location] of checks) {
+for (const [name, fn, location, count = 1] of checks) {
   try {
     const board = await fn();
     assert.ok(board, "board resolved");
-    assert.equal(board.jobs.length, 1, "one job");
+    assert.equal(board.jobs.length, count, `${count} job(s)`);
     assert.ok(board.jobs[0].Title, "has title");
     assert.ok(/^https:\/\//.test(board.jobs[0].URL), "has absolute URL");
     assert.equal(board.jobs[0].Location, location);
+    if (name === "icims") {
+      assert.equal(board.jobs[0].Title, "Summer Analyst Intern - Generalist");
+      assert.equal(board.jobs[1].Location, "FR-Paris");
+      assert.equal(board.jobs[1].Title, "Stage - Analyste - Généraliste");
+    }
     console.log(`ok   collector ${name}: ${board.jobs[0].Title}`);
   } catch (error) {
     failures += 1;
@@ -67,6 +78,11 @@ for (const [name, fn, location] of checks) {
   }
 }
 assert.equal(await C.greenhouse("Demo", "missing"), null);
+{
+  const paged = await C.workday("Demo", { host: "paged.wd1.myworkdayjobs.com", site: "S" });
+  if (paged.jobs.length !== 55) { failures += 1; console.log(`FAIL workday paging: got ${paged.jobs.length} of 55`); }
+  else console.log("ok   workday paging past page 2 (total only on first page)");
+}
 
 const page = `<script src="https://boards.greenhouse.io/embed/job_board/js?for=thebrattlegroup"></script>
 <a href="https://jobs.lever.co/compasslexecon?commitment=Internship">EU roles</a>

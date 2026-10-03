@@ -312,6 +312,30 @@
       "selector": "a[href*='recruit'], h2, h3",
       "reason": "Own-site listings",
       "scope": "all"
+    },
+    {
+      "key": "oxera",
+      "firm": "Oxera",
+      "url": "https://careers.oxera.com/jobs",
+      "selector": "a[href*='/jobs/']",
+      "reason": "Teamtailor custom domain; job list did not parse from Node",
+      "scope": "all"
+    },
+    {
+      "key": "keystone",
+      "firm": "Keystone Strategy",
+      "url": "https://www.keystone.com/careers",
+      "selector": "a[href*='greenhouse'], a[href*='job']",
+      "reason": "Seeded Greenhouse board returns 0 jobs; roles listed on own site",
+      "scope": "all"
+    },
+    {
+      "key": "kroll-expert-services",
+      "firm": "Kroll",
+      "url": "https://careers.kroll.com/en/students",
+      "selector": "a[href*='/job/']",
+      "reason": "Custom careers portal",
+      "scope": "econ"
     }
   ]
 }

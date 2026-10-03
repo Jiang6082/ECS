@@ -1,0 +1,139 @@
+{
+  "note": "Roles on careers sites the scanner cannot read (custom portals, email-only, or JS-only boards), checked by hand. Each entry is shown in reports/VERIFIED_OPEN_ROLES.md with its checkedAt date until removed. Remove or update entries as they close.",
+  "roles": [
+    {
+      "company": "Berkeley Research Group",
+      "title": "2027 Summer Associate (Intern)",
+      "url": "https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/XMLNAME-2027-Summer-Associate--Intern-_JR100976",
+      "location": "Washington, DC / New York + other US offices",
+      "status": "Open",
+      "checkedAt": "2026-09-27",
+      "note": "Final deadline Oct 16"
+    },
+    {
+      "company": "KPMG (Economic & Valuation Services)",
+      "title": "Intern, Economic Valuation Services - Transfer Pricing | Summer 2027",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=137278",
+      "location": "Multiple US locations",
+      "status": "Open",
+      "checkedAt": "2026-09-27",
+      "note": "Rolling"
+    },
+    {
+      "company": "KPMG (Economic & Valuation Services)",
+      "title": "Intern, Economic Valuation Services - Valuation | Summer 2027",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=137279",
+      "location": "Multiple US locations",
+      "status": "Open",
+      "checkedAt": "2026-09-27",
+      "note": "Rolling until filled"
+    },
+    {
+      "company": "Kroll",
+      "title": "Intern, Expert Services (Summer 2027) - New York",
+      "url": "https://careers.kroll.com/en/job/new-york/intern-expert-services/21015015",
+      "location": "New York, NY",
+      "status": "Open",
+      "checkedAt": "2026-09-27",
+      "note": "Litigation damages / expert services"
+    },
+    {
+      "company": "Kroll",
+      "title": "Intern, Expert Services (Summer 2027) - Boston",
+      "url": "https://careers.kroll.com/en/job/boston/intern-expert-services/21015012",
+      "location": "Boston, MA",
+      "status": "Open",
+      "checkedAt": "2026-09-27",
+      "note": ""
+    },
+    {
+      "company": "Bates White",
+      "title": "Summer Consultant (2027)",
+      "url": "https://www.bateswhite.com/careers/current-openings",
+      "location": "Washington, DC",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": "Rolling; apply via the site's viRecruit link"
+    },
+    {
+      "company": "Keystone Strategy",
+      "title": "2027 Summer Associate / Summer Consultant",
+      "url": "https://www.keystone.com/careers",
+      "location": "Boston / New York",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": "Firm says it is recruiting for Summer 2027"
+    },
+    {
+      "company": "RSM (Transfer Pricing)",
+      "title": "International Tax Transfer Pricing Intern - Summer 2027",
+      "url": "https://rsmus.com/careers/starting-your-career/internships.html",
+      "location": "Multiple US incl. Boston",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": "Seen on aggregators only"
+    },
+    {
+      "company": "Oxera",
+      "title": "Intern - Competition",
+      "url": "https://careers.oxera.com/jobs/6338765-intern-competition",
+      "location": "UK + European offices",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": "UK/FR/BE round usually closes end of October"
+    },
+    {
+      "company": "Oxera",
+      "title": "Intern - Finance and Valuation",
+      "url": "https://careers.oxera.com/jobs/6338900-intern-finance-and-valuation",
+      "location": "UK + European offices",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": ""
+    },
+    {
+      "company": "Oxera",
+      "title": "Intern - Analytics",
+      "url": "https://careers.oxera.com/jobs/6338892-intern-analytics",
+      "location": "UK + European offices",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": ""
+    },
+    {
+      "company": "RBB Economics",
+      "title": "Internship (competition economics) - rolling CV applications",
+      "url": "https://www.rbbecon.com/careers/",
+      "location": "London + other offices",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": "Email vacancies@rbbecon.com; no deadline"
+    },
+    {
+      "company": "Copenhagen Economics",
+      "title": "Student in Economics (part-time student role)",
+      "url": "https://copenhageneconomics.com/careers/student-in-economics/",
+      "location": "Copenhagen / Stockholm / Helsinki",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": "Part-time, not a summer internship"
+    },
+    {
+      "company": "KPMG Singapore Economics & Regulation",
+      "title": "Advisory - Consulting, Economics & Regulation | Off-cycle Internship (Jan-Jun 2027)",
+      "url": "https://careers.kpmg.com.sg/go/Interns-Advisory/573844/",
+      "location": "Singapore",
+      "status": "Likely open - confirm",
+      "checkedAt": "2026-09-27",
+      "note": ""
+    }
+  ],
+  "firmNotes": {
+    "Analysis Group": "Primary deadline (Sep 30) has passed; later applications are reviewed on a rolling basis.",
+    "The Brattle Group": "Secondary deadline Oct 12.",
+    "Berkeley Research Group": "US 2027 Summer Associate final deadline Oct 16.",
+    "Charles River Associates": "Resume review begins around Oct 15.",
+    "Compass Lexecon": "US applications opened Sep 14; virtual info session Oct 7.",
+    "Capital Economics": "Graduate Economist (Sept 2027) deadline Oct 16."
+  }
+}

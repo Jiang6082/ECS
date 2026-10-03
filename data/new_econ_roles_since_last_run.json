@@ -3,17 +3,18 @@
   "previousScanAt": "2026-10-02T18:17:43.744Z",
   "currentScanAt": "2026-10-03T17:06:50.599Z",
   "previousRows": 147,
-  "currentRows": 149,
+  "currentRows": 93,
   "added": [
     {
       "Company": "Analysis Group",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Title Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)",
-      "Location": "US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC",
+      "Title": "Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)",
+      "Location": "Multiple US offices",
       "Region": "North America",
       "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3071/job",
       "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
-      "Status": "Confirmed official posting"
+      "Status": "Confirmed official posting",
+      "Track": "Internship"
     },
     {
       "Company": "Ankura",
@@ -23,7 +24,8 @@
       "Region": "North America",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "Status": "Confirmed official posting"
+      "Status": "Confirmed official posting",
+      "Track": "Internship"
     },
     {
       "Company": "Charles River Associates",
@@ -33,17 +35,8 @@
       "Region": "Europe",
       "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052",
       "Source": "Official ATS Greenhouse:charlesriverassociates",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Charles River Associates",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Intern/Strategy Consulting (Life Sciences practice) - Summer 2027",
-      "Location": "Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom",
-      "Region": "Europe",
-      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8199212",
-      "Source": "Official ATS Greenhouse:charlesriverassociates",
-      "Status": "Confirmed official posting"
+      "Status": "Confirmed official posting",
+      "Track": "Internship"
     }
   ],
   "removed": [
@@ -55,7 +48,8 @@
       "Region": "South America",
       "URL": "https://careers.auroraer.com/en/postings/913b1659-17b7-41c4-b83b-250b22203176",
       "Source": "Official ATS Pinpoint:careers.auroraer.com",
-      "Status": "Confirmed official posting"
+      "Status": "Confirmed official posting",
+      "Track": "Internship"
     },
     {
       "Company": "Aurora Energy Research",
@@ -65,7 +59,8 @@
       "Region": "South America",
       "URL": "https://careers.auroraer.com/en/postings/1fd2b096-c88f-4277-b708-7cad3a2a34f9",
       "Source": "Official ATS Pinpoint:careers.auroraer.com",
-      "Status": "Confirmed official posting"
+      "Status": "Confirmed official posting",
+      "Track": "Internship"
     },
     {
       "Company": "BDO (Transfer Pricing)",
@@ -75,27 +70,8 @@
       "Region": "North America",
       "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11763",
       "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Miami)",
-      "Location": "Miami, FL, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/11763",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Miami)",
-      "Location": "Miami, FL, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11763",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting"
+      "Status": "Confirmed official posting",
+      "Track": "Internship"
     }
   ]
 }

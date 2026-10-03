@@ -4,7 +4,7 @@ Scan started: 2026-10-03T17:06:50.599Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (25)
+## Matching Roles Found (23)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -20,12 +20,10 @@ Canonical companies after aliases: 232
 | Secretariat | Litigation, Antitrust & Damages | 3/3 pages live | [link](https://secretariat-intl.com/careers/current-openings/) [link](https://secretariat-intl.com/careers/) [link](https://job-boards.greenhouse.io/secretariatadvisorsllc/) |
 | Ankura | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://ankura.com/job-openings) |
 | Stout | Transfer Pricing & Valuation | 3/3 pages live | [link](https://www.stout.com/en/careers) [link](https://www.stout.com/en/careers/search) [link](https://stout.wd5.myworkdayjobs.com/Stout-Careers) |
-| Houlihan Lokey (Dispute Resolution Consulting) | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Integra FEC | Litigation, Antitrust & Damages | 3/3 pages live | [link](https://www.integrafec.com/careers) [link](https://job-boards.greenhouse.io/integra) [link](https://job-boards.greenhouse.io/integra?gh_src=web3.career) |
 | E.CA Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://e-ca.jobs.personio.de/) |
 | Aurora Energy Research | Energy & Environmental Economics | 1/1 pages live | [link](https://careers.auroraer.com/) |
 | Technopolis Group | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://technopolis-group.jobs.personio.com/) |
-| RCLCO | Policy & Research Economics | 1/1 pages live | [link](https://job-boards.greenhouse.io/rclco) |
 | Energy + Environmental Economics (E3) | Energy & Environmental Economics | 1/1 pages live | [link](https://www.ethree.com/careers/) |
 | PwC (Economics / Transfer Pricing / Forensics) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://jobs.us.pwc.com/entry-level-transfer-pricing) |
 | BDO (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.bdo.com/careers) |
@@ -47,12 +45,13 @@ Canonical companies after aliases: 232
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | no saved page attempted | none |
 
-## Confirmed Openings, No Matching Role (25)
+## Confirmed Openings, No Matching Role (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
 | AlixPartners | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.alixpartners.com/careers/job-search/) |
 | Guidehouse | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://guidehouse.com/careers/internship) |
+| Houlihan Lokey (Dispute Resolution Consulting) | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Coherent Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://coherentecon.com/job-openings/) |
 | Fideres | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://job-boards.eu.greenhouse.io/fideres) |
 | HKA | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://careers.hka.com/) [link](https://careers.hka.com/jobs) |
@@ -66,6 +65,7 @@ Canonical companies after aliases: 232
 | Urban Institute | Policy & Research Economics | 3/3 pages live | [link](https://www.urban.org/about/careers) [link](https://urban.wd115.myworkdayjobs.com/Urban-Careers/) [link](https://www.urban.org/tags/job-opportunities) |
 | The Cadmus Group | Energy & Environmental Economics | 3/3 pages live | [link](https://cadmusgroup.com/careers/) [link](https://cadmusgroup.com/search-careers/) [link](https://careers-cadmusgroup.icims.com/jobs/intro) |
 | HR&A Advisors | Policy & Research Economics | 1/1 pages live | [link](https://hraadvisors.applytojob.com/apply/) |
+| RCLCO | Policy & Research Economics | 1/1 pages live | [link](https://job-boards.greenhouse.io/rclco) |
 | Lightcast | Policy & Research Economics | 1/1 pages live | [link](https://jobs.lever.co/economicmodeling/) |
 | Acumen | Policy & Research Economics | 1/1 pages live | [link](https://acumen.org/jobs/) |
 | Synapse Energy Economics | Energy & Environmental Economics | 1/1 pages live | [link](https://synapse.hire.trakstar.com/) |

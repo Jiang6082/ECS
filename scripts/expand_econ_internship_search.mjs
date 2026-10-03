@@ -254,12 +254,14 @@ for (const row of [...officialRows, ...leads]) {
   const key = row.URL.toLowerCase().replace(/[#].*$/, "").replace(/\/$/, "");
   if (rowsByUrl.has(key)) continue;
   const id = `${row.Company}\n${row.Title}`.toLowerCase();
+  const fullId = `${id}\n${row.Location || ""}`.toLowerCase();
   const official = /official|career page|custom-ats/i.test(`${row.Source} ${row.Status}`) && !/aggregator|web lead/i.test(`${row.Source} ${row.Status}`);
   if (!official && identity.has(id)) continue;
+  if (official && identity.has(fullId)) continue;
   if (row.Notes?.length > 900) row.Notes = `${row.Notes.slice(0, 900)}...`;
   row.Region = regionForLocation(row.Location);
   rowsByUrl.set(key, row);
-  if (official) identity.add(id);
+  if (official) { identity.add(id); identity.add(fullId); }
 }
 const allRows = [...rowsByUrl.values()].sort((a, b) => a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title));
 const rows = allRows.filter((r) => r.Track === "Internship");

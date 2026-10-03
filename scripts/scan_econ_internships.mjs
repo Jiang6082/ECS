@@ -83,8 +83,16 @@ async function scanFirm(firm) {
 const scannedAt = new Date().toISOString();
 const results = await mapLimit(firms, 10, scanFirm, "firms scanned");
 
+// Same job is often published on several boards/sites of one ATS (e.g. BDO's three
+// Oracle sites, Stout's student + experienced Workday sites). Keep one per firm/title/location.
 const byUrl = new Map();
-for (const m of results.flatMap((r) => r.matches)) if (!byUrl.has(m.URL)) byUrl.set(m.URL, m);
+const seenIdentity = new Set();
+for (const m of results.flatMap((r) => r.matches)) {
+  const id = `${m.Company}\n${m.Title}\n${m.Location}`.toLowerCase();
+  if (byUrl.has(m.URL) || seenIdentity.has(id)) continue;
+  seenIdentity.add(id);
+  byUrl.set(m.URL, m);
+}
 const matches = [...byUrl.values()].sort((a, b) => a.Company.localeCompare(b.Company) || a.Title.localeCompare(b.Title));
 const internships = matches.filter((m) => m.Track === "Internship");
 const entry = matches.filter((m) => m.Track === "Entry-level");

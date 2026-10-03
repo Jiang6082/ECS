@@ -1,6 +1,13 @@
 // Shared helpers used by every ECS scanner/report script.
 export const USER_AGENT = "Mozilla/5.0 (compatible; ECS econ-consulting internship scanner)";
 
+const NAMED_ENTITIES = {
+  eacute: "é", Eacute: "É", egrave: "è", Egrave: "È", ecirc: "ê", euml: "ë", agrave: "à", Agrave: "À", acirc: "â", aacute: "á",
+  auml: "ä", Auml: "Ä", ouml: "ö", Ouml: "Ö", uuml: "ü", Uuml: "Ü", oacute: "ó", ocirc: "ô", iacute: "í", icirc: "î", ccedil: "ç",
+  Ccedil: "Ç", ntilde: "ñ", szlig: "ß", rsquo: "'", lsquo: "'", rdquo: '"', ldquo: '"', hellip: "...", bull: "•", middot: "·",
+  trade: "™", reg: "®", copy: "©", euro: "€", pound: "£",
+};
+
 export function decodeHtml(value = "") {
   return String(value)
     .replace(/&amp;/g, "&")
@@ -12,6 +19,8 @@ export function decodeHtml(value = "") {
     .replace(/&ndash;|&#8211;/g, "-")
     .replace(/&mdash;|&#8212;/g, "-")
     .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCharCode(parseInt(code, 16)))
+    .replace(/&([a-z]+);/gi, (m, name) => NAMED_ENTITIES[name] ?? m)
     .replace(/\s+/g, " ")
     .trim();
 }

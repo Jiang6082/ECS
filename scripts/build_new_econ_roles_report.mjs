@@ -1,5 +1,9 @@
 import fs from "node:fs/promises";
 import { groupedRoleMarkdown, regionForLocation } from "../tools/regions.mjs";
+import { cleanTitle, stillRelevant } from "../tools/clean.mjs";
+import { loadRoster } from "../tools/firms.mjs";
+
+const { byName } = await loadRoster();
 
 const previousPath = ".scan-state/previous_econ_v2_raw.json";
 const currentPath = "data/econ_internship_roles_scan_v2_raw.json";
@@ -103,7 +107,7 @@ const stablePath = ".scan-state/stable_roles.json";
 const roleMeta = (row) => ({
   Company: row.Company,
   Category: row.Category || "",
-  Title: row.Title,
+  Title: cleanTitle(row.Title),
   Location: row.Location || "",
   Region: row.Region || regionForLocation(row.Location),
   URL: row.URL,
@@ -115,7 +119,11 @@ const currentByUrl = new Map((current.rows || []).map((row) => [stableUrl(row.UR
 let stable; // Map: stableUrl -> role meta (the confirmed-present set)
 try {
   const parsed = JSON.parse(await fs.readFile(stablePath, "utf8"));
-  stable = new Map((parsed.roles || []).map((r) => [stableUrl(r.URL), r]));
+  // Drop roles the (possibly tightened) filter no longer keeps, so they leave silently
+  // instead of being reported as "closed".
+  stable = new Map((parsed.roles || [])
+    .filter((r) => stillRelevant(r, byName.get(r.Company) || {}))
+    .map((r) => [stableUrl(r.URL), { ...r, Title: cleanTitle(r.Title) }]));
 } catch {
   stable = null;
 }

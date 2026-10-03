@@ -4,7 +4,7 @@ import { decodeHtml, fetchJson, fetchText, postJson, stripHtml } from "./common.
 
 const job = (company, source, fields) => ({
   Company: company,
-  Title: (fields.Title || "").replace(/\s+/g, " ").trim(),
+  Title: decodeHtml(fields.Title || "").replace(/\s+/g, " ").trim(),
   Department: fields.Department || "",
   Location: (fields.Location || "").toString().replace(/\s+/g, " ").trim(),
   URL: (fields.URL || "").trim(),
@@ -75,12 +75,15 @@ export async function workday(company, { host, site, tenant, searchText = "" }) 
   const url = `${origin}/wday/cxs/${ten}/${site}/jobs`;
   const postings = [];
   const limit = 20;
-  for (let offset = 0; offset < 2000; offset += limit) {
+  let total = 0;
+  for (let offset = 0; offset < 3000; offset += limit) {
     const json = await postJson(url, { appliedFacets: {}, limit, offset, searchText });
     if (!json) { if (offset === 0) return null; break; }
+    // Workday only reports `total` on the first page (later pages return 0).
+    if (offset === 0) total = json.total || 0;
     const page = json.jobPostings || [];
     postings.push(...page);
-    if (!page.length || page.length < limit || postings.length >= (json.total || 0)) break;
+    if (!page.length || page.length < limit || (total && postings.length >= total)) break;
   }
   const source = `Workday:${ten}/${site}`;
   return {
@@ -176,6 +179,17 @@ export async function teamtailor(company, sub, { host } = {}) {
     const [title, ...rest] = text.split(/\s{2,}| · | – /);
     jobs.push(job(company, source, { Title: title, Location: rest.join(", "), URL: url }));
   }
+  if (!jobs.length) {
+    const rss = await fetchText(`${base}/jobs.rss`);
+    if (rss.ok) {
+      for (const [, item] of rss.text.matchAll(/<item>([\s\S]*?)<\/item>/gi)) {
+        const title = decodeHtml((item.match(/<title>([\s\S]*?)<\/title>/i)?.[1] || "").replace(/<!\[CDATA\[|\]\]>/g, ""));
+        const link = decodeHtml(item.match(/<link>([\s\S]*?)<\/link>/i)?.[1] || "");
+        const loc = decodeHtml((item.match(/<(?:tt:)?location[^>]*>([\s\S]*?)<\/(?:tt:)?location>/i)?.[1] || "").replace(/<[^>]+>/g, " "));
+        if (title && link) jobs.push(job(company, source, { Title: title, Location: loc, URL: link }));
+      }
+    }
+  }
   return { source, jobs };
 }
 
@@ -250,17 +264,29 @@ export async function icims(company, sub) {
     if (!res.ok) break;
     resolved = true;
     let added = 0;
-    for (const m of res.text.matchAll(/<a[^>]+href="(https?:\/\/[^"]+\/jobs\/(\d+)\/[^"]*\/job[^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)) {
+    const links = [...res.text.matchAll(/<a[^>]+href="(https?:\/\/[^"]+\/jobs\/(\d+)\/[^"]*\/job[^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)];
+    links.forEach((m, i) => {
       const id = m[2];
-      if (seen.has(id)) continue;
-      const title = stripHtml(m[3]).replace(/^Job Title\s*/i, "");
-      if (!title) continue;
+      if (seen.has(id)) return;
+      // Anchor text carries a screen-reader label ("Title") before the real title.
+      const title = stripHtml(m[3]).replace(/^(?:Job\s+)?(?:Posting\s+)?Title\s*/i, "").trim();
+      if (!title) return;
       seen.add(id);
       added += 1;
-      const tail = res.text.slice(m.index, m.index + 2500);
-      const loc = stripHtml(tail.match(/Job Locations?[\s\S]*?<span[^>]*>([\s\S]*?)<\/span>/i)?.[1] || "");
+      // iCIMS cards usually render the "Job Locations"/"ID" header ABOVE the title link,
+      // so look in the slice between the previous job link and this one first (confirmed
+      // by the job id appearing there); otherwise fall back to the slice after the link.
+      const locRe = /Job Locations?\s*(?:<\/[^>]+>\s*)*<span[^>]*>([\s\S]*?)<\/span>/gi;
+      const prevEnd = i > 0 ? links[i - 1].index + links[i - 1][0].length : Math.max(0, m.index - 3000);
+      const before = res.text.slice(Math.max(prevEnd, m.index - 3000), m.index);
+      const nextStart = links.slice(i + 1).find((n) => n[2] !== id)?.index ?? m.index + m[0].length + 3000;
+      const after = res.text.slice(m.index + m[0].length, Math.min(nextStart, m.index + m[0].length + 3000));
+      const lastMatch = (text) => { const all = [...text.matchAll(locRe)]; return all.length ? all[all.length - 1][1] : ""; };
+      const firstMatch = (text) => [...text.matchAll(locRe)][0]?.[1] || "";
+      const headerAbove = new RegExp(`\\b(?:\\d{4}-)?0*${id}\\b`).test(stripHtml(before)) && lastMatch(before);
+      const loc = stripHtml(headerAbove ? lastMatch(before) : firstMatch(after) || lastMatch(before));
       jobs.push(job(company, source, { Title: title, Location: loc, URL: `https://${host}/jobs/${id}/job` }));
-    }
+    });
     if (!added) break;
   }
   return resolved ? { source, jobs } : null;
