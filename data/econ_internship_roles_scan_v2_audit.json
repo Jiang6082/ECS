@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-03T17:06:50.599Z",
+  "searchedAt": "2026-10-03T19:05:55.995Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -280,9 +280,7 @@
     "Prognos",
     "BAK Economics",
     "Ecoplan",
-    "INFRAS",
     "Oslo Economics",
-    "Vista Analyse",
     "THEMA Consulting Group",
     "Afi",
     "Prometeia",
@@ -306,7 +304,6 @@
     "L&M Policy Research",
     "Chmura Economics & Analytics",
     "Camoin Associates",
-    "Estolano Advisors",
     "Wood Mackenzie",
     "Rhodium Group",
     "Potomac Economics",
@@ -417,7 +414,7 @@
         }
       ],
       "jobsSeen": 17,
-      "relevantRoles": 1
+      "relevantRoles": 3
     },
     {
       "company": "Compass Lexecon",
@@ -545,8 +542,8 @@
       "company": "Econ One",
       "pageUrl": "https://econone.com/careers/",
       "resolvedUrl": "https://econone.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -565,14 +562,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:secretariatadvisorsllc",
-          "jobsSeen": 78
-        }
-      ],
-      "jobsSeen": 78,
-      "relevantRoles": 22
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Secretariat",
@@ -586,14 +578,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:secretariatadvisorsllc",
-          "jobsSeen": 78
-        }
-      ],
-      "jobsSeen": 78,
-      "relevantRoles": 22
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Secretariat",
@@ -607,14 +594,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:secretariatadvisorsllc",
-          "jobsSeen": 78
-        }
-      ],
-      "jobsSeen": 78,
-      "relevantRoles": 22
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Intensity",
@@ -718,10 +700,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 40
+          "jobsSeen": 42
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -750,10 +732,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 40
+          "jobsSeen": 42
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -804,14 +786,9 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Greenhouse:integrainterns",
-          "jobsSeen": 8
-        }
-      ],
-      "jobsSeen": 8,
-      "relevantRoles": 4
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Integra FEC",
@@ -1252,8 +1229,8 @@
       "company": "London Economics",
       "pageUrl": "https://londoneconomics.co.uk/recruitment/",
       "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1291,7 +1268,7 @@
         }
       ],
       "jobsSeen": 100,
-      "relevantRoles": 7
+      "relevantRoles": 6
     },
     {
       "company": "Cornwall Insight",
@@ -1325,8 +1302,8 @@
       "company": "DIW Econ",
       "pageUrl": "https://diw-econ.de/en/career/",
       "resolvedUrl": "https://diw-econ.de/en/career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1463,8 +1440,8 @@
       "company": "Cebr",
       "pageUrl": "https://cebr.com/join-the-team/",
       "resolvedUrl": "https://cebr.com/join-the-team/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1584,11 +1561,35 @@
       "relevantRoles": 0
     },
     {
+      "company": "INFRAS",
+      "pageUrl": "https://www.infrasai.io/",
+      "resolvedUrl": "https://www.infrasai.io/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Menon Economics",
       "pageUrl": "https://menon.us/",
       "resolvedUrl": "https://menon.us/",
       "pageOk": true,
       "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Vista Analyse",
+      "pageUrl": "https://vistams.lausd.org/",
+      "resolvedUrl": "https://vistams.lausd.org/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1623,8 +1624,8 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2120,8 +2121,8 @@
       "company": "Keyser Marston Associates",
       "pageUrl": "https://www.keysermarston.com/careers/",
       "resolvedUrl": "https://www.keysermarston.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2206,12 +2207,10 @@
       "company": "ECONorthwest",
       "pageUrl": "https://econw.com/careers/",
       "resolvedUrl": "https://econw.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "rippling"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2222,6 +2221,18 @@
       "resolvedUrl": "https://beacons.ai/",
       "pageOk": false,
       "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Estolano Advisors",
+      "pageUrl": "https://estolanoadvisors.com/careers",
+      "resolvedUrl": "https://estolanoadvisors.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2428,12 +2439,10 @@
       "company": "KPMG (Economic & Valuation Services)",
       "pageUrl": "https://www.kpmguscareers.com/early-career/",
       "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2488,38 +2497,22 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 710
-        },
-        {
-          "source": "Oracle:ebqb/BDOEntryLevelCareers",
-          "jobsSeen": 710
+          "jobsSeen": 709
         }
       ],
-      "jobsSeen": 1420,
-      "relevantRoles": 8
+      "jobsSeen": 709,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
       "pageUrl": "https://jobs.rsmus.com/",
       "resolvedUrl": "https://jobs.rsmus.com/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "rsm.wd1.myworkdayjobs.com",
-            "site": "RSMCareers"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 40
-        }
-      ],
-      "jobsSeen": 40,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -2638,12 +2631,10 @@
       "company": "KPMG Singapore Economics & Regulation",
       "pageUrl": "https://www.kpmguscareers.com/early-career/",
       "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2652,8 +2643,8 @@
       "company": "KPMG Singapore Economics & Regulation",
       "pageUrl": "https://www.kpmguscareers.com/job-search/",
       "resolvedUrl": "https://www.kpmguscareers.com/job-search/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2847,10 +2838,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 40
+          "jobsSeen": 1006
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 1006,
       "relevantRoles": 0
     },
     {
@@ -3286,6 +3277,27 @@
     {
       "company": "London Economics",
       "key": "london-economics",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oxera",
+      "key": "oxera",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Keystone Strategy",
+      "key": "keystone",
+      "snapshotAt": null,
+      "rolesInSnapshot": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kroll",
+      "key": "kroll-expert-services",
       "snapshotAt": null,
       "rolesInSnapshot": 0,
       "relevantRoles": 0

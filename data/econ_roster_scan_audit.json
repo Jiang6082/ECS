@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T18:05:59.024Z",
-  "scanStartedAt": "2026-10-03T17:06:50.599Z",
+  "generatedAt": "2026-10-03T19:07:23.430Z",
+  "scanStartedAt": "2026-10-03T19:05:55.995Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 23,
-    "confirmed-no-open-postings": 8,
-    "confirmed-openings-no-matching-role": 27,
-    "could-not-fully-verify": 174
+    "matching-role-found": 25,
+    "confirmed-no-open-postings": 6,
+    "confirmed-openings-no-matching-role": 26,
+    "could-not-fully-verify": 175
   },
   "companies": [
     {
@@ -38,7 +38,7 @@
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 17,
-      "relevantRoles": 1
+      "relevantRoles": 3
     },
     {
       "company": "Compass Lexecon",
@@ -121,7 +121,7 @@
         "Keystone Strategy"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "confirmed-no-open-postings",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.keystone.com/careers"
       ],
@@ -183,7 +183,7 @@
       "careerPages": [
         "https://econone.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -202,8 +202,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 78,
-      "relevantRoles": 22
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Intensity",
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -339,8 +339,8 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 8,
-      "relevantRoles": 4
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Global Economics Group",
@@ -977,7 +977,7 @@
         "Oxera"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "confirmed-no-open-postings",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.oxera.com/jobs"
       ],
@@ -1097,7 +1097,7 @@
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1130,7 +1130,7 @@
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 100,
-      "relevantRoles": 7
+      "relevantRoles": 6
     },
     {
       "company": "Cornwall Insight",
@@ -1185,7 +1185,7 @@
       "careerPages": [
         "https://diw-econ.de/en/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1349,7 +1349,7 @@
       "careerPages": [
         "https://cebr.com/join-the-team/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1621,9 +1621,11 @@
       ],
       "category": "Competition & Regulatory (Europe)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.infrasai.io/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1662,9 +1664,11 @@
       ],
       "category": "Competition & Regulatory (Europe)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
+      "careerPages": [
+        "https://vistams.lausd.org/"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1786,7 +1790,7 @@
       "careerPages": [
         "https://steer.education/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2134,7 +2138,7 @@
         "ICF"
       ],
       "category": "Policy & Research Economics",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://careers.icf.com/us/en"
       ],
@@ -2382,7 +2386,7 @@
       "careerPages": [
         "https://www.keysermarston.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2511,7 +2515,7 @@
       "careerPages": [
         "https://econw.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2564,9 +2568,11 @@
       ],
       "category": "Policy & Research Economics",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://estolanoadvisors.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2829,7 +2835,7 @@
       "careerPages": [
         "https://www.kpmguscareers.com/early-career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2862,8 +2868,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1420,
-      "relevantRoles": 8
+      "jobsSeen": 709,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2875,9 +2881,9 @@
       "careerPages": [
         "https://jobs.rsmus.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3023,7 +3029,7 @@
         "https://www.kpmguscareers.com/early-career/",
         "https://www.kpmguscareers.com/job-search/"
       ],
-      "livePages": 3,
+      "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3049,7 +3055,7 @@
         "IQVIA (HEOR)"
       ],
       "category": "Health Economics & HEOR",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.iqvia.com/en",
         "https://iqvia.wd1.myworkdayjobs.com/IQVIA/"
@@ -3176,7 +3182,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 40,
+      "jobsSeen": 1006,
       "relevantRoles": 0
     },
     {

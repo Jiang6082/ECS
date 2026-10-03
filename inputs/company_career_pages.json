@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:06:50.600Z",
+  "generatedAt": "2026-10-03T19:05:55.996Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -598,8 +598,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "INFRAS": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.infrasai.io/"
+      ],
+      "updatedAt": "2026-10-03T19:05:55.996Z"
     },
     "Menon Economics": {
       "careerPages": [
@@ -612,8 +614,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Vista Analyse": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://vistams.lausd.org/"
+      ],
+      "updatedAt": "2026-10-03T19:05:55.996Z"
     },
     "THEMA Consulting Group": {
       "careerPages": [],
@@ -947,8 +951,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Estolano Advisors": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://estolanoadvisors.com/careers"
+      ],
+      "updatedAt": "2026-10-03T19:05:55.996Z"
     },
     "Appleseed": {
       "careerPages": [
