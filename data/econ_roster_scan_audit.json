@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T19:07:23.430Z",
-  "scanStartedAt": "2026-10-03T19:05:55.995Z",
+  "generatedAt": "2026-10-04T17:24:32.690Z",
+  "scanStartedAt": "2026-10-04T17:22:58.018Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 25,
+    "matching-role-found": 26,
     "confirmed-no-open-postings": 6,
     "confirmed-openings-no-matching-role": 26,
-    "could-not-fully-verify": 175
+    "could-not-fully-verify": 174
   },
   "companies": [
     {
@@ -183,7 +183,7 @@
       "careerPages": [
         "https://econone.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1097,7 +1097,7 @@
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1185,7 +1185,7 @@
       "careerPages": [
         "https://diw-econ.de/en/career/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1349,7 +1349,7 @@
       "careerPages": [
         "https://cebr.com/join-the-team/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1430,9 +1430,11 @@
       ],
       "category": "Competition & Regulatory (Europe)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://indepenn.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1476,7 +1478,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 94,
       "relevantRoles": 1
@@ -1790,7 +1792,7 @@
       "careerPages": [
         "https://steer.education/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2386,7 +2388,7 @@
       "careerPages": [
         "https://www.keysermarston.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2515,7 +2517,7 @@
       "careerPages": [
         "https://econw.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2835,7 +2837,7 @@
       "careerPages": [
         "https://www.kpmguscareers.com/early-career/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2868,7 +2870,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 709,
+      "jobsSeen": 706,
       "relevantRoles": 4
     },
     {
@@ -2877,14 +2879,14 @@
         "RSM (Transfer Pricing)"
       ],
       "category": "Transfer Pricing & Valuation",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.rsmus.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantRoles": 0
+      "jobsSeen": 742,
+      "relevantRoles": 1
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3029,7 +3031,7 @@
         "https://www.kpmguscareers.com/early-career/",
         "https://www.kpmguscareers.com/job-search/"
       ],
-      "livePages": 1,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3182,7 +3184,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1006,
+      "jobsSeen": 1001,
       "relevantRoles": 0
     },
     {

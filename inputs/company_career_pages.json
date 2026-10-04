@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T19:05:55.996Z",
+  "generatedAt": "2026-10-04T17:22:58.019Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -533,8 +533,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Indepen": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://indepenn.com/"
+      ],
+      "updatedAt": "2026-10-04T17:22:58.019Z"
     },
     "First Economics": {
       "careerPages": [

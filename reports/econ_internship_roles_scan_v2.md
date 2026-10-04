@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-03T19:05:55.995Z
+Scanned: 2026-10-04T17:22:58.018Z
 Firms searched: 232
-Career pages checked: 182
-Internship roles/leads retained: 106
+Career pages checked: 183
+Internship roles/leads retained: 107
 Entry-level analyst roles (separate report): 49
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -15,7 +15,7 @@ Status guide:
 
 ## Roles And Leads By Region
 
-### North America (49)
+### North America (50)
 
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - US-MA-Boston | US-CA-Los Angeles | US-CA-San Francisco | US-NY-New York - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -50,6 +50,7 @@ Status guide:
 - **Integra FEC** - [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SUMMER
 - **Integra FEC** - [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SUMMER
 - **PRECISIONheor (Precision AQ)** - [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) - New York, NY, USA - Confirmed official posting (Official ATS Greenhouse:precisionaq): timing: Summer 2027; graduation years mentioned: 2027, 2029
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit - Confirmed official posting (Career page Workday:rsm/RSMCareers): career_page=https://jobs.rsmus.com/ | timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009) - Denver, Colorado, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) - Los Angeles, California, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
@@ -336,7 +337,6 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - Quantitative Economic Solutions
 - RBB Economics
 - REF-E
-- RSM (Transfer Pricing)
 - RTI Health Solutions
 - RTI International
 - Ramboll Management Consulting

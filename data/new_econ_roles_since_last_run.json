@@ -1,211 +1,140 @@
 {
-  "generatedAt": "2026-10-03T19:07:23.489Z",
-  "previousScanAt": "2026-10-03T17:06:50.599Z",
-  "currentScanAt": "2026-10-03T19:05:55.995Z",
-  "previousRows": 93,
-  "currentRows": 106,
+  "generatedAt": "2026-10-04T17:24:32.748Z",
+  "previousScanAt": "2026-10-03T19:05:55.995Z",
+  "currentScanAt": "2026-10-04T17:22:58.018Z",
+  "previousRows": 106,
+  "currentRows": 107,
   "added": [
     {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
-      "Location": "Dallas, TX, United States",
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Disputes & Economics - Healthcare and Life Sciences",
+      "Location": "Washington D.C.",
       "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13832",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Disputes & Economics - Healthcare and Life Sciences",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104974",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Forensic Data & Analytics",
+      "Location": "Washington D.C.",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Forensic Data & Analytics",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Forensic Data & Analytics",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Berkeley Research Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Summer Associate (Intern)",
+      "Location": "9 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976",
+      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Berkeley Research Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Chicago Office Health Analytics Practice Intern",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039",
+      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Intern (Energy), Economic Regulation Advisory",
+      "Location": "Paris, France",
+      "Region": "Europe",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Praktikant (m/w/d), Valuation & IP",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "ICF",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249",
+      "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "ICF",
+      "Category": "Policy & Research Economics",
+      "Title": "Economics Specialist (Entry Level, Hybrid, Summer 2027)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Economics-Specialist--Entry-Level--Hybrid--Summer-2027-_R2603180",
+      "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "ICF",
+      "Category": "Policy & Research Economics",
+      "Title": "Public Policy Researcher (Entry-Level, Hybrid, Summer 2027)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Public-Policy-Researcher--Entry-Level--Hybrid--Summer-2027-_R2603179",
+      "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "IQVIA (HEOR)",
+      "Category": "Health Economics & HEOR",
+      "Title": "Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838",
+      "Source": "Official ATS Workday:iqvia/IQVIA",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)",
-      "Location": "Atlanta, GA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14014",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)",
-      "Location": "Atlanta, GA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/14014",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)",
-      "Location": "Atlanta, GA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Boston)",
-      "Location": "Boston, MA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/11921",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Boston)",
-      "Location": "Boston, MA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11921",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-      "Location": "Los Angeles, CA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13875",
-      "Source": "Career page Oracle:ebqb/BDOExperiencedCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-      "Location": "Los Angeles, CA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875",
-      "Source": "Career page Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "NERA Economic Consulting",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "NERA Research Associate (Summer 2027 Grads) (Multiple Locations)",
-      "Location": "6 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1",
-      "Source": "Official ATS Workday:mmc/MMC",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Transfer Pricing - Intern - Summer 2027",
-      "Location": "15 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Intern---Summer-2027_756412WD",
-      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes Claims & Investigations: Chicago",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182-1",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: San Diego",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "Washington, District of Columbia, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Integra FEC",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(SPRING) Data Analyst Intern",
-      "Location": "Austin, Texas",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/integrainterns/jobs/5406101008",
-      "Source": "Career page Greenhouse:integrainterns",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Integra FEC",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(SPRING) Research Analyst Intern",
-      "Location": "Austin, Texas",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/integrainterns/jobs/5406116008",
-      "Source": "Career page Greenhouse:integrainterns",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Integra FEC",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(SUMMER) Data Analyst Intern",
-      "Location": "Austin, Texas",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/integrainterns/jobs/5406110008",
-      "Source": "Career page Greenhouse:integrainterns",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Integra FEC",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(SUMMER) Research Analyst Intern",
-      "Location": "Austin, Texas",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/integrainterns/jobs/5406120008",
-      "Source": "Career page Greenhouse:integrainterns",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

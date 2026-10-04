@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-03T19:05:55.995Z",
+  "searchedAt": "2026-10-04T17:22:58.018Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -269,7 +269,6 @@
     "Pantheon Macroeconomics",
     "Plum Consulting",
     "Aldwych Partners",
-    "Indepen",
     "Analysys Mason",
     "LCP Delta",
     "AFRY Management Consulting",
@@ -542,8 +541,8 @@
       "company": "Econ One",
       "pageUrl": "https://econone.com/careers/",
       "resolvedUrl": "https://econone.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1229,8 +1228,8 @@
       "company": "London Economics",
       "pageUrl": "https://londoneconomics.co.uk/recruitment/",
       "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1302,8 +1301,8 @@
       "company": "DIW Econ",
       "pageUrl": "https://diw-econ.de/en/career/",
       "resolvedUrl": "https://diw-econ.de/en/career/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1440,8 +1439,8 @@
       "company": "Cebr",
       "pageUrl": "https://cebr.com/join-the-team/",
       "resolvedUrl": "https://cebr.com/join-the-team/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1464,6 +1463,18 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Indepen",
+      "pageUrl": "https://indepenn.com/",
+      "resolvedUrl": "https://indepenn.com/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -1500,13 +1511,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1624,8 +1631,8 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2121,8 +2128,8 @@
       "company": "Keyser Marston Associates",
       "pageUrl": "https://www.keysermarston.com/careers/",
       "resolvedUrl": "https://www.keysermarston.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2207,10 +2214,12 @@
       "company": "ECONorthwest",
       "pageUrl": "https://econw.com/careers/",
       "resolvedUrl": "https://econw.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2439,10 +2448,12 @@
       "company": "KPMG (Economic & Valuation Services)",
       "pageUrl": "https://www.kpmguscareers.com/early-career/",
       "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "avature"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2497,23 +2508,35 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 709
+          "jobsSeen": 706
         }
       ],
-      "jobsSeen": 709,
+      "jobsSeen": 706,
       "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
       "pageUrl": "https://jobs.rsmus.com/",
       "resolvedUrl": "https://jobs.rsmus.com/",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "rsm.wd1.myworkdayjobs.com",
+            "site": "RSMCareers"
+          }
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantRoles": 0
+      "boards": [
+        {
+          "source": "Workday:rsm/RSMCareers",
+          "jobsSeen": 742
+        }
+      ],
+      "jobsSeen": 742,
+      "relevantRoles": 1
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -2631,10 +2654,12 @@
       "company": "KPMG Singapore Economics & Regulation",
       "pageUrl": "https://www.kpmguscareers.com/early-career/",
       "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "avature"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2643,8 +2668,8 @@
       "company": "KPMG Singapore Economics & Regulation",
       "pageUrl": "https://www.kpmguscareers.com/job-search/",
       "resolvedUrl": "https://www.kpmguscareers.com/job-search/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2838,10 +2863,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1006
+          "jobsSeen": 1001
         }
       ],
-      "jobsSeen": 1006,
+      "jobsSeen": 1001,
       "relevantRoles": 0
     },
     {
