@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:22:58.019Z",
+  "generatedAt": "2026-10-06T18:52:08.602Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -720,8 +720,10 @@
       "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Synergies Economic Consulting": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.synergies.com.au/careers/"
+      ],
+      "updatedAt": "2026-10-06T18:52:08.602Z"
     },
     "The Centre for International Economics": {
       "careerPages": [],
@@ -1236,8 +1238,12 @@
       "updatedAt": "2026-10-03T17:06:50.600Z"
     },
     "Health Advances": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.healthadvances.com/careers",
+        "https://www.healthadvances.com/careers/explore",
+        "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true"
+      ],
+      "updatedAt": "2026-10-06T18:52:08.602Z"
     },
     "Wakely Consulting Group": {
       "careerPages": [],

@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-04T17:22:58.018Z
+Scan started: 2026-10-06T18:52:08.601Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -41,7 +41,7 @@ Canonical companies after aliases: 232
 | --- | --- | --- | --- |
 | Edgeworth Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.edgewortheconomics.com/careers-open-positions) |
 | Cornwall Insight | Energy & Environmental Economics | 1/1 pages live | [link](https://cornwallinsight.pinpointhq.com/) |
-| Fathom Consulting | Macro & Economic Research | 1/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
+| Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Economic & Planning Systems | Policy & Research Economics | 1/1 pages live | [link](https://www.epsys.com/careers) |
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | no saved page attempted | none |
@@ -58,7 +58,7 @@ Canonical companies after aliases: 232
 | HKA | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://careers.hka.com/) [link](https://careers.hka.com/jobs) |
 | Frontier Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
-| Baringa | Energy & Environmental Economics | 2/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
+| Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
 | Abt Global | Policy & Research Economics | 1/1 pages live | [link](https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions) |
@@ -177,7 +177,7 @@ Canonical companies after aliases: 232
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DKM Economic Consultants | Competition & Regulatory (Europe) | no saved page attempted | none |
 | SQW | Competition & Regulatory (Europe) | no saved page attempted | none |
-| Steer | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://steer.education/) |
+| Steer | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://steer.education/) |
 | BiGGAR Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Metro Dynamics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.metrostate.edu/students) |
 | HoustonKemp | Economic Consulting (APAC) | 1/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
@@ -188,7 +188,7 @@ Canonical companies after aliases: 232
 | NZIER | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.nzier.org.nz/careers) |
 | Castalia | Economic Consulting (APAC) | 1/1 pages live | [link](https://castalia-advisors.com/join/) |
 | ACIL Allen | Economic Consulting (APAC) | 1/1 pages live | [link](https://careercenter.acil.org/) |
-| Synergies Economic Consulting | Economic Consulting (APAC) | no saved page attempted | none |
+| Synergies Economic Consulting | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.synergies.com.au/careers/) |
 | The Centre for International Economics | Economic Consulting (APAC) | no saved page attempted | none |
 | Marsden Jacob Associates | Economic Consulting (APAC) | 2/2 pages live | [link](https://careers.marsden.com/) [link](https://careers.marsden.com/company/marsden-central) |
 | Oakley Greenwood | Economic Consulting (APAC) | no saved page attempted | none |
@@ -252,7 +252,7 @@ Canonical companies after aliases: 232
 | KNG Health Consulting | Health Economics & HEOR | no saved page attempted | none |
 | RTI Health Solutions | Health Economics & HEOR | 2/2 pages live | [link](https://www.rti.org/careers) [link](https://careers.rti.org/) |
 | Broadstreet HEOR | Health Economics & HEOR | 1/1 pages live | [link](https://broadstreetglobal.com/) |
-| Health Advances | Health Economics & HEOR | no saved page attempted | none |
+| Health Advances | Health Economics & HEOR | 1/3 pages live | [link](https://www.healthadvances.com/careers) [link](https://www.healthadvances.com/careers/explore) [link](https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true) |
 | Wakely Consulting Group | Health Economics & HEOR | no saved page attempted | none |
 | Moody's Analytics (Economics) | Macro & Economic Research | 1/1 pages live | [link](https://careers.moodys.com/en/search-jobs) |
 

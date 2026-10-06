@@ -1,14 +1,14 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-04T17:22:58.018Z
+Last updated: 2026-10-06T18:52:08.601Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 183
-- Current internship roles: 107
+- Career pages checked: 187
+- Current internship roles: 110
 - Entry-level analyst roles: 49 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 13
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 0
 - Firms with matching roles: 26
 - Confirmed no open postings: 6
@@ -17,29 +17,24 @@ Last updated: 2026-10-04T17:22:58.018Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 76
+- Litigation, Antitrust & Damages: 77
 - Transfer Pricing & Valuation: 9
 - Big 4 & Advisory Economics: 6
 - Health Economics & HEOR: 5
 - Energy & Environmental Economics: 4
-- Policy & Research Economics: 3
-- Macro & Economic Research: 2
-- Competition & Regulatory (Europe): 2
+- Competition & Regulatory (Europe): 4
+- Macro & Economic Research: 3
+- Policy & Research Economics: 2
 
 ## New Roles Since Previous Scan
 
-### North America (6)
+### North America (1)
 
-- **Ankura** - [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981) - Washington D.C.
-- **Ankura** - [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104974) - Chicago, IL
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) - Washington D.C.
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) - Chicago, IL
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) - New York, NY
-- **Berkeley Research Group** - [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) - Chicago, IL
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit
 
-### Europe (1)
+### Europe (0)
 
-- **FTI Consulting (Economic Consulting)** - [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) - Paris, France
+_None._
 
 ### Asia (0)
 
@@ -65,14 +60,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (6)
+### Remote / Unspecified (0)
 
-- **Berkeley Research Group** - [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) - 9 Locations
-- **FTI Consulting (Economic Consulting)** - [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) - 2 Locations
-- **ICF** - [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) - 2 Locations
-- **ICF** - [Economics Specialist (Entry Level, Hybrid, Summer 2027)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Economics-Specialist--Entry-Level--Hybrid--Summer-2027-_R2603180) - 2 Locations
-- **ICF** - [Public Policy Researcher (Entry-Level, Hybrid, Summer 2027)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Public-Policy-Researcher--Entry-Level--Hybrid--Summer-2027-_R2603179) - 2 Locations
-- **IQVIA (HEOR)** - [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) - 2 Locations
+_None._
 
 ## No Longer Present
 

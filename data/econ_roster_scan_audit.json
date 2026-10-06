@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T17:24:32.690Z",
-  "scanStartedAt": "2026-10-04T17:22:58.018Z",
+  "generatedAt": "2026-10-06T18:54:07.844Z",
+  "scanStartedAt": "2026-10-06T18:52:08.601Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 42,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -1129,7 +1129,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 100,
+      "jobsSeen": 95,
       "relevantRoles": 6
     },
     {
@@ -1364,7 +1364,7 @@
       "careerPages": [
         "https://www.fathom-consulting.com/career-enquiries/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1478,7 +1478,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 94,
       "relevantRoles": 1
@@ -1792,7 +1792,7 @@
       "careerPages": [
         "https://steer.education/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1950,9 +1950,11 @@
       ],
       "category": "Economic Consulting (APAC)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.synergies.com.au/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2236,7 +2238,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -2253,7 +2255,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -2870,7 +2872,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 706,
+      "jobsSeen": 695,
       "relevantRoles": 4
     },
     {
@@ -2885,8 +2887,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 742,
-      "relevantRoles": 1
+      "jobsSeen": 728,
+      "relevantRoles": 2
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3169,7 +3171,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -3184,7 +3186,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1001,
+      "jobsSeen": 1018,
       "relevantRoles": 0
     },
     {
@@ -3260,7 +3262,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -3285,9 +3287,13 @@
       ],
       "category": "Health Economics & HEOR",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.healthadvances.com/careers",
+        "https://www.healthadvances.com/careers/explore",
+        "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
     },

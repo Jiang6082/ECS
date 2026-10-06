@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-04T17:22:58.018Z",
+  "searchedAt": "2026-10-06T18:52:08.601Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -288,7 +288,6 @@
     "SQW",
     "BiGGAR Economics",
     "Sapere Research Group",
-    "Synergies Economic Consulting",
     "The Centre for International Economics",
     "Oakley Greenwood",
     "Incenta Economic Consulting",
@@ -311,7 +310,6 @@
     "Andersen (Transfer Pricing)",
     "Economics Partners",
     "KNG Health Consulting",
-    "Health Advances",
     "Wakely Consulting Group",
     "S&P Global (Economics)"
   ],
@@ -699,10 +697,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 42
+          "jobsSeen": 40
         }
       ],
-      "jobsSeen": 42,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -731,10 +729,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 42
+          "jobsSeen": 40
         }
       ],
-      "jobsSeen": 42,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -1263,10 +1261,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 100
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 95,
       "relevantRoles": 6
     },
     {
@@ -1451,8 +1449,8 @@
       "company": "Fathom Consulting",
       "pageUrl": "https://www.fathom-consulting.com/career-enquiries/",
       "resolvedUrl": "https://www.fathom-consulting.com/career-enquiries/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 404,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1501,7 +1499,11 @@
       "resolvedUrl": "https://www.baringa.com/en/careers/",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {},
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1511,9 +1513,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1631,8 +1637,8 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 503,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1729,6 +1735,18 @@
       "company": "ACIL Allen",
       "pageUrl": "https://careercenter.acil.org/",
       "resolvedUrl": "https://careercenter.acil.org/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Synergies Economic Consulting",
+      "pageUrl": "https://www.synergies.com.au/careers/",
+      "resolvedUrl": "https://www.synergies.com.au/careers/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -1924,10 +1942,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 11
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -1948,10 +1966,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 4
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -1972,10 +1990,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 4
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -2508,10 +2526,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 706
+          "jobsSeen": 695
         }
       ],
-      "jobsSeen": 706,
+      "jobsSeen": 695,
       "relevantRoles": 4
     },
     {
@@ -2532,11 +2550,11 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 742
+          "jobsSeen": 728
         }
       ],
-      "jobsSeen": 742,
-      "relevantRoles": 1
+      "jobsSeen": 728,
+      "relevantRoles": 2
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -2831,7 +2849,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 18
+          "jobsSeen": 17
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -2842,7 +2860,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -2863,10 +2881,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1001
+          "jobsSeen": 1018
         }
       ],
-      "jobsSeen": 1001,
+      "jobsSeen": 1018,
       "relevantRoles": 0
     },
     {
@@ -2970,16 +2988,52 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 10
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
       "company": "Broadstreet HEOR",
       "pageUrl": "https://broadstreetglobal.com/",
       "resolvedUrl": "https://broadstreetglobal.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Health Advances",
+      "pageUrl": "https://www.healthadvances.com/careers",
+      "resolvedUrl": "https://www.healthadvances.com/careers",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Health Advances",
+      "pageUrl": "https://www.healthadvances.com/careers/explore",
+      "resolvedUrl": "https://www.healthadvances.com/careers/explore",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Health Advances",
+      "pageUrl": "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true",
+      "resolvedUrl": "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
