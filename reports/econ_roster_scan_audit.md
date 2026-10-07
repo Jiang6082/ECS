@@ -1,10 +1,10 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-06T18:52:08.601Z
+Scan started: 2026-10-07T19:17:38.122Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (26)
+## Matching Roles Found (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ Canonical companies after aliases: 232
 | Ankura | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://ankura.com/job-openings) |
 | Stout | Transfer Pricing & Valuation | 3/3 pages live | [link](https://www.stout.com/en/careers) [link](https://www.stout.com/en/careers/search) [link](https://stout.wd5.myworkdayjobs.com/Stout-Careers) |
 | Integra FEC | Litigation, Antitrust & Damages | 3/3 pages live | [link](https://www.integrafec.com/careers) [link](https://job-boards.greenhouse.io/integra) [link](https://job-boards.greenhouse.io/integra?gh_src=web3.career) |
+| J.S. Held | Litigation, Antitrust & Damages | 1/3 pages live | [link](https://www.jsheld.com/about-us/careers) [link](https://careers.smartrecruiters.com/JSHeldLLC) [link](https://www.jsheld.com/about-us/culture-community) |
 | E.CA Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://e-ca.jobs.personio.de/) |
 | Aurora Energy Research | Energy & Environmental Economics | 1/1 pages live | [link](https://careers.auroraer.com/) |
 | Technopolis Group | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://technopolis-group.jobs.personio.com/) |
@@ -46,7 +47,7 @@ Canonical companies after aliases: 232
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | no saved page attempted | none |
 
-## Confirmed Openings, No Matching Role (26)
+## Confirmed Openings, No Matching Role (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -70,14 +71,15 @@ Canonical companies after aliases: 232
 | Lightcast | Policy & Research Economics | 1/1 pages live | [link](https://jobs.lever.co/economicmodeling/) |
 | Acumen | Policy & Research Economics | 1/1 pages live | [link](https://acumen.org/jobs/) |
 | Synapse Energy Economics | Energy & Environmental Economics | 1/1 pages live | [link](https://synapse.hire.trakstar.com/) |
-| Wood Mackenzie | Energy & Environmental Economics | no saved page attempted | none |
+| Wood Mackenzie | Energy & Environmental Economics | 3/3 pages live | [link](https://www.woodmac.com/careers/overview/) [link](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers) [link](https://www.woodmac.com/careers/your-career/) |
 | Grant Thornton (Transfer Pricing / Economics) | Transfer Pricing & Valuation | 2/2 pages live | [link](https://www.grants.gov/) [link](https://grantable.co/grants) |
 | Avalere Health | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.lever.co/avalerehealth) |
 | Health Management Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.healthmanagement.com/career-opportunities/) |
 | Lumanity | Health Economics & HEOR | 1/1 pages live | [link](https://lumanity.com/careers/current-openings/) |
+| Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (174)
+## Could Not Fully Verify (172)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -116,7 +118,6 @@ Canonical companies after aliases: 232
 | Market Platform Dynamics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Invotex | Litigation, Antitrust & Damages | no saved page attempted | none |
 | The Kenrich Group | Litigation, Antitrust & Damages | no saved page attempted | none |
-| J.S. Held | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Gnarus Advisors | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Analysis & Inference | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Summit Consulting | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.summitsalonacademyportland.com/) |
@@ -155,7 +156,7 @@ Canonical companies after aliases: 232
 | Indepen | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://indepenn.com/) |
 | First Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.firstphx.org/) |
 | Analysys Mason | Competition & Regulatory (Europe) | no saved page attempted | none |
-| LCP Delta | Energy & Environmental Economics | no saved page attempted | none |
+| LCP Delta | Energy & Environmental Economics | 3/3 pages live | [link](https://delta.lcp.com/careers) [link](https://www.delta.com/us/en/careers/students-and-early-careers) [link](https://www.delta.com/us/en/careers/overview) |
 | AFRY Management Consulting | Energy & Environmental Economics | no saved page attempted | none |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Lexonomics | Competition & Regulatory (Europe) | no saved page attempted | none |
@@ -177,7 +178,7 @@ Canonical companies after aliases: 232
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DKM Economic Consultants | Competition & Regulatory (Europe) | no saved page attempted | none |
 | SQW | Competition & Regulatory (Europe) | no saved page attempted | none |
-| Steer | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://steer.education/) |
+| Steer | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://steer.education/) |
 | BiGGAR Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Metro Dynamics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.metrostate.edu/students) |
 | HoustonKemp | Economic Consulting (APAC) | 1/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
@@ -253,6 +254,5 @@ Canonical companies after aliases: 232
 | RTI Health Solutions | Health Economics & HEOR | 2/2 pages live | [link](https://www.rti.org/careers) [link](https://careers.rti.org/) |
 | Broadstreet HEOR | Health Economics & HEOR | 1/1 pages live | [link](https://broadstreetglobal.com/) |
 | Health Advances | Health Economics & HEOR | 1/3 pages live | [link](https://www.healthadvances.com/careers) [link](https://www.healthadvances.com/careers/explore) [link](https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true) |
-| Wakely Consulting Group | Health Economics & HEOR | no saved page attempted | none |
 | Moody's Analytics (Economics) | Macro & Economic Research | 1/1 pages live | [link](https://careers.moodys.com/en/search-jobs) |
 

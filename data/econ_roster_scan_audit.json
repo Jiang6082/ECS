@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T18:54:07.844Z",
-  "scanStartedAt": "2026-10-06T18:52:08.601Z",
+  "generatedAt": "2026-10-07T19:19:31.020Z",
+  "scanStartedAt": "2026-10-07T19:17:38.122Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 26,
+    "matching-role-found": 27,
     "confirmed-no-open-postings": 6,
-    "confirmed-openings-no-matching-role": 26,
-    "could-not-fully-verify": 174
+    "confirmed-openings-no-matching-role": 27,
+    "could-not-fully-verify": 172
   },
   "companies": [
     {
@@ -792,12 +792,16 @@
         "J.S. Held"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
-      "relevantRoles": 0
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.jsheld.com/about-us/careers",
+        "https://careers.smartrecruiters.com/JSHeldLLC",
+        "https://www.jsheld.com/about-us/culture-community"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 116,
+      "relevantRoles": 6
     },
     {
       "company": "Gnarus Advisors",
@@ -1129,7 +1133,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 95,
+      "jobsSeen": 93,
       "relevantRoles": 6
     },
     {
@@ -1480,7 +1484,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 94,
+      "jobsSeen": 95,
       "relevantRoles": 1
     },
     {
@@ -1490,9 +1494,13 @@
       ],
       "category": "Energy & Environmental Economics",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://delta.lcp.com/careers",
+        "https://www.delta.com/us/en/careers/students-and-early-careers",
+        "https://www.delta.com/us/en/careers/overview"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1792,7 +1800,7 @@
       "careerPages": [
         "https://steer.education/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2480,7 +2488,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2707,9 +2715,13 @@
       ],
       "category": "Energy & Environmental Economics",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.woodmac.com/careers/overview/",
+        "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+        "https://www.woodmac.com/careers/your-career/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2872,8 +2884,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 695,
-      "relevantRoles": 4
+      "jobsSeen": 692,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2887,7 +2899,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 728,
+      "jobsSeen": 711,
       "relevantRoles": 2
     },
     {
@@ -3171,7 +3183,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 31,
       "relevantRoles": 0
     },
     {
@@ -3186,7 +3198,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1018,
+      "jobsSeen": 1009,
       "relevantRoles": 0
     },
     {
@@ -3262,7 +3274,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -3303,11 +3315,13 @@
         "Wakely Consulting Group"
       ],
       "category": "Health Economics & HEOR",
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.wakely.com/join-our-team/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {

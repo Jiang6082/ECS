@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T18:52:08.602Z",
+  "generatedAt": "2026-10-07T19:17:38.123Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -292,8 +292,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "J.S. Held": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.jsheld.com/about-us/careers",
+        "https://careers.smartrecruiters.com/JSHeldLLC",
+        "https://www.jsheld.com/about-us/culture-community"
+      ],
+      "updatedAt": "2026-10-07T19:17:38.123Z"
     },
     "Gnarus Advisors": {
       "careerPages": [],
@@ -557,8 +561,12 @@
       "updatedAt": "2026-09-29T18:32:17.613Z"
     },
     "LCP Delta": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://delta.lcp.com/careers",
+        "https://www.delta.com/us/en/careers/students-and-early-careers",
+        "https://www.delta.com/us/en/careers/overview"
+      ],
+      "updatedAt": "2026-10-07T19:17:38.123Z"
     },
     "AFRY Management Consulting": {
       "careerPages": [],
@@ -1009,8 +1017,12 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Wood Mackenzie": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.woodmac.com/careers/overview/",
+        "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+        "https://www.woodmac.com/careers/your-career/"
+      ],
+      "updatedAt": "2026-10-07T19:17:38.123Z"
     },
     "Resources for the Future": {
       "careerPages": [
@@ -1246,8 +1258,10 @@
       "updatedAt": "2026-10-06T18:52:08.602Z"
     },
     "Wakely Consulting Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.wakely.com/join-our-team/"
+      ],
+      "updatedAt": "2026-10-07T19:17:38.123Z"
     },
     "Oxford Economics": {
       "careerPages": [

@@ -1,24 +1,24 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-06T18:52:08.601Z
+Last updated: 2026-10-07T19:17:38.122Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 187
-- Current internship roles: 110
-- Entry-level analyst roles: 49 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 0
-- Firms with matching roles: 26
+- Career pages checked: 197
+- Current internship roles: 114
+- Entry-level analyst roles: 51 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 6
+- No longer present since previous scan: 3
+- Firms with matching roles: 27
 - Confirmed no open postings: 6
-- Openings but no matching role: 26
-- Could not fully verify: 174
+- Openings but no matching role: 27
+- Could not fully verify: 172
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 77
-- Transfer Pricing & Valuation: 9
+- Litigation, Antitrust & Damages: 82
+- Transfer Pricing & Valuation: 8
 - Big 4 & Advisory Economics: 6
 - Health Economics & HEOR: 5
 - Energy & Environmental Economics: 4
@@ -30,15 +30,18 @@ Last updated: 2026-10-06T18:52:08.601Z
 
 ### North America (1)
 
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) - McLean
 
-### Europe (0)
+### Europe (4)
 
-_None._
+- **Charles River Associates** - [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) - London, United Kingdom
+- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain
+- **Technopolis Group** - [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) - Paris
+- **Technopolis Group** - [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) - Paris
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Oxford Economics** - [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) - Singapore
 
 ### Oceania (0)
 
@@ -66,7 +69,9 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182) - Location not listed
+- **Ankura** - [University Intern, Sachs Policy Group](https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073) - USA NY New York East 42nd Street
+- **ICF** - [Economics Specialist (Entry Level, Hybrid, Summer 2027)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Economics-Specialist--Entry-Level--Hybrid--Summer-2027-_R2603180) - 2 Locations
 
 ## Full Reports
 

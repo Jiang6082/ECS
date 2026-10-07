@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-06T18:50:23.924Z
+Scanned: 2026-10-07T19:15:35.554Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 107
-Entry-level analyst roles: 47
+Internship roles: 106
+Entry-level analyst roles: 48
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -38,7 +38,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
-- **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11921) — Boston, MA, United States (Official ATS Oracle:ebqb/CX_1001; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13832) — Dallas, TX, United States (Official ATS Oracle:ebqb/CX_1001; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13875) — Los Angeles, CA, United States (Official ATS Oracle:ebqb/CX_1001; timing: Summer 2027)
 - **Berkeley Research Group** — [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) — 9 Locations (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing: 2027 Summer)
@@ -95,9 +94,9 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) — Genève (Official ATS Workday:pwc/Global_Campus_Careers; timing: 2027)
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) — Washington, District of Columbia, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) — Los Angeles, California, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
-- **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) — Downtown Boston, MA (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
-- **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009) — Denver, Colorado, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) — Chicago, Illinois, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
+- **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009) — Denver, Colorado, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
+- **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) — Downtown Boston, MA (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
 - **Secretariat** — [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) — München, Bavaria, Germany (Official ATS Greenhouse:secretariatadvisorsllc; timing not stated in title)
 - **Secretariat** — [Intern, Economics (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4408897009) — Washington, District of Columbia, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Stout** — [Summer 2027 Intern - Disputes Claims & Investigations: Chicago](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1) — Location not listed (Official ATS Workday:stout/Stout-Student-Careers; timing: Summer 2027)
@@ -109,9 +108,9 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Technopolis Group** — [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) — Paris (Official ATS Personio:technopolis-group; timing not stated in title)
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) — Boston, Massachusetts, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) — Toronto, Ontario, Canada (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
-- **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) — San Francisco, California, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
-- **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) — New York, New York, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
+- **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
+- **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) — San Francisco, California, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) — New York, New York, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **Trinity Life Sciences** — [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) — New York, NY (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
@@ -126,6 +125,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Analysis Group** — [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) — CN-Beijing (Official ATS iCIMS:analystcareers-analysisgroup)
 - **Analysis Group** — [Associate - Generalist - Montreal / Toronto (2027 Start Date) | Responsable de projets - Généraliste - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3050/job) — CA-QC-Montreal | CA-ON-Toronto (Official ATS iCIMS:associatecareers-analysisgroup)
 - **Analysis Group** — [Associate - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3047/job) — US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC (Official ATS iCIMS:associatecareers-analysisgroup)
+- **Analysis Group** — [Associate - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/2959/job) — US-MA-Boston (Official ATS iCIMS:associatecareers-analysisgroup)
 - **Ankura** — [University Associate, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Associate--Disputes---Economics_R104986) — Los Angeles, CA (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Financial Services Advisory (NYC)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Advisory--NYC-_R104989) — New York, NY (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Financial Services Disputes](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104999) — Washington D.C. (Official ATS Workday:ankura/Ankura)
@@ -162,8 +162,8 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **The Brattle Group** — [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720808005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005) — Boston, Massachusetts, United States (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732797005) — Chicago, Illinois, United States (Official ATS Greenhouse:thebrattlegroup)
-- **The Brattle Group** — [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005) — Chicago, Illinois, United States (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup)
+- **The Brattle Group** — [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005) — Chicago, Illinois, United States (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005) — Boston, Massachusetts, United States (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005) — New York, New York, United States (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) — Sydney, New South Wales, Australia (Official ATS Greenhouse:thebrattlegroup)

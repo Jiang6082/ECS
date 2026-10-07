@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-06T18:52:08.601Z",
+  "searchedAt": "2026-10-07T19:17:38.122Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-06T18:52:08.602Z",
+    "generatedAt": "2026-10-07T19:17:38.123Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -528,8 +528,12 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "J.S. Held": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.jsheld.com/about-us/careers",
+          "https://careers.smartrecruiters.com/JSHeldLLC",
+          "https://www.jsheld.com/about-us/culture-community"
+        ],
+        "updatedAt": "2026-10-07T19:17:38.123Z"
       },
       "Gnarus Advisors": {
         "careerPages": [],
@@ -793,8 +797,12 @@
         "updatedAt": "2026-09-29T18:32:17.613Z"
       },
       "LCP Delta": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://delta.lcp.com/careers",
+          "https://www.delta.com/us/en/careers/students-and-early-careers",
+          "https://www.delta.com/us/en/careers/overview"
+        ],
+        "updatedAt": "2026-10-07T19:17:38.123Z"
       },
       "AFRY Management Consulting": {
         "careerPages": [],
@@ -1245,8 +1253,12 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Wood Mackenzie": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.woodmac.com/careers/overview/",
+          "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+          "https://www.woodmac.com/careers/your-career/"
+        ],
+        "updatedAt": "2026-10-07T19:17:38.123Z"
       },
       "Resources for the Future": {
         "careerPages": [
@@ -1482,8 +1494,10 @@
         "updatedAt": "2026-10-06T18:52:08.602Z"
       },
       "Wakely Consulting Group": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.wakely.com/join-our-team/"
+        ],
+        "updatedAt": "2026-10-07T19:17:38.123Z"
       },
       "Oxford Economics": {
         "careerPages": [
@@ -1675,6 +1689,18 @@
       "pageUrl": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/"
     },
     {
+      "company": "J.S. Held",
+      "pageUrl": "https://www.jsheld.com/about-us/careers"
+    },
+    {
+      "company": "J.S. Held",
+      "pageUrl": "https://careers.smartrecruiters.com/JSHeldLLC"
+    },
+    {
+      "company": "J.S. Held",
+      "pageUrl": "https://www.jsheld.com/about-us/culture-community"
+    },
+    {
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/"
     },
@@ -1829,6 +1855,18 @@
     {
       "company": "Baringa",
       "pageUrl": "https://job-boards.greenhouse.io/baringa"
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://delta.lcp.com/careers"
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://www.delta.com/us/en/careers/students-and-early-careers"
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://www.delta.com/us/en/careers/overview"
     },
     {
       "company": "DICE Consult",
@@ -2067,6 +2105,18 @@
       "pageUrl": "https://demandsideanalytics.com/careers/"
     },
     {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://www.woodmac.com/careers/overview/"
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers"
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://www.woodmac.com/careers/your-career/"
+    },
+    {
       "company": "Resources for the Future",
       "pageUrl": "https://www.rff.org/careers/"
     },
@@ -2245,6 +2295,10 @@
     {
       "company": "Health Advances",
       "pageUrl": "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true"
+    },
+    {
+      "company": "Wakely Consulting Group",
+      "pageUrl": "https://www.wakely.com/join-our-team/"
     },
     {
       "company": "Oxford Economics",
@@ -2952,6 +3006,56 @@
       "relevantRoles": 0
     },
     {
+      "company": "J.S. Held",
+      "pageUrl": "https://www.jsheld.com/about-us/careers",
+      "resolvedUrl": "https://www.jsheld.com/about-us/careers",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "J.S. Held",
+      "pageUrl": "https://careers.smartrecruiters.com/JSHeldLLC",
+      "resolvedUrl": "https://careers.smartrecruiters.com/JSHeldLLC",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "smartrecruiters": [
+          "JSHeldLLC",
+          "external-referrals"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "SmartRecruiters:JSHeldLLC",
+          "jobsSeen": 116
+        },
+        {
+          "source": "SmartRecruiters:external-referrals",
+          "jobsSeen": 0
+        }
+      ],
+      "jobsSeen": 116,
+      "relevantRoles": 6
+    },
+    {
+      "company": "J.S. Held",
+      "pageUrl": "https://www.jsheld.com/about-us/culture-community",
+      "resolvedUrl": "https://www.jsheld.com/about-us/culture-community",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/",
       "resolvedUrl": "https://www.summitsalonacademyportland.com/",
@@ -3207,10 +3311,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 95
+          "jobsSeen": 93
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 93,
       "relevantRoles": 6
     },
     {
@@ -3489,11 +3593,51 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 94
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 95,
       "relevantRoles": 1
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://delta.lcp.com/careers",
+      "resolvedUrl": "https://delta.lcp.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://www.delta.com/us/en/careers/students-and-early-careers",
+      "resolvedUrl": "https://www.delta.com/us/en/careers/students-and-early-careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "avature"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://www.delta.com/us/en/careers/overview",
+      "resolvedUrl": "https://www.delta.com/us/en/careers/overview",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "avature"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "DICE Consult",
@@ -3583,8 +3727,8 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
-      "pageOk": false,
-      "pageStatus": 503,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4168,10 +4312,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 3
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -4313,6 +4457,63 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://www.woodmac.com/careers/overview/",
+      "resolvedUrl": "https://www.woodmac.com/careers/overview/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "woodmac.wd3.myworkdayjobs.com",
+            "site": "woodmaccareers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+      "resolvedUrl": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "woodmac.wd3.myworkdayjobs.com",
+            "site": "woodmaccareers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://www.woodmac.com/careers/your-career/",
+      "resolvedUrl": "https://www.woodmac.com/careers/your-career/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "woodmac.wd3.myworkdayjobs.com",
+            "site": "woodmaccareers"
+          }
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -4472,11 +4673,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 695
+          "jobsSeen": 692
         }
       ],
-      "jobsSeen": 695,
-      "relevantRoles": 4
+      "jobsSeen": 692,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -4496,10 +4697,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 728
+          "jobsSeen": 711
         }
       ],
-      "jobsSeen": 728,
+      "jobsSeen": 711,
       "relevantRoles": 2
     },
     {
@@ -4799,14 +5000,14 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 16
+          "jobsSeen": 14
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 31,
       "relevantRoles": 0
     },
     {
@@ -4827,10 +5028,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1018
+          "jobsSeen": 1009
         }
       ],
-      "jobsSeen": 1018,
+      "jobsSeen": 1009,
       "relevantRoles": 0
     },
     {
@@ -4934,10 +5135,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 11
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -4986,6 +5187,27 @@
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wakely Consulting Group",
+      "pageUrl": "https://www.wakely.com/join-our-team/",
+      "resolvedUrl": "https://www.wakely.com/join-our-team/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "careers-wakely"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:careers-wakely",
+          "jobsSeen": 3
+        }
+      ],
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -5493,7 +5715,7 @@
       "Location": "UAE Dubai DIFC",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 12 Days Ago",
+      "PostedAt": "Posted 13 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Middle East"
@@ -5506,7 +5728,7 @@
       "Location": "Ann Arbor, MI",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5519,7 +5741,7 @@
       "Location": "Los Angeles, CA",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5532,7 +5754,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 11 Days Ago",
+      "PostedAt": "Posted 12 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5545,7 +5767,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 11 Days Ago",
+      "PostedAt": "Posted 12 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5558,7 +5780,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104993",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5571,7 +5793,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104995",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5584,7 +5806,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 22 Days Ago",
+      "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5597,7 +5819,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104974",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 26 Days Ago",
+      "PostedAt": "Posted 27 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5610,7 +5832,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 19 Days Ago",
+      "PostedAt": "Posted 20 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5623,7 +5845,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5636,7 +5858,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5649,7 +5871,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5692,19 +5914,6 @@
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Asia"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Boston)",
-      "Location": "Boston, MA, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11921",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "PostedAt": "2026-03-17",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
     },
     {
       "Company": "BDO (Transfer Pricing)",
@@ -5766,7 +5975,7 @@
       "Location": "Berlin, GER",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 23 Days Ago",
+      "PostedAt": "Posted 24 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5779,7 +5988,7 @@
       "Location": "Brussels, BEL",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5792,7 +6001,7 @@
       "Location": "Brussels, BEL",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 23 Days Ago",
+      "PostedAt": "Posted 24 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5909,7 +6118,7 @@
       "Location": "5 Locations",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 18 Days Ago",
+      "PostedAt": "Posted 19 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -5922,7 +6131,7 @@
       "Location": "Berlin, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5935,7 +6144,7 @@
       "Location": "Brussels, Belgium",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5948,7 +6157,7 @@
       "Location": "Dusseldorf, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5961,7 +6170,7 @@
       "Location": "Helsinki, Finland",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5974,7 +6183,7 @@
       "Location": "Madrid, Spain",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Madrid-Spain/Intern---Competition-Practice---Madrid_JR261344",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -5987,7 +6196,7 @@
       "Location": "Milan, Italy",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Milan-Italy/Intern---Competition-Practice---Milan_JR261355",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6000,7 +6209,7 @@
       "Location": "Paris, France",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Competition-Practice---Paris_JR261357",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6013,7 +6222,7 @@
       "Location": "Berlin, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Energy-Practice---Berlin_JR260415",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6039,7 +6248,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Intern---Energy-Practice---London_JR261417",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6052,7 +6261,7 @@
       "Location": "Paris, France",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Energy-Practice---Paris_JR261413",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 14 Days Ago",
+      "PostedAt": "Posted 15 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6065,7 +6274,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 16 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6130,7 +6339,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6156,7 +6365,7 @@
       "Location": "Madrid, Spain",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted Yesterday",
+      "PostedAt": "Posted 2 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6169,7 +6378,7 @@
       "Location": "2 Locations",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6182,7 +6391,7 @@
       "Location": "2 Locations",
       "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249",
       "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
-      "PostedAt": "Posted 11 Days Ago",
+      "PostedAt": "Posted 12 Days Ago",
       "Notes": "timing: 2027 Summer",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6195,7 +6404,7 @@
       "Location": "2 Locations",
       "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Public-Policy-Researcher--Entry-Level--Hybrid--Summer-2027-_R2603179",
       "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
-      "PostedAt": "Posted 14 Days Ago",
+      "PostedAt": "Posted 15 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6260,10 +6469,75 @@
       "Location": "2 Locations",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "J.S. Held",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Economic Damages & Valuation Internship - Summer 2027",
+      "Location": "Birmingham, AL, us",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-10-05T20:25:16.766Z",
+      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
+      "Region": "Global / Multiple Regions"
+    },
+    {
+      "Company": "J.S. Held",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Economic Damages & Valuation Internship - Summer 2027",
+      "Location": "Alpharetta, GA, us",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-10T14:26:35.169Z",
+      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "J.S. Held",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Economic Damages & Valuation Internship - Summer 2027",
+      "Location": "San Francisco, CA, us",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-08-26T15:32:15.183Z",
+      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "J.S. Held",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)",
+      "Location": "Chicago, IL, us",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-09-15T20:33:18.708Z",
+      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
+      "Company": "J.S. Held",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Junior Forensic Engineering Internship (6 Month Contract)",
+      "Location": "Halifax, NS, ca",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000146261287",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-08-28T21:00:22.066Z",
+      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing not stated in title",
+      "Region": "North America"
     },
     {
       "Company": "NERA Economic Consulting",
@@ -6286,7 +6560,7 @@
       "Location": "6 Locations",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 14 Days Ago",
+      "PostedAt": "Posted 15 Days Ago",
       "Notes": "timing: Summer 2028",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6351,7 +6625,7 @@
       "Location": "Milan",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6403,7 +6677,7 @@
       "Location": "2 Locations",
       "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
       "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6416,7 +6690,7 @@
       "Location": "Genève",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 20 Days Ago",
+      "PostedAt": "Posted 21 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6430,7 +6704,7 @@
       "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930",
       "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting",
-      "PostedAt": "Posted Yesterday",
+      "PostedAt": "Posted 2 Days Ago",
       "Notes": "career_page=https://jobs.rsmus.com/ | timing: Summer 2027",
       "Region": "North America"
     },
@@ -6443,7 +6717,7 @@
       "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218",
       "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting",
-      "PostedAt": "Posted 25 Days Ago",
+      "PostedAt": "Posted 26 Days Ago",
       "Notes": "career_page=https://jobs.rsmus.com/ | timing: Summer 2027",
       "Region": "North America"
     },
@@ -6478,10 +6752,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Downtown Boston, MA",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
       "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-      "PostedAt": "2026-09-24T12:39:30-04:00",
+      "PostedAt": "2026-09-10T12:07:27-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6504,10 +6778,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Chicago, Illinois, United States",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
+      "Location": "Downtown Boston, MA",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
       "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-      "PostedAt": "2026-09-10T12:07:27-04:00",
+      "PostedAt": "2026-09-24T12:39:30-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6546,7 +6820,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 21 Days Ago",
+      "PostedAt": "Posted 22 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6559,7 +6833,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 21 Days Ago",
+      "PostedAt": "Posted 22 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6572,7 +6846,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 21 Days Ago",
+      "PostedAt": "Posted 22 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6585,7 +6859,7 @@
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-1",
       "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "PostedAt": "Posted 21 Days Ago",
+      "PostedAt": "Posted 22 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6660,10 +6934,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "San Francisco, California, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:47-04:00",
+      "PostedAt": "2026-09-18T16:58:40-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6674,9 +6948,9 @@
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
       "Location": "Washington, District of Columbia, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:42-04:00",
+      "PostedAt": "2026-09-18T16:58:45-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6686,10 +6960,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
+      "Location": "San Francisco, California, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:40-04:00",
+      "PostedAt": "2026-09-18T16:58:47-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6840,6 +7114,19 @@
       "Region": "North America"
     },
     {
+      "Company": "Analysis Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Entry-level",
+      "Title": "Associate - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)",
+      "Location": "US-MA-Boston",
+      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/2959/job",
+      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
+      "PostedAt": "",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
@@ -6847,7 +7134,7 @@
       "Location": "Los Angeles, CA",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Associate--Disputes---Economics_R104986",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6860,7 +7147,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Advisory--NYC-_R104989",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 11 Days Ago",
+      "PostedAt": "Posted 12 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6873,7 +7160,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104999",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6886,7 +7173,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104994",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6899,7 +7186,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104982",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 22 Days Ago",
+      "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6912,7 +7199,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104980",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 26 Days Ago",
+      "PostedAt": "Posted 27 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6925,7 +7212,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104973",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 26 Days Ago",
+      "PostedAt": "Posted 27 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6938,7 +7225,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 12 Days Ago",
+      "PostedAt": "Posted 13 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6951,7 +7238,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Valuation---Transaction-Advisory_R104983",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6964,7 +7251,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Forensic-Data---Analytics_R104942",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6977,7 +7264,7 @@
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Forensic-Data---Analytics_R104939",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6990,7 +7277,7 @@
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Forensic-Data---Analytics_R104938",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7068,7 +7355,7 @@
       "Location": "3 Locations",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Junior-Conflicts-Analyst_JR101147",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7230,6 +7517,19 @@
       "Region": "North America"
     },
     {
+      "Company": "J.S. Held",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Entry-level",
+      "Title": "Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)",
+      "Location": "San Francisco, CA, us",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting",
+      "PostedAt": "2026-08-26T15:32:22.162Z",
+      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
+      "Region": "North America"
+    },
+    {
       "Company": "Lightcast",
       "Category": "Policy & Research Economics",
       "Track": "Entry-level",
@@ -7338,10 +7638,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics) - July 2027",
-      "Location": "Chicago, Illinois, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:29-04:00",
+      "PostedAt": "2026-08-14T16:44:30-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7351,10 +7651,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics) - July 2027",
-      "Location": "Washington, District of Columbia, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:30-04:00",
+      "PostedAt": "2026-08-14T16:44:29-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7513,7 +7813,6 @@
     "Infometrics",
     "Intensity",
     "Invotex",
-    "J.S. Held",
     "KNG Health Consulting",
     "KPMG (Economic & Valuation Services)",
     "KPMG Singapore Economics & Regulation",
@@ -7641,6 +7940,7 @@
     "The Cadmus Group",
     "Urban Institute",
     "Vivid Economics (McKinsey)",
+    "Wakely Consulting Group",
     "Wood Mackenzie"
   ],
   "couldNotFullyVerify": [
@@ -7736,7 +8036,6 @@
     "Infometrics",
     "Intensity",
     "Invotex",
-    "J.S. Held",
     "KNG Health Consulting",
     "KPMG (Economic & Valuation Services)",
     "KPMG Singapore Economics & Regulation",
@@ -7814,7 +8113,6 @@
     "Vocational Economics",
     "Volterra Partners",
     "WIK-Consult",
-    "Wakely Consulting Group",
     "Welch Consulting",
     "Westat",
     "Xcenda (Cencora)"

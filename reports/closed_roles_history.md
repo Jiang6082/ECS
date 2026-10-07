@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 25
-Last updated: 2026-10-06T18:52:08.601Z
+Total closures recorded: 28
+Last updated: 2026-10-07T19:17:38.122Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-07 (3)
+
+- **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182)
+- **Ankura** - [University Intern, Sachs Policy Group](https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073) - USA NY New York East 42nd Street
+- **ICF** - [Economics Specialist (Entry Level, Hybrid, Summer 2027)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Economics-Specialist--Entry-Level--Hybrid--Summer-2027-_R2603180) - 2 Locations
 
 ### 2026-10-03 (22)
 

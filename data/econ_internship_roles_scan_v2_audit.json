@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-06T18:52:08.601Z",
+  "searchedAt": "2026-10-07T19:17:38.122Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -256,7 +256,6 @@
     "Market Platform Dynamics",
     "Invotex",
     "The Kenrich Group",
-    "J.S. Held",
     "Gnarus Advisors",
     "Analysis & Inference",
     "Hemming Morse",
@@ -270,7 +269,6 @@
     "Plum Consulting",
     "Aldwych Partners",
     "Analysys Mason",
-    "LCP Delta",
     "AFRY Management Consulting",
     "SEO Amsterdam Economics",
     "Lexonomics",
@@ -302,7 +300,6 @@
     "L&M Policy Research",
     "Chmura Economics & Analytics",
     "Camoin Associates",
-    "Wood Mackenzie",
     "Rhodium Group",
     "Potomac Economics",
     "Monitoring Analytics",
@@ -310,7 +307,6 @@
     "Andersen (Transfer Pricing)",
     "Economics Partners",
     "KNG Health Consulting",
-    "Wakely Consulting Group",
     "S&P Global (Economics)"
   ],
   "careerPageScanAudits": [
@@ -1006,6 +1002,56 @@
       "relevantRoles": 0
     },
     {
+      "company": "J.S. Held",
+      "pageUrl": "https://www.jsheld.com/about-us/careers",
+      "resolvedUrl": "https://www.jsheld.com/about-us/careers",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "J.S. Held",
+      "pageUrl": "https://careers.smartrecruiters.com/JSHeldLLC",
+      "resolvedUrl": "https://careers.smartrecruiters.com/JSHeldLLC",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "smartrecruiters": [
+          "JSHeldLLC",
+          "external-referrals"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "SmartRecruiters:JSHeldLLC",
+          "jobsSeen": 116
+        },
+        {
+          "source": "SmartRecruiters:external-referrals",
+          "jobsSeen": 0
+        }
+      ],
+      "jobsSeen": 116,
+      "relevantRoles": 6
+    },
+    {
+      "company": "J.S. Held",
+      "pageUrl": "https://www.jsheld.com/about-us/culture-community",
+      "resolvedUrl": "https://www.jsheld.com/about-us/culture-community",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/",
       "resolvedUrl": "https://www.summitsalonacademyportland.com/",
@@ -1261,10 +1307,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 95
+          "jobsSeen": 93
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 93,
       "relevantRoles": 6
     },
     {
@@ -1543,11 +1589,51 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 94
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 95,
       "relevantRoles": 1
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://delta.lcp.com/careers",
+      "resolvedUrl": "https://delta.lcp.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://www.delta.com/us/en/careers/students-and-early-careers",
+      "resolvedUrl": "https://www.delta.com/us/en/careers/students-and-early-careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "avature"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "LCP Delta",
+      "pageUrl": "https://www.delta.com/us/en/careers/overview",
+      "resolvedUrl": "https://www.delta.com/us/en/careers/overview",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "avature"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "DICE Consult",
@@ -1637,8 +1723,8 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
-      "pageOk": false,
-      "pageStatus": 503,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2222,10 +2308,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 3
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2367,6 +2453,63 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://www.woodmac.com/careers/overview/",
+      "resolvedUrl": "https://www.woodmac.com/careers/overview/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "woodmac.wd3.myworkdayjobs.com",
+            "site": "woodmaccareers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+      "resolvedUrl": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "woodmac.wd3.myworkdayjobs.com",
+            "site": "woodmaccareers"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wood Mackenzie",
+      "pageUrl": "https://www.woodmac.com/careers/your-career/",
+      "resolvedUrl": "https://www.woodmac.com/careers/your-career/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "woodmac.wd3.myworkdayjobs.com",
+            "site": "woodmaccareers"
+          }
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -2526,11 +2669,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 695
+          "jobsSeen": 692
         }
       ],
-      "jobsSeen": 695,
-      "relevantRoles": 4
+      "jobsSeen": 692,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2550,10 +2693,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 728
+          "jobsSeen": 711
         }
       ],
-      "jobsSeen": 728,
+      "jobsSeen": 711,
       "relevantRoles": 2
     },
     {
@@ -2853,14 +2996,14 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 16
+          "jobsSeen": 14
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 31,
       "relevantRoles": 0
     },
     {
@@ -2881,10 +3024,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1018
+          "jobsSeen": 1009
         }
       ],
-      "jobsSeen": 1018,
+      "jobsSeen": 1009,
       "relevantRoles": 0
     },
     {
@@ -2988,10 +3131,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 11
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -3040,6 +3183,27 @@
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Wakely Consulting Group",
+      "pageUrl": "https://www.wakely.com/join-our-team/",
+      "resolvedUrl": "https://www.wakely.com/join-our-team/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "careers-wakely"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:careers-wakely",
+          "jobsSeen": 3
+        }
+      ],
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
