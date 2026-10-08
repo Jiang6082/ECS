@@ -87,7 +87,8 @@ const results = await mapLimit(firms, 10, scanFirm, "firms scanned");
 // Oracle sites, Stout's student + experienced Workday sites). Keep one per firm/title/location.
 const byUrl = new Map();
 const seenIdentity = new Set();
-for (const m of results.flatMap((r) => r.matches)) {
+// Sort first so the kept duplicate is the same every scan (avoids "new"/"gone" flapping).
+for (const m of results.flatMap((r) => r.matches).sort((a, b) => a.URL.localeCompare(b.URL))) {
   const id = `${m.Company}\n${m.Title}\n${m.Location}`.toLowerCase();
   if (byUrl.has(m.URL) || seenIdentity.has(id)) continue;
   seenIdentity.add(id);
