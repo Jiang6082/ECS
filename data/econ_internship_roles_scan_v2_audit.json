@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-07T19:17:38.122Z",
+  "searchedAt": "2026-10-08T09:50:00.955Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -693,10 +693,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 40
+          "jobsSeen": 39
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -725,10 +725,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 40
+          "jobsSeen": 39
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -1037,7 +1037,7 @@
         }
       ],
       "jobsSeen": 116,
-      "relevantRoles": 6
+      "relevantRoles": 5
     },
     {
       "company": "J.S. Held",
@@ -1663,8 +1663,8 @@
       "company": "INFRAS",
       "pageUrl": "https://www.infrasai.io/",
       "resolvedUrl": "https://www.infrasai.io/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2028,10 +2028,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 9
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -2669,10 +2669,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 692
+          "jobsSeen": 691
         }
       ],
-      "jobsSeen": 692,
+      "jobsSeen": 691,
       "relevantRoles": 3
     },
     {
@@ -2693,10 +2693,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 711
+          "jobsSeen": 708
         }
       ],
-      "jobsSeen": 711,
+      "jobsSeen": 708,
       "relevantRoles": 2
     },
     {
@@ -2996,14 +2996,14 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 14
+          "jobsSeen": 15
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantRoles": 0
     },
     {
@@ -3024,10 +3024,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1009
+          "jobsSeen": 1004
         }
       ],
-      "jobsSeen": 1009,
+      "jobsSeen": 1004,
       "relevantRoles": 0
     },
     {

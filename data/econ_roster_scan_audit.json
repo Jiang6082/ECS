@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T19:19:31.020Z",
-  "scanStartedAt": "2026-10-07T19:17:38.122Z",
+  "generatedAt": "2026-10-08T09:51:44.462Z",
+  "scanStartedAt": "2026-10-08T09:50:00.955Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -801,7 +801,7 @@
       "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 116,
-      "relevantRoles": 6
+      "relevantRoles": 5
     },
     {
       "company": "Gnarus Advisors",
@@ -1634,7 +1634,7 @@
       "careerPages": [
         "https://www.infrasai.io/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2246,7 +2246,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -2884,7 +2884,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 692,
+      "jobsSeen": 691,
       "relevantRoles": 3
     },
     {
@@ -2899,7 +2899,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 711,
+      "jobsSeen": 708,
       "relevantRoles": 2
     },
     {
@@ -3183,7 +3183,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 31,
+      "jobsSeen": 32,
       "relevantRoles": 0
     },
     {
@@ -3198,7 +3198,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1009,
+      "jobsSeen": 1004,
       "relevantRoles": 0
     },
     {

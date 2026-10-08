@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-07T19:17:38.122Z
+Scan started: 2026-10-08T09:50:00.955Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -166,7 +166,7 @@ Canonical companies after aliases: 232
 | Prognos | Competition & Regulatory (Europe) | no saved page attempted | none |
 | BAK Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Ecoplan | Competition & Regulatory (Europe) | no saved page attempted | none |
-| INFRAS | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.infrasai.io/) |
+| INFRAS | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://www.infrasai.io/) |
 | Menon Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://menon.us/) |
 | Oslo Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Vista Analyse | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://vistams.lausd.org/) |

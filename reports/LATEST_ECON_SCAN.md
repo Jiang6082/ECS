@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-07T19:17:38.122Z
+Last updated: 2026-10-08T09:50:00.955Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 197
-- Current internship roles: 114
+- Current internship roles: 112
 - Entry-level analyst roles: 51 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 6
-- No longer present since previous scan: 3
+- New stable job URLs since previous scan: 4
+- No longer present since previous scan: 1
 - Firms with matching roles: 27
 - Confirmed no open postings: 6
 - Openings but no matching role: 27
@@ -17,31 +17,30 @@ Last updated: 2026-10-07T19:17:38.122Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 82
+- Litigation, Antitrust & Damages: 81
 - Transfer Pricing & Valuation: 8
 - Big 4 & Advisory Economics: 6
 - Health Economics & HEOR: 5
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
 - Macro & Economic Research: 3
-- Policy & Research Economics: 2
+- Policy & Research Economics: 1
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (3)
 
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) - McLean
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) - Alpharetta, GA, us
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) - San Francisco, CA, us
+- **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us
 
-### Europe (4)
+### Europe (0)
 
-- **Charles River Associates** - [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) - London, United Kingdom
-- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain
-- **Technopolis Group** - [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) - Paris
-- **Technopolis Group** - [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) - Paris
+_None._
 
-### Asia (1)
+### Asia (0)
 
-- **Oxford Economics** - [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) - Singapore
+_None._
 
 ### Oceania (0)
 
@@ -59,9 +58,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (0)
+### Global / Multiple Regions (1)
 
-_None._
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) - Birmingham, AL, us
 
 ### Remote / Unspecified (0)
 
@@ -69,9 +68,7 @@ _None._
 
 ## No Longer Present
 
-- **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182) - Location not listed
-- **Ankura** - [University Intern, Sachs Policy Group](https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073) - USA NY New York East 42nd Street
-- **ICF** - [Economics Specialist (Entry Level, Hybrid, Summer 2027)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Economics-Specialist--Entry-Level--Hybrid--Summer-2027-_R2603180) - 2 Locations
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11921) - Boston, MA, United States
 
 ## Full Reports
 

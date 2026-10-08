@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 28
-Last updated: 2026-10-07T19:17:38.122Z
+Total closures recorded: 29
+Last updated: 2026-10-08T09:50:00.955Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-08 (1)
+
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11921) - Boston, MA, United States
 
 ### 2026-10-07 (3)
 
