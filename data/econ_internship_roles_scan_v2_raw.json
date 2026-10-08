@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-08T09:50:00.955Z",
+  "searchedAt": "2026-10-08T19:15:28.727Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-08T09:50:00.956Z",
+    "generatedAt": "2026-10-08T19:15:28.729Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -894,8 +894,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "DKM Economic Consultants": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.dkmedigroup.com/"
+        ],
+        "updatedAt": "2026-10-08T19:15:28.729Z"
       },
       "SQW": {
         "careerPages": [],
@@ -1897,6 +1899,10 @@
       "pageUrl": "https://asktheref.org/"
     },
     {
+      "company": "DKM Economic Consultants",
+      "pageUrl": "https://www.dkmedigroup.com/"
+    },
+    {
       "company": "Steer",
       "pageUrl": "https://steer.education/"
     },
@@ -2399,7 +2405,7 @@
         },
         {
           "source": "iCIMS:exp-chire",
-          "jobsSeen": 3
+          "jobsSeen": 2
         },
         {
           "source": "iCIMS:expuk-chire",
@@ -2410,7 +2416,7 @@
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantRoles": 3
     },
     {
@@ -2697,10 +2703,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 39
+          "jobsSeen": 38
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -2729,10 +2735,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 39
+          "jobsSeen": 38
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -3119,8 +3125,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3131,8 +3137,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3311,10 +3317,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 93
+          "jobsSeen": 91
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 91,
       "relevantRoles": 6
     },
     {
@@ -3593,10 +3599,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 95
+          "jobsSeen": 98
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 98,
       "relevantRoles": 1
     },
     {
@@ -3667,8 +3673,8 @@
       "company": "INFRAS",
       "pageUrl": "https://www.infrasai.io/",
       "resolvedUrl": "https://www.infrasai.io/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3715,8 +3721,20 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DKM Economic Consultants",
+      "pageUrl": "https://www.dkmedigroup.com/",
+      "resolvedUrl": "https://www.dkmedigroup.com/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4032,10 +4050,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 10
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -4673,10 +4691,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 691
+          "jobsSeen": 697
         }
       ],
-      "jobsSeen": 691,
+      "jobsSeen": 697,
       "relevantRoles": 3
     },
     {
@@ -4697,10 +4715,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 708
+          "jobsSeen": 701
         }
       ],
-      "jobsSeen": 708,
+      "jobsSeen": 701,
       "relevantRoles": 2
     },
     {
@@ -5028,11 +5046,11 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1004
+          "jobsSeen": 1020
         }
       ],
-      "jobsSeen": 1004,
-      "relevantRoles": 0
+      "jobsSeen": 1020,
+      "relevantRoles": 1
     },
     {
       "company": "Trinity Life Sciences",
@@ -5751,19 +5769,6 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "University Intern, Disputes & Economics - Financial Services Advisory",
-      "Location": "Washington D.C.",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 13 Days Ago",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "University Intern, Disputes & Economics - Financial Services Advisory",
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990",
       "Source": "Official ATS Workday:ankura/Ankura",
@@ -5776,11 +5781,11 @@
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "University Intern, Disputes & Economics - Financial Services Disputes",
+      "Title": "University Intern, Disputes & Economics - Financial Services Advisory",
       "Location": "Washington D.C.",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104993",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 10 Days Ago",
+      "PostedAt": "Posted 13 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5802,11 +5807,11 @@
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "University Intern, Disputes & Economics - Healthcare and Life Sciences",
+      "Title": "University Intern, Disputes & Economics - Financial Services Disputes",
       "Location": "Washington D.C.",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104993",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 24 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5828,11 +5833,11 @@
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "University Intern, Disputes & Economics - Valuation & Transaction Advisory",
-      "Location": "Chicago, IL",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985",
+      "Title": "University Intern, Disputes & Economics - Healthcare and Life Sciences",
+      "Location": "Washington D.C.",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 21 Days Ago",
+      "PostedAt": "Posted 24 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5841,11 +5846,11 @@
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "University Intern, Forensic Data & Analytics",
-      "Location": "Washington D.C.",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945",
+      "Title": "University Intern, Disputes & Economics - Valuation & Transaction Advisory",
+      "Location": "Chicago, IL",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 29 Days Ago",
+      "PostedAt": "Posted 21 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -5870,6 +5875,19 @@
       "Title": "University Intern, Forensic Data & Analytics",
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "PostedAt": "Posted 29 Days Ago",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "University Intern, Forensic Data & Analytics",
+      "Location": "Washington D.C.",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945",
       "Source": "Official ATS Workday:ankura/Ankura",
       "PostedAt": "Posted 29 Days Ago",
       "Notes": "timing not stated in title",
@@ -5921,8 +5939,8 @@
       "Track": "Internship",
       "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
       "Location": "Dallas, TX, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13832",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
       "PostedAt": "2026-10-03",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -5934,8 +5952,8 @@
       "Track": "Internship",
       "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
       "Location": "Los Angeles, CA, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13875",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
       "PostedAt": "2026-09-03",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -6700,23 +6718,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Downtown Boston, MA",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+      "Location": "Los Angeles, California, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009",
       "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-      "PostedAt": "2026-09-24T12:39:30-04:00",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Secretariat",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Chicago, Illinois, United States",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
-      "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-      "PostedAt": "2026-09-10T12:07:27-04:00",
+      "PostedAt": "2026-09-10T12:06:38-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6739,10 +6744,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Los Angeles, California, United States",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009",
+      "Location": "Chicago, Illinois, United States",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
       "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-      "PostedAt": "2026-09-10T12:06:38-04:00",
+      "PostedAt": "2026-09-10T12:07:27-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6756,6 +6761,19 @@
       "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009",
       "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
       "PostedAt": "2026-09-10T12:08:29-04:00",
+      "Notes": "timing: Summer 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Intern, Damages & Valuations (Summer 2027)",
+      "Location": "Downtown Boston, MA",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+      "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
+      "PostedAt": "2026-09-24T12:39:30-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6792,8 +6810,8 @@
       "Track": "Internship",
       "Title": "Summer 2027 Intern - Disputes Claims & Investigations: Chicago",
       "Location": "",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
+      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2",
+      "Source": "Official ATS Workday:stout/Stout-Careers",
       "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -6805,8 +6823,8 @@
       "Track": "Internship",
       "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH",
       "Location": "",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
+      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2",
+      "Source": "Official ATS Workday:stout/Stout-Careers",
       "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -6818,8 +6836,8 @@
       "Track": "Internship",
       "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: San Diego",
       "Location": "",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
+      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-2",
+      "Source": "Official ATS Workday:stout/Stout-Careers",
       "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -6831,8 +6849,8 @@
       "Track": "Internship",
       "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC",
       "Location": "",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
+      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2",
+      "Source": "Official ATS Workday:stout/Stout-Careers",
       "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -6908,10 +6926,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "San Francisco, California, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:47-04:00",
+      "PostedAt": "2026-09-18T16:58:45-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6921,10 +6939,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "Washington, District of Columbia, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005",
+      "Location": "San Francisco, California, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:42-04:00",
+      "PostedAt": "2026-09-18T16:58:47-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6947,10 +6965,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics) - Summer 2027",
-      "Location": "Washington, District of Columbia, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:53-04:00",
+      "PostedAt": "2026-09-18T16:58:50-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6960,10 +6978,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Research Analyst Intern (Economics) - Summer 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
+      "Location": "Washington, District of Columbia, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-09-18T16:58:50-04:00",
+      "PostedAt": "2026-09-18T16:58:53-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7005,6 +7023,19 @@
       "PostedAt": "Posted 30+ Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "Xcenda (Cencora)",
+      "Category": "Health Economics & HEOR",
+      "Track": "Internship",
+      "Title": "U.S. Public Policy & Advocacy Intern",
+      "Location": "Washington, DC",
+      "URL": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769",
+      "Source": "Career page Workday:myhrabc/Global",
+      "Status": "Confirmed official posting",
+      "PostedAt": "Posted Today",
+      "Notes": "career_page=https://www.cencora.com/initiatives/pharma/mahc-student-programs | timing not stated in title",
       "Region": "North America"
     }
   ],
@@ -7131,6 +7162,19 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "University Associate, Disputes & Economics - Financial Services Disputes",
+      "Location": "New York, NY",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104994",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "PostedAt": "Posted 15 Days Ago",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Entry-level",
+      "Title": "University Associate, Disputes & Economics - Financial Services Disputes",
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104999",
       "Source": "Official ATS Workday:ankura/Ankura",
@@ -7143,11 +7187,11 @@
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
-      "Title": "University Associate, Disputes & Economics - Financial Services Disputes",
-      "Location": "New York, NY",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104994",
+      "Title": "University Associate, Disputes & Economics - Healthcare and Life Sciences",
+      "Location": "Chicago, IL",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104973",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 15 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7172,19 +7216,6 @@
       "Title": "University Associate, Disputes & Economics - Healthcare and Life Sciences",
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104980",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 28 Days Ago",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Entry-level",
-      "Title": "University Associate, Disputes & Economics - Healthcare and Life Sciences",
-      "Location": "Chicago, IL",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104973",
       "Source": "Official ATS Workday:ankura/Ankura",
       "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
@@ -7222,19 +7253,6 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "University Associate, Forensic Data & Analytics",
-      "Location": "Washington D.C.",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Forensic-Data---Analytics_R104942",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 29 Days Ago",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Entry-level",
-      "Title": "University Associate, Forensic Data & Analytics",
       "Location": "Chicago, IL",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Forensic-Data---Analytics_R104939",
       "Source": "Official ATS Workday:ankura/Ankura",
@@ -7250,6 +7268,19 @@
       "Title": "University Associate, Forensic Data & Analytics",
       "Location": "New York, NY",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Forensic-Data---Analytics_R104938",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "PostedAt": "Posted 29 Days Ago",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Entry-level",
+      "Title": "University Associate, Forensic Data & Analytics",
+      "Location": "Washington D.C.",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Forensic-Data---Analytics_R104942",
       "Source": "Official ATS Workday:ankura/Ankura",
       "PostedAt": "Posted 29 Days Ago",
       "Notes": "timing not stated in title",
@@ -7314,8 +7345,8 @@
       "Track": "Entry-level",
       "Title": "Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)",
       "Location": "Atlanta, GA, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14014",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
       "PostedAt": "2026-09-14",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
@@ -7547,23 +7578,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics and Finance) - July 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
+      "Location": "Boston, Massachusetts, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:16-04:00",
-      "Notes": "timing: 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Entry-level",
-      "Title": "Research Analyst (Economics and Finance) - July 2027",
-      "Location": "San Francisco, California, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:15-04:00",
+      "PostedAt": "2026-08-14T16:44:10-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7586,10 +7604,23 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics and Finance) - July 2027",
-      "Location": "Boston, Massachusetts, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005",
+      "Location": "San Francisco, California, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:10-04:00",
+      "PostedAt": "2026-08-14T16:44:15-04:00",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "The Brattle Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Entry-level",
+      "Title": "Research Analyst (Economics and Finance) - July 2027",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
+      "Source": "Official ATS Greenhouse:thebrattlegroup",
+      "PostedAt": "2026-08-14T16:44:16-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7638,10 +7669,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics) - July 2027",
-      "Location": "Boston, Massachusetts, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005",
+      "Location": "New York, New York, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:32-04:00",
+      "PostedAt": "2026-08-14T16:44:31-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7651,10 +7682,10 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Research Analyst (Economics) - July 2027",
-      "Location": "New York, New York, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005",
+      "Location": "Boston, Massachusetts, United States",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:31-04:00",
+      "PostedAt": "2026-08-14T16:44:32-04:00",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7877,8 +7908,7 @@
     "Wakely Consulting Group",
     "Welch Consulting",
     "Westat",
-    "Wood Mackenzie",
-    "Xcenda (Cencora)"
+    "Wood Mackenzie"
   ],
   "confirmedNoOpenPostings": [
     "Chmura Economics & Analytics",
@@ -8088,7 +8118,6 @@
     "Volterra Partners",
     "WIK-Consult",
     "Welch Consulting",
-    "Westat",
-    "Xcenda (Cencora)"
+    "Westat"
   ]
 }

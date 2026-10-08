@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-08T09:50:00.955Z",
+  "searchedAt": "2026-10-08T19:15:28.727Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -282,7 +282,6 @@
     "Afi",
     "Prometeia",
     "Indecon",
-    "DKM Economic Consultants",
     "SQW",
     "BiGGAR Economics",
     "Sapere Research Group",
@@ -395,7 +394,7 @@
         },
         {
           "source": "iCIMS:exp-chire",
-          "jobsSeen": 3
+          "jobsSeen": 2
         },
         {
           "source": "iCIMS:expuk-chire",
@@ -406,7 +405,7 @@
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantRoles": 3
     },
     {
@@ -693,10 +692,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 39
+          "jobsSeen": 38
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -725,10 +724,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 39
+          "jobsSeen": 38
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -1115,8 +1114,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1127,8 +1126,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1307,10 +1306,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 93
+          "jobsSeen": 91
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 91,
       "relevantRoles": 6
     },
     {
@@ -1589,10 +1588,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 95
+          "jobsSeen": 98
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 98,
       "relevantRoles": 1
     },
     {
@@ -1663,8 +1662,8 @@
       "company": "INFRAS",
       "pageUrl": "https://www.infrasai.io/",
       "resolvedUrl": "https://www.infrasai.io/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1711,8 +1710,20 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "DKM Economic Consultants",
+      "pageUrl": "https://www.dkmedigroup.com/",
+      "resolvedUrl": "https://www.dkmedigroup.com/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2028,10 +2039,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 10
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -2669,10 +2680,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 691
+          "jobsSeen": 697
         }
       ],
-      "jobsSeen": 691,
+      "jobsSeen": 697,
       "relevantRoles": 3
     },
     {
@@ -2693,10 +2704,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 708
+          "jobsSeen": 701
         }
       ],
-      "jobsSeen": 708,
+      "jobsSeen": 701,
       "relevantRoles": 2
     },
     {
@@ -3024,11 +3035,11 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1004
+          "jobsSeen": 1020
         }
       ],
-      "jobsSeen": 1004,
-      "relevantRoles": 0
+      "jobsSeen": 1020,
+      "relevantRoles": 1
     },
     {
       "company": "Trinity Life Sciences",

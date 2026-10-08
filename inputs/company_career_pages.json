@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:50:00.956Z",
+  "generatedAt": "2026-10-08T19:15:28.729Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -658,8 +658,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "DKM Economic Consultants": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.dkmedigroup.com/"
+      ],
+      "updatedAt": "2026-10-08T19:15:28.729Z"
     },
     "SQW": {
       "careerPages": [],

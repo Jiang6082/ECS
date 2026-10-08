@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T09:51:44.462Z",
-  "scanStartedAt": "2026-10-08T09:50:00.955Z",
+  "generatedAt": "2026-10-08T19:17:19.237Z",
+  "scanStartedAt": "2026-10-08T19:15:28.727Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 27,
+    "matching-role-found": 28,
     "confirmed-no-open-postings": 6,
     "confirmed-openings-no-matching-role": 27,
-    "could-not-fully-verify": 172
+    "could-not-fully-verify": 171
   },
   "companies": [
     {
@@ -37,7 +37,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantRoles": 3
     },
     {
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -939,7 +939,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -954,7 +954,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1133,7 +1133,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 93,
+      "jobsSeen": 91,
       "relevantRoles": 6
     },
     {
@@ -1484,7 +1484,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 95,
+      "jobsSeen": 98,
       "relevantRoles": 1
     },
     {
@@ -1634,7 +1634,7 @@
       "careerPages": [
         "https://www.infrasai.io/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1733,7 +1733,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1771,9 +1771,11 @@
       ],
       "category": "Competition & Regulatory (Europe)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.dkmedigroup.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2246,7 +2248,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -2884,7 +2886,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 691,
+      "jobsSeen": 697,
       "relevantRoles": 3
     },
     {
@@ -2899,7 +2901,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 708,
+      "jobsSeen": 701,
       "relevantRoles": 2
     },
     {
@@ -3192,14 +3194,14 @@
         "Xcenda (Cencora)"
       ],
       "category": "Health Economics & HEOR",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.xcenda.com/careers-student-programs"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1004,
-      "relevantRoles": 0
+      "jobsSeen": 1020,
+      "relevantRoles": 1
     },
     {
       "company": "Trinity Life Sciences",

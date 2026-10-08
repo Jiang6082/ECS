@@ -1,26 +1,26 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-08T09:50:00.955Z
+Last updated: 2026-10-08T19:15:28.727Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 197
-- Current internship roles: 112
+- Career pages checked: 198
+- Current internship roles: 113
 - Entry-level analyst roles: 51 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 4
-- No longer present since previous scan: 1
-- Firms with matching roles: 27
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 0
+- Firms with matching roles: 28
 - Confirmed no open postings: 6
 - Openings but no matching role: 27
-- Could not fully verify: 172
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 81
 - Transfer Pricing & Valuation: 8
+- Health Economics & HEOR: 6
 - Big 4 & Advisory Economics: 6
-- Health Economics & HEOR: 5
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
 - Macro & Economic Research: 3
@@ -28,11 +28,9 @@ Last updated: 2026-10-08T09:50:00.955Z
 
 ## New Roles Since Previous Scan
 
-### North America (3)
+### North America (0)
 
-- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) - Alpharetta, GA, us
-- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) - San Francisco, CA, us
-- **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us
+_None._
 
 ### Europe (0)
 
@@ -58,9 +56,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (1)
+### Global / Multiple Regions (0)
 
-- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) - Birmingham, AL, us
+_None._
 
 ### Remote / Unspecified (0)
 
@@ -68,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Boston)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11921) - Boston, MA, United States
+_None._
 
 ## Full Reports
 

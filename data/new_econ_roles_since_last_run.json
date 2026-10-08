@@ -1,61 +1,9 @@
 {
-  "generatedAt": "2026-10-08T09:51:44.521Z",
-  "previousScanAt": "2026-10-07T19:17:38.122Z",
-  "currentScanAt": "2026-10-08T09:50:00.955Z",
-  "previousRows": 114,
-  "currentRows": 112,
-  "added": [
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Economic Damages & Valuation Internship - Summer 2027",
-      "Location": "Birmingham, AL, us",
-      "Region": "Global / Multiple Regions",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Economic Damages & Valuation Internship - Summer 2027",
-      "Location": "Alpharetta, GA, us",
-      "Region": "North America",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Economic Damages & Valuation Internship - Summer 2027",
-      "Location": "San Francisco, CA, us",
-      "Region": "North America",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)",
-      "Location": "Chicago, IL, us",
-      "Region": "North America",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    }
-  ],
-  "removed": [
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Boston)",
-      "Location": "Boston, MA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11921",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "generatedAt": "2026-10-08T19:17:19.298Z",
+  "previousScanAt": "2026-10-08T09:50:00.955Z",
+  "currentScanAt": "2026-10-08T19:15:28.727Z",
+  "previousRows": 112,
+  "currentRows": 113,
+  "added": [],
+  "removed": []
 }
