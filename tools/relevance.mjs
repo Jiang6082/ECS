@@ -16,7 +16,7 @@ const econKeyword = /\b(econom\w*|competition|antitrust|disputes?|litigation|dam
 const blockedFunction = /\b(human resources|\bhr\b|people (?:team|operations)|talent acquisition|recruit(?:ing|ment|er)|marketing|communications|graphic|design(?:er)?|facilities|office services|reception\w*|administrative|executive assistant|legal assistant|paralegal|help ?desk|it support|desktop support|network engineer|cyber ?security|information security|payroll|accounts payable|billing|business development|sales|events?)\b/i;
 
 // Practices that sit inside econ/disputes firms but are not economic consulting.
-const nonEconPractice = /\b(construction|engineering sciences?|cyber|forensic technology|technology consulting|management advisory|strategy consulting|commercial strategy|corporate finance|restructuring|turnaround|performance improvement|forensic accounting|audit|deals|portfolio management|portfolio valuation|investments? (?:&|and) portfolio|pilotage|program(?:me)? management|office (?:assistant|manager)|people (?:&|and) culture|p&c)\b/i;
+const nonEconPractice = /\b(construction|forensic engineering|engineering|engineering sciences?|cyber|forensic technology|technology consulting|management advisory|strategy consulting|commercial strategy|corporate finance|restructuring|turnaround|performance improvement|forensic accounting|audit|deals|portfolio management|portfolio valuation|investments? (?:&|and) portfolio|pilotage|program(?:me)? management|office (?:assistant|manager)|people (?:&|and) culture|p&c)\b/i;
 
 const blockedEducation = /\b(ph\.?d|doctoral|doctorate|postdoc\w*|mba|jd|law student|summer associate - (?:phd|mba))\b/i;
 const educationAllowed = /\b(bachelor|undergrad\w*|b\.?a\.?\/b\.?s|bs\/ms|master'?s|ms|msc|ma)\b/i;
@@ -66,7 +66,7 @@ export function classifyRole(row, firm = {}) {
   if (staleTiming.test(title)) return { track: null, reason: "dated for a past cycle" };
 
   const isIntern = internSignal.test(titleDept) || stageSignal.test(title)
-    || (summerYearAnalyst.test(title) && !/\b(full[- ]time|associate|grads?|graduates?|start date|new hire)\b/i.test(title));
+    || (summerYearAnalyst.test(title) && !/\b(full[- ]time|associate|grads?|graduates?|start date|new hire|entry[- ]level|specialist)\b/i.test(title));
   if (isIntern) {
     const years = [...title.matchAll(/\b(20\d{2})\b/g)].map((m) => Number(m[1]));
     if (years.length && years.every((y) => y <= 2026)) return { track: null, reason: "dated for a past cycle" };
