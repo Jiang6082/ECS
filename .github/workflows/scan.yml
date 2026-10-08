@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 13 * * *"   # daily, 13:00 UTC (8-9am US Eastern)
   workflow_dispatch: {}
+    push:
+    branches: [main]
+    paths:
+     - ".github/scan-request"
 
 permissions:
   contents: write
