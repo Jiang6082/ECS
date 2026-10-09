@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T19:17:19.237Z",
-  "scanStartedAt": "2026-10-08T19:15:28.727Z",
+  "generatedAt": "2026-10-09T11:21:04.669Z",
+  "scanStartedAt": "2026-10-09T11:19:17.139Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 28,
-    "confirmed-no-open-postings": 6,
-    "confirmed-openings-no-matching-role": 27,
+    "confirmed-no-open-postings": 5,
+    "confirmed-openings-no-matching-role": 28,
     "could-not-fully-verify": 171
   },
   "companies": [
@@ -603,9 +603,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.dci.org/events/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -800,7 +802,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 116,
+      "jobsSeen": 117,
       "relevantRoles": 5
     },
     {
@@ -924,7 +926,7 @@
       "careerPages": [
         "https://www.arpc.afrc.af.mil/Services/Assignments/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -939,7 +941,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -954,7 +956,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1133,7 +1135,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 91,
+      "jobsSeen": 92,
       "relevantRoles": 6
     },
     {
@@ -1364,7 +1366,7 @@
         "Fathom Consulting"
       ],
       "category": "Macro & Economic Research",
-      "status": "confirmed-no-open-postings",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.fathom-consulting.com/career-enquiries/"
       ],
@@ -1484,7 +1486,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 98,
+      "jobsSeen": 97,
       "relevantRoles": 1
     },
     {
@@ -1733,7 +1735,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2071,9 +2073,11 @@
       ],
       "category": "Economic Consulting (APAC)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.sgs.com/en/our-company/careers-at-sgs"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2248,7 +2252,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -2901,8 +2905,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 701,
-      "relevantRoles": 2
+      "jobsSeen": 688,
+      "relevantRoles": 1
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3200,7 +3204,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1020,
+      "jobsSeen": 1011,
       "relevantRoles": 1
     },
     {

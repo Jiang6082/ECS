@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-08T19:15:28.727Z",
+  "searchedAt": "2026-10-09T11:19:17.139Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -245,7 +245,6 @@
     "Micronomics",
     "Ashenfelter & Ashmore",
     "Finnerty Economic Consulting",
-    "DCI Consulting Group",
     "Precision Economics",
     "Capital Trade",
     "Economic Consulting Services",
@@ -290,7 +289,6 @@
     "Incenta Economic Consulting",
     "Mandala Partners",
     "Nous Group",
-    "SGS Economics & Planning",
     "Infometrics",
     "BERL",
     "Asia Competition Associates",
@@ -941,6 +939,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "DCI Consulting Group",
+      "pageUrl": "https://www.dci.org/events/",
+      "resolvedUrl": "https://www.dci.org/events/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Georgetown Economic Services",
       "pageUrl": "https://www.georgetown.edu/admissions/",
       "resolvedUrl": "https://www.georgetown.edu/admissions/",
@@ -1028,14 +1038,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 116
+          "jobsSeen": 117
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 116,
+      "jobsSeen": 117,
       "relevantRoles": 5
     },
     {
@@ -1102,8 +1112,8 @@
       "company": "ARPC",
       "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
       "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1114,8 +1124,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1126,8 +1136,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1306,10 +1316,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 91
+          "jobsSeen": 92
         }
       ],
-      "jobsSeen": 91,
+      "jobsSeen": 92,
       "relevantRoles": 6
     },
     {
@@ -1588,10 +1598,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 98
+          "jobsSeen": 97
         }
       ],
-      "jobsSeen": 98,
+      "jobsSeen": 97,
       "relevantRoles": 1
     },
     {
@@ -1710,8 +1720,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1889,6 +1899,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "SGS Economics & Planning",
+      "pageUrl": "https://www.sgs.com/en/our-company/careers-at-sgs",
+      "resolvedUrl": "https://www.sgs.com/en/our-company/careers-at-sgs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Mathematica",
       "pageUrl": "https://careers.mathematica.org/search-jobs",
       "resolvedUrl": "https://careers.mathematica.org/search-jobs",
@@ -2039,10 +2061,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 9
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -2704,11 +2726,11 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 701
+          "jobsSeen": 688
         }
       ],
-      "jobsSeen": 701,
-      "relevantRoles": 2
+      "jobsSeen": 688,
+      "relevantRoles": 1
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3035,10 +3057,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1020
+          "jobsSeen": 1011
         }
       ],
-      "jobsSeen": 1020,
+      "jobsSeen": 1011,
       "relevantRoles": 1
     },
     {
