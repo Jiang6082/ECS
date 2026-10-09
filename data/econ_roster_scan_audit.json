@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-09T11:21:04.669Z",
-  "scanStartedAt": "2026-10-09T11:19:17.139Z",
+  "generatedAt": "2026-10-09T18:48:03.591Z",
+  "scanStartedAt": "2026-10-09T18:46:10.352Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 28,
+    "matching-role-found": 29,
     "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 28,
+    "confirmed-openings-no-matching-role": 27,
     "could-not-fully-verify": 171
   },
   "companies": [
@@ -22,7 +22,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -802,7 +802,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 117,
+      "jobsSeen": 118,
       "relevantRoles": 5
     },
     {
@@ -941,7 +941,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -956,7 +956,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1135,7 +1135,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 92,
+      "jobsSeen": 93,
       "relevantRoles": 6
     },
     {
@@ -1486,7 +1486,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 97,
+      "jobsSeen": 94,
       "relevantRoles": 1
     },
     {
@@ -1679,7 +1679,7 @@
       "careerPages": [
         "https://vistams.lausd.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1735,7 +1735,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2370,7 +2370,7 @@
         "RCLCO"
       ],
       "category": "Policy & Research Economics",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://job-boards.greenhouse.io/rclco"
       ],
@@ -2447,7 +2447,7 @@
       "careerPages": [
         "https://jobs.lever.co/economicmodeling/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2890,7 +2890,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 697,
+      "jobsSeen": 689,
       "relevantRoles": 3
     },
     {
@@ -2905,7 +2905,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 688,
+      "jobsSeen": 677,
       "relevantRoles": 1
     },
     {
@@ -3204,7 +3204,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1011,
+      "jobsSeen": 1004,
       "relevantRoles": 1
     },
     {
@@ -3280,7 +3280,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {

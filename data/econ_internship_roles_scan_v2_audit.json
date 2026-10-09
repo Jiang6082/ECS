@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-09T11:19:17.139Z",
+  "searchedAt": "2026-10-09T18:46:10.352Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -329,10 +329,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -690,10 +690,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 38
+          "jobsSeen": 36
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -722,10 +722,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 38
+          "jobsSeen": 36
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -1038,14 +1038,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 117
+          "jobsSeen": 118
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 117,
+      "jobsSeen": 118,
       "relevantRoles": 5
     },
     {
@@ -1124,8 +1124,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1136,8 +1136,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1316,10 +1316,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 92
+          "jobsSeen": 93
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 93,
       "relevantRoles": 6
     },
     {
@@ -1598,10 +1598,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 97
+          "jobsSeen": 94
         }
       ],
-      "jobsSeen": 97,
+      "jobsSeen": 94,
       "relevantRoles": 1
     },
     {
@@ -1696,8 +1696,8 @@
       "company": "Vista Analyse",
       "pageUrl": "https://vistams.lausd.org/",
       "resolvedUrl": "https://vistams.lausd.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1720,8 +1720,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2289,12 +2289,11 @@
       "company": "Lightcast",
       "pageUrl": "https://jobs.lever.co/economicmodeling/",
       "resolvedUrl": "https://jobs.lever.co/economicmodeling/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "lever": [
-          "economicmodeling",
-          "js"
+          "economicmodeling"
         ]
       },
       "unsupportedAts": [],
@@ -2702,10 +2701,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 697
+          "jobsSeen": 689
         }
       ],
-      "jobsSeen": 697,
+      "jobsSeen": 689,
       "relevantRoles": 3
     },
     {
@@ -2726,10 +2725,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 688
+          "jobsSeen": 677
         }
       ],
-      "jobsSeen": 688,
+      "jobsSeen": 677,
       "relevantRoles": 1
     },
     {
@@ -3057,10 +3056,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1011
+          "jobsSeen": 1004
         }
       ],
-      "jobsSeen": 1011,
+      "jobsSeen": 1004,
       "relevantRoles": 1
     },
     {
@@ -3164,10 +3163,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {

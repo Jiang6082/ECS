@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T11:21:04.708Z",
-  "currentScanAt": "2026-10-09T11:19:17.139Z",
+  "generatedAt": "2026-10-09T18:48:03.648Z",
+  "currentScanAt": "2026-10-09T18:46:10.352Z",
   "historicalTrackerUrls": 0,
   "roles": [
     {
@@ -1120,6 +1120,19 @@
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "RCLCO",
+      "Category": "Policy & Research Economics",
+      "Track": "Internship",
+      "Title": "2027 Summer Intern, Real Estate Economics & Consulting",
+      "Location": "Austin / Los Angeles / Washington, D.C.",
+      "URL": "https://job-boards.greenhouse.io/rclco/jobs/8266046",
+      "Source": "Official ATS Greenhouse:rclco",
+      "PostedAt": "2026-10-09T13:43:23-04:00",
+      "Notes": "timing: 2027 Summer",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
     },
     {
       "Company": "RSM (Transfer Pricing)",

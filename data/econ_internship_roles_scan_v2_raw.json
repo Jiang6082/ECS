@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-09T11:19:17.139Z",
+  "searchedAt": "2026-10-09T18:46:10.352Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-09T11:19:17.140Z",
+    "generatedAt": "2026-10-09T18:46:10.353Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -2354,10 +2354,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -2715,10 +2715,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 38
+          "jobsSeen": 36
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -2747,10 +2747,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 38
+          "jobsSeen": 36
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -3063,14 +3063,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 117
+          "jobsSeen": 118
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 117,
+      "jobsSeen": 118,
       "relevantRoles": 5
     },
     {
@@ -3149,8 +3149,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3161,8 +3161,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3341,10 +3341,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 92
+          "jobsSeen": 93
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 93,
       "relevantRoles": 6
     },
     {
@@ -3623,10 +3623,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 97
+          "jobsSeen": 94
         }
       ],
-      "jobsSeen": 97,
+      "jobsSeen": 94,
       "relevantRoles": 1
     },
     {
@@ -3721,8 +3721,8 @@
       "company": "Vista Analyse",
       "pageUrl": "https://vistams.lausd.org/",
       "resolvedUrl": "https://vistams.lausd.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3745,8 +3745,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4314,12 +4314,11 @@
       "company": "Lightcast",
       "pageUrl": "https://jobs.lever.co/economicmodeling/",
       "resolvedUrl": "https://jobs.lever.co/economicmodeling/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "lever": [
-          "economicmodeling",
-          "js"
+          "economicmodeling"
         ]
       },
       "unsupportedAts": [],
@@ -4727,10 +4726,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 697
+          "jobsSeen": 689
         }
       ],
-      "jobsSeen": 697,
+      "jobsSeen": 689,
       "relevantRoles": 3
     },
     {
@@ -4751,10 +4750,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 688
+          "jobsSeen": 677
         }
       ],
-      "jobsSeen": 688,
+      "jobsSeen": 677,
       "relevantRoles": 1
     },
     {
@@ -5082,10 +5081,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1011
+          "jobsSeen": 1004
         }
       ],
-      "jobsSeen": 1011,
+      "jobsSeen": 1004,
       "relevantRoles": 1
     },
     {
@@ -5189,10 +5188,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
@@ -6724,6 +6723,19 @@
       "Region": "Remote / Unspecified"
     },
     {
+      "Company": "RCLCO",
+      "Category": "Policy & Research Economics",
+      "Track": "Internship",
+      "Title": "2027 Summer Intern, Real Estate Economics & Consulting",
+      "Location": "Austin / Los Angeles / Washington, D.C.",
+      "URL": "https://job-boards.greenhouse.io/rclco/jobs/8266046",
+      "Source": "Official ATS Greenhouse:rclco",
+      "PostedAt": "2026-10-09T13:43:23-04:00",
+      "Notes": "timing: 2027 Summer",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
       "Company": "RSM (Transfer Pricing)",
       "Category": "Transfer Pricing & Valuation",
       "Track": "Internship",
@@ -7893,7 +7905,6 @@
     "Quadrant Economics",
     "Quantitative Economic Solutions",
     "RBB Economics",
-    "RCLCO",
     "REF-E",
     "REMI",
     "RTI Health Solutions",
@@ -7961,7 +7972,6 @@
     "Lightcast",
     "Lumanity",
     "Nous Group",
-    "RCLCO",
     "S&P Global (Economics)",
     "Synapse Energy Economics",
     "The Cadmus Group",

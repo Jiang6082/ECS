@@ -1,140 +1,40 @@
 {
-  "generatedAt": "2026-10-09T11:21:04.708Z",
-  "previousScanAt": "2026-10-08T19:15:28.727Z",
-  "currentScanAt": "2026-10-09T11:19:17.139Z",
-  "previousRows": 113,
-  "currentRows": 112,
+  "generatedAt": "2026-10-09T18:48:03.648Z",
+  "previousScanAt": "2026-10-09T11:19:17.139Z",
+  "currentScanAt": "2026-10-09T18:46:10.352Z",
+  "previousRows": 112,
+  "currentRows": 113,
   "added": [
     {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
-      "Location": "Dallas, TX, United States",
+      "Company": "Charles River Associates",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)",
+      "Location": "New York, NY, United States",
       "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832",
-      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-      "Location": "Los Angeles, CA, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875",
-      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes Claims & Investigations: Chicago",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: San Diego",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Xcenda (Cencora)",
-      "Category": "Health Economics & HEOR",
-      "Title": "U.S. Public Policy & Advocacy Intern",
-      "Location": "Washington, DC",
-      "Region": "North America",
-      "URL": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769",
-      "Source": "Career page Workday:myhrabc/Global",
+      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475",
+      "Source": "Official ATS Greenhouse:charlesriverassociates",
       "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "BDO (Transfer Pricing)",
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
+      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "RSM (Transfer Pricing)",
       "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-      "Location": "Los Angeles, CA, United States",
+      "Title": "International Tax Transfer Pricing Intern - Summer 2027",
+      "Location": "McLean",
       "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13875",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes Claims & Investigations: Chicago",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: San Diego",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC",
-      "Location": "",
-      "Region": "Remote / Unspecified",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-1",
-      "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
-      "Location": "Dallas, TX, United States",
-      "Region": "North America",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13832",
-      "Source": "Official ATS Oracle:ebqb/CX_1001",
+      "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930",
+      "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting"
     }
   ]
