@@ -1,6 +1,6 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-10 12:04 UTC · **113 roles confirmed live on official job boards** across 29 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-10 17:46 UTC · **113 roles confirmed live on official job boards** across 29 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 

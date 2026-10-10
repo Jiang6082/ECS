@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-10T12:04:53.603Z",
+  "searchedAt": "2026-10-10T17:46:18.040Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-10T12:04:53.604Z",
+    "generatedAt": "2026-10-10T17:46:18.041Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -3143,8 +3143,8 @@
       "company": "ARPC",
       "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
       "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3155,8 +3155,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3167,8 +3167,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3764,7 +3764,7 @@
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
       "pageOk": false,
-      "pageStatus": 0,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4769,10 +4769,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 673
+          "jobsSeen": 674
         }
       ],
-      "jobsSeen": 673,
+      "jobsSeen": 674,
       "relevantRoles": 1
     },
     {
@@ -6763,7 +6763,7 @@
       "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218",
       "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting",
-      "PostedAt": "Posted 29 Days Ago",
+      "PostedAt": "Posted Today",
       "Notes": "career_page=https://jobs.rsmus.com/ | timing: Summer 2027",
       "Region": "North America"
     },

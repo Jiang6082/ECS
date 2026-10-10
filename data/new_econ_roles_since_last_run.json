@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-10-10T12:06:35.112Z",
-  "previousScanAt": "2026-10-09T18:46:10.352Z",
-  "currentScanAt": "2026-10-10T12:04:53.603Z",
+  "generatedAt": "2026-10-10T17:48:05.034Z",
+  "previousScanAt": "2026-10-10T12:04:53.603Z",
+  "currentScanAt": "2026-10-10T17:46:18.040Z",
   "previousRows": 113,
   "currentRows": 113,
-  "added": [
-    {
-      "Company": "RCLCO",
-      "Category": "Policy & Research Economics",
-      "Title": "2027 Summer Intern, Real Estate Economics & Consulting",
-      "Location": "Austin / Los Angeles / Washington, D.C.",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/rclco/jobs/8266046",
-      "Source": "Official ATS Greenhouse:rclco",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "added": [],
   "removed": []
 }

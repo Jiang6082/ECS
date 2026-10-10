@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-10T12:03:16.886Z",
+  "scannedAt": "2026-10-10T17:44:55.556Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -455,15 +455,15 @@
           "source": "Workday:fticonsulting/FTIConsultingCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 245
+          "count": 247
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 245,
+      "jobsSeen": 247,
       "relevantInternships": 4,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "non-economics practice": 86,
+        "non-economics practice": 88,
         "non-economics function": 49,
         "outside firm scope (econ)": 88,
         "not an internship or entry-level role": 18
@@ -2346,8 +2346,8 @@
       "relevantInternships": 1,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "non-economics practice": 2,
-        "not an internship or entry-level role": 2
+        "non-economics practice": 3,
+        "not an internship or entry-level role": 1
       }
     },
     {
@@ -2973,15 +2973,15 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1871
+          "count": 1870
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1871,
+      "jobsSeen": 1870,
       "relevantInternships": 1,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1660,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1659,
         "not an internship or entry-level role": 42,
         "non-economics function": 149,
         "non-economics practice": 18,

@@ -1,17 +1,17 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-09T18:46:10.352Z
-Current scan: 2026-10-10T12:04:53.603Z
+Previous scan: 2026-10-10T12:04:53.603Z
+Current scan: 2026-10-10T17:46:18.040Z
 Previous rows: 113
 Current rows: 113
-New stable job URLs: 1
+New stable job URLs: 0
 No longer present: 0
 
 ## New Roles By Region
 
-### North America (1)
+### North America (0)
 
-- **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C. - Confirmed official posting (Official ATS Greenhouse:rclco)
+_None._
 
 ### Europe (0)
 

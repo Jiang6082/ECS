@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-10T12:04:53.603Z",
+  "searchedAt": "2026-10-10T17:46:18.040Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1111,8 +1111,8 @@
       "company": "ARPC",
       "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
       "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1123,8 +1123,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1135,8 +1135,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1732,7 +1732,7 @@
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
       "pageOk": false,
-      "pageStatus": 0,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2737,10 +2737,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 673
+          "jobsSeen": 674
         }
       ],
-      "jobsSeen": 673,
+      "jobsSeen": 674,
       "relevantRoles": 1
     },
     {

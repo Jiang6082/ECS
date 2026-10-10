@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-10T12:04:53.603Z
+Last updated: 2026-10-10T17:46:18.040Z
 
 ## Summary
 
@@ -8,7 +8,7 @@ Last updated: 2026-10-10T12:04:53.603Z
 - Career pages checked: 201
 - Current internship roles: 113
 - Entry-level analyst roles: 50 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
+- New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
 - Firms with matching roles: 29
 - Confirmed no open postings: 5
@@ -28,9 +28,9 @@ Last updated: 2026-10-10T12:04:53.603Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C.
+_None._
 
 ### Europe (0)
 
