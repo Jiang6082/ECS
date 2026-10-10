@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-09T18:46:10.352Z",
+  "searchedAt": "2026-10-10T12:04:53.603Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -260,7 +260,6 @@
     "Hemming Morse",
     "LitiNomics",
     "Vocational Economics",
-    "Frontier Economics",
     "Europe Economics",
     "Polynomics",
     "Perspective Economics",
@@ -1205,6 +1204,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "Frontier Economics",
+      "pageUrl": "https://frontier.edu/",
+      "resolvedUrl": "https://frontier.edu/",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "RBB Economics",
       "pageUrl": "https://www.rbbecon.com/careers/",
       "resolvedUrl": "https://www.rbbecon.com/careers/",
@@ -1316,10 +1327,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 93
+          "jobsSeen": 94
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 94,
       "relevantRoles": 6
     },
     {
@@ -1720,8 +1731,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2061,10 +2072,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 10
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -2289,11 +2300,12 @@
       "company": "Lightcast",
       "pageUrl": "https://jobs.lever.co/economicmodeling/",
       "resolvedUrl": "https://jobs.lever.co/economicmodeling/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {
         "lever": [
-          "economicmodeling"
+          "economicmodeling",
+          "js"
         ]
       },
       "unsupportedAts": [],
@@ -2701,10 +2713,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 689
+          "jobsSeen": 692
         }
       ],
-      "jobsSeen": 689,
+      "jobsSeen": 692,
       "relevantRoles": 3
     },
     {
@@ -2725,10 +2737,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 677
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 677,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -3056,10 +3068,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1004
+          "jobsSeen": 999
         }
       ],
-      "jobsSeen": 1004,
+      "jobsSeen": 999,
       "relevantRoles": 1
     },
     {

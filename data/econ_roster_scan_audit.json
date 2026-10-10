@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T18:48:03.591Z",
-  "scanStartedAt": "2026-10-09T18:46:10.352Z",
+  "generatedAt": "2026-10-10T12:06:35.051Z",
+  "scanStartedAt": "2026-10-10T12:04:53.603Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -999,9 +999,11 @@
       ],
       "category": "Competition & Regulatory (Europe)",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
+      "careerPages": [
+        "https://frontier.edu/"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1135,7 +1137,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 93,
+      "jobsSeen": 94,
       "relevantRoles": 6
     },
     {
@@ -1735,7 +1737,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2252,7 +2254,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -2447,7 +2449,7 @@
       "careerPages": [
         "https://jobs.lever.co/economicmodeling/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2890,7 +2892,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 689,
+      "jobsSeen": 692,
       "relevantRoles": 3
     },
     {
@@ -2905,7 +2907,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 677,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -3204,7 +3206,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1004,
+      "jobsSeen": 999,
       "relevantRoles": 1
     },
     {

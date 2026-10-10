@@ -1,41 +1,20 @@
 {
-  "generatedAt": "2026-10-09T18:48:03.648Z",
-  "previousScanAt": "2026-10-09T11:19:17.139Z",
-  "currentScanAt": "2026-10-09T18:46:10.352Z",
-  "previousRows": 112,
+  "generatedAt": "2026-10-10T12:06:35.112Z",
+  "previousScanAt": "2026-10-09T18:46:10.352Z",
+  "currentScanAt": "2026-10-10T12:04:53.603Z",
+  "previousRows": 113,
   "currentRows": 113,
   "added": [
     {
-      "Company": "Charles River Associates",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)",
-      "Location": "New York, NY, United States",
+      "Company": "RCLCO",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Intern, Real Estate Economics & Consulting",
+      "Location": "Austin / Los Angeles / Washington, D.C.",
       "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475",
-      "Source": "Official ATS Greenhouse:charlesriverassociates",
+      "URL": "https://job-boards.greenhouse.io/rclco/jobs/8266046",
+      "Source": "Official ATS Greenhouse:rclco",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
-      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "RSM (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "International Tax Transfer Pricing Intern - Summer 2027",
-      "Location": "McLean",
-      "Region": "North America",
-      "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930",
-      "Source": "Career page Workday:rsm/RSMCareers",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

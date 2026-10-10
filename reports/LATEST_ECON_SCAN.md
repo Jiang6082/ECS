@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-09T18:46:10.352Z
+Last updated: 2026-10-10T12:04:53.603Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 200
+- Career pages checked: 201
 - Current internship roles: 113
-- Entry-level analyst roles: 51 ([list](econ_entry_level_roles.md))
+- Entry-level analyst roles: 50 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 1
-- No longer present since previous scan: 2
+- No longer present since previous scan: 0
 - Firms with matching roles: 29
 - Confirmed no open postings: 5
 - Openings but no matching role: 27
@@ -30,7 +30,7 @@ Last updated: 2026-10-09T18:46:10.352Z
 
 ### North America (1)
 
-- **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) - New York, NY, United States
+- **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C.
 
 ### Europe (0)
 
@@ -66,8 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) - McLean
+_None._
 
 ## Full Reports
 

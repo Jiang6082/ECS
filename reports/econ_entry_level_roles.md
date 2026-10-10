@@ -1,11 +1,11 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-10-09T18:46:10.352Z
-Roles: 51
+Scanned: 2026-10-10T12:04:53.603Z
+Roles: 50
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
-### North America (37)
+### North America (36)
 
 - **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -28,7 +28,6 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **BDO (Transfer Pricing)** - [Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014) - Atlanta, GA, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **Eastern Research Group** - [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) - Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA - Confirmed official posting (Official ATS Lever:erg): timing not stated in title
 - **Econ One** - [Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/2BCF058B45/) - Los Angeles, California, United States - Confirmed official posting (Official ATS Workable:econ-one-research): timing not stated in title
-- **Energy + Environmental Economics (E3)** - [Analyst](https://jobs.lever.co/ethree/5b7f68f4-07f5-4e5c-83b0-dba55cbe56a8) - San Francisco, CA; Boston, MA; Calgary, Alberta; New York, NY - Confirmed official posting (Official ATS Lever:ethree): timing not stated in title
 - **HR&A Advisors** - [Analyst, Housing](https://hraadvisors.applytojob.com/apply/HP9SzqVzwK/Analyst-Housing) - Washington, DC, DC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/TAm8N2k8Xm/Analyst-Inclusive-Cities) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title

@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-09 &nbsp;•&nbsp; **113 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **51 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **37 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-10 &nbsp;•&nbsp; **113 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **50 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **37 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,13 +12,13 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-10-09_
+_Scan date: 2026-10-10_
 
 **1** new stable job posting since the previous scan:
 
 **North America**
 
-- **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) — New York, NY, United States
+- **RCLCO** — [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) — Austin / Los Angeles / Washington, D.C.
 
 ---
 

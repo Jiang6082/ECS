@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-09T18:44:16.289Z
+Scanned: 2026-10-10T12:03:16.886Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
 Internship roles: 106
-Entry-level analyst roles: 48
+Entry-level analyst roles: 47
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -148,7 +148,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Compass Lexecon** — [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) — Beijing, China (Official ATS Workday:fticonsulting/CompassLexeconCareers)
 - **Eastern Research Group** — [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) — Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA (Official ATS Lever:erg)
 - **Econ One** — [Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/2BCF058B45/) — Los Angeles, California, United States (Official ATS Workable:econ-one-research)
-- **Energy + Environmental Economics (E3)** — [Analyst](https://jobs.lever.co/ethree/5b7f68f4-07f5-4e5c-83b0-dba55cbe56a8) — San Francisco, CA; Boston, MA; Calgary, Alberta; New York, NY (Official ATS Lever:ethree)
 - **HR&A Advisors** — [Analyst, Housing](https://hraadvisors.applytojob.com/apply/HP9SzqVzwK/Analyst-Housing) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/TAm8N2k8Xm/Analyst-Inclusive-Cities) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)

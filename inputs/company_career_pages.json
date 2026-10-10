@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:46:10.353Z",
+  "generatedAt": "2026-10-10T12:04:53.604Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -372,8 +372,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Frontier Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://frontier.edu/"
+      ],
+      "updatedAt": "2026-10-10T12:04:53.604Z"
     },
     "RBB Economics": {
       "careerPages": [
