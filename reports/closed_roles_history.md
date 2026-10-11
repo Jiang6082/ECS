@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 37
-Last updated: 2026-10-11T18:00:19.780Z
+Total closures recorded: 38
+Last updated: 2026-10-11T21:59:13.572Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-11 (1)
+
+- **Ankura** - [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) - UAE Dubai DIFC
 
 ### 2026-10-09 (8)
 

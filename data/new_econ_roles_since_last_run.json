@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-11T18:02:15.254Z",
-  "previousScanAt": "2026-10-10T17:46:18.040Z",
-  "currentScanAt": "2026-10-11T18:00:19.780Z",
-  "previousRows": 113,
-  "currentRows": 112,
+  "generatedAt": "2026-10-11T22:00:56.272Z",
+  "previousScanAt": "2026-10-11T18:00:19.780Z",
+  "currentScanAt": "2026-10-11T21:59:13.572Z",
+  "previousRows": 112,
+  "currentRows": 113,
   "added": [],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Internship 2027, Disputes & Economics",
+      "Location": "UAE Dubai DIFC",
+      "Region": "Middle East",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

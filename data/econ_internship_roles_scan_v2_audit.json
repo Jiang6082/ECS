@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-11T18:00:19.780Z",
+  "searchedAt": "2026-10-11T21:59:13.572Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -363,7 +363,7 @@
         },
         {
           "source": "iCIMS:uguk-chire",
-          "jobsSeen": 2
+          "jobsSeen": 3
         },
         {
           "source": "iCIMS:ugbe-chire",
@@ -402,8 +402,8 @@
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 16,
-      "relevantRoles": 3
+      "jobsSeen": 17,
+      "relevantRoles": 4
     },
     {
       "company": "Compass Lexecon",
@@ -2713,10 +2713,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 688
+          "jobsSeen": 686
         }
       ],
-      "jobsSeen": 688,
+      "jobsSeen": 686,
       "relevantRoles": 3
     },
     {

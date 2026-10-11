@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T18:02:15.204Z",
-  "scanStartedAt": "2026-10-11T18:00:19.780Z",
+  "generatedAt": "2026-10-11T22:00:56.217Z",
+  "scanStartedAt": "2026-10-11T21:59:13.572Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -37,8 +37,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
-      "relevantRoles": 3
+      "jobsSeen": 17,
+      "relevantRoles": 4
     },
     {
       "company": "Compass Lexecon",
@@ -2892,7 +2892,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 688,
+      "jobsSeen": 686,
       "relevantRoles": 3
     },
     {

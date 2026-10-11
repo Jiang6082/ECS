@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-11T18:00:19.780Z",
+  "searchedAt": "2026-10-11T21:59:13.572Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-11T18:00:19.782Z",
+    "generatedAt": "2026-10-11T21:59:13.574Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -2395,7 +2395,7 @@
         },
         {
           "source": "iCIMS:uguk-chire",
-          "jobsSeen": 2
+          "jobsSeen": 3
         },
         {
           "source": "iCIMS:ugbe-chire",
@@ -2434,8 +2434,8 @@
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 16,
-      "relevantRoles": 3
+      "jobsSeen": 17,
+      "relevantRoles": 4
     },
     {
       "company": "Compass Lexecon",
@@ -4745,10 +4745,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 688
+          "jobsSeen": 686
         }
       ],
-      "jobsSeen": 688,
+      "jobsSeen": 686,
       "relevantRoles": 3
     },
     {
@@ -6349,6 +6349,19 @@
       "PostedAt": "Posted 20 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Cornerstone Research",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)",
+      "Location": "UK-London",
+      "URL": "https://uguk-chire.icims.com/jobs/4094/job",
+      "Source": "Career page iCIMS:uguk-chire",
+      "Status": "Confirmed official posting",
+      "PostedAt": "",
+      "Notes": "career_page=https://www.cornerstone.com/careers/analyst/ | timing: 2027 Spring",
       "Region": "Europe"
     },
     {

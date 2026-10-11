@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-11T18:00:19.780Z
+Scan started: 2026-10-11T21:59:13.572Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 

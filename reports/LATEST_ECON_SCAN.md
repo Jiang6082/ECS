@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-11T18:00:19.780Z
+Last updated: 2026-10-11T21:59:13.572Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 201
-- Current internship roles: 112
+- Current internship roles: 113
 - Entry-level analyst roles: 50 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- No longer present since previous scan: 1
 - Firms with matching roles: 29
 - Confirmed no open postings: 5
 - Openings but no matching role: 27
@@ -17,7 +17,7 @@ Last updated: 2026-10-11T18:00:19.780Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 81
+- Litigation, Antitrust & Damages: 82
 - Transfer Pricing & Valuation: 7
 - Health Economics & HEOR: 6
 - Big 4 & Advisory Economics: 5
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Ankura** - [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) - UAE Dubai DIFC
 
 ## Full Reports
 
