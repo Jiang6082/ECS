@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-10T17:46:18.040Z
+Scanned: 2026-10-11T18:00:19.780Z
 Firms searched: 232
 Career pages checked: 201
-Internship roles/leads retained: 113
+Internship roles/leads retained: 112
 Entry-level analyst roles (separate report): 50
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -124,9 +124,9 @@ Status guide:
 
 _None._
 
-### Middle East (1)
+### Middle East (0)
 
-- **Ankura** - [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) - UAE Dubai DIFC - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing: 2027
+_None._
 
 ### South America (2)
 

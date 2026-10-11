@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T17:48:04.976Z",
-  "scanStartedAt": "2026-10-10T17:46:18.040Z",
+  "generatedAt": "2026-10-11T18:02:15.204Z",
+  "scanStartedAt": "2026-10-11T18:00:19.780Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -1002,7 +1002,7 @@
       "careerPages": [
         "https://frontier.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1137,7 +1137,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 94,
+      "jobsSeen": 92,
       "relevantRoles": 6
     },
     {
@@ -2892,7 +2892,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 692,
+      "jobsSeen": 688,
       "relevantRoles": 3
     },
     {
@@ -2907,7 +2907,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 674,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -3206,7 +3206,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 999,
+      "jobsSeen": 994,
       "relevantRoles": 1
     },
     {

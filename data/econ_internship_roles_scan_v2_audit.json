@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-10T17:46:18.040Z",
+  "searchedAt": "2026-10-11T18:00:19.780Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1207,8 +1207,8 @@
       "company": "Frontier Economics",
       "pageUrl": "https://frontier.edu/",
       "resolvedUrl": "https://frontier.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1327,10 +1327,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 94
+          "jobsSeen": 92
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 92,
       "relevantRoles": 6
     },
     {
@@ -2713,10 +2713,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 692
+          "jobsSeen": 688
         }
       ],
-      "jobsSeen": 692,
+      "jobsSeen": 688,
       "relevantRoles": 3
     },
     {
@@ -2737,10 +2737,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 674
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 674,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -3068,10 +3068,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 999
+          "jobsSeen": 994
         }
       ],
-      "jobsSeen": 999,
+      "jobsSeen": 994,
       "relevantRoles": 1
     },
     {

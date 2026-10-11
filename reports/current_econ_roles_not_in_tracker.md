@@ -1,8 +1,8 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-10T17:46:18.040Z
+Current scan: 2026-10-11T18:00:19.780Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 113
+Current roles absent from tracker: 112
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
@@ -115,9 +115,9 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 
 _None._
 
-### Middle East (1)
+### Middle East (0)
 
-- **Ankura** - [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) - UAE Dubai DIFC - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing: 2027
+_None._
 
 ### South America (2)
 

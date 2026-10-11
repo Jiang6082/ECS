@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-10 &nbsp;•&nbsp; **113 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **50 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **37 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-11 &nbsp;•&nbsp; **112 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **50 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **37 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,7 +12,7 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-10-10_
+_Scan date: 2026-10-11_
 
 _No new roles detected in the latest scan._
 
@@ -20,9 +20,9 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles Available
 
-**113** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**112** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (54)](#north-america) · [Europe (38)](#europe) · [Asia (4)](#asia) · [Middle East (1)](#middle-east) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (13)](#remote--unspecified)
+**Regions:** [North America (54)](#north-america) · [Europe (38)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (13)](#remote--unspecified)
 
 ### North America
 
@@ -141,15 +141,6 @@ _No new roles detected in the latest scan._
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) — Tokyo, Japan
 - **Oxford Economics** — [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) — Singapore
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore
-
-</details>
-
-### Middle East
-
-<details>
-<summary><strong>1 role</strong> — click to expand</summary>
-
-- **Ankura** — [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) — UAE Dubai DIFC
 
 </details>
 
