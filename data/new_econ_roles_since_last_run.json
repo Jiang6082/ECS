@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-11T22:00:56.272Z",
-  "previousScanAt": "2026-10-11T18:00:19.780Z",
-  "currentScanAt": "2026-10-11T21:59:13.572Z",
-  "previousRows": 112,
-  "currentRows": 113,
-  "added": [],
-  "removed": [
+  "generatedAt": "2026-10-12T21:44:43.342Z",
+  "previousScanAt": "2026-10-11T21:59:13.572Z",
+  "currentScanAt": "2026-10-12T21:42:51.465Z",
+  "previousRows": 113,
+  "currentRows": 112,
+  "added": [
     {
-      "Company": "Ankura",
+      "Company": "Cornerstone Research",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Internship 2027, Disputes & Economics",
-      "Location": "UAE Dubai DIFC",
-      "Region": "Middle East",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055",
-      "Source": "Official ATS Workday:ankura/Ankura",
+      "Title": "2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)",
+      "Location": "UK-London",
+      "Region": "Europe",
+      "URL": "https://uguk-chire.icims.com/jobs/4094/job",
+      "Source": "Career page iCIMS:uguk-chire",
       "Status": "Confirmed official posting"
     }
-  ]
+  ],
+  "removed": []
 }

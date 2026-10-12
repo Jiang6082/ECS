@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-11T21:57:52.597Z
+Scanned: 2026-10-12T21:41:09.271Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
 Internship roles: 105
-Entry-level analyst roles: 47
+Entry-level analyst roles: 48
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -146,10 +146,11 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Capital Economics** — [Assistant Economist - Graduate Training Scheme](https://apply.workable.com/capital-economics/j/7CA67FCD5A/) — London, England, United Kingdom (Official ATS Workable:capital-economics)
 - **Compass Lexecon** — [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) — Beijing, China (Official ATS Workday:fticonsulting/CompassLexeconCareers)
 - **Eastern Research Group** — [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) — Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA (Official ATS Lever:erg)
-- **Econ One** — [Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/2BCF058B45/) — Los Angeles, California, United States (Official ATS Workable:econ-one-research)
 - **HR&A Advisors** — [Analyst, Housing](https://hraadvisors.applytojob.com/apply/HP9SzqVzwK/Analyst-Housing) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/TAm8N2k8Xm/Analyst-Inclusive-Cities) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
+- **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
+- **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) — Atlanta, GA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/Ma1YoqlgoV/Research-Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
 - **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) — Moscow, ID (Official ATS Lever:economicmodeling)

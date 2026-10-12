@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-11T21:59:13.572Z
+Scanned: 2026-10-12T21:42:51.465Z
 Firms searched: 232
 Career pages checked: 201
-Internship roles/leads retained: 113
-Entry-level analyst roles (separate report): 50
+Internship roles/leads retained: 112
+Entry-level analyst roles (separate report): 51
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
 
@@ -15,7 +15,7 @@ Status guide:
 
 ## Roles And Leads By Region
 
-### North America (54)
+### North America (53)
 
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - US-MA-Boston | US-CA-Los Angeles | US-CA-San Francisco | US-NY-New York - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -53,7 +53,6 @@ Status guide:
 - **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 - **PRECISIONheor (Precision AQ)** - [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) - New York, NY, USA - Confirmed official posting (Official ATS Greenhouse:precisionaq): timing: Summer 2027; graduation years mentioned: 2027, 2029
 - **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C. - Confirmed official posting (Official ATS Greenhouse:rclco): timing: 2027 Summer
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit - Confirmed official posting (Career page Workday:rsm/RSMCareers): career_page=https://jobs.rsmus.com/ | timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) - Los Angeles, California, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
@@ -161,7 +160,6 @@ _None._
 ## Confirmed: Enumerated Source Reports No Open Postings
 
 - Chmura Economics & Analytics
-- Cornwall Insight
 - Economic & Planning Systems
 - Edgeworth Economics
 - REMI
@@ -175,6 +173,7 @@ _None._
 - Axiom Economics
 - Baringa
 - Coherent Economics
+- Cornwall Insight
 - Eastern Research Group
 - Fathom Consulting
 - Fideres
@@ -342,6 +341,7 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - Quantitative Economic Solutions
 - RBB Economics
 - REF-E
+- RSM (Transfer Pricing)
 - RTI Health Solutions
 - RTI International
 - Ramboll Management Consulting

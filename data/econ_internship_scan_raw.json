@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-11T21:57:52.597Z",
+  "scannedAt": "2026-10-12T21:41:09.271Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -244,13 +244,13 @@
           "source": "Workday:cornerstone/CornerstoneResearch_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 7
+          "count": 8
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "rejected": {
-        "not an internship or entry-level role": 5,
-        "non-economics function": 2
+        "non-economics function": 3,
+        "not an internship or entry-level role": 5
       },
       "matches": []
     },
@@ -268,13 +268,13 @@
           "source": "Workday:fticonsulting/CompassLexeconCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 36
+          "count": 34
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 34,
       "rejected": {
         "not an internship or entry-level role": 19,
-        "non-economics function": 3
+        "non-economics function": 1
       },
       "matches": [
         {
@@ -285,7 +285,7 @@
           "Location": "Milan, Italy",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Milan-Italy/Intern---Competition-Practice---Milan_JR261355",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 18 Days Ago",
+          "PostedAt": "Posted 19 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -296,7 +296,7 @@
           "Location": "London, United Kingdom",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Intern---Energy-Practice---London_JR261417",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 18 Days Ago",
+          "PostedAt": "Posted 19 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -307,7 +307,7 @@
           "Location": "Paris, France",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Energy-Practice---Paris_JR261413",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 19 Days Ago",
+          "PostedAt": "Posted 20 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -318,7 +318,7 @@
           "Location": "Berlin, Germany",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Energy-Practice---Berlin_JR260415",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -329,7 +329,7 @@
           "Location": "Paris, France",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Competition-Practice---Paris_JR261357",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -340,7 +340,7 @@
           "Location": "Madrid, Spain",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Madrid-Spain/Intern---Competition-Practice---Madrid_JR261344",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -351,7 +351,7 @@
           "Location": "London, United Kingdom",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing: Summer"
         },
         {
@@ -362,7 +362,7 @@
           "Location": "Helsinki, Finland",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -373,7 +373,7 @@
           "Location": "Brussels, Belgium",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -384,7 +384,7 @@
           "Location": "Berlin, Germany",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -395,7 +395,7 @@
           "Location": "Dusseldorf, Germany",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -406,7 +406,7 @@
           "Location": "5 Locations",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385",
           "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-          "PostedAt": "Posted 23 Days Ago",
+          "PostedAt": "Posted 24 Days Ago",
           "Notes": "timing: 2027"
         },
         {
@@ -550,12 +550,12 @@
           "source": "Workday:mmc/MMC",
           "origin": "seeded",
           "ok": true,
-          "count": 44
+          "count": 43
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 43,
       "rejected": {
-        "not an internship or entry-level role": 9,
+        "not an internship or entry-level role": 8,
         "PhD/MBA/JD-only": 2,
         "outside firm scope (\\bNERA\\b)": 27,
         "non-economics function": 1,
@@ -603,7 +603,7 @@
           "Location": "6 Locations",
           "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1",
           "Source": "Official ATS Workday:mmc/MMC",
-          "PostedAt": "Posted 19 Days Ago",
+          "PostedAt": "Posted 20 Days Ago",
           "Notes": "timing: Summer 2028"
         }
       ]
@@ -654,10 +654,21 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Entry-level",
           "Title": "Research Analyst (Economics and Finance) - July 2027",
-          "Location": "New York, New York, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
+          "Location": "San Francisco, California, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-08-14T16:44:16-04:00",
+          "PostedAt": "2026-08-14T16:44:15-04:00",
+          "Notes": "timing: 2027"
+        },
+        {
+          "Company": "The Brattle Group",
+          "Category": "Litigation, Antitrust & Damages",
+          "Track": "Entry-level",
+          "Title": "Research Analyst (Economics and Finance) - July 2027",
+          "Location": "Washington, District of Columbia, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720808005",
+          "Source": "Official ATS Greenhouse:thebrattlegroup",
+          "PostedAt": "2026-08-14T16:44:13-04:00",
           "Notes": "timing: 2027"
         },
         {
@@ -687,21 +698,10 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Entry-level",
           "Title": "Research Analyst (Economics and Finance) - July 2027",
-          "Location": "San Francisco, California, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005",
+          "Location": "New York, New York, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-08-14T16:44:15-04:00",
-          "Notes": "timing: 2027"
-        },
-        {
-          "Company": "The Brattle Group",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Entry-level",
-          "Title": "Research Analyst (Economics and Finance) - July 2027",
-          "Location": "Washington, District of Columbia, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720808005",
-          "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-08-14T16:44:13-04:00",
+          "PostedAt": "2026-08-14T16:44:16-04:00",
           "Notes": "timing: 2027"
         },
         {
@@ -709,10 +709,10 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Entry-level",
           "Title": "Research Analyst (Economics) - July 2027",
-          "Location": "Washington, District of Columbia, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
+          "Location": "New York, New York, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-08-14T16:44:30-04:00",
+          "PostedAt": "2026-08-14T16:44:31-04:00",
           "Notes": "timing: 2027"
         },
         {
@@ -742,10 +742,10 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Entry-level",
           "Title": "Research Analyst (Economics) - July 2027",
-          "Location": "New York, New York, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005",
+          "Location": "Washington, District of Columbia, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-08-14T16:44:31-04:00",
+          "PostedAt": "2026-08-14T16:44:30-04:00",
           "Notes": "timing: 2027"
         },
         {
@@ -775,10 +775,10 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Internship",
           "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-          "Location": "New York, New York, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
+          "Location": "Washington, District of Columbia, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-09-18T16:58:40-04:00",
+          "PostedAt": "2026-09-18T16:58:45-04:00",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -797,10 +797,10 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Internship",
           "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-          "Location": "Washington, District of Columbia, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005",
+          "Location": "New York, New York, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-09-18T16:58:45-04:00",
+          "PostedAt": "2026-09-18T16:58:40-04:00",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -879,14 +879,14 @@
           "source": "Workday:thinkbrg/BRG_External_Career_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 129
+          "count": 128
         }
       ],
-      "jobsSeen": 129,
+      "jobsSeen": 128,
       "rejected": {
         "not an internship or entry-level role": 64,
         "non-economics function": 4,
-        "non-economics practice": 54,
+        "non-economics practice": 53,
         "dated for a past cycle": 1
       },
       "matches": [
@@ -898,7 +898,7 @@
           "Location": "3 Locations",
           "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Junior-Conflicts-Analyst_JR101147",
           "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-          "PostedAt": "Posted 10 Days Ago",
+          "PostedAt": "Posted 11 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -909,7 +909,7 @@
           "Location": "Brussels, BEL",
           "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116",
           "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-          "PostedAt": "Posted 20 Days Ago",
+          "PostedAt": "Posted 21 Days Ago",
           "Notes": "timing: 2027"
         },
         {
@@ -920,7 +920,7 @@
           "Location": "Berlin, GER",
           "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044",
           "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-          "PostedAt": "Posted 28 Days Ago",
+          "PostedAt": "Posted 29 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -931,7 +931,7 @@
           "Location": "Brussels, BEL",
           "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948",
           "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-          "PostedAt": "Posted 28 Days Ago",
+          "PostedAt": "Posted 29 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -966,15 +966,15 @@
           "source": "Workday:fticonsulting/FTIConsultingCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 247
+          "count": 249
         }
       ],
-      "jobsSeen": 247,
+      "jobsSeen": 249,
       "rejected": {
-        "non-economics practice": 88,
-        "non-economics function": 49,
-        "outside firm scope (econ)": 88,
-        "not an internship or entry-level role": 18
+        "not an internship or entry-level role": 20,
+        "non-economics practice": 89,
+        "outside firm scope (econ)": 87,
+        "non-economics function": 49
       },
       "matches": [
         {
@@ -985,7 +985,7 @@
           "Location": "2 Locations",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651",
           "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-          "PostedAt": "Posted 2 Days Ago",
+          "PostedAt": "Posted 3 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -996,7 +996,7 @@
           "Location": "Madrid, Spain",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682",
           "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-          "PostedAt": "Posted 6 Days Ago",
+          "PostedAt": "Posted 7 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1007,7 +1007,7 @@
           "Location": "London, United Kingdom",
           "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
           "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-          "PostedAt": "Posted 10 Days Ago",
+          "PostedAt": "Posted 11 Days Ago",
           "Notes": "timing: 2027"
         },
         {
@@ -1031,10 +1031,10 @@
           "source": "Workable:econ-one-research",
           "origin": "seeded",
           "ok": true,
-          "count": 7
+          "count": 6
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "rejected": {
         "not an internship or entry-level role": 5
       },
@@ -1049,17 +1049,6 @@
           "Source": "Official ATS Workable:econ-one-research",
           "PostedAt": "2026-09-22T00:00:00.000Z",
           "Notes": "timing: Summer"
-        },
-        {
-          "Company": "Econ One",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Entry-level",
-          "Title": "Analyst (Healthcare Economics)",
-          "Location": "Los Angeles, California, United States",
-          "URL": "https://apply.workable.com/econ-one-research/j/2BCF058B45/",
-          "Source": "Official ATS Workable:econ-one-research",
-          "PostedAt": "2026-09-22T00:00:00.000Z",
-          "Notes": "timing not stated in title"
         }
       ]
     },
@@ -1071,7 +1060,7 @@
           "source": "Greenhouse:secretariatadvisorsllc",
           "origin": "seeded",
           "ok": true,
-          "count": 79
+          "count": 78
         },
         {
           "source": "Workday:secretariat/Secretariat_careers",
@@ -1080,9 +1069,9 @@
           "count": 0
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "rejected": {
-        "non-economics practice": 46,
+        "non-economics practice": 45,
         "not an internship or entry-level role": 23,
         "non-economics function": 3
       },
@@ -1103,32 +1092,21 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Internship",
           "Title": "Intern, Damages & Valuations (Summer 2027)",
-          "Location": "Washington, District of Columbia, United States",
-          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009",
-          "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-          "PostedAt": "2026-09-10T12:06:59-04:00",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "Secretariat",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Internship",
-          "Title": "Intern, Damages & Valuations (Summer 2027)",
-          "Location": "Los Angeles, California, United States",
-          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009",
-          "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-          "PostedAt": "2026-09-10T12:06:38-04:00",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "Secretariat",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Internship",
-          "Title": "Intern, Damages & Valuations (Summer 2027)",
           "Location": "Chicago, Illinois, United States",
           "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
           "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
           "PostedAt": "2026-09-10T12:07:27-04:00",
+          "Notes": "timing: Summer 2027"
+        },
+        {
+          "Company": "Secretariat",
+          "Category": "Litigation, Antitrust & Damages",
+          "Track": "Internship",
+          "Title": "Intern, Damages & Valuations (Summer 2027)",
+          "Location": "Downtown Boston, MA",
+          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+          "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
+          "PostedAt": "2026-09-24T12:39:30-04:00",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1147,10 +1125,21 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Internship",
           "Title": "Intern, Damages & Valuations (Summer 2027)",
-          "Location": "Downtown Boston, MA",
-          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+          "Location": "Los Angeles, California, United States",
+          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009",
           "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-          "PostedAt": "2026-09-24T12:39:30-04:00",
+          "PostedAt": "2026-09-10T12:06:38-04:00",
+          "Notes": "timing: Summer 2027"
+        },
+        {
+          "Company": "Secretariat",
+          "Category": "Litigation, Antitrust & Damages",
+          "Track": "Internship",
+          "Title": "Intern, Damages & Valuations (Summer 2027)",
+          "Location": "Washington, District of Columbia, United States",
+          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009",
+          "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
+          "PostedAt": "2026-09-10T12:06:59-04:00",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1182,15 +1171,15 @@
           "source": "Workday:ankura/Ankura",
           "origin": "seeded",
           "ok": true,
-          "count": 114
+          "count": 116
         }
       ],
-      "jobsSeen": 114,
+      "jobsSeen": 116,
       "rejected": {
+        "outside firm scope (econ)": 49,
+        "non-economics function": 6,
         "non-economics practice": 28,
-        "not an internship or entry-level role": 9,
-        "outside firm scope (econ)": 48,
-        "non-economics function": 5
+        "not an internship or entry-level role": 9
       },
       "matches": [
         {
@@ -1201,7 +1190,7 @@
           "Location": "Ann Arbor, MI",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 11 Days Ago",
+          "PostedAt": "Posted 12 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1212,7 +1201,7 @@
           "Location": "Washington D.C.",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104993",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 13 Days Ago",
+          "PostedAt": "Posted 14 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1223,7 +1212,7 @@
           "Location": "Washington D.C.",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104999",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 13 Days Ago",
+          "PostedAt": "Posted 14 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1234,7 +1223,7 @@
           "Location": "New York, NY",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Disputes_R104995",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 13 Days Ago",
+          "PostedAt": "Posted 14 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1245,7 +1234,7 @@
           "Location": "New York, NY",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Advisory--NYC-_R104989",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 16 Days Ago",
+          "PostedAt": "Posted 17 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1256,7 +1245,7 @@
           "Location": "Washington D.C.",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 16 Days Ago",
+          "PostedAt": "Posted 17 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1267,7 +1256,7 @@
           "Location": "New York, NY",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 16 Days Ago",
+          "PostedAt": "Posted 17 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1278,7 +1267,7 @@
           "Location": "New York, NY",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 17 Days Ago",
+          "PostedAt": "Posted 18 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1289,7 +1278,7 @@
           "Location": "New York, NY",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Disputes_R104994",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 18 Days Ago",
+          "PostedAt": "Posted 19 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1300,7 +1289,7 @@
           "Location": "Chicago, IL",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Valuation---Transaction-Advisory_R104983",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 18 Days Ago",
+          "PostedAt": "Posted 19 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1311,7 +1300,7 @@
           "Location": "Los Angeles, CA",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 18 Days Ago",
+          "PostedAt": "Posted 19 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1322,7 +1311,7 @@
           "Location": "Los Angeles, CA",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Associate--Disputes---Economics_R104986",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 18 Days Ago",
+          "PostedAt": "Posted 19 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1333,7 +1322,7 @@
           "Location": "Chicago, IL",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 24 Days Ago",
+          "PostedAt": "Posted 25 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1344,7 +1333,7 @@
           "Location": "New York, NY",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104982",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 27 Days Ago",
+          "PostedAt": "Posted 28 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1355,7 +1344,7 @@
           "Location": "Washington D.C.",
           "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981",
           "Source": "Official ATS Workday:ankura/Ankura",
-          "PostedAt": "Posted 27 Days Ago",
+          "PostedAt": "Posted 28 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -1467,15 +1456,15 @@
           "source": "Greenhouse:alixpartners",
           "origin": "seeded",
           "ok": true,
-          "count": 116
+          "count": 112
         }
       ],
-      "jobsSeen": 116,
+      "jobsSeen": 112,
       "rejected": {
         "non-economics function": 12,
-        "outside firm scope (econ)": 63,
+        "outside firm scope (econ)": 64,
         "non-economics practice": 18,
-        "not an internship or entry-level role": 23
+        "not an internship or entry-level role": 18
       },
       "matches": []
     },
@@ -1487,15 +1476,15 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 837
+          "count": 836
         }
       ],
-      "jobsSeen": 837,
+      "jobsSeen": 836,
       "rejected": {
-        "outside firm scope (econ)": 728,
+        "outside firm scope (econ)": 731,
         "non-economics practice": 24,
         "not an internship or entry-level role": 30,
-        "non-economics function": 55
+        "non-economics function": 51
       },
       "matches": []
     },
@@ -1515,7 +1504,7 @@
           "source": "Workday:stout/Stout-Student-Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 8
+          "count": 7
         },
         {
           "source": "Workday:stout/Stout-Careers",
@@ -1530,9 +1519,9 @@
           "count": 0
         }
       ],
-      "jobsSeen": 49,
+      "jobsSeen": 48,
       "rejected": {
-        "outside firm scope (econ)": 24,
+        "outside firm scope (econ)": 23,
         "not an internship or entry-level role": 13,
         "non-economics function": 3,
         "non-economics practice": 1
@@ -1546,7 +1535,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1",
           "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1557,7 +1546,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-1",
           "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1568,7 +1557,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-1",
           "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1579,7 +1568,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-1",
           "Source": "Official ATS Workday:stout/Stout-Student-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1590,7 +1579,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2",
           "Source": "Official ATS Workday:stout/Stout-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1601,7 +1590,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2",
           "Source": "Official ATS Workday:stout/Stout-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1612,7 +1601,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-2",
           "Source": "Official ATS Workday:stout/Stout-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1623,7 +1612,7 @@
           "Location": "",
           "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2",
           "Source": "Official ATS Workday:stout/Stout-Careers",
-          "PostedAt": "Posted 26 Days Ago",
+          "PostedAt": "Posted 27 Days Ago",
           "Notes": "timing: Summer 2027"
         }
       ]
@@ -1636,12 +1625,12 @@
           "source": "Workday:hl/Campus",
           "origin": "seeded",
           "ok": true,
-          "count": 26
+          "count": 25
         }
       ],
-      "jobsSeen": 26,
+      "jobsSeen": 25,
       "rejected": {
-        "non-economics practice": 17,
+        "non-economics practice": 16,
         "outside firm scope (dispute)": 9
       },
       "matches": []
@@ -2380,11 +2369,13 @@
           "source": "Pinpoint:cornwallinsight.pinpointhq.com",
           "origin": "seeded",
           "ok": true,
-          "count": 0
+          "count": 1
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 1,
+      "rejected": {
+        "non-economics function": 1
+      },
       "matches": []
     },
     {
@@ -2435,12 +2426,12 @@
           "source": "Personio:technopolis-group",
           "origin": "seeded",
           "ok": true,
-          "count": 14
+          "count": 13
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "rejected": {
-        "not an internship or entry-level role": 11
+        "not an internship or entry-level role": 10
       },
       "matches": [
         {
@@ -2486,12 +2477,13 @@
           "source": "Ashby:vivid",
           "origin": "guessed",
           "ok": true,
-          "count": 2
+          "count": 10
         }
       ],
-      "jobsSeen": 2,
+      "jobsSeen": 10,
       "rejected": {
-        "outside firm scope (vivid economics)": 2
+        "outside firm scope (vivid economics)": 9,
+        "non-economics function": 1
       },
       "matches": []
     },
@@ -2632,13 +2624,13 @@
           "source": "Greenhouse:baringa",
           "origin": "guessed",
           "ok": true,
-          "count": 94
+          "count": 96
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 96,
       "rejected": {
-        "non-economics function": 6,
-        "outside firm scope (econ)": 75,
+        "non-economics function": 9,
+        "outside firm scope (econ)": 74,
         "not an internship or entry-level role": 3,
         "non-economics practice": 6,
         "recruiting event / talent pool": 3
@@ -2969,7 +2961,7 @@
           "source": "Greenhouse:axiom",
           "origin": "guessed",
           "ok": true,
-          "count": 17
+          "count": 18
         },
         {
           "source": "Ashby:axiom",
@@ -2978,10 +2970,10 @@
           "count": 3
         }
       ],
-      "jobsSeen": 20,
+      "jobsSeen": 21,
       "rejected": {
-        "non-economics function": 5,
-        "not an internship or entry-level role": 15
+        "not an internship or entry-level role": 16,
+        "non-economics function": 5
       },
       "matches": []
     },
@@ -3001,14 +2993,13 @@
           "source": "Greenhouse:nousgroup",
           "origin": "guessed",
           "ok": true,
-          "count": 13
+          "count": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "rejected": {
         "outside firm scope (econ)": 5,
-        "recruiting event / talent pool": 7,
-        "non-economics function": 1
+        "recruiting event / talent pool": 7
       },
       "matches": []
     },
@@ -3060,12 +3051,12 @@
           "source": "Oracle:egpy/JoinAbt",
           "origin": "seeded",
           "ok": true,
-          "count": 9
+          "count": 8
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "rejected": {
-        "outside firm scope (econ)": 8,
+        "outside firm scope (econ)": 7,
         "not an internship or entry-level role": 1
       },
       "matches": []
@@ -3078,15 +3069,15 @@
           "source": "Workday:icf/ICFExternal_Career_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 430
+          "count": 434
         }
       ],
-      "jobsSeen": 430,
+      "jobsSeen": 434,
       "rejected": {
-        "outside firm scope (econ)": 364,
+        "outside firm scope (econ)": 370,
         "non-economics function": 32,
-        "not an internship or entry-level role": 24,
-        "non-economics practice": 9
+        "not an internship or entry-level role": 23,
+        "non-economics practice": 8
       },
       "matches": [
         {
@@ -3097,7 +3088,7 @@
           "Location": "2 Locations",
           "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249",
           "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
-          "PostedAt": "Posted 16 Days Ago",
+          "PostedAt": "Posted 17 Days Ago",
           "Notes": "timing: 2027 Summer"
         }
       ]
@@ -3127,13 +3118,13 @@
           "source": "Lever:erg",
           "origin": "seeded",
           "ok": true,
-          "count": 38
+          "count": 37
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "rejected": {
         "not an internship or entry-level role": 29,
-        "non-economics function": 7,
+        "non-economics function": 6,
         "recruiting event / talent pool": 1
       },
       "matches": [
@@ -3272,13 +3263,13 @@
           "source": "JazzHR:hraadvisors",
           "origin": "seeded",
           "ok": true,
-          "count": 14
+          "count": 16
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "rejected": {
-        "not an internship or entry-level role": 7,
-        "non-economics function": 2
+        "non-economics function": 2,
+        "not an internship or entry-level role": 7
       },
       "matches": [
         {
@@ -3321,6 +3312,28 @@
           "Title": "Analyst, Real Estate",
           "Location": "Atlanta, GA",
           "URL": "https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate",
+          "Source": "Official ATS JazzHR:hraadvisors",
+          "PostedAt": "",
+          "Notes": "timing not stated in title"
+        },
+        {
+          "Company": "HR&A Advisors",
+          "Category": "Policy & Research Economics",
+          "Track": "Entry-level",
+          "Title": "Analyst, Real Estate",
+          "Location": "Washington, DC, DC",
+          "URL": "https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate",
+          "Source": "Official ATS JazzHR:hraadvisors",
+          "PostedAt": "",
+          "Notes": "timing not stated in title"
+        },
+        {
+          "Company": "HR&A Advisors",
+          "Category": "Policy & Research Economics",
+          "Track": "Entry-level",
+          "Title": "Analyst, Real Estate",
+          "Location": "New York, NY",
+          "URL": "https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate",
           "Source": "Official ATS JazzHR:hraadvisors",
           "PostedAt": "",
           "Notes": "timing not stated in title"
@@ -3408,12 +3421,12 @@
           "source": "Lever:economicmodeling",
           "origin": "seeded",
           "ok": true,
-          "count": 24
+          "count": 22
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 22,
       "rejected": {
-        "outside firm scope (econ)": 10,
+        "outside firm scope (econ)": 8,
         "not an internship or entry-level role": 7,
         "non-economics function": 4,
         "recruiting event / talent pool": 2
@@ -3643,12 +3656,12 @@
           "source": "Workday:woodmac/woodmaccareers",
           "origin": "seeded",
           "ok": true,
-          "count": 64
+          "count": 66
         }
       ],
-      "jobsSeen": 64,
+      "jobsSeen": 66,
       "rejected": {
-        "outside firm scope (econ)": 38,
+        "outside firm scope (econ)": 40,
         "not an internship or entry-level role": 10,
         "non-economics function": 16
       },
@@ -3710,21 +3723,21 @@
           "source": "Workday:pwc/US_Entry_Level_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 66
+          "count": 60
         },
         {
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1360
+          "count": 1359
         }
       ],
-      "jobsSeen": 1426,
+      "jobsSeen": 1419,
       "rejected": {
-        "non-economics practice": 210,
-        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1092,
+        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1088,
         "PhD/MBA/JD-only": 2,
-        "non-economics function": 75,
+        "non-economics practice": 208,
+        "non-economics function": 74,
         "not an internship or entry-level role": 11,
         "recruiting event / talent pool": 29,
         "dated for a past cycle": 1
@@ -3738,7 +3751,7 @@
           "Location": "Milan",
           "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD",
           "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-          "PostedAt": "Posted 10 Days Ago",
+          "PostedAt": "Posted 11 Days Ago",
           "Notes": "timing not stated in title"
         },
         {
@@ -3749,7 +3762,7 @@
           "Location": "Genève",
           "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD",
           "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-          "PostedAt": "Posted 25 Days Ago",
+          "PostedAt": "Posted 26 Days Ago",
           "Notes": "timing: 2027"
         },
         {
@@ -3829,20 +3842,20 @@
           "source": "Oracle:ehzq/CX_1",
           "origin": "seeded",
           "ok": true,
-          "count": 169
+          "count": 168
         },
         {
           "source": "Oracle:ehzq/CX_4",
           "origin": "seeded",
           "ok": true,
-          "count": 311
+          "count": 310
         }
       ],
-      "jobsSeen": 480,
+      "jobsSeen": 478,
       "rejected": {
-        "outside firm scope (econ)": 380,
+        "outside firm scope (econ)": 379,
         "non-economics practice": 61,
-        "non-economics function": 35,
+        "non-economics function": 34,
         "not an internship or entry-level role": 4
       },
       "matches": []
@@ -3855,21 +3868,21 @@
           "source": "Oracle:ebqb/CX_1001",
           "origin": "seeded",
           "ok": true,
-          "count": 89
+          "count": 84
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 686
+          "count": 673
         }
       ],
-      "jobsSeen": 775,
+      "jobsSeen": 757,
       "rejected": {
-        "outside firm scope (econ)": 699,
+        "outside firm scope (econ)": 682,
         "not an internship or entry-level role": 27,
-        "non-economics practice": 13,
-        "non-economics function": 30
+        "non-economics function": 30,
+        "non-economics practice": 12
       },
       "matches": [
         {
@@ -4036,13 +4049,13 @@
           "source": "Greenhouse:precisionaq",
           "origin": "seeded",
           "ok": true,
-          "count": 36
+          "count": 35
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "rejected": {
         "not an internship or entry-level role": 11,
-        "outside firm scope (econ)": 12,
+        "outside firm scope (econ)": 11,
         "non-economics function": 12
       },
       "matches": [
@@ -4067,15 +4080,15 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1860
+          "count": 1879
         }
       ],
-      "jobsSeen": 1860,
+      "jobsSeen": 1879,
       "rejected": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1650,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1664,
+        "non-economics function": 152,
+        "non-economics practice": 19,
         "not an internship or entry-level role": 42,
-        "non-economics function": 148,
-        "non-economics practice": 18,
         "recruiting event / talent pool": 1
       },
       "matches": [
@@ -4087,7 +4100,7 @@
           "Location": "2 Locations",
           "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838",
           "Source": "Official ATS Workday:iqvia/IQVIA",
-          "PostedAt": "Posted 10 Days Ago",
+          "PostedAt": "Posted 11 Days Ago",
           "Notes": "timing not stated in title"
         }
       ]
@@ -4108,13 +4121,13 @@
           "source": "Lever:avalerehealth",
           "origin": "seeded",
           "ok": true,
-          "count": 48
+          "count": 50
         }
       ],
-      "jobsSeen": 48,
+      "jobsSeen": 50,
       "rejected": {
         "non-economics function": 13,
-        "not an internship or entry-level role": 35
+        "not an internship or entry-level role": 37
       },
       "matches": []
     },
@@ -4174,14 +4187,14 @@
           "source": "Workday:trinitylifesciences/Trinity",
           "origin": "seeded",
           "ok": true,
-          "count": 92
+          "count": 94
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 94,
       "rejected": {
-        "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 55,
+        "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 56,
+        "not an internship or entry-level role": 16,
         "non-economics practice": 15,
-        "not an internship or entry-level role": 15,
         "non-economics function": 4
       },
       "matches": [
@@ -4381,14 +4394,14 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 275
+          "count": 286
         }
       ],
-      "jobsSeen": 275,
+      "jobsSeen": 286,
       "rejected": {
-        "outside firm scope (econom)": 219,
-        "non-economics function": 40,
-        "non-economics practice": 13,
+        "outside firm scope (econom)": 230,
+        "non-economics practice": 15,
+        "non-economics function": 38,
         "recruiting event / talent pool": 2,
         "not an internship or entry-level role": 1
       },

@@ -1,12 +1,12 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-11T21:59:13.572Z
+Current scan: 2026-10-12T21:42:51.465Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 113
+Current roles absent from tracker: 112
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
-### North America (54)
+### North America (53)
 
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - US-MA-Boston | US-CA-Los Angeles | US-CA-San Francisco | US-NY-New York - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -44,7 +44,6 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 - **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 - **PRECISIONheor (Precision AQ)** - [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) - New York, NY, USA - Confirmed official posting (Official ATS Greenhouse:precisionaq): timing: Summer 2027; graduation years mentioned: 2027, 2029
 - **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C. - Confirmed official posting (Official ATS Greenhouse:rclco): timing: 2027 Summer
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit - Confirmed official posting (Career page Workday:rsm/RSMCareers): career_page=https://jobs.rsmus.com/ | timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) - Los Angeles, California, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027

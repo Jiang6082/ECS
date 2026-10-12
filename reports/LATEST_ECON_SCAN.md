@@ -1,24 +1,24 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-11T21:59:13.572Z
+Last updated: 2026-10-12T21:42:51.465Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 201
-- Current internship roles: 113
-- Entry-level analyst roles: 50 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
-- Firms with matching roles: 29
-- Confirmed no open postings: 5
-- Openings but no matching role: 27
-- Could not fully verify: 171
+- Current internship roles: 112
+- Entry-level analyst roles: 51 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 0
+- Firms with matching roles: 28
+- Confirmed no open postings: 4
+- Openings but no matching role: 28
+- Could not fully verify: 172
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 82
-- Transfer Pricing & Valuation: 7
+- Transfer Pricing & Valuation: 6
 - Health Economics & HEOR: 6
 - Big 4 & Advisory Economics: 5
 - Energy & Environmental Economics: 4
@@ -32,9 +32,9 @@ Last updated: 2026-10-11T21:59:13.572Z
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Cornerstone Research** - [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) - UK-London
 
 ### Asia (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Ankura** - [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) - UAE Dubai DIFC
+_None._
 
 ## Full Reports
 

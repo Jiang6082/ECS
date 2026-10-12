@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-11 &nbsp;•&nbsp; **113 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **50 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **38 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-12 &nbsp;•&nbsp; **112 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **51 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **38 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,22 +12,26 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-10-11_
+_Scan date: 2026-10-12_
 
-_No new roles detected in the latest scan._
+**1** new stable job posting since the previous scan:
+
+**Europe**
+
+- **Cornerstone Research** — [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) — UK-London
 
 ---
 
 ## 📋 All Roles Available
 
-**113** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**112** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (54)](#north-america) · [Europe (39)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (13)](#remote--unspecified)
+**Regions:** [North America (53)](#north-america) · [Europe (39)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (13)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>54 roles</strong> — click to expand</summary>
+<summary><strong>53 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — US-MA-Boston \| US-CA-Los Angeles \| US-CA-San Francisco \| US-NY-New York
 - **Analysis Group** — [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) — US-MA-Boston \| US-IL-Chicago \| US-CO-Denver \| US-CA-Los Angeles
@@ -65,7 +69,6 @@ _No new roles detected in the latest scan._
 - **J.S. Held** — [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) — Chicago, IL, us
 - **PRECISIONheor (Precision AQ)** — [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA
 - **RCLCO** — [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) — Austin / Los Angeles / Washington, D.C.
-- **RSM (Transfer Pricing)** — [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) — Detroit
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) — Los Angeles, California, United States
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) — Washington, District of Columbia, United States
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) — Chicago, Illinois, United States

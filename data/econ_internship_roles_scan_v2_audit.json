@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-11T21:59:13.572Z",
+  "searchedAt": "2026-10-12T21:42:51.465Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1037,14 +1037,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 118
+          "jobsSeen": 120
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 118,
+      "jobsSeen": 120,
       "relevantRoles": 5
     },
     {
@@ -1609,10 +1609,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 94
+          "jobsSeen": 96
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 96,
       "relevantRoles": 1
     },
     {
@@ -2096,10 +2096,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 3
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2120,10 +2120,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 3
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2713,10 +2713,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 686
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 686,
+      "jobsSeen": 673,
       "relevantRoles": 3
     },
     {
@@ -2737,11 +2737,11 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 673
+          "jobsSeen": 666
         }
       ],
-      "jobsSeen": 673,
-      "relevantRoles": 1
+      "jobsSeen": 666,
+      "relevantRoles": 0
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -2822,9 +2822,9 @@
     {
       "company": "EY UK Economic Advisory",
       "pageUrl": "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship",
-      "resolvedUrl": "https://www.ey.com/en_uk/careers",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3068,10 +3068,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 994
+          "jobsSeen": 1010
         }
       ],
-      "jobsSeen": 994,
+      "jobsSeen": 1010,
       "relevantRoles": 1
     },
     {

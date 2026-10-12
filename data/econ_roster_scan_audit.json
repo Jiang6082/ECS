@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T22:00:56.217Z",
-  "scanStartedAt": "2026-10-11T21:59:13.572Z",
+  "generatedAt": "2026-10-12T21:44:43.283Z",
+  "scanStartedAt": "2026-10-12T21:42:51.465Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 29,
-    "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 27,
-    "could-not-fully-verify": 171
+    "matching-role-found": 28,
+    "confirmed-no-open-postings": 4,
+    "confirmed-openings-no-matching-role": 28,
+    "could-not-fully-verify": 172
   },
   "companies": [
     {
@@ -802,7 +802,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 118,
+      "jobsSeen": 120,
       "relevantRoles": 5
     },
     {
@@ -1146,7 +1146,7 @@
         "Cornwall Insight"
       ],
       "category": "Energy & Environmental Economics",
-      "status": "confirmed-no-open-postings",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://cornwallinsight.pinpointhq.com/"
       ],
@@ -1488,7 +1488,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 94,
+      "jobsSeen": 96,
       "relevantRoles": 1
     },
     {
@@ -2271,7 +2271,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2892,7 +2892,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 686,
+      "jobsSeen": 673,
       "relevantRoles": 3
     },
     {
@@ -2901,14 +2901,14 @@
         "RSM (Transfer Pricing)"
       ],
       "category": "Transfer Pricing & Valuation",
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.rsmus.com/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 673,
-      "relevantRoles": 1
+      "jobsSeen": 666,
+      "relevantRoles": 0
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3021,7 +3021,7 @@
       "careerPages": [
         "https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3206,7 +3206,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 994,
+      "jobsSeen": 1010,
       "relevantRoles": 1
     },
     {

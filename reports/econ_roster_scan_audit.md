@@ -1,10 +1,10 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-11T21:59:13.572Z
+Scan started: 2026-10-12T21:42:51.465Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (29)
+## Matching Roles Found (28)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -30,7 +30,6 @@ Canonical companies after aliases: 232
 | Energy + Environmental Economics (E3) | Energy & Environmental Economics | 1/1 pages live | [link](https://www.ethree.com/careers/) |
 | PwC (Economics / Transfer Pricing / Forensics) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://jobs.us.pwc.com/entry-level-transfer-pricing) |
 | BDO (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.bdo.com/careers) |
-| RSM (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://jobs.rsmus.com/) |
 | PRECISIONheor (Precision AQ) | Health Economics & HEOR | 1/1 pages live | [link](https://job-boards.greenhouse.io/precisionaq) |
 | IQVIA (HEOR) | Health Economics & HEOR | 1/2 pages live | [link](https://jobs.iqvia.com/en) [link](https://iqvia.wd1.myworkdayjobs.com/IQVIA/) |
 | Xcenda (Cencora) | Health Economics & HEOR | 1/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
@@ -38,17 +37,16 @@ Canonical companies after aliases: 232
 | Oxford Economics | Macro & Economic Research | 1/1 pages live | [link](https://careers.oxfordeconomics.com/) |
 | Capital Economics | Macro & Economic Research | 1/1 pages live | [link](https://apply.workable.com/capital-economics/) |
 
-## Confirmed No Open Postings (5)
+## Confirmed No Open Postings (4)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
 | Edgeworth Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.edgewortheconomics.com/careers-open-positions) |
-| Cornwall Insight | Energy & Environmental Economics | 1/1 pages live | [link](https://cornwallinsight.pinpointhq.com/) |
 | Economic & Planning Systems | Policy & Research Economics | 1/1 pages live | [link](https://www.epsys.com/careers) |
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | no saved page attempted | none |
 
-## Confirmed Openings, No Matching Role (27)
+## Confirmed Openings, No Matching Role (28)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -59,6 +57,7 @@ Canonical companies after aliases: 232
 | Fideres | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://job-boards.eu.greenhouse.io/fideres) |
 | HKA | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://careers.hka.com/) [link](https://careers.hka.com/jobs) |
 | Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
+| Cornwall Insight | Energy & Environmental Economics | 1/1 pages live | [link](https://cornwallinsight.pinpointhq.com/) |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
@@ -80,7 +79,7 @@ Canonical companies after aliases: 232
 | Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (171)
+## Could Not Fully Verify (172)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -234,6 +233,7 @@ Canonical companies after aliases: 232
 | Deloitte (Economics / Transfer Pricing) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://apply.deloitte.com/en_US/careers/SearchJobs/) |
 | EY (QUEST / Economic Advisory / Transfer Pricing) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://usearlycareers.ey.com/) |
 | KPMG (Economic & Valuation Services) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmguscareers.com/early-career/) |
+| RSM (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://jobs.rsmus.com/) |
 | Crowe (Transfer Pricing) | Transfer Pricing & Valuation | 2/3 pages live | [link](https://www.crowe.com/careers) [link](https://careers.crowe.com/) [link](https://careers.crowe.com/student-careers) |
 | Baker Tilly (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://bakerconstruction.com/) |
 | Ryan (Transfer Pricing) | Transfer Pricing & Valuation | no saved page attempted | none |
@@ -241,7 +241,7 @@ Canonical companies after aliases: 232
 | Economics Partners | Transfer Pricing & Valuation | no saved page attempted | none |
 | Deloitte UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) |
 | KPMG UK Economics | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
-| EY UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
+| EY UK Economic Advisory | Big 4 & Advisory Economics | 0/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
 | Grant Thornton UK Economic Consulting | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/) |
 | KPMG Singapore Economics & Regulation | Big 4 & Advisory Economics | 3/3 pages live | [link](https://kpmg.com/us/en.html) [link](https://www.kpmguscareers.com/early-career/) [link](https://www.kpmguscareers.com/job-search/) |
 | Evidera (Thermo Fisher) | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.thermofisher.com/global/en/) |
