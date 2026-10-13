@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-12T21:44:43.342Z",
-  "previousScanAt": "2026-10-11T21:59:13.572Z",
-  "currentScanAt": "2026-10-12T21:42:51.465Z",
-  "previousRows": 113,
-  "currentRows": 112,
-  "added": [
+  "generatedAt": "2026-10-13T19:52:48.244Z",
+  "previousScanAt": "2026-10-12T21:42:51.465Z",
+  "currentScanAt": "2026-10-13T19:51:22.522Z",
+  "previousRows": 112,
+  "currentRows": 110,
+  "added": [],
+  "removed": [
     {
-      "Company": "Cornerstone Research",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)",
-      "Location": "UK-London",
-      "Region": "Europe",
-      "URL": "https://uguk-chire.icims.com/jobs/4094/job",
-      "Source": "Career page iCIMS:uguk-chire",
+      "Company": "RSM (Transfer Pricing)",
+      "Category": "Transfer Pricing & Valuation",
+      "Title": "International Tax Transfer Pricing Intern - Summer 2027",
+      "Location": "Detroit",
+      "Region": "North America",
+      "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218",
+      "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting"
     }
-  ],
-  "removed": []
+  ]
 }

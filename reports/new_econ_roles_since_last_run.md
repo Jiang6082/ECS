@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-11T21:59:13.572Z
-Current scan: 2026-10-12T21:42:51.465Z
-Previous rows: 113
-Current rows: 112
-New stable job URLs: 1
-No longer present: 0
+Previous scan: 2026-10-12T21:42:51.465Z
+Current scan: 2026-10-13T19:51:22.522Z
+Previous rows: 112
+Current rows: 110
+New stable job URLs: 0
+No longer present: 1
 
 ## New Roles By Region
 
@@ -13,9 +13,9 @@ No longer present: 0
 
 _None._
 
-### Europe (1)
+### Europe (0)
 
-- **Cornerstone Research** - [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire)
+_None._
 
 ### Asia (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218)

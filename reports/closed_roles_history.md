@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 38
-Last updated: 2026-10-12T21:42:51.465Z
+Total closures recorded: 39
+Last updated: 2026-10-13T19:51:22.522Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-13 (1)
+
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit
 
 ### 2026-10-11 (1)
 

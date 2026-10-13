@@ -1,10 +1,10 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-12T21:42:51.465Z
+Scan started: 2026-10-13T19:51:22.522Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (28)
+## Matching Roles Found (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -32,7 +32,6 @@ Canonical companies after aliases: 232
 | BDO (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.bdo.com/careers) |
 | PRECISIONheor (Precision AQ) | Health Economics & HEOR | 1/1 pages live | [link](https://job-boards.greenhouse.io/precisionaq) |
 | IQVIA (HEOR) | Health Economics & HEOR | 1/2 pages live | [link](https://jobs.iqvia.com/en) [link](https://iqvia.wd1.myworkdayjobs.com/IQVIA/) |
-| Xcenda (Cencora) | Health Economics & HEOR | 1/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
 | Trinity Life Sciences | Health Economics & HEOR | 1/1 pages live | [link](https://www.trinitychurch.com/) |
 | Oxford Economics | Macro & Economic Research | 1/1 pages live | [link](https://careers.oxfordeconomics.com/) |
 | Capital Economics | Macro & Economic Research | 1/1 pages live | [link](https://apply.workable.com/capital-economics/) |
@@ -79,7 +78,7 @@ Canonical companies after aliases: 232
 | Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (172)
+## Could Not Fully Verify (173)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -239,15 +238,16 @@ Canonical companies after aliases: 232
 | Ryan (Transfer Pricing) | Transfer Pricing & Valuation | no saved page attempted | none |
 | Andersen (Transfer Pricing) | Transfer Pricing & Valuation | no saved page attempted | none |
 | Economics Partners | Transfer Pricing & Valuation | no saved page attempted | none |
-| Deloitte UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) |
+| Deloitte UK Economic Advisory | Big 4 & Advisory Economics | 0/1 pages live | [link](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) |
 | KPMG UK Economics | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
-| EY UK Economic Advisory | Big 4 & Advisory Economics | 0/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
+| EY UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
 | Grant Thornton UK Economic Consulting | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/) |
 | KPMG Singapore Economics & Regulation | Big 4 & Advisory Economics | 3/3 pages live | [link](https://kpmg.com/us/en.html) [link](https://www.kpmguscareers.com/early-career/) [link](https://www.kpmguscareers.com/job-search/) |
 | Evidera (Thermo Fisher) | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.thermofisher.com/global/en/) |
 | Dobson DaVanzo & Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.dobsondavanzo.com/careers/) |
 | Milliman | Health Economics & HEOR | 1/1 pages live | [link](https://careers.milliman.com/en/Search) |
 | Genesis Research Group | Health Economics & HEOR | 1/1 pages live | [link](https://genesisrg.com/careers/) |
+| Xcenda (Cencora) | Health Economics & HEOR | 0/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
 | OPEN Health | Health Economics & HEOR | 3/3 pages live | [link](https://www.openhealthgroup.com/careers/) [link](http://careers.openhealthgroup.com/) [link](https://www.openhealthgroup.com/open-roles/) |
 | Medicus Economics | Health Economics & HEOR | 1/1 pages live | [link](https://medicushcs.com/) |
 | KNG Health Consulting | Health Economics & HEOR | no saved page attempted | none |

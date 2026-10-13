@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-12T21:41:09.271Z",
+  "scannedAt": "2026-10-13T19:49:37.026Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -296,15 +296,15 @@
           "source": "Workday:fticonsulting/CompassLexeconCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 34
+          "count": 35
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 34,
+      "jobsSeen": 35,
       "relevantInternships": 13,
       "entryLevelRoles": 1,
       "rejectedByReason": {
-        "not an internship or entry-level role": 19,
+        "not an internship or entry-level role": 20,
         "non-economics function": 1
       }
     },
@@ -361,15 +361,15 @@
           "source": "Greenhouse:thebrattlegroup",
           "origin": "seeded",
           "ok": true,
-          "count": 53
+          "count": 41
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 53,
+      "jobsSeen": 41,
       "relevantInternships": 8,
-      "entryLevelRoles": 10,
+      "entryLevelRoles": 1,
       "rejectedByReason": {
-        "not an internship or entry-level role": 11,
+        "not an internship or entry-level role": 8,
         "non-economics practice": 1,
         "PhD/MBA/JD-only": 19,
         "non-economics function": 4
@@ -455,18 +455,18 @@
           "source": "Workday:fticonsulting/FTIConsultingCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 249
+          "count": 245
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 249,
+      "jobsSeen": 245,
       "relevantInternships": 4,
       "entryLevelRoles": 0,
       "rejectedByReason": {
+        "outside firm scope (econ)": 86,
+        "non-economics function": 47,
         "not an internship or entry-level role": 20,
-        "non-economics practice": 89,
-        "outside firm scope (econ)": 87,
-        "non-economics function": 49
+        "non-economics practice": 88
       }
     },
     {
@@ -496,7 +496,7 @@
           "source": "Greenhouse:secretariatadvisorsllc",
           "origin": "seeded",
           "ok": true,
-          "count": 78
+          "count": 75
         },
         {
           "source": "Workday:secretariat/Secretariat_careers",
@@ -506,11 +506,11 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 78,
-      "relevantInternships": 7,
+      "jobsSeen": 75,
+      "relevantInternships": 6,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "non-economics practice": 45,
+        "non-economics practice": 43,
         "not an internship or entry-level role": 23,
         "non-economics function": 3
       }
@@ -533,17 +533,17 @@
           "source": "Workday:ankura/Ankura",
           "origin": "seeded",
           "ok": true,
-          "count": 116
+          "count": 112
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 116,
+      "jobsSeen": 112,
       "relevantInternships": 12,
       "entryLevelRoles": 12,
       "rejectedByReason": {
-        "outside firm scope (econ)": 49,
+        "non-economics practice": 25,
+        "outside firm scope (econ)": 48,
         "non-economics function": 6,
-        "non-economics practice": 28,
         "not an internship or entry-level role": 9
       }
     },
@@ -564,8 +564,8 @@
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "non-economics function": 12,
-        "outside firm scope (econ)": 64,
-        "non-economics practice": 18,
+        "outside firm scope (econ)": 65,
+        "non-economics practice": 17,
         "not an internship or entry-level role": 18
       }
     },
@@ -577,17 +577,17 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 836
+          "count": 831
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 836,
+      "jobsSeen": 831,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econ)": 731,
-        "non-economics practice": 24,
+        "outside firm scope (econ)": 722,
         "not an internship or entry-level role": 30,
+        "non-economics practice": 28,
         "non-economics function": 51
       }
     },
@@ -1312,17 +1312,17 @@
           "source": "Pinpoint:careers.auroraer.com",
           "origin": "seeded",
           "ok": true,
-          "count": 92
+          "count": 99
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 92,
+      "jobsSeen": 99,
       "relevantInternships": 3,
-      "entryLevelRoles": 3,
+      "entryLevelRoles": 4,
       "rejectedByReason": {
-        "not an internship or entry-level role": 74,
-        "non-economics function": 8,
-        "non-economics practice": 4
+        "not an internship or entry-level role": 79,
+        "non-economics practice": 5,
+        "non-economics function": 8
       }
     },
     {
@@ -1608,8 +1608,8 @@
       "relevantInternships": 0,
       "entryLevelRoles": 1,
       "rejectedByReason": {
-        "non-economics function": 9,
-        "outside firm scope (econ)": 74,
+        "non-economics function": 8,
+        "outside firm scope (econ)": 75,
         "not an internship or entry-level role": 3,
         "non-economics practice": 6,
         "recruiting event / talent pool": 3
@@ -2003,7 +2003,7 @@
           "source": "Greenhouse:axiom",
           "origin": "guessed",
           "ok": true,
-          "count": 18
+          "count": 17
         },
         {
           "source": "Ashby:axiom",
@@ -2013,11 +2013,11 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 21,
+      "jobsSeen": 20,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "not an internship or entry-level role": 16,
+        "not an internship or entry-level role": 15,
         "non-economics function": 5
       }
     },
@@ -2129,18 +2129,19 @@
           "source": "Workday:icf/ICFExternal_Career_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 434
+          "count": 441
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 434,
+      "jobsSeen": 441,
       "relevantInternships": 1,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econ)": 370,
+        "outside firm scope (econ)": 376,
         "non-economics function": 32,
         "not an internship or entry-level role": 23,
-        "non-economics practice": 8
+        "non-economics practice": 8,
+        "empty title": 1
       }
     },
     {
@@ -2221,16 +2222,16 @@
           "source": "Greenhouse:americaninstitutesforresearch",
           "origin": "guessed",
           "ok": true,
-          "count": 11
+          "count": 12
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "non-economics function": 2,
-        "outside firm scope (econ)": 9
+        "outside firm scope (econ)": 11,
+        "non-economics function": 1
       }
     },
     {
@@ -2400,17 +2401,17 @@
           "source": "Lever:economicmodeling",
           "origin": "seeded",
           "ok": true,
-          "count": 22
+          "count": 24
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 22,
+      "jobsSeen": 24,
       "relevantInternships": 0,
       "entryLevelRoles": 1,
       "rejectedByReason": {
         "outside firm scope (econ)": 8,
         "not an internship or entry-level role": 7,
-        "non-economics function": 4,
+        "non-economics function": 6,
         "recruiting event / talent pool": 2
       }
     },
@@ -2449,15 +2450,15 @@
           "source": "Greenhouse:acumen",
           "origin": "guessed",
           "ok": true,
-          "count": 4
+          "count": 3
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "not an internship or entry-level role": 4
+        "not an internship or entry-level role": 3
       }
     },
     {
@@ -2649,16 +2650,16 @@
           "source": "Workday:woodmac/woodmaccareers",
           "origin": "seeded",
           "ok": true,
-          "count": 66
+          "count": 68
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 66,
+      "jobsSeen": 68,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econ)": 40,
-        "not an internship or entry-level role": 10,
+        "outside firm scope (econ)": 41,
+        "not an internship or entry-level role": 11,
         "non-economics function": 16
       }
     },
@@ -2730,26 +2731,26 @@
           "source": "Workday:pwc/US_Entry_Level_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 60
+          "count": 62
         },
         {
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1359
+          "count": 1364
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1419,
+      "jobsSeen": 1426,
       "relevantInternships": 5,
       "entryLevelRoles": 1,
       "rejectedByReason": {
-        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1088,
+        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1094,
         "PhD/MBA/JD-only": 2,
-        "non-economics practice": 208,
-        "non-economics function": 74,
+        "non-economics practice": 209,
+        "non-economics function": 73,
+        "recruiting event / talent pool": 30,
         "not an internship or entry-level role": 11,
-        "recruiting event / talent pool": 29,
         "dated for a past cycle": 1
       }
     },
@@ -2788,22 +2789,22 @@
           "source": "Oracle:ehzq/CX_1",
           "origin": "seeded",
           "ok": true,
-          "count": 168
+          "count": 164
         },
         {
           "source": "Oracle:ehzq/CX_4",
           "origin": "seeded",
           "ok": true,
-          "count": 310
+          "count": 309
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 478,
+      "jobsSeen": 473,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econ)": 379,
-        "non-economics practice": 61,
+        "outside firm scope (econ)": 375,
+        "non-economics practice": 60,
         "non-economics function": 34,
         "not an internship or entry-level role": 4
       }
@@ -2822,17 +2823,17 @@
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 673
+          "count": 676
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 757,
+      "jobsSeen": 760,
       "relevantInternships": 4,
       "entryLevelRoles": 2,
       "rejectedByReason": {
-        "outside firm scope (econ)": 682,
+        "outside firm scope (econ)": 683,
         "not an internship or entry-level role": 27,
-        "non-economics function": 30,
+        "non-economics function": 32,
         "non-economics practice": 12
       }
     },
@@ -2963,8 +2964,8 @@
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "not an internship or entry-level role": 11,
-        "outside firm scope (econ)": 11,
-        "non-economics function": 12
+        "outside firm scope (econ)": 10,
+        "non-economics function": 13
       }
     },
     {
@@ -2975,18 +2976,18 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1879
+          "count": 1894
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1879,
+      "jobsSeen": 1894,
       "relevantInternships": 1,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1664,
-        "non-economics function": 152,
-        "non-economics practice": 19,
-        "not an internship or entry-level role": 42,
+        "non-economics function": 146,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1682,
+        "not an internship or entry-level role": 44,
+        "non-economics practice": 20,
         "recruiting event / talent pool": 1
       }
     },
@@ -3008,16 +3009,16 @@
           "source": "Lever:avalerehealth",
           "origin": "seeded",
           "ok": true,
-          "count": 50
+          "count": 49
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 50,
+      "jobsSeen": 49,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "non-economics function": 13,
-        "not an internship or entry-level role": 37
+        "not an internship or entry-level role": 36
       }
     },
     {
@@ -3088,17 +3089,17 @@
           "source": "Workday:trinitylifesciences/Trinity",
           "origin": "seeded",
           "ok": true,
-          "count": 94
+          "count": 101
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 94,
+      "jobsSeen": 101,
       "relevantInternships": 3,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 56,
+        "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 62,
+        "non-economics practice": 16,
         "not an internship or entry-level role": 16,
-        "non-economics practice": 15,
         "non-economics function": 4
       }
     },
@@ -3233,18 +3234,19 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 286
+          "count": 291
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 286,
+      "jobsSeen": 291,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econom)": 230,
+        "outside firm scope (econom)": 232,
+        "recruiting event / talent pool": 3,
         "non-economics practice": 15,
-        "non-economics function": 38,
-        "recruiting event / talent pool": 2,
+        "non-economics function": 39,
+        "empty title": 1,
         "not an internship or entry-level role": 1
       }
     }

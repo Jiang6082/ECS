@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-12T21:42:51.465Z
+Last updated: 2026-10-13T19:51:22.522Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 201
-- Current internship roles: 112
-- Entry-level analyst roles: 51 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 0
-- Firms with matching roles: 28
+- Current internship roles: 110
+- Entry-level analyst roles: 43 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 1
+- Firms with matching roles: 27
 - Confirmed no open postings: 4
 - Openings but no matching role: 28
-- Could not fully verify: 172
+- Could not fully verify: 173
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 82
+- Litigation, Antitrust & Damages: 81
 - Transfer Pricing & Valuation: 6
-- Health Economics & HEOR: 6
+- Health Economics & HEOR: 5
 - Big 4 & Advisory Economics: 5
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
@@ -32,9 +32,9 @@ Last updated: 2026-10-12T21:42:51.465Z
 
 _None._
 
-### Europe (1)
+### Europe (0)
 
-- **Cornerstone Research** - [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) - UK-London
+_None._
 
 ### Asia (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit
 
 ## Full Reports
 
