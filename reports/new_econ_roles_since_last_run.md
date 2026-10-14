@@ -1,9 +1,9 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-12T21:42:51.465Z
-Current scan: 2026-10-13T19:51:22.522Z
-Previous rows: 112
-Current rows: 110
+Previous scan: 2026-10-13T19:51:22.522Z
+Current scan: 2026-10-14T17:56:55.285Z
+Previous rows: 110
+Current rows: 111
 New stable job URLs: 0
 No longer present: 1
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218)
+- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009)

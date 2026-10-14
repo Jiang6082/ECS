@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T19:52:48.188Z",
-  "scanStartedAt": "2026-10-13T19:51:22.522Z",
+  "generatedAt": "2026-10-14T17:59:00.694Z",
+  "scanStartedAt": "2026-10-14T17:56:55.285Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 27,
+    "matching-role-found": 28,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 28,
+    "confirmed-openings-no-matching-role": 27,
     "could-not-fully-verify": 173
   },
   "companies": [
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantRoles": 0
     },
     {
@@ -802,7 +802,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 119,
+      "jobsSeen": 117,
       "relevantRoles": 5
     },
     {
@@ -967,14 +967,14 @@
         "HKA"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.hka.com/",
         "https://careers.hka.com/jobs"
       ],
-      "livePages": 2,
+      "livePages": 0,
       "attemptedPages": 2,
-      "jobsSeen": 20,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -1137,7 +1137,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 99,
+      "jobsSeen": 95,
       "relevantRoles": 7
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 96,
+      "jobsSeen": 99,
       "relevantRoles": 1
     },
     {
@@ -2892,7 +2892,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 676,
+      "jobsSeen": 675,
       "relevantRoles": 3
     },
     {
@@ -2907,7 +2907,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 657,
+      "jobsSeen": 665,
       "relevantRoles": 0
     },
     {
@@ -2991,7 +2991,7 @@
       "careerPages": [
         "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3191,7 +3191,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantRoles": 0
     },
     {
@@ -3200,14 +3200,14 @@
         "Xcenda (Cencora)"
       ],
       "category": "Health Economics & HEOR",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.xcenda.com/careers-student-programs"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
-      "relevantRoles": 0
+      "jobsSeen": 1019,
+      "relevantRoles": 1
     },
     {
       "company": "Trinity Life Sciences",
@@ -3329,7 +3329,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {

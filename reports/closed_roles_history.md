@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 39
-Last updated: 2026-10-13T19:51:22.522Z
+Total closures recorded: 40
+Last updated: 2026-10-14T17:56:55.285Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-14 (1)
+
+- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany
 
 ### 2026-10-13 (1)
 

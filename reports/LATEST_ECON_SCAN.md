@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-13T19:51:22.522Z
+Last updated: 2026-10-14T17:56:55.285Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 201
-- Current internship roles: 110
-- Entry-level analyst roles: 43 ([list](econ_entry_level_roles.md))
+- Current internship roles: 111
+- Entry-level analyst roles: 41 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 1
-- Firms with matching roles: 27
+- Firms with matching roles: 28
 - Confirmed no open postings: 4
-- Openings but no matching role: 28
+- Openings but no matching role: 27
 - Could not fully verify: 173
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 81
 - Transfer Pricing & Valuation: 6
-- Health Economics & HEOR: 5
+- Health Economics & HEOR: 6
 - Big 4 & Advisory Economics: 5
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) - Detroit
+- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany
 
 ## Full Reports
 

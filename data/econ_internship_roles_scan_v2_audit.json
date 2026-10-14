@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-13T19:51:22.522Z",
+  "searchedAt": "2026-10-14T17:56:55.285Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -689,10 +689,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 36
+          "jobsSeen": 35
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantRoles": 0
     },
     {
@@ -721,10 +721,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 36
+          "jobsSeen": 35
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 35,
       "relevantRoles": 0
     },
     {
@@ -1037,14 +1037,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 119
+          "jobsSeen": 117
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 119,
+      "jobsSeen": 117,
       "relevantRoles": 5
     },
     {
@@ -1147,44 +1147,24 @@
       "company": "HKA",
       "pageUrl": "https://careers.hka.com/",
       "resolvedUrl": "https://careers.hka.com/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "teamtailor": [
-          "hka",
-          "www"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Teamtailor:hka",
-          "jobsSeen": 20
-        }
-      ],
-      "jobsSeen": 20,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
       "company": "HKA",
       "pageUrl": "https://careers.hka.com/jobs",
       "resolvedUrl": "https://careers.hka.com/jobs",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "teamtailor": [
-          "hka",
-          "www"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Teamtailor:hka",
-          "jobsSeen": 20
-        }
-      ],
-      "jobsSeen": 20,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -1327,10 +1307,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 99
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 95,
       "relevantRoles": 7
     },
     {
@@ -1609,10 +1589,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 96
+          "jobsSeen": 99
         }
       ],
-      "jobsSeen": 96,
+      "jobsSeen": 99,
       "relevantRoles": 1
     },
     {
@@ -2713,10 +2693,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 676
+          "jobsSeen": 675
         }
       ],
-      "jobsSeen": 676,
+      "jobsSeen": 675,
       "relevantRoles": 3
     },
     {
@@ -2737,10 +2717,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 657
+          "jobsSeen": 665
         }
       ],
-      "jobsSeen": 657,
+      "jobsSeen": 665,
       "relevantRoles": 0
     },
     {
@@ -2799,8 +2779,8 @@
       "company": "Deloitte UK Economic Advisory",
       "pageUrl": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
       "resolvedUrl": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3036,7 +3016,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 16
+          "jobsSeen": 15
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -3047,20 +3027,32 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 32,
+      "jobsSeen": 31,
       "relevantRoles": 0
     },
     {
       "company": "Xcenda (Cencora)",
       "pageUrl": "https://www.xcenda.com/careers-student-programs",
-      "resolvedUrl": "https://www.xcenda.com/careers-student-programs",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "resolvedUrl": "https://www.cencora.com/initiatives/pharma/mahc-student-programs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "myhrabc.wd5.myworkdayjobs.com",
+            "site": "Global"
+          }
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
-      "relevantRoles": 0
+      "boards": [
+        {
+          "source": "Workday:myhrabc/Global",
+          "jobsSeen": 1019
+        }
+      ],
+      "jobsSeen": 1019,
+      "relevantRoles": 1
     },
     {
       "company": "Trinity Life Sciences",
@@ -3232,10 +3224,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 3
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
