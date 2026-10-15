@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T17:59:00.694Z",
-  "scanStartedAt": "2026-10-14T17:56:55.285Z",
+  "generatedAt": "2026-10-15T17:46:55.818Z",
+  "scanStartedAt": "2026-10-15T17:45:03.671Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 28,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 27,
-    "could-not-fully-verify": 173
+    "confirmed-openings-no-matching-role": 28,
+    "could-not-fully-verify": 172
   },
   "companies": [
     {
@@ -967,14 +967,14 @@
         "HKA"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://careers.hka.com/",
         "https://careers.hka.com/jobs"
       ],
-      "livePages": 0,
+      "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 0,
+      "jobsSeen": 20,
       "relevantRoles": 0
     },
     {
@@ -1137,7 +1137,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 95,
+      "jobsSeen": 96,
       "relevantRoles": 7
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantRoles": 1
     },
     {
@@ -2271,7 +2271,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -2562,9 +2562,11 @@
       ],
       "category": "Policy & Research Economics",
       "status": "confirmed-no-open-postings",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.chmura.com/events"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2892,7 +2894,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 675,
+      "jobsSeen": 676,
       "relevantRoles": 3
     },
     {
@@ -2907,7 +2909,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 665,
+      "jobsSeen": 676,
       "relevantRoles": 0
     },
     {
@@ -3206,7 +3208,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1019,
+      "jobsSeen": 1020,
       "relevantRoles": 1
     },
     {

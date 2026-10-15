@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-14T17:56:55.285Z",
+  "searchedAt": "2026-10-15T17:45:03.671Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -294,7 +294,6 @@
     "TischlerBise",
     "Econometrica",
     "L&M Policy Research",
-    "Chmura Economics & Analytics",
     "Camoin Associates",
     "Rhodium Group",
     "Potomac Economics",
@@ -1147,24 +1146,44 @@
       "company": "HKA",
       "pageUrl": "https://careers.hka.com/",
       "resolvedUrl": "https://careers.hka.com/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "teamtailor": [
+          "hka",
+          "www"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Teamtailor:hka",
+          "jobsSeen": 20
+        }
+      ],
+      "jobsSeen": 20,
       "relevantRoles": 0
     },
     {
       "company": "HKA",
       "pageUrl": "https://careers.hka.com/jobs",
       "resolvedUrl": "https://careers.hka.com/jobs",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "teamtailor": [
+          "hka",
+          "www"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Teamtailor:hka",
+          "jobsSeen": 20
+        }
+      ],
+      "jobsSeen": 20,
       "relevantRoles": 0
     },
     {
@@ -1307,10 +1326,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 95
+          "jobsSeen": 96
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 96,
       "relevantRoles": 7
     },
     {
@@ -1589,10 +1608,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 99
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantRoles": 1
     },
     {
@@ -2076,10 +2095,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 4
+          "jobsSeen": 5
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -2100,10 +2119,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 4
+          "jobsSeen": 5
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -2358,6 +2377,18 @@
       "resolvedUrl": "https://beacons.ai/",
       "pageOk": false,
       "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Chmura Economics & Analytics",
+      "pageUrl": "https://www.chmura.com/events",
+      "resolvedUrl": "https://www.chmura.com/events",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2682,10 +2713,6 @@
           {
             "host": "ebqb.fa.us2.oraclecloud.com",
             "site": "BDOEntryLevelCareers"
-          },
-          {
-            "host": "ebqb.fa.us2.oraclecloud.com",
-            "site": "CX_1001"
           }
         ]
       },
@@ -2693,10 +2720,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 675
+          "jobsSeen": 676
         }
       ],
-      "jobsSeen": 675,
+      "jobsSeen": 676,
       "relevantRoles": 3
     },
     {
@@ -2717,10 +2744,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 665
+          "jobsSeen": 676
         }
       ],
-      "jobsSeen": 665,
+      "jobsSeen": 676,
       "relevantRoles": 0
     },
     {
@@ -3048,10 +3075,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1019
+          "jobsSeen": 1020
         }
       ],
-      "jobsSeen": 1019,
+      "jobsSeen": 1020,
       "relevantRoles": 1
     },
     {

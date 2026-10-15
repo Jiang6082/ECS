@@ -1,17 +1,17 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-13T19:51:22.522Z
-Current scan: 2026-10-14T17:56:55.285Z
-Previous rows: 110
-Current rows: 111
-New stable job URLs: 0
+Previous scan: 2026-10-14T17:56:55.285Z
+Current scan: 2026-10-15T17:45:03.671Z
+Previous rows: 111
+Current rows: 113
+New stable job URLs: 1
 No longer present: 1
 
 ## New Roles By Region
 
-### North America (0)
+### North America (1)
 
-_None._
+- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) - San Francisco, California, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup)
 
 ### Europe (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009)
+- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945)

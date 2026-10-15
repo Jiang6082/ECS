@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-14T17:56:55.285Z
+Last updated: 2026-10-15T17:45:03.671Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 201
-- Current internship roles: 111
-- Entry-level analyst roles: 41 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
+- Career pages checked: 202
+- Current internship roles: 113
+- Entry-level analyst roles: 48 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 1
 - Firms with matching roles: 28
 - Confirmed no open postings: 4
-- Openings but no matching role: 27
-- Could not fully verify: 173
+- Openings but no matching role: 28
+- Could not fully verify: 172
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 81
+- Health Economics & HEOR: 8
 - Transfer Pricing & Valuation: 6
-- Health Economics & HEOR: 6
 - Big 4 & Advisory Economics: 5
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
@@ -28,9 +28,9 @@ Last updated: 2026-10-14T17:56:55.285Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) - San Francisco, California, United States
 
 ### Europe (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany
+- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) - Washington D.C.
 
 ## Full Reports
 
