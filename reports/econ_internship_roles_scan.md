@@ -1,23 +1,25 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-15T17:42:58.305Z
+Scanned: 2026-10-16T17:18:18.489Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 106
+Internship roles: 108
 Entry-level analyst roles: 45
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
 ## Internships
 
+- **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — CA-QC-Montreal | CA-ON-Toronto (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — FR-Paris (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — FR-Paris (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
+- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) — UK-London (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — UK-London (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — UK-London (Official ATS iCIMS:associatecareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) — UK-London (Official ATS iCIMS:associatecareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — US-MA-Boston | US-CA-Los Angeles | US-NY-New York (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) — US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
-- **Analysis Group** — [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) — CA-QC-Montreal | CA-ON-Toronto (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
+- **Analysis Group** — [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) — BE-Brussels (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3071/job) — US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC (Official ATS iCIMS:associatecareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) — CA-QC-Montreal | CA-ON-Toronto (Official ATS iCIMS:associatecareers-analysisgroup; timing: 2027)
 - **Analysis Group** — [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) | Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) — CA-QC-Montreal | CA-ON-Toronto (Official ATS iCIMS:analystcareers-analysisgroup; timing: 2027)
@@ -52,7 +54,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
 - **Charles River Associates** — [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) — Munich, Germany (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
 - **Charles River Associates** — [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) — Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027)
-- **Compass Lexecon** — [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) — 5 Locations (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing: 2027)
 - **Compass Lexecon** — [Intern | Competition Practice | Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Brussels](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310) — Brussels, Belgium (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Düsseldorf](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312) — Dusseldorf, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
@@ -113,6 +114,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **The Brattle Group** — [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) — New York, New York, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) — San Francisco, California, United States (Official ATS Greenhouse:thebrattlegroup; timing not stated in title)
+- **Trinity Life Sciences** — [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) — 2 Locations (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
 - **Trinity Life Sciences** — [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) — New York, NY (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
 - **Trinity Life Sciences** — [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) — San Francisco, CA (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
 - **Trinity Life Sciences** — [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) — Waltham, MA - Headquarters (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)

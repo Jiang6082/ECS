@@ -1,24 +1,24 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-15T17:45:03.671Z
+Last updated: 2026-10-16T17:20:32.316Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 202
-- Current internship roles: 113
+- Career pages checked: 205
+- Current internship roles: 115
 - Entry-level analyst roles: 48 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 1
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 0
 - Firms with matching roles: 28
 - Confirmed no open postings: 4
-- Openings but no matching role: 28
-- Could not fully verify: 172
+- Openings but no matching role: 29
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 81
-- Health Economics & HEOR: 8
+- Litigation, Antitrust & Damages: 82
+- Health Economics & HEOR: 9
 - Transfer Pricing & Valuation: 6
 - Big 4 & Advisory Economics: 5
 - Energy & Environmental Economics: 4
@@ -28,9 +28,9 @@ Last updated: 2026-10-15T17:45:03.671Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) - San Francisco, California, United States
+_None._
 
 ### Europe (0)
 
@@ -60,13 +60,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (2)
 
-_None._
+- **IQVIA (HEOR)** - [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) - 2 Locations
+- **IQVIA (HEOR)** - [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) - 3 Locations
 
 ## No Longer Present
 
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) - Washington D.C.
+_None._
 
 ## Full Reports
 

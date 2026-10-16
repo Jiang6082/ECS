@@ -1,28 +1,30 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-15 17:45 UTC · **113 roles confirmed live on official job boards** across 28 firms · **13 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-16 17:20 UTC · **115 roles confirmed live on official job boards** across 28 firms · **13 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (113)
+## ✅ Confirmed Live On Official Job Boards (115)
 
-### Analysis Group (12)
+### Analysis Group (14)
 
 _Primary deadline (Sep 30) has passed; later applications are reviewed on a rolling basis._
 
 | Role | Location | Region |
 |---|---|---|
+| [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) | CA-QC-Montreal \| CA-ON-Toronto | North America |
 | [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) | FR-Paris | Europe |
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) | FR-Paris | Europe |
+| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) | UK-London | Europe |
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) | UK-London | Europe |
 | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) | UK-London | Europe |
 | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) | UK-London | Europe |
 | [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) | US-MA-Boston \| US-CA-Los Angeles \| US-NY-New York | North America |
 | [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) | US-MA-Boston \| US-IL-Chicago \| US-CO-Denver \| US-CA-Los Angeles | North America |
-| [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) | CA-QC-Montreal \| CA-ON-Toronto | North America |
+| [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) | BE-Brussels | Europe |
 | [Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3071/job) | US-MA-Boston \| US-IL-Chicago \| US-TX-Dallas \| US-CO-Denver \| US-CA-Los Angeles \| US-NY-New York \| US-CA-San Francisco \| US-DC-Washington, DC | North America |
 | [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) | CA-QC-Montreal \| CA-ON-Toronto | North America |
 | [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) \| Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) | CA-QC-Montreal \| CA-ON-Toronto | North America |
@@ -94,13 +96,12 @@ _Resume review begins around Oct 15._
 | [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) | Munich, Germany | Europe |
 | [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) | Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom | Europe |
 
-### Compass Lexecon (13)
+### Compass Lexecon (12)
 
 _US applications opened Sep 14; virtual info session Oct 7._
 
 | Role | Location | Region |
 |---|---|---|
-| [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) | Multiple locations | Remote / Unspecified |
 | [Intern \| Competition Practice \| Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) | Berlin, Germany | Europe |
 | [Intern \| Competition Practice \| Brussels](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310) | Brussels, Belgium | Europe |
 | [Intern \| Competition Practice \| Düsseldorf](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312) | Dusseldorf, Germany | Europe |
@@ -260,10 +261,11 @@ _Secondary deadline Oct 12._
 | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) | Washington, District of Columbia, United States | North America |
 | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | San Francisco, California, United States | North America |
 
-### Trinity Life Sciences (3)
+### Trinity Life Sciences (4)
 
 | Role | Location | Region |
 |---|---|---|
+| [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) | Multiple locations | Remote / Unspecified |
 | [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) | New York, NY | North America |
 | [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) | San Francisco, CA | North America |
 | [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) | Waltham, MA - Headquarters | North America |
@@ -296,7 +298,7 @@ _Secondary deadline Oct 12._
 
 48 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (25)
+## ⛔ Closed In The Last 14 Days (24)
 
 | Firm | Role | Detected closed |
 |---|---|---|
@@ -324,6 +326,5 @@ _Secondary deadline Oct 12._
 | Aurora Energy Research | [Energy Advisory Intern (with preference for women)](https://careers.auroraer.com/en/postings/1fd2b096-c88f-4277-b708-7cad3a2a34f9) | 2026-10-03 |
 | BDO (Transfer Pricing) | [Tax Intern, Transfer Pricing - Summer 2027 (Miami)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11763) | 2026-10-03 |
 | Coherent Economics | [Research Analyst Intern Summer 2027](https://job-boards.greenhouse.io/coherenteconomicsllc/jobs/4382013009) | 2026-10-02 |
-| PwC (Economics / Transfer Pricing / Forensics) | [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica - Roma](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) | 2026-10-01 |
 
-_Generated by ECS on 2026-10-15. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-10-16. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

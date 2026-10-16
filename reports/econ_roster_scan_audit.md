@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-15T17:45:03.671Z
+Scan started: 2026-10-16T17:20:32.316Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -46,7 +46,7 @@ Canonical companies after aliases: 232
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
 
-## Confirmed Openings, No Matching Role (28)
+## Confirmed Openings, No Matching Role (29)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -60,6 +60,7 @@ Canonical companies after aliases: 232
 | Cornwall Insight | Energy & Environmental Economics | 1/1 pages live | [link](https://cornwallinsight.pinpointhq.com/) |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
+| Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
 | Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
@@ -79,7 +80,7 @@ Canonical companies after aliases: 232
 | Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (172)
+## Could Not Fully Verify (171)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -155,7 +156,6 @@ Canonical companies after aliases: 232
 | Aldwych Partners | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indepen | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://indepenn.com/) |
 | First Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.firstphx.org/) |
-| Analysys Mason | Competition & Regulatory (Europe) | no saved page attempted | none |
 | LCP Delta | Energy & Environmental Economics | 3/3 pages live | [link](https://delta.lcp.com/careers) [link](https://www.delta.com/us/en/careers/students-and-early-careers) [link](https://www.delta.com/us/en/careers/overview) |
 | AFRY Management Consulting | Energy & Environmental Economics | no saved page attempted | none |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | no saved page attempted | none |

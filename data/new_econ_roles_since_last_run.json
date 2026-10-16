@@ -1,31 +1,30 @@
 {
-  "generatedAt": "2026-10-15T17:46:55.879Z",
-  "previousScanAt": "2026-10-14T17:56:55.285Z",
-  "currentScanAt": "2026-10-15T17:45:03.671Z",
-  "previousRows": 111,
-  "currentRows": 113,
+  "generatedAt": "2026-10-16T17:22:33.672Z",
+  "previousScanAt": "2026-10-15T17:45:03.671Z",
+  "currentScanAt": "2026-10-16T17:20:32.316Z",
+  "previousRows": 113,
+  "currentRows": 115,
   "added": [
     {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Associate Intern",
-      "Location": "San Francisco, California, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
+      "Company": "IQVIA (HEOR)",
+      "Category": "Health Economics & HEOR",
+      "Title": "卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897",
+      "Source": "Official ATS Workday:iqvia/IQVIA",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "IQVIA (HEOR)",
+      "Category": "Health Economics & HEOR",
+      "Title": "真实世界证据实习生 Real World Evidence Intern",
+      "Location": "3 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888",
+      "Source": "Official ATS Workday:iqvia/IQVIA",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "University Intern, Forensic Data & Analytics",
-      "Location": "Washington D.C.",
-      "Region": "North America",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

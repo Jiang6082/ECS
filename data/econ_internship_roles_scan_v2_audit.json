@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-15T17:45:03.671Z",
+  "searchedAt": "2026-10-16T17:20:32.316Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -266,7 +266,6 @@
     "Pantheon Macroeconomics",
     "Plum Consulting",
     "Aldwych Partners",
-    "Analysys Mason",
     "AFRY Management Consulting",
     "SEO Amsterdam Economics",
     "Lexonomics",
@@ -1559,6 +1558,61 @@
       "relevantRoles": 0
     },
     {
+      "company": "Analysys Mason",
+      "pageUrl": "https://www.analysysmason.com/careers/",
+      "resolvedUrl": "https://www.analysysmason.com/careers/",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Analysys Mason",
+      "pageUrl": "https://www.analysysmason.com/careers/your-career-journey/",
+      "resolvedUrl": "https://www.analysysmason.com/careers/your-career-journey/",
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Analysys Mason",
+      "pageUrl": "https://careers.smartrecruiters.com/AnalysysMason1",
+      "resolvedUrl": "https://careers.smartrecruiters.com/AnalysysMason1",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "smartrecruiters": [
+          "AnalysysMason1",
+          "cdn-cgi",
+          "external-referrals"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "SmartRecruiters:AnalysysMason1",
+          "jobsSeen": 39
+        },
+        {
+          "source": "SmartRecruiters:cdn-cgi",
+          "jobsSeen": 0
+        },
+        {
+          "source": "SmartRecruiters:external-referrals",
+          "jobsSeen": 0
+        }
+      ],
+      "jobsSeen": 39,
+      "relevantRoles": 0
+    },
+    {
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/",
       "resolvedUrl": "https://www.baringa.com/en/careers/",
@@ -1608,10 +1662,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 100
+          "jobsSeen": 102
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 102,
       "relevantRoles": 1
     },
     {
@@ -2071,10 +2125,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 12
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -2744,10 +2798,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 676
+          "jobsSeen": 659
         }
       ],
-      "jobsSeen": 676,
+      "jobsSeen": 659,
       "relevantRoles": 0
     },
     {
@@ -3008,10 +3062,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 11
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -3075,10 +3129,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1020
+          "jobsSeen": 1014
         }
       ],
-      "jobsSeen": 1020,
+      "jobsSeen": 1014,
       "relevantRoles": 1
     },
     {
@@ -3182,10 +3236,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 11
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {

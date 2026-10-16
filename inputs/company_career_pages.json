@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:45:03.673Z",
+  "generatedAt": "2026-10-16T17:20:32.317Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -553,8 +553,12 @@
       "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Analysys Mason": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.analysysmason.com/careers/",
+        "https://www.analysysmason.com/careers/your-career-journey/",
+        "https://careers.smartrecruiters.com/AnalysysMason1"
+      ],
+      "updatedAt": "2026-10-16T17:20:32.317Z"
     },
     "Baringa": {
       "careerPages": [
