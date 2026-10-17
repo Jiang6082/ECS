@@ -1,13 +1,13 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-10-16T17:20:32.316Z
+Scanned: 2026-10-17T16:19:06.929Z
 Roles: 48
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
 ### North America (33)
 
-- **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Generalist - Montreal / Toronto (2027 Start Date) | Responsable de projets - Généraliste - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3050/job) - CA-QC-Montreal | CA-ON-Toronto - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3047/job) - US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027

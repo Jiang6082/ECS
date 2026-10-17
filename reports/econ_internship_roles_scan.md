@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-16T17:18:18.489Z
+Scanned: 2026-10-17T16:17:37.453Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 108
+Internship roles: 109
 Entry-level analyst roles: 45
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
@@ -54,6 +54,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
 - **Charles River Associates** — [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) — Munich, Germany (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
 - **Charles River Associates** — [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) — Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027)
+- **Compass Lexecon** — [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) — 5 Locations (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing: 2027)
 - **Compass Lexecon** — [Intern | Competition Practice | Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Brussels](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310) — Brussels, Belgium (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Düsseldorf](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312) — Dusseldorf, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
@@ -121,7 +122,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 
 ## Entry-Level Analyst Roles
 
-- **Analysis Group** — [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) — US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles (Official ATS iCIMS:analystcareers-analysisgroup)
+- **Analysis Group** — [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) — US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC (Official ATS iCIMS:analystcareers-analysisgroup)
 - **Analysis Group** — [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) — UK-London (Official ATS iCIMS:analystcareers-analysisgroup)
 - **Analysis Group** — [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) — US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles (Official ATS iCIMS:analystcareers-analysisgroup)
 - **Analysis Group** — [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) — CN-Beijing (Official ATS iCIMS:analystcareers-analysisgroup)

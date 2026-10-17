@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T17:20:32.317Z",
+  "generatedAt": "2026-10-17T16:19:06.930Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -704,8 +704,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Sapere Research Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://sapere.ai/en"
+      ],
+      "updatedAt": "2026-10-17T16:19:06.930Z"
     },
     "Frontier Economics Australia": {
       "careerPages": [

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-16T17:20:32.316Z",
+  "searchedAt": "2026-10-17T16:19:06.929Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -281,7 +281,6 @@
     "Indecon",
     "SQW",
     "BiGGAR Economics",
-    "Sapere Research Group",
     "The Centre for International Economics",
     "Oakley Greenwood",
     "Incenta Economic Consulting",
@@ -326,10 +325,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
@@ -1035,15 +1034,15 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 117
+          "jobsSeen": 118
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 117,
-      "relevantRoles": 5
+      "jobsSeen": 118,
+      "relevantRoles": 6
     },
     {
       "company": "J.S. Held",
@@ -1121,8 +1120,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1133,8 +1132,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1325,10 +1324,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 96
+          "jobsSeen": 98
         }
       ],
-      "jobsSeen": 96,
+      "jobsSeen": 98,
       "relevantRoles": 7
     },
     {
@@ -1350,7 +1349,7 @@
     {
       "company": "Swiss Economics",
       "pageUrl": "https://www.swiss-economics.ch/career.html",
-      "resolvedUrl": "https://www.swiss-economics.ch/career.html",
+      "resolvedUrl": "https://www.swiss-economics.ch/career",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -1784,8 +1783,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1844,6 +1843,18 @@
       "company": "CEG (Competition Economists Group)",
       "pageUrl": "https://www.ceg-global.com/careers",
       "resolvedUrl": "https://www.ceg-global.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Sapere Research Group",
+      "pageUrl": "https://sapere.ai/en",
+      "resolvedUrl": "https://sapere.ai/en",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -2125,10 +2136,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 11
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
@@ -2405,10 +2416,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 3
+          "jobsSeen": 2
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantRoles": 0
     },
     {
@@ -2774,10 +2785,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 676
+          "jobsSeen": 683
         }
       ],
-      "jobsSeen": 676,
+      "jobsSeen": 683,
       "relevantRoles": 3
     },
     {
@@ -2798,10 +2809,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 659
+          "jobsSeen": 656
         }
       ],
-      "jobsSeen": 659,
+      "jobsSeen": 656,
       "relevantRoles": 0
     },
     {
@@ -3097,18 +3108,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 15
+          "jobsSeen": 16
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 16
+          "jobsSeen": 17
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 31,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -3129,10 +3140,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1014
+          "jobsSeen": 1005
         }
       ],
-      "jobsSeen": 1014,
+      "jobsSeen": 1005,
       "relevantRoles": 1
     },
     {

@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-16T17:20:32.316Z
+Scan started: 2026-10-17T16:19:06.929Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -128,8 +128,8 @@ Canonical companies after aliases: 232
 | Quadrant Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://quadrant.gg/) |
 | Vocational Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | ARPC | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
-| Bates Group | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://my.batestech.edu/) |
-| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://alvarezguitars.com/) |
+| Bates Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://my.batestech.edu/) |
+| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://alvarezguitars.com/) |
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |
 | RBB Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.rbbecon.com/careers/) |
 | Copenhagen Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://copenhageneconomics.com/careers/vacancies/) |
@@ -173,7 +173,7 @@ Canonical companies after aliases: 232
 | THEMA Consulting Group | Energy & Environmental Economics | no saved page attempted | none |
 | Ramboll Management Consulting | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.ramboll.com/careers) |
 | Afi | Competition & Regulatory (Europe) | no saved page attempted | none |
-| REF-E | Energy & Environmental Economics | 0/1 pages live | [link](https://asktheref.org/) |
+| REF-E | Energy & Environmental Economics | 1/1 pages live | [link](https://asktheref.org/) |
 | Prometeia | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DKM Economic Consultants | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dkmedigroup.com/) |
@@ -183,7 +183,7 @@ Canonical companies after aliases: 232
 | Metro Dynamics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.metrostate.edu/students) |
 | HoustonKemp | Economic Consulting (APAC) | 1/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
 | CEG (Competition Economists Group) | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.ceg-global.com/careers) |
-| Sapere Research Group | Economic Consulting (APAC) | no saved page attempted | none |
+| Sapere Research Group | Economic Consulting (APAC) | 1/1 pages live | [link](https://sapere.ai/en) |
 | Frontier Economics Australia | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.frontier-economics.com.au/careers/current-opportunities/) |
 | Deloitte Access Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://jobs.deloitte.com.au/) |
 | NZIER | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.nzier.org.nz/careers) |

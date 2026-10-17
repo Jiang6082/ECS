@@ -1,21 +1,21 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-15T17:45:03.671Z
-Current scan: 2026-10-16T17:20:32.316Z
-Previous rows: 113
-Current rows: 115
-New stable job URLs: 2
+Previous scan: 2026-10-16T17:20:32.316Z
+Current scan: 2026-10-17T16:19:06.929Z
+Previous rows: 115
+Current rows: 117
+New stable job URLs: 3
 No longer present: 0
 
 ## New Roles By Region
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - CA-QC-Montreal | CA-ON-Toronto - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup)
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) - UK-London - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup)
 
 ### Asia (0)
 
@@ -41,10 +41,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (1)
 
-- **IQVIA (HEOR)** - [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) - 2 Locations - Confirmed official posting (Official ATS Workday:iqvia/IQVIA)
-- **IQVIA (HEOR)** - [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) - 3 Locations - Confirmed official posting (Official ATS Workday:iqvia/IQVIA)
+- **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity)
 
 ## No Longer Present
 

@@ -1,8 +1,8 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-16T17:20:32.316Z
+Current scan: 2026-10-17T16:19:06.929Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 115
+Current roles absent from tracker: 117
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
@@ -133,14 +133,16 @@ _None._
 
 - **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) - Birmingham, AL, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 
-### Remote / Unspecified (15)
+### Remote / Unspecified (17)
 
 - **Berkeley Research Group** - [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) - 9 Locations - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing: 2027 Summer
+- **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) - 5 Locations - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) - 2 Locations - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing not stated in title
 - **ICF** - [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) - 2 Locations - Confirmed official posting (Official ATS Workday:icf/ICFExternal_Career_Site): timing: 2027 Summer
 - **IQVIA (HEOR)** - [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) - 2 Locations - Confirmed official posting (Official ATS Workday:iqvia/IQVIA): timing not stated in title
 - **IQVIA (HEOR)** - [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) - 2 Locations - Confirmed official posting (Official ATS Workday:iqvia/IQVIA): timing not stated in title
 - **IQVIA (HEOR)** - [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) - 3 Locations - Confirmed official posting (Official ATS Workday:iqvia/IQVIA): timing not stated in title
+- **J.S. Held** - [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) - Remote - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Winter 2027
 - **NERA Economic Consulting** - [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) - 6 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: Summer 2028
 - **NERA Economic Consulting** - [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) - 2 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) - Palermo - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title

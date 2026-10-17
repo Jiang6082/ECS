@@ -1,14 +1,14 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-16T17:20:32.316Z
+Last updated: 2026-10-17T16:19:06.929Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 205
-- Current internship roles: 115
+- Career pages checked: 206
+- Current internship roles: 117
 - Entry-level analyst roles: 48 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 2
+- New stable job URLs since previous scan: 3
 - No longer present since previous scan: 0
 - Firms with matching roles: 28
 - Confirmed no open postings: 4
@@ -17,7 +17,7 @@ Last updated: 2026-10-16T17:20:32.316Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 82
+- Litigation, Antitrust & Damages: 84
 - Health Economics & HEOR: 9
 - Transfer Pricing & Valuation: 6
 - Big 4 & Advisory Economics: 5
@@ -28,13 +28,13 @@ Last updated: 2026-10-16T17:20:32.316Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - CA-QC-Montreal | CA-ON-Toronto
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) - UK-London
 
 ### Asia (0)
 
@@ -60,10 +60,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (1)
 
-- **IQVIA (HEOR)** - [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) - 2 Locations
-- **IQVIA (HEOR)** - [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) - 3 Locations
+- **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations
 
 ## No Longer Present
 

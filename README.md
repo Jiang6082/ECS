@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-16 &nbsp;•&nbsp; **115 open internships** &nbsp;•&nbsp; **2 new today** &nbsp;•&nbsp; **48 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **41 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-17 &nbsp;•&nbsp; **117 open internships** &nbsp;•&nbsp; **3 new today** &nbsp;•&nbsp; **48 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **41 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,22 +12,29 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-10-16_
+_Scan date: 2026-10-17_
 
-**2** new stable job postings since the previous scan:
+**3** new stable job postings since the previous scan:
+
+**North America**
+
+- **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — CA-QC-Montreal \| CA-ON-Toronto
+
+**Europe**
+
+- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) — UK-London
 
 **Remote / Unspecified**
 
-- **IQVIA (HEOR)** — [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) — 2 Locations
-- **IQVIA (HEOR)** — [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) — 3 Locations
+- **Trinity Life Sciences** — [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) — 2 Locations
 
 ---
 
 ## 📋 All Roles Available
 
-**115** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**117** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (53)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (15)](#remote--unspecified)
+**Regions:** [North America (53)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (17)](#remote--unspecified)
 
 ### North America
 
@@ -172,14 +179,16 @@ _Scan date: 2026-10-16_
 ### Remote / Unspecified
 
 <details>
-<summary><strong>15 roles</strong> — click to expand</summary>
+<summary><strong>17 roles</strong> — click to expand</summary>
 
 - **Berkeley Research Group** — [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) — 9 Locations
+- **Compass Lexecon** — [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) — 5 Locations
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations
 - **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations
 - **IQVIA (HEOR)** — [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) — 2 Locations
 - **IQVIA (HEOR)** — [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) — 2 Locations
 - **IQVIA (HEOR)** — [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) — 3 Locations
+- **J.S. Held** — [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) — Remote
 - **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations
 - **NERA Economic Consulting** — [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) — 2 Locations
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) — Palermo

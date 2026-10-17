@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T17:22:33.617Z",
-  "scanStartedAt": "2026-10-16T17:20:32.316Z",
+  "generatedAt": "2026-10-17T16:20:55.107Z",
+  "scanStartedAt": "2026-10-17T16:19:06.929Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -22,7 +22,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
@@ -802,8 +802,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 117,
-      "relevantRoles": 5
+      "jobsSeen": 118,
+      "relevantRoles": 6
     },
     {
       "company": "Gnarus Advisors",
@@ -941,7 +941,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -956,7 +956,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1137,7 +1137,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 96,
+      "jobsSeen": 98,
       "relevantRoles": 7
     },
     {
@@ -1741,7 +1741,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1880,9 +1880,11 @@
       ],
       "category": "Economic Consulting (APAC)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://sapere.ai/en"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2258,7 +2260,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
@@ -2500,7 +2502,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantRoles": 0
     },
     {
@@ -2898,7 +2900,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 676,
+      "jobsSeen": 683,
       "relevantRoles": 3
     },
     {
@@ -2913,7 +2915,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 659,
+      "jobsSeen": 656,
       "relevantRoles": 0
     },
     {
@@ -3197,7 +3199,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 31,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -3212,7 +3214,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1014,
+      "jobsSeen": 1005,
       "relevantRoles": 1
     },
     {
