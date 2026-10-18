@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-17T16:19:06.929Z",
+  "searchedAt": "2026-10-18T16:27:49.847Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -250,7 +250,6 @@
     "Economic Consulting Services",
     "Empiris",
     "EmployStats",
-    "ERS Group",
     "Crowninshield Financial Research",
     "Market Platform Dynamics",
     "Invotex",
@@ -983,6 +982,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "ERS Group",
+      "pageUrl": "https://www.ers.usda.gov/about-ers/careers-at-ers",
+      "resolvedUrl": "https://www.ers.usda.gov/about-ers/careers-at-ers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Stanford Consulting Group",
       "pageUrl": "https://www.stanford.edu/about",
       "resolvedUrl": "https://www.stanford.edu/about",
@@ -1120,8 +1131,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1132,8 +1143,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1264,9 +1275,9 @@
     {
       "company": "Economic Insight",
       "pageUrl": "https://www.economic-insight.com/careers/",
-      "resolvedUrl": "https://economic-insight.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://www.economic-insight.com/careers/",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1631,13 +1642,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1783,8 +1790,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2809,10 +2816,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 656
+          "jobsSeen": 655
         }
       ],
-      "jobsSeen": 656,
+      "jobsSeen": 655,
       "relevantRoles": 0
     },
     {
@@ -3140,10 +3147,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1005
+          "jobsSeen": 1002
         }
       ],
-      "jobsSeen": 1005,
+      "jobsSeen": 1002,
       "relevantRoles": 1
     },
     {

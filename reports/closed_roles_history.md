@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closures recorded: 41
-Last updated: 2026-10-17T16:19:06.929Z
+Last updated: 2026-10-18T16:27:49.847Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
@@ -25,7 +25,7 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 
 ### 2026-10-09 (8)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations — _reopened 2026-10-18_
 - **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) - McLean
 - **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13875) - Los Angeles, CA, United States
 - **Stout** - [Summer 2027 Intern - Disputes Claims & Investigations: Chicago](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1)

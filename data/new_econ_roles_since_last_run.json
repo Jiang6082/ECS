@@ -1,38 +1,18 @@
 {
-  "generatedAt": "2026-10-17T16:20:55.167Z",
-  "previousScanAt": "2026-10-16T17:20:32.316Z",
-  "currentScanAt": "2026-10-17T16:19:06.929Z",
-  "previousRows": 115,
-  "currentRows": 117,
+  "generatedAt": "2026-10-18T16:29:40.928Z",
+  "previousScanAt": "2026-10-17T16:19:06.929Z",
+  "currentScanAt": "2026-10-18T16:27:49.847Z",
+  "previousRows": 117,
+  "currentRows": 118,
   "added": [
     {
-      "Company": "Analysis Group",
+      "Company": "J.S. Held",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Analyst Intern - Generalist - Brussels (2027 Start Date)",
-      "Location": "CA-QC-Montreal | CA-ON-Toronto",
-      "Region": "North America",
-      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3045/job",
-      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Analysis Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)",
-      "Location": "UK-London",
-      "Region": "Europe",
-      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3079/job",
-      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Trinity Life Sciences",
-      "Category": "Health Economics & HEOR",
-      "Title": "Summer Associate, Evidence Strategy",
-      "Location": "2 Locations",
+      "Title": "Winter 2027 Co-op - The University of Waterloo",
+      "Location": "Remote",
       "Region": "Remote / Unspecified",
-      "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866",
-      "Source": "Official ATS Workday:trinitylifesciences/Trinity",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
       "Status": "Confirmed official posting"
     }
   ],

@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-17T16:19:06.929Z
+Scanned: 2026-10-18T16:27:49.847Z
 Firms searched: 232
-Career pages checked: 206
-Internship roles/leads retained: 117
+Career pages checked: 207
+Internship roles/leads retained: 118
 Entry-level analyst roles (separate report): 48
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -142,7 +142,7 @@ _None._
 
 - **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) - Birmingham, AL, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 
-### Remote / Unspecified (17)
+### Remote / Unspecified (18)
 
 - **Berkeley Research Group** - [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) - 9 Locations - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing: 2027 Summer
 - **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) - 5 Locations - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2027
@@ -155,6 +155,7 @@ _None._
 - **NERA Economic Consulting** - [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) - 6 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: Summer 2028
 - **NERA Economic Consulting** - [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) - 2 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) - Palermo - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations - Confirmed official posting (Official ATS Workday:pwc/US_Entry_Level_Careers): timing: Summer 2027
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) - Genève - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: 2027
 - **Stout** - [Summer 2027 Intern - Disputes Claims & Investigations: Chicago](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2) - Confirmed official posting (Official ATS Workday:stout/Stout-Careers): timing: Summer 2027
 - **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2) - Confirmed official posting (Official ATS Workday:stout/Stout-Careers): timing: Summer 2027

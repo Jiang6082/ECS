@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T16:20:55.107Z",
-  "scanStartedAt": "2026-10-17T16:19:06.929Z",
+  "generatedAt": "2026-10-18T16:29:40.870Z",
+  "scanStartedAt": "2026-10-18T16:27:49.847Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -714,9 +714,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.ers.usda.gov/about-ers/careers-at-ers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -941,7 +943,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -956,7 +958,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1062,7 +1064,7 @@
       "careerPages": [
         "https://www.economic-insight.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1490,7 +1492,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 102,
       "relevantRoles": 1
@@ -1741,7 +1743,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2915,7 +2917,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 656,
+      "jobsSeen": 655,
       "relevantRoles": 0
     },
     {
@@ -3214,7 +3216,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1005,
+      "jobsSeen": 1002,
       "relevantRoles": 1
     },
     {

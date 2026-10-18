@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-17T16:19:06.929Z
+Scan started: 2026-10-18T16:27:49.847Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -61,7 +61,7 @@ Canonical companies after aliases: 232
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
-| Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
+| Baringa | Energy & Environmental Economics | 2/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
 | Abt Global | Policy & Research Economics | 1/1 pages live | [link](https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions) |
@@ -113,7 +113,7 @@ Canonical companies after aliases: 232
 | Empiris | Litigation, Antitrust & Damages | no saved page attempted | none |
 | BLDS | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.bldsrestaurant.net/menu/) |
 | EmployStats | Litigation, Antitrust & Damages | no saved page attempted | none |
-| ERS Group | Litigation, Antitrust & Damages | no saved page attempted | none |
+| ERS Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.ers.usda.gov/about-ers/careers-at-ers) |
 | Crowninshield Financial Research | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Stanford Consulting Group | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://www.stanford.edu/about) [link](https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/) |
 | Market Platform Dynamics | Litigation, Antitrust & Damages | no saved page attempted | none |
@@ -128,12 +128,12 @@ Canonical companies after aliases: 232
 | Quadrant Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://quadrant.gg/) |
 | Vocational Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | ARPC | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
-| Bates Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://my.batestech.edu/) |
-| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://alvarezguitars.com/) |
+| Bates Group | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://my.batestech.edu/) |
+| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://alvarezguitars.com/) |
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |
 | RBB Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.rbbecon.com/careers/) |
 | Copenhagen Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://copenhageneconomics.com/careers/vacancies/) |
-| Economic Insight | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.economic-insight.com/careers/) |
+| Economic Insight | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://www.economic-insight.com/careers/) |
 | Europe Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CEPA | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.cepa.co.uk/careers/working-at-cepa) |
 | London Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
@@ -173,7 +173,7 @@ Canonical companies after aliases: 232
 | THEMA Consulting Group | Energy & Environmental Economics | no saved page attempted | none |
 | Ramboll Management Consulting | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.ramboll.com/careers) |
 | Afi | Competition & Regulatory (Europe) | no saved page attempted | none |
-| REF-E | Energy & Environmental Economics | 1/1 pages live | [link](https://asktheref.org/) |
+| REF-E | Energy & Environmental Economics | 0/1 pages live | [link](https://asktheref.org/) |
 | Prometeia | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DKM Economic Consultants | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dkmedigroup.com/) |

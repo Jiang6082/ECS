@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:19:06.930Z",
+  "generatedAt": "2026-10-18T16:27:49.848Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -267,8 +267,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "ERS Group": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.ers.usda.gov/about-ers/careers-at-ers"
+      ],
+      "updatedAt": "2026-10-18T16:27:49.848Z"
     },
     "Crowninshield Financial Research": {
       "careerPages": [],

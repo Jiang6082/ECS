@@ -1,14 +1,14 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-17T16:19:06.929Z
+Last updated: 2026-10-18T16:27:49.847Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 206
-- Current internship roles: 117
+- Career pages checked: 207
+- Current internship roles: 118
 - Entry-level analyst roles: 48 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 3
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 0
 - Firms with matching roles: 28
 - Confirmed no open postings: 4
@@ -20,7 +20,7 @@ Last updated: 2026-10-17T16:19:06.929Z
 - Litigation, Antitrust & Damages: 84
 - Health Economics & HEOR: 9
 - Transfer Pricing & Valuation: 6
-- Big 4 & Advisory Economics: 5
+- Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
 - Macro & Economic Research: 3
@@ -28,13 +28,13 @@ Last updated: 2026-10-17T16:19:06.929Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - CA-QC-Montreal | CA-ON-Toronto
+_None._
 
-### Europe (1)
+### Europe (0)
 
-- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) - UK-London
+_None._
 
 ### Asia (0)
 
@@ -62,7 +62,7 @@ _None._
 
 ### Remote / Unspecified (1)
 
-- **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations
+- **J.S. Held** - [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) - Remote
 
 ## No Longer Present
 
