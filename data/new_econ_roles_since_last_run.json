@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T16:29:40.928Z",
-  "previousScanAt": "2026-10-17T16:19:06.929Z",
-  "currentScanAt": "2026-10-18T16:27:49.847Z",
-  "previousRows": 117,
-  "currentRows": 118,
+  "generatedAt": "2026-10-19T19:16:15.653Z",
+  "previousScanAt": "2026-10-18T16:27:49.847Z",
+  "currentScanAt": "2026-10-19T19:14:13.358Z",
+  "previousRows": 118,
+  "currentRows": 116,
   "added": [
     {
       "Company": "J.S. Held",
@@ -13,6 +13,16 @@
       "Region": "Remote / Unspecified",
       "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669",
       "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
+      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
       "Status": "Confirmed official posting"
     }
   ],

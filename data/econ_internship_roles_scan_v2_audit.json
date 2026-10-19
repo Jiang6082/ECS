@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-18T16:27:49.847Z",
+  "searchedAt": "2026-10-19T19:14:13.358Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1045,14 +1045,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 118
+          "jobsSeen": 117
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 118,
+      "jobsSeen": 117,
       "relevantRoles": 6
     },
     {
@@ -1275,9 +1275,9 @@
     {
       "company": "Economic Insight",
       "pageUrl": "https://www.economic-insight.com/careers/",
-      "resolvedUrl": "https://www.economic-insight.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://economic-insight.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1335,10 +1335,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 98
+          "jobsSeen": 99
         }
       ],
-      "jobsSeen": 98,
+      "jobsSeen": 99,
       "relevantRoles": 7
     },
     {
@@ -1642,9 +1642,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1668,11 +1672,11 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 102
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 102,
-      "relevantRoles": 1
+      "jobsSeen": 100,
+      "relevantRoles": 0
     },
     {
       "company": "LCP Delta",
@@ -2816,10 +2820,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 655
+          "jobsSeen": 663
         }
       ],
-      "jobsSeen": 655,
+      "jobsSeen": 663,
       "relevantRoles": 0
     },
     {
@@ -3080,10 +3084,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 9
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -3254,10 +3258,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 12
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -3323,10 +3327,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 4
+          "jobsSeen": 5
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {

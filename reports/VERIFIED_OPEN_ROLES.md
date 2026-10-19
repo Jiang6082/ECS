@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-18 16:27 UTC · **118 roles confirmed live on official job boards** across 28 firms · **13 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-19 19:14 UTC · **116 roles confirmed live on official job boards** across 28 firms · **14 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (118)
+## ✅ Confirmed Live On Official Job Boards (116)
 
 ### Analysis Group (14)
 
@@ -61,13 +61,12 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) | Dallas, TX, United States | North America |
 | [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) | Los Angeles, CA, United States | North America |
 
-### Berkeley Research Group (5)
+### Berkeley Research Group (4)
 
 _US 2027 Summer Associate final deadline Oct 16._
 
 | Role | Location | Region |
 |---|---|---|
-| [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) | Multiple locations | Remote / Unspecified |
 | [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | Chicago, IL | North America |
 | [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) | Berlin, GER | Europe |
 | [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) | Brussels, BEL | Europe |
@@ -81,14 +80,13 @@ _Graduate Economist (Sept 2027) deadline Oct 16._
 |---|---|---|
 | [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) | London, England, United Kingdom | Europe |
 
-### Charles River Associates (8)
+### Charles River Associates (7)
 
 _Resume review begins around Oct 15._
 
 | Role | Location | Region |
 |---|---|---|
 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States | North America |
-| [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) | New York, NY, United States | North America |
 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States | North America |
 | [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) | London, United Kingdom | Europe |
 | [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) | College Station, TX, United States; Tallahassee, FL, United States | North America |
@@ -279,10 +277,11 @@ _Secondary deadline Oct 12._
 |---|---|---|
 | [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) | Washington, DC | North America |
 
-## 🟡 Hand-Checked Roles (13)
+## 🟡 Hand-Checked Roles (14)
 
 | Firm | Role | Location | Status | Checked | Notes |
 |---|---|---|---|---|---|
+| Berkeley Research Group | [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/XMLNAME-2027-Summer-Associate--Intern-_JR100976) | Washington, DC / New York + other US offices | Open | 2026-09-27 | Final deadline Oct 16 |
 | KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Transfer Pricing \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137278) | Multiple US locations | Open | 2026-09-27 | Rolling |
 | KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Valuation \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137279) | Multiple US locations | Open | 2026-09-27 | Rolling until filled |
 | Kroll | [Intern, Expert Services (Summer 2027) - New York](https://careers.kroll.com/en/job/new-york/intern-expert-services/21015015) | New York, NY | Open | 2026-09-27 | Litigation damages / expert services |
@@ -299,7 +298,7 @@ _Secondary deadline Oct 12._
 
 ## Entry-Level (Full-Time 2027) Analyst Roles
 
-48 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
+47 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
 ## ⛔ Closed In The Last 14 Days (14)
 
@@ -320,4 +319,4 @@ _Secondary deadline Oct 12._
 | Stout | [Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182) | 2026-10-07 |
 | Ankura | [University Intern, Sachs Policy Group](https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073) | 2026-10-07 |
 
-_Generated by ECS on 2026-10-18. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-10-19. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
