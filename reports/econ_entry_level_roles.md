@@ -1,6 +1,6 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-10-19T19:14:13.358Z
+Scanned: 2026-10-20T17:55:01.781Z
 Roles: 47
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
@@ -12,6 +12,7 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Analysis Group** - [Associate - Generalist - Montreal / Toronto (2027 Start Date) | Responsable de projets - Généraliste - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3050/job) - CA-QC-Montreal | CA-ON-Toronto - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3047/job) - US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/2959/job) - US-MA-Boston - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
+- **Ankura** - [University Associate, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Advisory_R104988) - Washington D.C. - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **Ankura** - [University Associate, Disputes & Economics - Financial Services Advisory (NYC)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Advisory--NYC-_R104989) - New York, NY - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **Ankura** - [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104973) - Chicago, IL - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **Ankura** - [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104982) - New York, NY - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
@@ -23,7 +24,6 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Aurora Energy Research** - [2027 Graduate Analyst Program (Austin)](https://careers.auroraer.com/en/postings/c5211d96-2d16-4823-b845-e1425240c8c6) - Austin, USA - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **BDO (Transfer Pricing)** - [Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014) - Atlanta, GA, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **Eastern Research Group** - [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) - Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA - Confirmed official posting (Official ATS Lever:erg): timing not stated in title
-- **HR&A Advisors** - [Analyst, Housing](https://hraadvisors.applytojob.com/apply/HP9SzqVzwK/Analyst-Housing) - Washington, DC, DC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) - Washington, DC, DC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
@@ -41,12 +41,13 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **The Brattle Group** - [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005) - Boston, Massachusetts, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Cadmus Group** - [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) - US - Confirmed official posting (Official ATS iCIMS:careers-cadmusgroup): timing not stated in title
 
-### Europe (4)
+### Europe (5)
 
 - **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - UK-London - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [Graduate Analyst Programme (Oxford, 2027)](https://careers.auroraer.com/en/postings/0aa034dd-9e51-4c22-8707-01f4d8c98e6e) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 - **Cornerstone Research** - [Analyst, London](https://uguk-chire.icims.com/jobs/4083/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
+- **Frontier Economics** - [2027 Graduate Economic Analyst - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Graduate-Economic-Analyst---London_JR10236) - London - Confirmed official posting (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers): timing: 2027
 
 ### Asia (5)
 
@@ -76,9 +77,8 @@ _None._
 
 - **The Brattle Group** - [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) - Sydney, New South Wales, Australia - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing not stated in title; graduation years mentioned: 2027
 
-### Remote / Unspecified (4)
+### Remote / Unspecified (3)
 
 - **Berkeley Research Group** - [Junior Conflicts Analyst](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Junior-Conflicts-Analyst_JR101147) - 3 Locations - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Lightcast** - [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) - Moscow, ID - Confirmed official posting (Official ATS Lever:economicmodeling): timing not stated in title
-- **NERA Economic Consulting** - [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) - 6 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: Summer 2027
 - **Stout** - [Analyst, Business Valuation (New Grad – Irvine)](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Irvine-CA/Analyst--Business-Valuation--New-Grad---Irvine-_r2141) - Confirmed official posting (Official ATS Workday:stout/Stout-Student-Careers): timing not stated in title

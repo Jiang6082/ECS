@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 41
-Last updated: 2026-10-19T19:14:13.358Z
+Total closures recorded: 43
+Last updated: 2026-10-20T17:55:01.781Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-20 (2)
+
+- **Berkeley Research Group** - [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) - 9 Locations
+- **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) - New York, NY, United States
 
 ### 2026-10-15 (1)
 
@@ -13,7 +18,7 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 
 ### 2026-10-14 (1)
 
-- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany
+- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany — _reopened 2026-10-20_
 
 ### 2026-10-13 (1)
 

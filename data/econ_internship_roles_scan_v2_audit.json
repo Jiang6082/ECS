@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-19T19:14:13.358Z",
+  "searchedAt": "2026-10-20T17:55:01.781Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -239,7 +239,6 @@
     "Houlihan Lokey (Dispute Resolution Consulting)",
     "Global Economics Group",
     "Economists Incorporated",
-    "Welch Consulting",
     "MiCRA",
     "Nathan Associates",
     "Micronomics",
@@ -685,10 +684,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 35
+          "jobsSeen": 34
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -717,10 +716,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 35
+          "jobsSeen": 34
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -835,6 +834,18 @@
       "company": "Resolution Economics",
       "pageUrl": "https://resecon.com/careers/",
       "resolvedUrl": "https://resecon.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Welch Consulting",
+      "pageUrl": "https://welch.houstonisd.org/",
+      "resolvedUrl": "https://welch.houstonisd.org/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -1045,14 +1056,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 117
+          "jobsSeen": 112
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 117,
+      "jobsSeen": 112,
       "relevantRoles": 6
     },
     {
@@ -1215,8 +1226,8 @@
       "company": "Frontier Economics",
       "pageUrl": "https://frontier.edu/",
       "resolvedUrl": "https://frontier.edu/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1335,10 +1346,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 99
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantRoles": 7
     },
     {
@@ -1672,10 +1683,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 100
+          "jobsSeen": 104
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 104,
       "relevantRoles": 0
     },
     {
@@ -2171,10 +2182,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 5
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2195,10 +2206,10 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 5
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2427,10 +2438,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 2
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -2796,10 +2807,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 683
+          "jobsSeen": 691
         }
       ],
-      "jobsSeen": 683,
+      "jobsSeen": 691,
       "relevantRoles": 3
     },
     {
@@ -2820,10 +2831,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 663
+          "jobsSeen": 180
         }
       ],
-      "jobsSeen": 663,
+      "jobsSeen": 180,
       "relevantRoles": 0
     },
     {
@@ -3119,18 +3130,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 16
+          "jobsSeen": 15
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 17
+          "jobsSeen": 19
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -3151,10 +3162,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1002
+          "jobsSeen": 1004
         }
       ],
-      "jobsSeen": 1002,
+      "jobsSeen": 1004,
       "relevantRoles": 1
     },
     {

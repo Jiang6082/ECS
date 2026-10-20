@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T19:14:13.359Z",
+  "generatedAt": "2026-10-20T17:55:01.782Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -162,8 +162,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Welch Consulting": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://welch.houstonisd.org/"
+      ],
+      "updatedAt": "2026-10-20T17:55:01.782Z"
     },
     "MiCRA": {
       "careerPages": [],

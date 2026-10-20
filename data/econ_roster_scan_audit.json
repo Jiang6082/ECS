@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T19:16:15.609Z",
-  "scanStartedAt": "2026-10-19T19:14:13.358Z",
+  "generatedAt": "2026-10-20T17:56:58.469Z",
+  "scanStartedAt": "2026-10-20T17:55:01.781Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 28,
-    "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 29,
-    "could-not-fully-verify": 171
+    "matching-role-found": 29,
+    "confirmed-no-open-postings": 5,
+    "confirmed-openings-no-matching-role": 28,
+    "could-not-fully-verify": 170
   },
   "companies": [
     {
@@ -76,7 +76,7 @@
         "NERA Economic Consulting"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.nera.com/open-roles.html"
       ],
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 35,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -420,9 +420,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://welch.houstonisd.org/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -700,7 +702,7 @@
         "EmployStats"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
@@ -804,7 +806,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 117,
+      "jobsSeen": 112,
       "relevantRoles": 6
     },
     {
@@ -1004,7 +1006,7 @@
       "careerPages": [
         "https://frontier.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1103,7 +1105,7 @@
         "London Economics"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
@@ -1139,7 +1141,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantRoles": 7
     },
     {
@@ -1148,7 +1150,7 @@
         "Cornwall Insight"
       ],
       "category": "Energy & Environmental Economics",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://cornwallinsight.pinpointhq.com/"
       ],
@@ -1494,7 +1496,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 100,
+      "jobsSeen": 104,
       "relevantRoles": 0
     },
     {
@@ -2279,7 +2281,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2504,7 +2506,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -2902,7 +2904,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 683,
+      "jobsSeen": 691,
       "relevantRoles": 3
     },
     {
@@ -2917,7 +2919,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 663,
+      "jobsSeen": 180,
       "relevantRoles": 0
     },
     {
@@ -3201,7 +3203,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -3216,7 +3218,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1002,
+      "jobsSeen": 1004,
       "relevantRoles": 1
     },
     {

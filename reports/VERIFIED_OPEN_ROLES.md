@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-19 19:14 UTC · **116 roles confirmed live on official job boards** across 28 firms · **14 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-20 17:55 UTC · **114 roles confirmed live on official job boards** across 27 firms · **14 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (116)
+## ✅ Confirmed Live On Official Job Boards (114)
 
 ### Analysis Group (14)
 
@@ -15,7 +15,7 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 
 | Role | Location | Region |
 |---|---|---|
-| [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) | CA-QC-Montreal \| CA-ON-Toronto | North America |
+| [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) | CA-QC-Montreal | North America |
 | [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) | FR-Paris | Europe |
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) | FR-Paris | Europe |
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) | UK-London | Europe |
@@ -80,7 +80,7 @@ _Graduate Economist (Sept 2027) deadline Oct 16._
 |---|---|---|
 | [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) | London, England, United Kingdom | Europe |
 
-### Charles River Associates (7)
+### Charles River Associates (8)
 
 _Resume review begins around Oct 15._
 
@@ -93,6 +93,7 @@ _Resume review begins around Oct 15._
 | [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) | Brussels, Belgium | Europe |
 | [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) | Munich, Germany | Europe |
 | [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) | Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom | Europe |
+| [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) | Munich, Germany | Europe |
 
 ### Compass Lexecon (13)
 
@@ -163,11 +164,10 @@ _US applications opened Sep 14; virtual info session Oct 7._
 | [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) | Austin, Texas | North America |
 | [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) | Austin, Texas | North America |
 
-### IQVIA (HEOR) (3)
+### IQVIA (HEOR) (2)
 
 | Role | Location | Region |
 |---|---|---|
-| [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) | Multiple locations | Remote / Unspecified |
 | [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) | Multiple locations | Remote / Unspecified |
 | [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) | Multiple locations | Remote / Unspecified |
 
@@ -180,14 +180,6 @@ _US applications opened Sep 14; virtual info session Oct 7._
 | [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) | San Francisco, CA, us | North America |
 | [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) | Chicago, IL, us | North America |
 | [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) | Remote | Remote / Unspecified |
-
-### NERA Economic Consulting (3)
-
-| Role | Location | Region |
-|---|---|---|
-| [NERA Summer Intern 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) | London - St. Botolph | Europe |
-| [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) | Multiple locations | Remote / Unspecified |
-| [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) | Multiple locations | Remote / Unspecified |
 
 ### Oxford Economics (2)
 
@@ -219,7 +211,7 @@ _US applications opened Sep 14; virtual info session Oct 7._
 |---|---|---|
 | [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) | Austin / Los Angeles / Washington, D.C. | North America |
 
-### Secretariat (6)
+### Secretariat (7)
 
 | Role | Location | Region |
 |---|---|---|
@@ -228,6 +220,7 @@ _US applications opened Sep 14; virtual info session Oct 7._
 | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) | Chicago, Illinois, United States | North America |
 | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009) | Denver, Colorado, United States | North America |
 | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) | Downtown Boston, MA | North America |
+| [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) | München, Bavaria, Germany | Europe |
 | [Intern, Economics (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4408897009) | Washington, District of Columbia, United States | North America |
 
 ### Stout (4)
@@ -296,16 +289,28 @@ _Secondary deadline Oct 12._
 | Copenhagen Economics | [Student in Economics (part-time student role)](https://copenhageneconomics.com/careers/student-in-economics/) | Copenhagen / Stockholm / Helsinki | Likely open - confirm | 2026-09-27 | Part-time, not a summer internship |
 | KPMG Singapore Economics & Regulation | [Advisory - Consulting, Economics & Regulation \| Off-cycle Internship (Jan-Jun 2027)](https://careers.kpmg.com.sg/go/Interns-Advisory/573844/) | Singapore | Likely open - confirm | 2026-09-27 |  |
 
+## 🔎 Web-Discovered Leads — Verify Before Applying (6)
+
+| Firm | Role | Source |
+|---|---|---|
+| EmployStats | [Economic Analyst Intern](https://career.cornell.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
+| EmployStats | [Economic Analyst Intern](https://careers.usf.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
+| EmployStats | [Economic Analyst Intern](https://mohr.uoregon.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
+| EmployStats | [Economic Analyst Intern – Career Hub](https://careerhub.students.duke.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
+| EmployStats | [Economic Analyst Intern – Tulane University](https://careerengagement.tulane.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
+| London Economics | [Job ID:14720 - Global Research 2027 Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14720/global-research-2027-summer-analyst-london-london-united-kingdom) | Aggregator/web lead; verify on official site |
+
 ## Entry-Level (Full-Time 2027) Analyst Roles
 
 47 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (14)
+## ⛔ Closed In The Last 14 Days (15)
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| Berkeley Research Group | [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) | 2026-10-20 |
+| Charles River Associates | [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) | 2026-10-20 |
 | Ankura | [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) | 2026-10-15 |
-| Secretariat | [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) | 2026-10-14 |
 | RSM (Transfer Pricing) | [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) | 2026-10-13 |
 | Ankura | [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) | 2026-10-11 |
 | RSM (Transfer Pricing) | [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) | 2026-10-09 |
@@ -319,4 +324,4 @@ _Secondary deadline Oct 12._
 | Stout | [Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182) | 2026-10-07 |
 | Ankura | [University Intern, Sachs Policy Group](https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073) | 2026-10-07 |
 
-_Generated by ECS on 2026-10-19. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-10-20. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-19 &nbsp;•&nbsp; **116 open internships** &nbsp;•&nbsp; **2 new today** &nbsp;•&nbsp; **47 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **41 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-20 &nbsp;•&nbsp; **120 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **47 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **43 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,29 +12,28 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-10-19_
+_Scan date: 2026-10-20_
 
-**2** new stable job postings since the previous scan:
+**1** new stable job posting since the previous scan:
 
 **Remote / Unspecified**
 
 - **J.S. Held** — [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) — Remote
-- **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) — 2 Locations
 
 ---
 
 ## 📋 All Roles Available
 
-**116** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**120** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (52)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (17)](#remote--unspecified)
+**Regions:** [North America (52)](#north-america) · [Europe (41)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (20)](#remote--unspecified)
 
 ### North America
 
 <details>
 <summary><strong>52 roles</strong> — click to expand</summary>
 
-- **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — CA-QC-Montreal \| CA-ON-Toronto
+- **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — CA-QC-Montreal
 - **Analysis Group** — [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — US-MA-Boston \| US-CA-Los Angeles \| US-NY-New York
 - **Analysis Group** — [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) — US-MA-Boston \| US-IL-Chicago \| US-CO-Denver \| US-CA-Los Angeles
 - **Analysis Group** — [Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3071/job) — US-MA-Boston \| US-IL-Chicago \| US-TX-Dallas \| US-CO-Denver \| US-CA-Los Angeles \| US-NY-New York \| US-CA-San Francisco \| US-DC-Washington, DC
@@ -92,7 +91,7 @@ _Scan date: 2026-10-19_
 ### Europe
 
 <details>
-<summary><strong>40 roles</strong> — click to expand</summary>
+<summary><strong>41 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — FR-Paris
 - **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — FR-Paris
@@ -109,6 +108,7 @@ _Scan date: 2026-10-19_
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium
 - **Charles River Associates** — [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) — Munich, Germany
 - **Charles River Associates** — [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) — Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom
+- **Charles River Associates** — [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) — Munich, Germany
 - **Compass Lexecon** — [Intern \| Competition Practice \| Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany
 - **Compass Lexecon** — [Intern \| Competition Practice \| Brussels](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310) — Brussels, Belgium
 - **Compass Lexecon** — [Intern \| Competition Practice \| Düsseldorf](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312) — Dusseldorf, Germany
@@ -127,10 +127,10 @@ _Scan date: 2026-10-19_
 - **FTI Consulting (Economic Consulting)** — [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) — London, United Kingdom
 - **FTI Consulting (Economic Consulting)** — [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) — Paris, France
 - **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain
-- **NERA Economic Consulting** — [NERA Summer Intern 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) — London - St. Botolph
 - **Oxford Economics** — [2027 UK Placement Programme (London, Belfast & Oxford)](https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9) — London, UK
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern \| Milano [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD) — Milan
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) — Milan
+- **Secretariat** — [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) — München, Bavaria, Germany
 - **Technopolis Group** — [Full time paid Internship / Stage Paris](https://technopolis-group.jobs.personio.com/job/2247787) — Paris
 - **Technopolis Group** — [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) — Paris
 - **Technopolis Group** — [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) — Paris
@@ -171,17 +171,20 @@ _Scan date: 2026-10-19_
 ### Remote / Unspecified
 
 <details>
-<summary><strong>17 roles</strong> — click to expand</summary>
+<summary><strong>20 roles</strong> — click to expand</summary>
 
 - **Compass Lexecon** — [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) — 5 Locations
+- **EmployStats** — [Economic Analyst Intern](https://career.cornell.edu/jobs/employstats-economic-analyst-intern/) _(verify)_
+- **EmployStats** — [Economic Analyst Intern](https://careers.usf.edu/jobs/employstats-economic-analyst-intern/) _(verify)_
+- **EmployStats** — [Economic Analyst Intern](https://mohr.uoregon.edu/jobs/employstats-economic-analyst-intern/) _(verify)_
+- **EmployStats** — [Economic Analyst Intern – Career Hub](https://careerhub.students.duke.edu/jobs/employstats-economic-analyst-intern/) _(verify)_
+- **EmployStats** — [Economic Analyst Intern – Tulane University](https://careerengagement.tulane.edu/jobs/employstats-economic-analyst-intern/) _(verify)_
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations
 - **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations
-- **IQVIA (HEOR)** — [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) — 2 Locations
 - **IQVIA (HEOR)** — [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) — 2 Locations
 - **IQVIA (HEOR)** — [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) — 3 Locations
 - **J.S. Held** — [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) — Remote
-- **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations
-- **NERA Economic Consulting** — [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) — 2 Locations
+- **London Economics** — [Job ID:14720 - Global Research 2027 Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14720/global-research-2027-summer-analyst-london-london-united-kingdom) _(verify)_
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) — Palermo
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) — 2 Locations
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) — Genève
@@ -313,7 +316,7 @@ Every `v2`/`all` run rebuilds [reports/LATEST_ECON_SCAN.md](reports/LATEST_ECON_
 | [reports/new_econ_roles_since_last_run.md](reports/new_econ_roles_since_last_run.md) | New stable job URLs, grouped by region |
 | [reports/current_econ_roles_not_in_tracker.md](reports/current_econ_roles_not_in_tracker.md) | Current roles absent from your application tracker |
 | [reports/econ_roster_scan_audit.md](reports/econ_roster_scan_audit.md) | Every firm split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed, grouped by date detected (41 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed, grouped by date detected (43 so far) |
 | [inputs/econ_firm_roster.json](inputs/econ_firm_roster.json) | The firm universe, practice-area category, and per-firm scope filter |
 | [inputs/ats_seeds.json](inputs/ats_seeds.json) | Verified ATS boards (Greenhouse, Lever, Workday, iCIMS, Workable, Personio, Teamtailor, Pinpoint, Paylocity, Oracle, …) |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Career-page database (auto-extended by discovery) |

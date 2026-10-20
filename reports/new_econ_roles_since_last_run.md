@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-18T16:27:49.847Z
-Current scan: 2026-10-19T19:14:13.358Z
-Previous rows: 118
-Current rows: 116
-New stable job URLs: 2
-No longer present: 0
+Previous scan: 2026-10-19T19:14:13.358Z
+Current scan: 2026-10-20T17:55:01.781Z
+Previous rows: 116
+Current rows: 120
+New stable job URLs: 1
+No longer present: 2
 
 ## New Roles By Region
 
@@ -41,11 +41,11 @@ _None._
 
 _None._
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (1)
 
 - **J.S. Held** - [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) - Remote - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC)
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations - Confirmed official posting (Official ATS Workday:pwc/US_Entry_Level_Careers)
 
 ## No Longer Present
 
-_None._
+- **Berkeley Research Group** - [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976)
+- **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475)

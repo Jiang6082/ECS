@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T19:16:15.653Z",
-  "previousScanAt": "2026-10-18T16:27:49.847Z",
-  "currentScanAt": "2026-10-19T19:14:13.358Z",
-  "previousRows": 118,
-  "currentRows": 116,
+  "generatedAt": "2026-10-20T17:56:58.527Z",
+  "previousScanAt": "2026-10-19T19:14:13.358Z",
+  "currentScanAt": "2026-10-20T17:55:01.781Z",
+  "previousRows": 116,
+  "currentRows": 120,
   "added": [
     {
       "Company": "J.S. Held",
@@ -14,17 +14,28 @@
       "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669",
       "Source": "Career page SmartRecruiters:JSHeldLLC",
       "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
-      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "Status": "Confirmed official posting"
     }
   ],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Berkeley Research Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Summer Associate (Intern)",
+      "Location": "9 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976",
+      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Charles River Associates",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)",
+      "Location": "New York, NY, United States",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475",
+      "Source": "Official ATS Greenhouse:charlesriverassociates",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }
