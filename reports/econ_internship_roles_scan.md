@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-20T17:53:17.986Z
+Scanned: 2026-10-21T17:58:01.725Z
 Firms in universe: 232
-Firms with at least one live ATS board: 58
-Internship roles: 106
-Entry-level analyst roles: 44
+Firms with at least one live ATS board: 59
+Internship roles: 111
+Entry-level analyst roles: 45
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -69,6 +69,8 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **E.CA Economics** — [Intern at Economics Consultancy (m/f/d)](https://e-ca.jobs.personio.de/job/369975) — Berlin (Official ATS Personio:e-ca; timing not stated in title)
 - **Econ One** — [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) — Los Angeles, California, United States (Official ATS Workable:econ-one-research; timing: Summer)
 - **Energy + Environmental Economics (E3)** — [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) — San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta (Official ATS Lever:ethree; timing: 2027)
+- **Frontier Economics** — [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) — London (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers; timing: 2027)
+- **Frontier Economics** — [2027 Economic Intern (Short-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Intern--Short-term----London_JR10238) — London (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) — London, United Kingdom (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) — Paris, France (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
@@ -80,6 +82,9 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Integra FEC** — [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SUMMER)
 - **IQVIA (HEOR)** — [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) — 2 Locations (Official ATS Workday:iqvia/IQVIA; timing not stated in title)
 - **IQVIA (HEOR)** — [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) — 3 Locations (Official ATS Workday:iqvia/IQVIA; timing not stated in title)
+- **NERA Economic Consulting** — [NERA Summer Intern 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) — London - St. Botolph (Official ATS Workday:mmc/MMC; timing: 2027)
+- **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations (Official ATS Workday:mmc/MMC; timing: Summer 2028)
+- **NERA Economic Consulting** — [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) — 2 Locations (Official ATS Workday:mmc/MMC; timing not stated in title)
 - **Oxford Economics** — [2027 UK Placement Programme (London, Belfast & Oxford)](https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9) — London, UK (Official ATS Pinpoint:careers.oxfordeconomics.com; timing: 2027)
 - **Oxford Economics** — [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) — Singapore (Official ATS Pinpoint:careers.oxfordeconomics.com; timing not stated in title)
 - **PRECISIONheor (Precision AQ)** — [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA (Official ATS Greenhouse:precisionaq; timing: Summer 2027; graduation years mentioned: 2027, 2029)
@@ -150,6 +155,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) — Atlanta, GA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/Ma1YoqlgoV/Research-Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
 - **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) — Moscow, ID (Official ATS Lever:economicmodeling)
+- **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers)
 - **Stout** — [Analyst, Business Valuation (New Grad – Irvine)](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Irvine-CA/Analyst--Business-Valuation--New-Grad---Irvine-_r2141) — Location not listed (Official ATS Workday:stout/Stout-Student-Careers)
 - **The Brattle Group** — [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005) — Boston, Massachusetts, United States (Official ATS Greenhouse:thebrattlegroup)
@@ -166,7 +172,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 
 ## Firms Without A Live ATS Board (v1)
 
-- NERA Economic Consulting
 - Bates White
 - Intensity
 - Kroll

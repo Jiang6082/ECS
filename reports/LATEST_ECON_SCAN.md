@@ -1,27 +1,27 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-20T17:55:01.781Z
+Last updated: 2026-10-21T17:59:23.336Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 208
-- Current internship roles: 120
-- Entry-level analyst roles: 47 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 2
+- Current internship roles: 119
+- Entry-level analyst roles: 48 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 3
+- No longer present since previous scan: 1
 - Firms with matching roles: 29
 - Confirmed no open postings: 5
-- Openings but no matching role: 28
-- Could not fully verify: 170
+- Openings but no matching role: 27
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 86
+- Litigation, Antitrust & Damages: 84
 - Health Economics & HEOR: 8
 - Transfer Pricing & Valuation: 6
+- Competition & Regulatory (Europe): 6
 - Big 4 & Advisory Economics: 6
-- Competition & Regulatory (Europe): 5
 - Energy & Environmental Economics: 4
 - Macro & Economic Research: 3
 - Policy & Research Economics: 2
@@ -32,9 +32,10 @@ Last updated: 2026-10-20T17:55:01.781Z
 
 _None._
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **Charles River Associates** - [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) - Munich, Germany
+- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany
 
 ### Asia (0)
 
@@ -66,8 +67,7 @@ _None._
 
 ## No Longer Present
 
-- **Berkeley Research Group** - [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) - 9 Locations
-- **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) - New York, NY, United States
+- **IQVIA (HEOR)** - [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) - 2 Locations
 
 ## Full Reports
 

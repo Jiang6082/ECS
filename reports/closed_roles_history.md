@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 43
-Last updated: 2026-10-20T17:55:01.781Z
+Total closures recorded: 44
+Last updated: 2026-10-21T17:59:23.336Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-21 (1)
+
+- **IQVIA (HEOR)** - [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) - 2 Locations
 
 ### 2026-10-20 (2)
 

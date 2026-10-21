@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-20T17:56:58.527Z",
-  "previousScanAt": "2026-10-19T19:14:13.358Z",
-  "currentScanAt": "2026-10-20T17:55:01.781Z",
-  "previousRows": 116,
-  "currentRows": 120,
+  "generatedAt": "2026-10-21T18:01:27.306Z",
+  "previousScanAt": "2026-10-20T17:55:01.781Z",
+  "currentScanAt": "2026-10-21T17:59:23.336Z",
+  "previousRows": 120,
+  "currentRows": 119,
   "added": [
+    {
+      "Company": "Charles River Associates",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d",
+      "Location": "Munich, Germany",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673",
+      "Source": "Official ATS Greenhouse:charlesriverassociates",
+      "Status": "Confirmed official posting"
+    },
     {
       "Company": "J.S. Held",
       "Category": "Litigation, Antitrust & Damages",
@@ -14,27 +24,27 @@
       "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669",
       "Source": "Career page SmartRecruiters:JSHeldLLC",
       "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Secretariat",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Intern, Damages and Valuations",
+      "Location": "München, Bavaria, Germany",
+      "Region": "Europe",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009",
+      "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
+      "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "Berkeley Research Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "2027 Summer Associate (Intern)",
-      "Location": "9 Locations",
+      "Company": "IQVIA (HEOR)",
+      "Category": "Health Economics & HEOR",
+      "Title": "Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)",
+      "Location": "2 Locations",
       "Region": "Remote / Unspecified",
-      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976",
-      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Charles River Associates",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)",
-      "Location": "New York, NY, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475",
-      "Source": "Official ATS Greenhouse:charlesriverassociates",
+      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838",
+      "Source": "Official ATS Workday:iqvia/IQVIA",
       "Status": "Confirmed official posting"
     }
   ]

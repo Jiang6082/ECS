@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-20 17:55 UTC · **114 roles confirmed live on official job boards** across 27 firms · **14 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-21 17:59 UTC · **119 roles confirmed live on official job boards** across 29 firms · **14 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (114)
+## ✅ Confirmed Live On Official Job Boards (119)
 
 ### Analysis Group (14)
 
@@ -140,6 +140,13 @@ _US applications opened Sep 14; virtual info session Oct 7._
 |---|---|---|
 | [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) | San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta | North America |
 
+### Frontier Economics (2)
+
+| Role | Location | Region |
+|---|---|---|
+| [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) | London | Europe |
+| [2027 Economic Intern (Short-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Intern--Short-term----London_JR10238) | London | Europe |
+
 ### FTI Consulting (Economic Consulting) (4)
 
 | Role | Location | Region |
@@ -180,6 +187,14 @@ _US applications opened Sep 14; virtual info session Oct 7._
 | [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) | San Francisco, CA, us | North America |
 | [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) | Chicago, IL, us | North America |
 | [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) | Remote | Remote / Unspecified |
+
+### NERA Economic Consulting (3)
+
+| Role | Location | Region |
+|---|---|---|
+| [NERA Summer Intern 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) | London - St. Botolph | Europe |
+| [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) | Multiple locations | Remote / Unspecified |
+| [NERA: Internship (Berlin and Frankfurt)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) | Multiple locations | Remote / Unspecified |
 
 ### Oxford Economics (2)
 
@@ -289,25 +304,15 @@ _Secondary deadline Oct 12._
 | Copenhagen Economics | [Student in Economics (part-time student role)](https://copenhageneconomics.com/careers/student-in-economics/) | Copenhagen / Stockholm / Helsinki | Likely open - confirm | 2026-09-27 | Part-time, not a summer internship |
 | KPMG Singapore Economics & Regulation | [Advisory - Consulting, Economics & Regulation \| Off-cycle Internship (Jan-Jun 2027)](https://careers.kpmg.com.sg/go/Interns-Advisory/573844/) | Singapore | Likely open - confirm | 2026-09-27 |  |
 
-## 🔎 Web-Discovered Leads — Verify Before Applying (6)
-
-| Firm | Role | Source |
-|---|---|---|
-| EmployStats | [Economic Analyst Intern](https://career.cornell.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
-| EmployStats | [Economic Analyst Intern](https://careers.usf.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
-| EmployStats | [Economic Analyst Intern](https://mohr.uoregon.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
-| EmployStats | [Economic Analyst Intern – Career Hub](https://careerhub.students.duke.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
-| EmployStats | [Economic Analyst Intern – Tulane University](https://careerengagement.tulane.edu/jobs/employstats-economic-analyst-intern/) | Aggregator/web lead; verify on official site |
-| London Economics | [Job ID:14720 - Global Research 2027 Summer Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/14720/global-research-2027-summer-analyst-london-london-united-kingdom) | Aggregator/web lead; verify on official site |
-
 ## Entry-Level (Full-Time 2027) Analyst Roles
 
-47 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
+48 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (15)
+## ⛔ Closed In The Last 14 Days (16)
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| IQVIA (HEOR) | [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) | 2026-10-21 |
 | Berkeley Research Group | [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) | 2026-10-20 |
 | Charles River Associates | [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) | 2026-10-20 |
 | Ankura | [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Forensic-Data---Analytics_R104945) | 2026-10-15 |
@@ -324,4 +329,4 @@ _Secondary deadline Oct 12._
 | Stout | [Summer 2027 Intern - Disputes, Claims & Investigations: Philadelphia](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Philadelphia-PA/Summer-2027-Intern---Disputes--Claims---Investigations--Philadelphia_r2182) | 2026-10-07 |
 | Ankura | [University Intern, Sachs Policy Group](https://ankura.wd5.myworkdayjobs.com/Ankura/job/USA-NY-New-York-East-42nd-Street/University-Intern--Sachs-Policy-Group_R105073) | 2026-10-07 |
 
-_Generated by ECS on 2026-10-20. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-10-21. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

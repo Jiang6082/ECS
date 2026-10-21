@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-20T17:55:01.781Z
+Scan started: 2026-10-21T17:59:23.336Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -12,6 +12,7 @@ Canonical companies after aliases: 232
 | Cornerstone Research | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.cornerstone.com/careers/analyst/) |
 | Compass Lexecon | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.compasslexecon.com/careers/students-graduates) |
 | Charles River Associates | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.crai.com/cra-careers/jobs/) |
+| NERA Economic Consulting | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.nera.com/open-roles.html) |
 | The Brattle Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.brattle.com/careers/current-openings/) |
 | Berkeley Research Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.thinkbrg.com/careers/early-careers/) |
 | FTI Consulting (Economic Consulting) | Litigation, Antitrust & Damages | no saved page attempted | none |
@@ -20,10 +21,9 @@ Canonical companies after aliases: 232
 | Ankura | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://ankura.com/job-openings) |
 | Stout | Transfer Pricing & Valuation | 3/3 pages live | [link](https://www.stout.com/en/careers) [link](https://www.stout.com/en/careers/search) [link](https://stout.wd5.myworkdayjobs.com/Stout-Careers) |
 | Integra FEC | Litigation, Antitrust & Damages | 3/3 pages live | [link](https://www.integrafec.com/careers) [link](https://job-boards.greenhouse.io/integra) [link](https://job-boards.greenhouse.io/integra?gh_src=web3.career) |
-| EmployStats | Litigation, Antitrust & Damages | no saved page attempted | none |
 | J.S. Held | Litigation, Antitrust & Damages | 1/3 pages live | [link](https://www.jsheld.com/about-us/careers) [link](https://careers.smartrecruiters.com/JSHeldLLC) [link](https://www.jsheld.com/about-us/culture-community) |
+| Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
 | E.CA Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://e-ca.jobs.personio.de/) |
-| London Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
 | Aurora Energy Research | Energy & Environmental Economics | 1/1 pages live | [link](https://careers.auroraer.com/) |
 | Technopolis Group | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://technopolis-group.jobs.personio.com/) |
 | ICF | Policy & Research Economics | 1/1 pages live | [link](https://careers.icf.com/us/en) |
@@ -48,7 +48,7 @@ Canonical companies after aliases: 232
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
 
-## Confirmed Openings, No Matching Role (28)
+## Confirmed Openings, No Matching Role (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -58,7 +58,6 @@ Canonical companies after aliases: 232
 | Coherent Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://coherentecon.com/job-openings/) |
 | Fideres | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://job-boards.eu.greenhouse.io/fideres) |
 | HKA | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://careers.hka.com/) [link](https://careers.hka.com/jobs) |
-| Frontier Economics | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://frontier.edu/) |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
@@ -81,11 +80,10 @@ Canonical companies after aliases: 232
 | Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (170)
+## Could Not Fully Verify (171)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
-| NERA Economic Consulting | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.nera.com/open-roles.html) |
 | Bates White | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.bateswhite.com/careers/current-openings) |
 | Keystone Strategy | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.keystone.com/careers) |
 | Intensity | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://intensity.com/opening/analyst) |
@@ -114,6 +112,7 @@ Canonical companies after aliases: 232
 | Economic Consulting Services | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Empiris | Litigation, Antitrust & Damages | no saved page attempted | none |
 | BLDS | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.bldsrestaurant.net/menu/) |
+| EmployStats | Litigation, Antitrust & Damages | no saved page attempted | none |
 | ERS Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.ers.usda.gov/about-ers/careers-at-ers) |
 | Crowninshield Financial Research | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Stanford Consulting Group | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://www.stanford.edu/about) [link](https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/) |
@@ -137,6 +136,7 @@ Canonical companies after aliases: 232
 | Economic Insight | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.economic-insight.com/careers/) |
 | Europe Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CEPA | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.cepa.co.uk/careers/working-at-cepa) |
+| London Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
 | Cambridge Econometrics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.camecon.com/careers) |
 | Swiss Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.swiss-economics.ch/career.html) |
 | Polynomics | Competition & Regulatory (Europe) | no saved page attempted | none |
@@ -223,7 +223,7 @@ Canonical companies after aliases: 232
 | Christensen Associates Energy Consulting | Energy & Environmental Economics | 1/1 pages live | [link](https://www.caenergy.com/careers/) |
 | London Economics International | Energy & Environmental Economics | 1/1 pages live | [link](https://londoneconomics.com/careers) |
 | Concentric Energy Advisors | Energy & Environmental Economics | 1/1 pages live | [link](https://ceadvisors.com/careers/) |
-| ScottMadden | Energy & Environmental Economics | 1/1 pages live | [link](https://www.scottmadden.com/careers/) |
+| ScottMadden | Energy & Environmental Economics | 0/1 pages live | [link](https://www.scottmadden.com/careers/) |
 | Demand Side Analytics | Energy & Environmental Economics | 1/1 pages live | [link](https://demandsideanalytics.com/careers/) |
 | Resources for the Future | Energy & Environmental Economics | 1/1 pages live | [link](https://www.rff.org/careers/) |
 | Rhodium Group | Energy & Environmental Economics | no saved page attempted | none |
