@@ -1,51 +1,20 @@
 {
-  "generatedAt": "2026-10-21T18:01:27.306Z",
-  "previousScanAt": "2026-10-20T17:55:01.781Z",
-  "currentScanAt": "2026-10-21T17:59:23.336Z",
-  "previousRows": 120,
-  "currentRows": 119,
+  "generatedAt": "2026-10-22T17:59:04.310Z",
+  "previousScanAt": "2026-10-21T17:59:23.336Z",
+  "currentScanAt": "2026-10-22T17:57:01.147Z",
+  "previousRows": 119,
+  "currentRows": 117,
   "added": [
     {
-      "Company": "Charles River Associates",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d",
-      "Location": "Munich, Germany",
+      "Company": "Frontier Economics",
+      "Category": "Competition & Regulatory (Europe)",
+      "Title": "2027 Economic Analyst Intern (Long-term) - London",
+      "Location": "London",
       "Region": "Europe",
-      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673",
-      "Source": "Official ATS Greenhouse:charlesriverassociates",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Winter 2027 Co-op - The University of Waterloo",
-      "Location": "Remote",
-      "Region": "Remote / Unspecified",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Secretariat",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Intern, Damages and Valuations",
-      "Location": "München, Bavaria, Germany",
-      "Region": "Europe",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009",
-      "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
+      "URL": "https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239",
+      "Source": "Official ATS Workday:frontiereconomics/Frontier_Economics_Careers",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
-    {
-      "Company": "IQVIA (HEOR)",
-      "Category": "Health Economics & HEOR",
-      "Title": "Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838",
-      "Source": "Official ATS Workday:iqvia/IQVIA",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-20T17:55:01.781Z
-Current scan: 2026-10-21T17:59:23.336Z
-Previous rows: 120
-Current rows: 119
-New stable job URLs: 3
-No longer present: 1
+Previous scan: 2026-10-21T17:59:23.336Z
+Current scan: 2026-10-22T17:57:01.147Z
+Previous rows: 119
+Current rows: 117
+New stable job URLs: 1
+No longer present: 0
 
 ## New Roles By Region
 
@@ -13,10 +13,9 @@ No longer present: 1
 
 _None._
 
-### Europe (2)
+### Europe (1)
 
-- **Charles River Associates** - [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) - Munich, Germany - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates)
-- **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc)
+- **Frontier Economics** - [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) - London - Confirmed official posting (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers)
 
 ### Asia (0)
 
@@ -42,10 +41,10 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **J.S. Held** - [Winter 2027 Co-op - The University of Waterloo](https://jobs.smartrecruiters.com/JSHeldLLC/744000156072669) - Remote - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC)
+_None._
 
 ## No Longer Present
 
-- **IQVIA (HEOR)** - [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838)
+_None._

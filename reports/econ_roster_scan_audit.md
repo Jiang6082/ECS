@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-21T17:59:23.336Z
+Scan started: 2026-10-22T17:57:01.147Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -199,7 +199,7 @@ Canonical companies after aliases: 232
 | Infometrics | Economic Consulting (APAC) | no saved page attempted | none |
 | BERL | Economic Consulting (APAC) | no saved page attempted | none |
 | Asia Competition Associates | Economic Consulting (APAC) | no saved page attempted | none |
-| Mathematica | Policy & Research Economics | 1/1 pages live | [link](https://careers.mathematica.org/search-jobs) |
+| Mathematica | Policy & Research Economics | 0/1 pages live | [link](https://careers.mathematica.org/search-jobs) |
 | Industrial Economics (IEc) | Policy & Research Economics | 1/1 pages live | [link](https://indecon.com/open-positions/) |
 | RTI International | Policy & Research Economics | 1/1 pages live | [link](https://careers.rti.org/jobs) |
 | Westat | Policy & Research Economics | 1/1 pages live | [link](https://www.westat.com/careers/) |
@@ -223,7 +223,7 @@ Canonical companies after aliases: 232
 | Christensen Associates Energy Consulting | Energy & Environmental Economics | 1/1 pages live | [link](https://www.caenergy.com/careers/) |
 | London Economics International | Energy & Environmental Economics | 1/1 pages live | [link](https://londoneconomics.com/careers) |
 | Concentric Energy Advisors | Energy & Environmental Economics | 1/1 pages live | [link](https://ceadvisors.com/careers/) |
-| ScottMadden | Energy & Environmental Economics | 0/1 pages live | [link](https://www.scottmadden.com/careers/) |
+| ScottMadden | Energy & Environmental Economics | 1/1 pages live | [link](https://www.scottmadden.com/careers/) |
 | Demand Side Analytics | Energy & Environmental Economics | 1/1 pages live | [link](https://demandsideanalytics.com/careers/) |
 | Resources for the Future | Energy & Environmental Economics | 1/1 pages live | [link](https://www.rff.org/careers/) |
 | Rhodium Group | Energy & Environmental Economics | no saved page attempted | none |

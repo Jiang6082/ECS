@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-21T17:59:23.336Z",
+  "searchedAt": "2026-10-22T17:57:01.147Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1056,15 +1056,15 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 112
+          "jobsSeen": 110
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 112,
-      "relevantRoles": 6
+      "jobsSeen": 110,
+      "relevantRoles": 5
     },
     {
       "company": "J.S. Held",
@@ -1261,10 +1261,10 @@
       "boards": [
         {
           "source": "Personio:copenhagen-economics",
-          "jobsSeen": 1
+          "jobsSeen": 2
         }
       ],
-      "jobsSeen": 1,
+      "jobsSeen": 2,
       "relevantRoles": 0
     },
     {
@@ -1346,11 +1346,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 101
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 101,
-      "relevantRoles": 7
+      "jobsSeen": 95,
+      "relevantRoles": 6
     },
     {
       "company": "Cornwall Insight",
@@ -1683,10 +1683,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 110
+          "jobsSeen": 108
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 108,
       "relevantRoles": 0
     },
     {
@@ -2011,8 +2011,8 @@
       "company": "Mathematica",
       "pageUrl": "https://careers.mathematica.org/search-jobs",
       "resolvedUrl": "https://careers.mathematica.org/search-jobs",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2158,10 +2158,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -2562,10 +2562,12 @@
       "company": "ScottMadden",
       "pageUrl": "https://www.scottmadden.com/careers/",
       "resolvedUrl": "https://www.scottmadden.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "ultipro"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2805,10 +2807,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 687
+          "jobsSeen": 693
         }
       ],
-      "jobsSeen": 687,
+      "jobsSeen": 693,
       "relevantRoles": 3
     },
     {
@@ -2829,10 +2831,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 682
+          "jobsSeen": 200
         }
       ],
-      "jobsSeen": 682,
+      "jobsSeen": 200,
       "relevantRoles": 0
     },
     {
@@ -3093,10 +3095,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 10
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -3128,7 +3130,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 15
+          "jobsSeen": 17
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -3139,7 +3141,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -3160,10 +3162,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1018
+          "jobsSeen": 1019
         }
       ],
-      "jobsSeen": 1018,
+      "jobsSeen": 1019,
       "relevantRoles": 1
     },
     {
@@ -3312,7 +3314,7 @@
     {
       "company": "Health Advances",
       "pageUrl": "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true",
-      "resolvedUrl": "https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true",
+      "resolvedUrl": "https://apply.clearcompany.com/healthadvances?noheader=False",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
