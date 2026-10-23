@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 44
-Last updated: 2026-10-22T17:57:01.147Z
+Total closures recorded: 45
+Last updated: 2026-10-23T08:46:21.611Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-23 (1)
+
+- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) - Tokyo, Japan
 
 ### 2026-10-21 (1)
 

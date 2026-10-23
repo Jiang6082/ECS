@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T17:59:04.271Z",
-  "scanStartedAt": "2026-10-22T17:57:01.147Z",
+  "generatedAt": "2026-10-23T08:48:19.222Z",
+  "scanStartedAt": "2026-10-23T08:46:21.611Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -806,7 +806,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 110,
+      "jobsSeen": 109,
       "relevantRoles": 5
     },
     {
@@ -1141,8 +1141,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 95,
-      "relevantRoles": 6
+      "jobsSeen": 97,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1404,7 +1404,7 @@
       "careerPages": [
         "https://volterrakirkland.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1496,7 +1496,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 108,
+      "jobsSeen": 110,
       "relevantRoles": 0
     },
     {
@@ -2904,7 +2904,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 693,
+      "jobsSeen": 692,
       "relevantRoles": 3
     },
     {
@@ -2919,7 +2919,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 200,
+      "jobsSeen": 675,
       "relevantRoles": 0
     },
     {
@@ -3218,7 +3218,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1019,
+      "jobsSeen": 1011,
       "relevantRoles": 1
     },
     {

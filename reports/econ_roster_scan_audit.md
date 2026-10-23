@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-22T17:57:01.147Z
+Scan started: 2026-10-23T08:46:21.611Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -151,7 +151,7 @@ Canonical companies after aliases: 232
 | DotEcon | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dotecon.com/careers) |
 | Cebr | Macro & Economic Research | 1/1 pages live | [link](https://cebr.com/join-the-team/) |
 | Pantheon Macroeconomics | Macro & Economic Research | no saved page attempted | none |
-| Volterra Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://volterrakirkland.com/) |
+| Volterra Partners | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://volterrakirkland.com/) |
 | Plum Consulting | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Aldwych Partners | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indepen | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://indepenn.com/) |

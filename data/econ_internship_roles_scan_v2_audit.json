@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-22T17:57:01.147Z",
+  "searchedAt": "2026-10-23T08:46:21.611Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1056,14 +1056,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 110
+          "jobsSeen": 109
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 109,
       "relevantRoles": 5
     },
     {
@@ -1346,11 +1346,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 95
+          "jobsSeen": 97
         }
       ],
-      "jobsSeen": 95,
-      "relevantRoles": 6
+      "jobsSeen": 97,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1546,8 +1546,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1683,10 +1683,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 108
+          "jobsSeen": 110
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 110,
       "relevantRoles": 0
     },
     {
@@ -2807,10 +2807,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 693
+          "jobsSeen": 692
         }
       ],
-      "jobsSeen": 693,
+      "jobsSeen": 692,
       "relevantRoles": 3
     },
     {
@@ -2831,10 +2831,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 200
+          "jobsSeen": 675
         }
       ],
-      "jobsSeen": 200,
+      "jobsSeen": 675,
       "relevantRoles": 0
     },
     {
@@ -3162,10 +3162,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1019
+          "jobsSeen": 1011
         }
       ],
-      "jobsSeen": 1019,
+      "jobsSeen": 1011,
       "relevantRoles": 1
     },
     {

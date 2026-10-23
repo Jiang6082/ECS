@@ -1,20 +1,31 @@
 {
-  "generatedAt": "2026-10-22T17:59:04.310Z",
-  "previousScanAt": "2026-10-21T17:59:23.336Z",
-  "currentScanAt": "2026-10-22T17:57:01.147Z",
-  "previousRows": 119,
+  "generatedAt": "2026-10-23T08:48:19.262Z",
+  "previousScanAt": "2026-10-22T17:57:01.147Z",
+  "currentScanAt": "2026-10-23T08:46:21.611Z",
+  "previousRows": 117,
   "currentRows": 117,
   "added": [
     {
-      "Company": "Frontier Economics",
-      "Category": "Competition & Regulatory (Europe)",
-      "Title": "2027 Economic Analyst Intern (Long-term) - London",
-      "Location": "London",
-      "Region": "Europe",
-      "URL": "https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239",
-      "Source": "Official ATS Workday:frontiereconomics/Frontier_Economics_Careers",
+      "Company": "PRECISIONheor (Precision AQ)",
+      "Category": "Health Economics & HEOR",
+      "Title": "Intern, Health Economics and Outcomes Research",
+      "Location": "Remote, Canada",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/precisionaq/jobs/6231563004",
+      "Source": "Official ATS Greenhouse:precisionaq",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Research Intern (長期インターン)",
+      "Location": "Tokyo, Japan",
+      "Region": "Asia",
+      "URL": "https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

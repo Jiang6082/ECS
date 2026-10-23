@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-22T17:57:01.147Z
+Last updated: 2026-10-23T08:46:21.611Z
 
 ## Summary
 
@@ -9,7 +9,7 @@ Last updated: 2026-10-22T17:57:01.147Z
 - Current internship roles: 117
 - Entry-level analyst roles: 47 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 1
-- No longer present since previous scan: 0
+- No longer present since previous scan: 1
 - Firms with matching roles: 29
 - Confirmed no open postings: 5
 - Openings but no matching role: 27
@@ -20,21 +20,21 @@ Last updated: 2026-10-22T17:57:01.147Z
 - Litigation, Antitrust & Damages: 83
 - Health Economics & HEOR: 9
 - Transfer Pricing & Valuation: 6
-- Big 4 & Advisory Economics: 6
 - Competition & Regulatory (Europe): 5
-- Energy & Environmental Economics: 3
+- Big 4 & Advisory Economics: 5
+- Energy & Environmental Economics: 4
 - Macro & Economic Research: 3
 - Policy & Research Economics: 2
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
+
+- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) - Remote, Canada
+
+### Europe (0)
 
 _None._
-
-### Europe (1)
-
-- **Frontier Economics** - [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) - London
 
 ### Asia (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) - Tokyo, Japan
 
 ## Full Reports
 

@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-22T17:55:08.804Z
+Scanned: 2026-10-23T08:44:34.016Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
 Internship roles: 110
@@ -37,6 +37,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Ankura** — [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) — New York, NY (Official ATS Workday:ankura/Ankura; timing not stated in title)
 - **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
+- **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) — Los Angeles, CA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **Berkeley Research Group** — [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) — Chicago, IL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
@@ -91,7 +92,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) — Palermo (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) — Milan (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers; timing: Off-Cycle)
-- **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) — 2 Locations (Official ATS Workday:pwc/US_Entry_Level_Careers; timing: Summer 2027)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) — Genève (Official ATS Workday:pwc/Global_Campus_Careers; timing: 2027)
 - **RCLCO** — [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) — Austin / Los Angeles / Washington, D.C. (Official ATS Greenhouse:rclco; timing: 2027 Summer)
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) — Los Angeles, California, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
