@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-23T08:44:34.016Z
+Scanned: 2026-10-23T08:50:27.385Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
 Internship roles: 110

@@ -1,7 +1,7 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-22T17:57:01.147Z
-Current scan: 2026-10-23T08:46:21.611Z
+Previous scan: 2026-10-23T08:46:21.611Z
+Current scan: 2026-10-23T08:52:34.454Z
 Previous rows: 117
 Current rows: 117
 New stable job URLs: 1
@@ -9,17 +9,17 @@ No longer present: 1
 
 ## New Roles By Region
 
-### North America (1)
+### North America (0)
 
-- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) - Remote, Canada - Confirmed official posting (Official ATS Greenhouse:precisionaq)
+_None._
 
 ### Europe (0)
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com)
 
 ### Oceania (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099)
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD)

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T08:48:19.222Z",
-  "scanStartedAt": "2026-10-23T08:46:21.611Z",
+  "generatedAt": "2026-10-23T08:54:17.761Z",
+  "scanStartedAt": "2026-10-23T08:52:34.454Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -3018,7 +3018,7 @@
       "careerPages": [
         "https://www.kpmgcareers.co.uk/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3218,7 +3218,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1011,
+      "jobsSeen": 1012,
       "relevantRoles": 1
     },
     {

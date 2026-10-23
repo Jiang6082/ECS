@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-23T08:46:21.611Z
+Scan started: 2026-10-23T08:52:34.454Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -240,7 +240,7 @@ Canonical companies after aliases: 232
 | Andersen (Transfer Pricing) | Transfer Pricing & Valuation | no saved page attempted | none |
 | Economics Partners | Transfer Pricing & Valuation | no saved page attempted | none |
 | Deloitte UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) |
-| KPMG UK Economics | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
+| KPMG UK Economics | Big 4 & Advisory Economics | 0/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
 | EY UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
 | Grant Thornton UK Economic Consulting | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/) |
 | KPMG Singapore Economics & Regulation | Big 4 & Advisory Economics | 3/3 pages live | [link](https://kpmg.com/us/en.html) [link](https://www.kpmguscareers.com/early-career/) [link](https://www.kpmguscareers.com/job-search/) |

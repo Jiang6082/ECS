@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-10-23T08:48:19.262Z",
-  "previousScanAt": "2026-10-22T17:57:01.147Z",
-  "currentScanAt": "2026-10-23T08:46:21.611Z",
+  "generatedAt": "2026-10-23T08:54:17.811Z",
+  "previousScanAt": "2026-10-23T08:46:21.611Z",
+  "currentScanAt": "2026-10-23T08:52:34.454Z",
   "previousRows": 117,
   "currentRows": 117,
   "added": [
-    {
-      "Company": "PRECISIONheor (Precision AQ)",
-      "Category": "Health Economics & HEOR",
-      "Title": "Intern, Health Economics and Outcomes Research",
-      "Location": "Remote, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/precisionaq/jobs/6231563004",
-      "Source": "Official ATS Greenhouse:precisionaq",
-      "Status": "Confirmed official posting"
-    }
-  ],
-  "removed": [
     {
       "Company": "Aurora Energy Research",
       "Category": "Energy & Environmental Economics",
       "Title": "Research Intern (長期インターン)",
       "Location": "Tokyo, Japan",
       "Region": "Asia",
-      "URL": "https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099",
+      "URL": "https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534",
       "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
+      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
       "Status": "Confirmed official posting"
     }
   ]

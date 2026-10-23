@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-23T08:46:21.611Z",
+  "searchedAt": "2026-10-23T08:52:34.454Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -2905,8 +2905,8 @@
       "company": "KPMG UK Economics",
       "pageUrl": "https://www.kpmgcareers.co.uk/",
       "resolvedUrl": "https://www.kpmgcareers.co.uk/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3162,10 +3162,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1011
+          "jobsSeen": 1012
         }
       ],
-      "jobsSeen": 1011,
+      "jobsSeen": 1012,
       "relevantRoles": 1
     },
     {

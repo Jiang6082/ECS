@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-23T08:46:21.611Z
+Last updated: 2026-10-23T08:52:34.454Z
 
 ## Summary
 
@@ -28,17 +28,17 @@ Last updated: 2026-10-23T08:46:21.611Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) - Remote, Canada
+_None._
 
 ### Europe (0)
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan
 
 ### Oceania (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) - Tokyo, Japan
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
 
 ## Full Reports
 

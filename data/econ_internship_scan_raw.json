@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T08:44:34.016Z",
+  "scannedAt": "2026-10-23T08:50:27.385Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -1423,12 +1423,12 @@
           "source": "Greenhouse:alixpartners",
           "origin": "seeded",
           "ok": true,
-          "count": 128
+          "count": 127
         }
       ],
-      "jobsSeen": 128,
+      "jobsSeen": 127,
       "rejected": {
-        "outside firm scope (econ)": 81,
+        "outside firm scope (econ)": 80,
         "non-economics function": 13,
         "non-economics practice": 17,
         "not an internship or entry-level role": 17
@@ -1443,15 +1443,15 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 781
+          "count": 782
         }
       ],
-      "jobsSeen": 781,
+      "jobsSeen": 782,
       "rejected": {
+        "non-economics function": 49,
         "outside firm scope (econ)": 673,
         "not an internship or entry-level role": 34,
-        "non-economics practice": 26,
-        "non-economics function": 48
+        "non-economics practice": 26
       },
       "matches": []
     },
@@ -1603,13 +1603,13 @@
           "source": "Workday:hl/Campus",
           "origin": "seeded",
           "ok": true,
-          "count": 18
+          "count": 19
         }
       ],
-      "jobsSeen": 18,
+      "jobsSeen": 19,
       "rejected": {
-        "outside firm scope (dispute)": 7,
-        "non-economics practice": 11
+        "non-economics practice": 12,
+        "outside firm scope (dispute)": 7
       },
       "matches": []
     },
@@ -3718,10 +3718,10 @@
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1356
+          "count": 1357
         }
       ],
-      "jobsSeen": 1409,
+      "jobsSeen": 1410,
       "rejected": {
         "non-economics practice": 200,
         "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1084,
@@ -4080,17 +4080,16 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1897
+          "count": 1899
         }
       ],
-      "jobsSeen": 1897,
+      "jobsSeen": 1899,
       "rejected": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1692,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1696,
         "non-economics function": 140,
         "not an internship or entry-level role": 47,
         "non-economics practice": 13,
-        "recruiting event / talent pool": 1,
-        "empty title": 1
+        "recruiting event / talent pool": 1
       },
       "matches": [
         {
