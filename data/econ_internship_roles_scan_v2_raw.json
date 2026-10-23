@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-23T08:58:42.561Z",
+  "searchedAt": "2026-10-23T17:51:43.910Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-23T08:58:42.562Z",
+    "generatedAt": "2026-10-23T17:51:43.912Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -1291,8 +1291,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Potomac Economics": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://potomac.edu/students/"
+        ],
+        "updatedAt": "2026-10-23T17:51:43.912Z"
       },
       "Monitoring Analytics": {
         "careerPages": [],
@@ -2185,6 +2187,10 @@
       "pageUrl": "https://www.rff.org/careers/"
     },
     {
+      "company": "Potomac Economics",
+      "pageUrl": "https://potomac.edu/students/"
+    },
+    {
       "company": "Opinion Dynamics",
       "pageUrl": "https://opiniondynamics.com/job-openings/"
     },
@@ -2396,14 +2402,14 @@
       "boards": [
         {
           "source": "iCIMS:datasciencecareers-analysisgroup",
-          "jobsSeen": 0
+          "jobsSeen": 3
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
           "jobsSeen": 12
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -2761,10 +2767,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 34
+          "jobsSeen": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -2793,10 +2799,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 34
+          "jobsSeen": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -3133,14 +3139,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 109
+          "jobsSeen": 110
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 109,
+      "jobsSeen": 110,
       "relevantRoles": 5
     },
     {
@@ -3219,8 +3225,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3231,8 +3237,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3423,10 +3429,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 97
+          "jobsSeen": 99
         }
       ],
-      "jobsSeen": 97,
+      "jobsSeen": 99,
       "relevantRoles": 7
     },
     {
@@ -3623,8 +3629,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3756,10 +3762,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 110
+          "jobsSeen": 111
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 111,
       "relevantRoles": 0
     },
     {
@@ -3878,8 +3884,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4635,12 +4641,10 @@
       "company": "ScottMadden",
       "pageUrl": "https://www.scottmadden.com/careers/",
       "resolvedUrl": "https://www.scottmadden.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
-      "unsupportedAts": [
-        "ultipro"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -4734,6 +4738,18 @@
       "company": "Resources for the Future",
       "pageUrl": "https://www.rff.org/careers/",
       "resolvedUrl": "https://www.rff.org/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Potomac Economics",
+      "pageUrl": "https://potomac.edu/students/",
+      "resolvedUrl": "https://potomac.edu/students/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -4880,10 +4896,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 692
+          "jobsSeen": 689
         }
       ],
-      "jobsSeen": 692,
+      "jobsSeen": 689,
       "relevantRoles": 3
     },
     {
@@ -4904,10 +4920,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 675
+          "jobsSeen": 684
         }
       ],
-      "jobsSeen": 675,
+      "jobsSeen": 684,
       "relevantRoles": 0
     },
     {
@@ -5168,18 +5184,18 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 11
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
       "company": "Genesis Research Group",
       "pageUrl": "https://genesisrg.com/careers/",
       "resolvedUrl": "https://genesisrg.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -5235,10 +5251,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1012
+          "jobsSeen": 1023
         }
       ],
-      "jobsSeen": 1012,
+      "jobsSeen": 1023,
       "relevantRoles": 1
     },
     {
@@ -5944,19 +5960,6 @@
       "Company": "Ankura",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "Part Time Intern, Disputes & Economics - Intellectual Property",
-      "Location": "Ann Arbor, MI",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 23 Days Ago",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
       "Title": "University Intern, Disputes & Economics",
       "Location": "Los Angeles, CA",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987",
@@ -6550,19 +6553,6 @@
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
-    },
-    {
-      "Company": "Frontier Economics",
-      "Category": "Competition & Regulatory (Europe)",
-      "Track": "Internship",
-      "Title": "2027 Economic Analyst Intern (Long-term) - London",
-      "Location": "London",
-      "URL": "https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239",
-      "Source": "Official ATS Workday:frontiereconomics/Frontier_Economics_Careers",
-      "PostedAt": "Posted Yesterday",
-      "Notes": "timing: 2027",
-      "Status": "Confirmed official posting",
-      "Region": "Europe"
     },
     {
       "Company": "FTI Consulting (Economic Consulting)",
@@ -7698,6 +7688,19 @@
       "Region": "North America"
     },
     {
+      "Company": "Lightcast",
+      "Category": "Policy & Research Economics",
+      "Track": "Entry-level",
+      "Title": "Economic Research Analyst / Junior Data Scientist - 1089",
+      "Location": "Moscow, ID",
+      "URL": "https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277",
+      "Source": "Official ATS Lever:economicmodeling",
+      "PostedAt": "2026-09-25T21:53:01.053Z",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Remote / Unspecified"
+    },
+    {
       "Company": "NERA Economic Consulting",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
@@ -7735,19 +7738,6 @@
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Entry-level",
-      "Title": "Research Analyst (Economics and Finance) - July 2027",
-      "Location": "Boston, Massachusetts, United States",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "PostedAt": "2026-08-14T16:44:10-04:00",
-      "Notes": "timing: 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
     },
     {
       "Company": "The Brattle Group",
@@ -7969,6 +7959,7 @@
     "Fideres",
     "Finnerty Economic Consulting",
     "First Economics",
+    "Frontier Economics",
     "Frontier Economics Australia",
     "Genesis Research Group",
     "Georgetown Economic Services",
@@ -8104,12 +8095,14 @@
     "Eastern Research Group",
     "Fathom Consulting",
     "Fideres",
+    "Frontier Economics",
     "Grant Thornton (Transfer Pricing / Economics)",
     "Guidehouse",
     "HKA",
     "HR&A Advisors",
     "Health Management Associates",
     "Houlihan Lokey (Dispute Resolution Consulting)",
+    "Lightcast",
     "Lumanity",
     "Nous Group",
     "S&P Global (Economics)",
@@ -8223,7 +8216,6 @@
     "LCP Delta",
     "Lear",
     "Lexonomics",
-    "Lightcast",
     "LitiNomics",
     "London Economics",
     "London Economics International",

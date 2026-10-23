@@ -1,9 +1,9 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-23T08:52:34.454Z
-Current scan: 2026-10-23T08:58:42.561Z
+Previous scan: 2026-10-23T08:58:42.561Z
+Current scan: 2026-10-23T17:51:43.910Z
 Previous rows: 117
-Current rows: 117
+Current rows: 115
 New stable job URLs: 0
 No longer present: 0
 

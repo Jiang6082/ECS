@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-23 08:58 UTC · **117 roles confirmed live on official job boards** across 29 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-23 17:51 UTC · **115 roles confirmed live on official job boards** across 28 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (117)
+## ✅ Confirmed Live On Official Job Boards (115)
 
 ### Analysis Group (14)
 
@@ -30,11 +30,10 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) \| Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) | Montreal, QC, CA \| Toronto, ON, CA | North America |
 | [Summer Research Professional Intern-Health Care (HEOR, Epidemiology & Market Access) -Montreal/Toronto (2027 Start Date) \| Stage d'été-Professionnel de recherche-Économie de la santé, biostatistique, et épidémiologie - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3065/job) | Montreal, QC, CA \| Toronto, ON, CA | North America |
 
-### Ankura (11)
+### Ankura (10)
 
 | Role | Location | Region |
 |---|---|---|
-| [Part Time Intern, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072) | Ann Arbor, MI | North America |
 | [University Intern, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987) | Los Angeles, CA | North America |
 | [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990) | New York, NY | North America |
 | [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991) | Washington D.C. | North America |
@@ -133,12 +132,6 @@ _Resume review began Oct 15 and is rolling._
 | Role | Location | Region |
 |---|---|---|
 | [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) | San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta | North America |
-
-### Frontier Economics (1)
-
-| Role | Location | Region |
-|---|---|---|
-| [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) | London | Europe |
 
 ### FTI Consulting (Economic Consulting) (4)
 
@@ -298,7 +291,7 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 46 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (14)
+## ⛔ Closed In The Last 14 Days (8)
 
 | Firm | Role | Detected closed |
 |---|---|---|
@@ -310,11 +303,5 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | RSM (Transfer Pricing) | [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Detroit/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR121218) | 2026-10-13 |
 | Ankura | [Internship 2027, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/UAE-Dubai-DIFC/Internship-2027--Disputes---Economics_R105055) | 2026-10-11 |
 | RSM (Transfer Pricing) | [International Tax Transfer Pricing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) | 2026-10-09 |
-| BDO (Transfer Pricing) | [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13875) | 2026-10-09 |
-| Stout | [Summer 2027 Intern - Disputes Claims & Investigations: Chicago](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-1) | 2026-10-09 |
-| Stout | [Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-1) | 2026-10-09 |
-| Stout | [Summer 2027 Intern - Disputes, Claims & Investigations: San Diego](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-1) | 2026-10-09 |
-| Stout | [Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-1) | 2026-10-09 |
-| BDO (Transfer Pricing) | [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13832) | 2026-10-09 |
 
 _Generated by ECS on 2026-10-23. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

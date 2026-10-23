@@ -1,11 +1,11 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-10-23T08:58:42.561Z
+Scanned: 2026-10-23T17:51:43.910Z
 Roles: 46
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
-### North America (33)
+### North America (32)
 
 - **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | San Francisco, CA, US | Washington, DC, DC, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -30,7 +30,6 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) - Atlanta, GA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/Ma1YoqlgoV/Research-Analyst-Real-Estate) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **J.S. Held** - [Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)](https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910) - San Francisco, CA, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
-- **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720807005) - Boston, Massachusetts, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720808005) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005) - San Francisco, California, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005) - New York, New York, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
@@ -77,7 +76,8 @@ _None._
 
 - **The Brattle Group** - [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) - Sydney, New South Wales, Australia - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing not stated in title; graduation years mentioned: 2027
 
-### Remote / Unspecified (2)
+### Remote / Unspecified (3)
 
+- **Lightcast** - [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) - Moscow, ID - Confirmed official posting (Official ATS Lever:economicmodeling): timing not stated in title
 - **NERA Economic Consulting** - [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) - 6 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: Summer 2027
 - **Stout** - [Analyst, Business Valuation (New Grad – Irvine)](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Irvine-CA/Analyst--Business-Valuation--New-Grad---Irvine-_r2141) - Confirmed official posting (Official ATS Workday:stout/Stout-Student-Careers): timing not stated in title

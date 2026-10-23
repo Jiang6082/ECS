@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:58:42.562Z",
+  "generatedAt": "2026-10-23T17:51:43.912Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -1055,8 +1055,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Potomac Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://potomac.edu/students/"
+      ],
+      "updatedAt": "2026-10-23T17:51:43.912Z"
     },
     "Monitoring Analytics": {
       "careerPages": [],
