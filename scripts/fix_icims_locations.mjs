@@ -19,7 +19,7 @@ function jsonLdLocation(html) {
       const locs = Array.isArray(item.jobLocation) ? item.jobLocation : [item.jobLocation].filter(Boolean);
       const names = locs.map((l) => {
         const a = l?.address || {};
-        return [a.addressLocality, a.addressRegion, typeof a.addressCountry === "string" ? a.addressCountry : a.addressCountry?.name].filter(Boolean).join(", ");
+        return [a.addressLocality, a.addressRegion, typeof a.addressCountry === "string" ? a.addressCountry : a.addressCountry?.name].filter((v) => v && !/^unavailable$/i.test(String(v).trim())).join(", ");
       }).filter(Boolean);
       if (names.length) return [...new Set(names)].join(" | ");
     }
