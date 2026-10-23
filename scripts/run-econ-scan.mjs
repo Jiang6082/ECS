@@ -49,6 +49,7 @@ console.log(`Using Node: ${process.execPath}`);
 console.log(`Running scan mode: ${mode}`);
 
 await run("scan_econ_internships.mjs");
+await run("fix_icims_locations.mjs");
 if (["v2", "all"].includes(mode)) {
   await run("expand_econ_internship_search.mjs", passThrough);
   await run("build_econ_roster_scan_audit.mjs");
