@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-23T08:50:27.385Z
+Scanned: 2026-10-23T08:56:30.036Z
 Firms in universe: 232
-Firms with at least one live ATS board: 59
+Firms with at least one live ATS board: 58
 Internship roles: 110
-Entry-level analyst roles: 44
+Entry-level analyst roles: 43
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -152,7 +152,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) — Atlanta, GA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/Ma1YoqlgoV/Research-Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
-- **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) — Moscow, ID (Official ATS Lever:economicmodeling)
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers)
 - **Stout** — [Analyst, Business Valuation (New Grad – Irvine)](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Irvine-CA/Analyst--Business-Valuation--New-Grad---Irvine-_r2141) — Location not listed (Official ATS Workday:stout/Stout-Student-Careers)
@@ -297,6 +296,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - Keyser Marston Associates
 - TischlerBise
 - EBP US
+- Lightcast
 - MDRC
 - Econometrica
 - L&M Policy Research

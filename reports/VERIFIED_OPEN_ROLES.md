@@ -1,6 +1,6 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-23 08:52 UTC · **117 roles confirmed live on official job boards** across 29 firms · **14 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-23 08:58 UTC · **117 roles confirmed live on official job boards** across 29 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
@@ -15,12 +15,12 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 
 | Role | Location | Region |
 |---|---|---|
-| [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) | Brussels, UNAVAILABLE, BE | Europe |
-| [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) | Paris, UNAVAILABLE, FR | Europe |
-| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) | Beijing, UNAVAILABLE, CN | Asia |
-| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) | London, UNAVAILABLE, UK | Europe |
-| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) | Paris, UNAVAILABLE, FR | Europe |
-| [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) | London, UNAVAILABLE, UK | Europe |
+| [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) | Brussels, BE | Europe |
+| [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) | Paris, FR | Europe |
+| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) | Beijing, CN | Asia |
+| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) | London, UK | Europe |
+| [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) | Paris, FR | Europe |
+| [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) | London, UK | Europe |
 | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) | Montreal, QC, CA \| Toronto, ON, CA | North America |
 | [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) | Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US | North America |
 | [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) | Boston, MA, US \| Chicago, IL, US \| Dallas, TX, US \| Denver, CO, US \| Los Angeles, CA, US \| New York, NY, US \| San Francisco, CA, US \| Washington, DC, DC, US | North America |
@@ -63,8 +63,6 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 
 ### Berkeley Research Group (4)
 
-_US 2027 Summer Associate final deadline Oct 16._
-
 | Role | Location | Region |
 |---|---|---|
 | [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | Chicago, IL | North America |
@@ -74,15 +72,13 @@ _US 2027 Summer Associate final deadline Oct 16._
 
 ### Capital Economics (1)
 
-_Graduate Economist (Sept 2027) deadline Oct 16._
-
 | Role | Location | Region |
 |---|---|---|
 | [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) | London, England, United Kingdom | Europe |
 
 ### Charles River Associates (8)
 
-_Resume review begins around Oct 15._
+_Resume review began Oct 15 and is rolling._
 
 | Role | Location | Region |
 |---|---|---|
@@ -96,8 +92,6 @@ _Resume review begins around Oct 15._
 | [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) | Munich, Germany | Europe |
 
 ### Compass Lexecon (13)
-
-_US applications opened Sep 14; virtual info session Oct 7._
 
 | Role | Location | Region |
 |---|---|---|
@@ -255,7 +249,7 @@ _US applications opened Sep 14; virtual info session Oct 7._
 
 ### The Brattle Group (8)
 
-_Secondary deadline Oct 12._
+_Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are still live on Brattle's board._
 
 | Role | Location | Region |
 |---|---|---|
@@ -283,28 +277,26 @@ _Secondary deadline Oct 12._
 |---|---|---|
 | [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) | Washington, DC | North America |
 
-## 🟡 Hand-Checked Roles (14)
+## 🟡 Hand-Checked Roles (12)
 
 | Firm | Role | Location | Status | Checked | Notes |
 |---|---|---|---|---|---|
-| Berkeley Research Group | [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/XMLNAME-2027-Summer-Associate--Intern-_JR100976) | Washington, DC / New York + other US offices | Open | 2026-09-27 | Final deadline Oct 16 |
-| KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Transfer Pricing \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137278) | Multiple US locations | Open | 2026-09-27 | Rolling |
-| KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Valuation \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137279) | Multiple US locations | Open | 2026-09-27 | Rolling until filled |
-| Kroll | [Intern, Expert Services (Summer 2027) - New York](https://careers.kroll.com/en/job/new-york/intern-expert-services/21015015) | New York, NY | Open | 2026-09-27 | Litigation damages / expert services |
-| Kroll | [Intern, Expert Services (Summer 2027) - Boston](https://careers.kroll.com/en/job/boston/intern-expert-services/21015012) | Boston, MA | Open | 2026-09-27 |  |
-| Bates White | [Summer Consultant (2027)](https://www.bateswhite.com/careers/current-openings) | Washington, DC | Likely open - confirm | 2026-09-27 | Rolling; apply via the site's viRecruit link |
-| Keystone Strategy | [2027 Summer Associate / Summer Consultant](https://www.keystone.com/careers) | Boston / New York | Likely open - confirm | 2026-09-27 | Firm says it is recruiting for Summer 2027 |
-| RSM (Transfer Pricing) | [International Tax Transfer Pricing Intern - Summer 2027](https://rsmus.com/careers/starting-your-career/internships.html) | Multiple US incl. Boston | Likely open - confirm | 2026-09-27 | Seen on aggregators only |
-| Oxera | [Intern - Competition](https://careers.oxera.com/jobs/6338765-intern-competition) | UK + European offices | Likely open - confirm | 2026-09-27 | UK/FR/BE round usually closes end of October |
-| Oxera | [Intern - Finance and Valuation](https://careers.oxera.com/jobs/6338900-intern-finance-and-valuation) | UK + European offices | Likely open - confirm | 2026-09-27 |  |
-| Oxera | [Intern - Analytics](https://careers.oxera.com/jobs/6338892-intern-analytics) | UK + European offices | Likely open - confirm | 2026-09-27 |  |
+| KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Economic Services \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137275) | Multiple US locations | Open | 2026-10-23 | Economics/statistics track (Stata, R, Python) |
+| KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Transfer Pricing \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137278) | Multiple US locations | Open | 2026-10-23 | Rolling |
+| KPMG (Economic & Valuation Services) | [Intern, Economic Valuation Services - Valuation \| Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=137279) | Multiple US locations | Open | 2026-10-23 | Rolling until filled |
+| Kroll | [Intern, Expert Services (Summer 2027) - New York](https://careers.kroll.com/en/job/new-york/intern-expert-services/21015015) | New York, NY | Open | 2026-10-23 | Litigation damages / expert services |
+| Kroll | [Intern, Expert Services (Summer 2027) - Boston](https://careers.kroll.com/en/job/boston/intern-expert-services/21015012) | Boston, MA | Open | 2026-10-23 |  |
+| Bates White | [Summer Consultant (2027)](https://www.bateswhite.com/careers/current-openings) | Washington, DC | Likely open - confirm | 2026-10-23 | Rolling; apply via the site's viRecruit link |
+| Oxera | [Intern - Competition](https://careers.oxera.com/jobs/6338765-intern-competition) | UK + European offices | Likely open - confirm | 2026-10-23 | UK/FR/BE round usually closes end of October |
+| Oxera | [Intern - Finance and Valuation](https://careers.oxera.com/jobs/6338900-intern-finance-and-valuation) | UK + European offices | Likely open - confirm | 2026-10-23 |  |
+| Oxera | [Intern - Analytics](https://careers.oxera.com/jobs/6338892-intern-analytics) | UK + European offices | Likely open - confirm | 2026-10-23 |  |
 | RBB Economics | [Internship (competition economics) - rolling CV applications](https://www.rbbecon.com/careers/) | London + other offices | Likely open - confirm | 2026-09-27 | Email vacancies@rbbecon.com; no deadline |
 | Copenhagen Economics | [Student in Economics (part-time student role)](https://copenhageneconomics.com/careers/student-in-economics/) | Copenhagen / Stockholm / Helsinki | Likely open - confirm | 2026-09-27 | Part-time, not a summer internship |
 | KPMG Singapore Economics & Regulation | [Advisory - Consulting, Economics & Regulation \| Off-cycle Internship (Jan-Jun 2027)](https://careers.kpmg.com.sg/go/Interns-Advisory/573844/) | Singapore | Likely open - confirm | 2026-09-27 |  |
 
 ## Entry-Level (Full-Time 2027) Analyst Roles
 
-47 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
+46 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
 ## ⛔ Closed In The Last 14 Days (14)
 

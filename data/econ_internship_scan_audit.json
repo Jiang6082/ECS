@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T08:50:27.385Z",
+  "scannedAt": "2026-10-23T08:56:30.036Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -2394,24 +2394,14 @@
     {
       "company": "Lightcast",
       "category": "Policy & Research Economics",
-      "resolvedBoards": [
-        {
-          "source": "Lever:economicmodeling",
-          "origin": "seeded",
-          "ok": true,
-          "count": 22
-        }
+      "resolvedBoards": [],
+      "failedSeededBoards": [
+        "lever:economicmodeling"
       ],
-      "failedSeededBoards": [],
-      "jobsSeen": 22,
+      "jobsSeen": 0,
       "relevantInternships": 0,
-      "entryLevelRoles": 1,
-      "rejectedByReason": {
-        "outside firm scope (econ)": 8,
-        "not an internship or entry-level role": 6,
-        "non-economics function": 5,
-        "recruiting event / talent pool": 2
-      }
+      "entryLevelRoles": 0,
+      "rejectedByReason": {}
     },
     {
       "company": "REMI",
@@ -2746,7 +2736,7 @@
         "non-economics practice": 200,
         "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1084,
         "PhD/MBA/JD-only": 2,
-        "non-economics function": 72,
+        "non-economics function": 73,
         "recruiting event / talent pool": 32,
         "not an internship or entry-level role": 12,
         "dated for a past cycle": 1
@@ -2974,15 +2964,15 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1899
+          "count": 1898
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1899,
+      "jobsSeen": 1898,
       "relevantInternships": 2,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1696,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1695,
         "non-economics function": 140,
         "not an internship or entry-level role": 47,
         "non-economics practice": 13,

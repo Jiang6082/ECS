@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-23T08:52:34.454Z
+Scan started: 2026-10-23T08:58:42.561Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -48,7 +48,7 @@ Canonical companies after aliases: 232
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
 
-## Confirmed Openings, No Matching Role (27)
+## Confirmed Openings, No Matching Role (26)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ Canonical companies after aliases: 232
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
-| Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
+| Baringa | Energy & Environmental Economics | 2/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
 | Abt Global | Policy & Research Economics | 1/1 pages live | [link](https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions) |
@@ -69,7 +69,6 @@ Canonical companies after aliases: 232
 | Urban Institute | Policy & Research Economics | 3/3 pages live | [link](https://www.urban.org/about/careers) [link](https://urban.wd115.myworkdayjobs.com/Urban-Careers/) [link](https://www.urban.org/tags/job-opportunities) |
 | The Cadmus Group | Energy & Environmental Economics | 3/3 pages live | [link](https://cadmusgroup.com/careers/) [link](https://cadmusgroup.com/search-careers/) [link](https://careers-cadmusgroup.icims.com/jobs/intro) |
 | HR&A Advisors | Policy & Research Economics | 1/1 pages live | [link](https://hraadvisors.applytojob.com/apply/) |
-| Lightcast | Policy & Research Economics | 1/1 pages live | [link](https://jobs.lever.co/economicmodeling/) |
 | Acumen | Policy & Research Economics | 1/1 pages live | [link](https://acumen.org/jobs/) |
 | Synapse Energy Economics | Energy & Environmental Economics | 1/1 pages live | [link](https://synapse.hire.trakstar.com/) |
 | Wood Mackenzie | Energy & Environmental Economics | 3/3 pages live | [link](https://www.woodmac.com/careers/overview/) [link](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers) [link](https://www.woodmac.com/careers/your-career/) |
@@ -80,7 +79,7 @@ Canonical companies after aliases: 232
 | Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (171)
+## Could Not Fully Verify (172)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -212,6 +211,7 @@ Canonical companies after aliases: 232
 | Keyser Marston Associates | Policy & Research Economics | 1/1 pages live | [link](https://www.keysermarston.com/careers/) |
 | TischlerBise | Policy & Research Economics | no saved page attempted | none |
 | EBP US | Policy & Research Economics | 0/1 pages live | [link](https://www.ebp-us.com/en/job-openings-0) |
+| Lightcast | Policy & Research Economics | 1/1 pages live | [link](https://jobs.lever.co/economicmodeling/) |
 | MDRC | Policy & Research Economics | 1/1 pages live | [link](https://www.mdrc.org/about/careers) |
 | Econometrica | Policy & Research Economics | no saved page attempted | none |
 | L&M Policy Research | Policy & Research Economics | no saved page attempted | none |
@@ -240,7 +240,7 @@ Canonical companies after aliases: 232
 | Andersen (Transfer Pricing) | Transfer Pricing & Valuation | no saved page attempted | none |
 | Economics Partners | Transfer Pricing & Valuation | no saved page attempted | none |
 | Deloitte UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) |
-| KPMG UK Economics | Big 4 & Advisory Economics | 0/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
+| KPMG UK Economics | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
 | EY UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
 | Grant Thornton UK Economic Consulting | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/) |
 | KPMG Singapore Economics & Regulation | Big 4 & Advisory Economics | 3/3 pages live | [link](https://kpmg.com/us/en.html) [link](https://www.kpmguscareers.com/early-career/) [link](https://www.kpmguscareers.com/job-search/) |

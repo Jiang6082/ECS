@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-23T08:46:21.611Z
-Current scan: 2026-10-23T08:52:34.454Z
+Previous scan: 2026-10-23T08:52:34.454Z
+Current scan: 2026-10-23T08:58:42.561Z
 Previous rows: 117
 Current rows: 117
-New stable job URLs: 1
-No longer present: 1
+New stable job URLs: 0
+No longer present: 0
 
 ## New Roles By Region
 
@@ -17,9 +17,9 @@ _None._
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com)
+_None._
 
 ### Oceania (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD)
+_None._

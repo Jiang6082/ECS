@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T08:54:17.761Z",
-  "scanStartedAt": "2026-10-23T08:52:34.454Z",
+  "generatedAt": "2026-10-23T09:00:43.661Z",
+  "scanStartedAt": "2026-10-23T08:58:42.561Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 29,
     "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 27,
-    "could-not-fully-verify": 171
+    "confirmed-openings-no-matching-role": 26,
+    "could-not-fully-verify": 172
   },
   "companies": [
     {
@@ -1494,7 +1494,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 110,
       "relevantRoles": 0
@@ -2455,7 +2455,7 @@
         "Lightcast"
       ],
       "category": "Policy & Research Economics",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.lever.co/economicmodeling/"
       ],
@@ -3018,7 +3018,7 @@
       "careerPages": [
         "https://www.kpmgcareers.co.uk/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0

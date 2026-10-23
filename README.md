@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-23 &nbsp;•&nbsp; **117 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **47 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **45 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-23 &nbsp;•&nbsp; **117 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **46 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **45 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,11 +14,7 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 _Scan date: 2026-10-23_
 
-**1** new stable job posting since the previous scan:
-
-**Asia**
-
-- **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan
+_No new roles detected in the latest scan._
 
 ---
 
@@ -96,11 +92,11 @@ _Scan date: 2026-10-23_
 <details>
 <summary><strong>41 roles</strong> — click to expand</summary>
 
-- **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — Brussels, UNAVAILABLE, BE
-- **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — Paris, UNAVAILABLE, FR
-- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) — London, UNAVAILABLE, UK
-- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — Paris, UNAVAILABLE, FR
-- **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — London, UNAVAILABLE, UK
+- **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — Brussels, BE
+- **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — Paris, FR
+- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) — London, UK
+- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — Paris, FR
+- **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — London, UK
 - **Berkeley Research Group** — [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) — Berlin, GER
 - **Berkeley Research Group** — [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) — Brussels, BEL
 - **Berkeley Research Group** — [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) — Brussels, BEL
@@ -145,7 +141,7 @@ _Scan date: 2026-10-23_
 <details>
 <summary><strong>4 roles</strong> — click to expand</summary>
 
-- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — Beijing, UNAVAILABLE, CN
+- **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — Beijing, CN
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan
 - **Oxford Economics** — [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) — Singapore
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore

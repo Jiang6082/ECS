@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T08:50:27.385Z",
+  "scannedAt": "2026-10-23T08:56:30.036Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -3407,32 +3407,15 @@
       "category": "Policy & Research Economics",
       "boards": [
         {
-          "source": "Lever:economicmodeling",
+          "source": "lever:economicmodeling",
           "origin": "seeded",
-          "ok": true,
-          "count": 22
+          "ok": false,
+          "count": 0
         }
       ],
-      "jobsSeen": 22,
-      "rejected": {
-        "outside firm scope (econ)": 8,
-        "not an internship or entry-level role": 6,
-        "non-economics function": 5,
-        "recruiting event / talent pool": 2
-      },
-      "matches": [
-        {
-          "Company": "Lightcast",
-          "Category": "Policy & Research Economics",
-          "Track": "Entry-level",
-          "Title": "Economic Research Analyst / Junior Data Scientist - 1089",
-          "Location": "Moscow, ID",
-          "URL": "https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277",
-          "Source": "Official ATS Lever:economicmodeling",
-          "PostedAt": "2026-09-25T21:53:01.053Z",
-          "Notes": "timing not stated in title"
-        }
-      ]
+      "jobsSeen": 0,
+      "rejected": {},
+      "matches": []
     },
     {
       "company": "REMI",
@@ -3726,7 +3709,7 @@
         "non-economics practice": 200,
         "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1084,
         "PhD/MBA/JD-only": 2,
-        "non-economics function": 72,
+        "non-economics function": 73,
         "recruiting event / talent pool": 32,
         "not an internship or entry-level role": 12,
         "dated for a past cycle": 1
@@ -4080,12 +4063,12 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1899
+          "count": 1898
         }
       ],
-      "jobsSeen": 1899,
+      "jobsSeen": 1898,
       "rejected": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1696,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1695,
         "non-economics function": 140,
         "not an internship or entry-level role": 47,
         "non-economics practice": 13,

@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-10-23T08:54:17.811Z",
-  "previousScanAt": "2026-10-23T08:46:21.611Z",
-  "currentScanAt": "2026-10-23T08:52:34.454Z",
+  "generatedAt": "2026-10-23T09:00:43.705Z",
+  "previousScanAt": "2026-10-23T08:52:34.454Z",
+  "currentScanAt": "2026-10-23T08:58:42.561Z",
   "previousRows": 117,
   "currentRows": 117,
-  "added": [
-    {
-      "Company": "Aurora Energy Research",
-      "Category": "Energy & Environmental Economics",
-      "Title": "Research Intern (長期インターン)",
-      "Location": "Tokyo, Japan",
-      "Region": "Asia",
-      "URL": "https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534",
-      "Source": "Official ATS Pinpoint:careers.auroraer.com",
-      "Status": "Confirmed official posting"
-    }
-  ],
-  "removed": [
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
-      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "added": [],
+  "removed": []
 }

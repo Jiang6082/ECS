@@ -1,7 +1,7 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-10-23T08:52:34.454Z
-Roles: 47
+Scanned: 2026-10-23T08:58:42.561Z
+Roles: 46
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
@@ -43,7 +43,7 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 
 ### Europe (5)
 
-- **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - London, UNAVAILABLE, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [Graduate Analyst Programme (Oxford, 2027)](https://careers.auroraer.com/en/postings/0aa034dd-9e51-4c22-8707-01f4d8c98e6e) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 - **Cornerstone Research** - [Analyst, London](https://uguk-chire.icims.com/jobs/4083/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
@@ -51,7 +51,7 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 
 ### Asia (5)
 
-- **Analysis Group** - [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) - Beijing, UNAVAILABLE, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [2027 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/6cce184a-db54-45aa-9c8b-ace0ca9fa093) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **Aurora Energy Research** - [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Compass Lexecon** - [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) - Beijing, China - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
@@ -77,8 +77,7 @@ _None._
 
 - **The Brattle Group** - [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) - Sydney, New South Wales, Australia - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing not stated in title; graduation years mentioned: 2027
 
-### Remote / Unspecified (3)
+### Remote / Unspecified (2)
 
-- **Lightcast** - [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) - Moscow, ID - Confirmed official posting (Official ATS Lever:economicmodeling): timing not stated in title
 - **NERA Economic Consulting** - [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) - 6 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: Summer 2027
 - **Stout** - [Analyst, Business Valuation (New Grad – Irvine)](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Irvine-CA/Analyst--Business-Valuation--New-Grad---Irvine-_r2141) - Confirmed official posting (Official ATS Workday:stout/Stout-Student-Careers): timing not stated in title

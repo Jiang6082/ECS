@@ -1,19 +1,19 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-23T08:52:34.454Z
+Last updated: 2026-10-23T08:58:42.561Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 208
 - Current internship roles: 117
-- Entry-level analyst roles: 47 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 1
+- Entry-level analyst roles: 46 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 0
 - Firms with matching roles: 29
 - Confirmed no open postings: 5
-- Openings but no matching role: 27
-- Could not fully verify: 171
+- Openings but no matching role: 26
+- Could not fully verify: 172
 
 ## Internships By Practice Area
 
@@ -36,9 +36,9 @@ _None._
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan
+_None._
 
 ### Oceania (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
+_None._
 
 ## Full Reports
 

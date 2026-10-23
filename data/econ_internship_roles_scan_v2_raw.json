@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-23T08:52:34.454Z",
+  "searchedAt": "2026-10-23T08:58:42.561Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-23T08:52:34.455Z",
+    "generatedAt": "2026-10-23T08:58:42.562Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -3730,13 +3730,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -4982,8 +4978,8 @@
       "company": "KPMG UK Economics",
       "pageUrl": "https://www.kpmgcareers.co.uk/",
       "resolvedUrl": "https://www.kpmgcareers.co.uk/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -5767,7 +5763,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Analyst Intern - Generalist - Brussels (2027 Start Date)",
-      "Location": "Brussels, UNAVAILABLE, BE",
+      "Location": "Brussels, BE",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3045/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -5780,7 +5776,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)",
-      "Location": "Paris, UNAVAILABLE, FR",
+      "Location": "Paris, FR",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3068/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -5793,7 +5789,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)",
-      "Location": "Beijing, UNAVAILABLE, CN",
+      "Location": "Beijing, CN",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3008/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -5806,7 +5802,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)",
-      "Location": "London, UNAVAILABLE, UK",
+      "Location": "London, UK",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3079/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -5819,7 +5815,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)",
-      "Location": "Paris, UNAVAILABLE, FR",
+      "Location": "Paris, FR",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3014/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -5832,7 +5828,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
       "Title": "Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)",
-      "Location": "London, UNAVAILABLE, UK",
+      "Location": "London, UK",
       "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3029/job",
       "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
       "PostedAt": "",
@@ -7303,7 +7299,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Analyst - Generalist - London (2027 Start Date)",
-      "Location": "London, UNAVAILABLE, UK",
+      "Location": "London, UK",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/2956/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -7329,7 +7325,7 @@
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
       "Title": "Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)",
-      "Location": "Beijing, UNAVAILABLE, CN",
+      "Location": "Beijing, CN",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/2990/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
@@ -7700,19 +7696,6 @@
       "PostedAt": "2026-08-26T15:32:22.162Z",
       "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
       "Region": "North America"
-    },
-    {
-      "Company": "Lightcast",
-      "Category": "Policy & Research Economics",
-      "Track": "Entry-level",
-      "Title": "Economic Research Analyst / Junior Data Scientist - 1089",
-      "Location": "Moscow, ID",
-      "URL": "https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277",
-      "Source": "Official ATS Lever:economicmodeling",
-      "PostedAt": "2026-09-25T21:53:01.053Z",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "Remote / Unspecified"
     },
     {
       "Company": "NERA Economic Consulting",
@@ -8127,7 +8110,6 @@
     "HR&A Advisors",
     "Health Management Associates",
     "Houlihan Lokey (Dispute Resolution Consulting)",
-    "Lightcast",
     "Lumanity",
     "Nous Group",
     "S&P Global (Economics)",
@@ -8241,6 +8223,7 @@
     "LCP Delta",
     "Lear",
     "Lexonomics",
+    "Lightcast",
     "LitiNomics",
     "London Economics",
     "London Economics International",

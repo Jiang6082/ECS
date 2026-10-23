@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-23T08:52:34.454Z",
+  "searchedAt": "2026-10-23T08:58:42.561Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1653,13 +1653,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -2905,8 +2901,8 @@
       "company": "KPMG UK Economics",
       "pageUrl": "https://www.kpmgcareers.co.uk/",
       "resolvedUrl": "https://www.kpmgcareers.co.uk/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],

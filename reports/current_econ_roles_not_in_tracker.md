@@ -1,6 +1,6 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-23T08:52:34.454Z
+Current scan: 2026-10-23T08:58:42.561Z
 Historical tracker URLs: 0
 Current roles absent from tracker: 117
 
@@ -66,11 +66,11 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 
 ### Europe (41)
 
-- **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, UNAVAILABLE, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, UNAVAILABLE, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) - London, UNAVAILABLE, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) - Paris, UNAVAILABLE, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - London, UNAVAILABLE, UK - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - London, UK - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Berkeley Research Group** - [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) - Berlin, GER - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Berkeley Research Group** - [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) - Brussels, BEL - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing: 2027
 - **Berkeley Research Group** - [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) - Brussels, BEL - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
@@ -110,7 +110,7 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 
 ### Asia (4)
 
-- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) - Beijing, UNAVAILABLE, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Oxford Economics** - [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) - Singapore - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) - Singapore - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: Off-Cycle
