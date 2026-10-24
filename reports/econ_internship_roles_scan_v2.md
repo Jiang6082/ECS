@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-23T17:51:43.910Z
+Scanned: 2026-10-24T16:33:20.620Z
 Firms searched: 232
-Career pages checked: 209
+Career pages checked: 210
 Internship roles/leads retained: 115
-Entry-level analyst roles (separate report): 46
+Entry-level analyst roles (separate report): 47
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
 

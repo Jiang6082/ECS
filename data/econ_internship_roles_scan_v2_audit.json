@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-23T17:51:43.910Z",
+  "searchedAt": "2026-10-24T16:33:20.620Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -264,7 +264,6 @@
     "Pantheon Macroeconomics",
     "Plum Consulting",
     "Aldwych Partners",
-    "AFRY Management Consulting",
     "SEO Amsterdam Economics",
     "Lexonomics",
     "CE Delft",
@@ -1055,14 +1054,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 110
+          "jobsSeen": 111
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 111,
       "relevantRoles": 5
     },
     {
@@ -1081,8 +1080,8 @@
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/",
       "resolvedUrl": "https://www.summitsalonacademyportland.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1141,8 +1140,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1153,8 +1152,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1345,10 +1344,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 99
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 100,
       "relevantRoles": 7
     },
     {
@@ -1545,8 +1544,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1725,6 +1724,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "AFRY Management Consulting",
+      "pageUrl": "https://afry.com/en",
+      "resolvedUrl": "https://afry.com/en",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "DICE Consult",
       "pageUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
       "resolvedUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
@@ -1800,8 +1811,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2163,24 +2174,12 @@
       "company": "Urban Institute",
       "pageUrl": "https://www.urban.org/about/careers",
       "resolvedUrl": "https://www.urban.org/about/careers",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "urban.wd115.myworkdayjobs.com",
-            "site": "Urban-Careers"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 4
-        }
-      ],
-      "jobsSeen": 4,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -2201,18 +2200,18 @@
       "boards": [
         {
           "source": "Workday:urban/Urban-Careers",
-          "jobsSeen": 4
+          "jobsSeen": 5
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
       "company": "Urban Institute",
       "pageUrl": "https://www.urban.org/tags/job-opportunities",
       "resolvedUrl": "https://www.urban.org/tags/job-opportunities",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2289,8 +2288,8 @@
       "company": "Econsult Solutions",
       "pageUrl": "https://econsultsolutions.com/careers/",
       "resolvedUrl": "https://econsultsolutions.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2433,10 +2432,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 3
+          "jobsSeen": 4
         }
       ],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2812,10 +2811,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 689
+          "jobsSeen": 690
         }
       ],
-      "jobsSeen": 689,
+      "jobsSeen": 690,
       "relevantRoles": 3
     },
     {
@@ -2836,10 +2835,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 684
+          "jobsSeen": 682
         }
       ],
-      "jobsSeen": 684,
+      "jobsSeen": 682,
       "relevantRoles": 0
     },
     {
@@ -3100,10 +3099,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 10
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -3167,10 +3166,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1023
+          "jobsSeen": 1012
         }
       ],
-      "jobsSeen": 1023,
+      "jobsSeen": 1012,
       "relevantRoles": 1
     },
     {
@@ -3274,10 +3273,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 11
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {

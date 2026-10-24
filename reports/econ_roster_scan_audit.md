@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-23T17:51:43.910Z
+Scan started: 2026-10-24T16:33:20.620Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -66,7 +66,7 @@ Canonical companies after aliases: 232
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
 | Abt Global | Policy & Research Economics | 1/1 pages live | [link](https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions) |
 | Eastern Research Group | Policy & Research Economics | 1/1 pages live | [link](https://www.erg.com/jobs) |
-| Urban Institute | Policy & Research Economics | 3/3 pages live | [link](https://www.urban.org/about/careers) [link](https://urban.wd115.myworkdayjobs.com/Urban-Careers/) [link](https://www.urban.org/tags/job-opportunities) |
+| Urban Institute | Policy & Research Economics | 1/3 pages live | [link](https://www.urban.org/about/careers) [link](https://urban.wd115.myworkdayjobs.com/Urban-Careers/) [link](https://www.urban.org/tags/job-opportunities) |
 | The Cadmus Group | Energy & Environmental Economics | 3/3 pages live | [link](https://cadmusgroup.com/careers/) [link](https://cadmusgroup.com/search-careers/) [link](https://careers-cadmusgroup.icims.com/jobs/intro) |
 | HR&A Advisors | Policy & Research Economics | 1/1 pages live | [link](https://hraadvisors.applytojob.com/apply/) |
 | Lightcast | Policy & Research Economics | 1/1 pages live | [link](https://jobs.lever.co/economicmodeling/) |
@@ -121,15 +121,15 @@ Canonical companies after aliases: 232
 | The Kenrich Group | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Gnarus Advisors | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Analysis & Inference | Litigation, Antitrust & Damages | no saved page attempted | none |
-| Summit Consulting | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.summitsalonacademyportland.com/) |
+| Summit Consulting | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://www.summitsalonacademyportland.com/) |
 | Hemming Morse | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Pinnacle Economics | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://www.pinnaclesys.com/en/) [link](https://pinnacle.pvschools.net/enroll) |
 | LitiNomics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Quadrant Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://quadrant.gg/) |
 | Vocational Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | ARPC | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
-| Bates Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://my.batestech.edu/) |
-| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://alvarezguitars.com/) |
+| Bates Group | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://my.batestech.edu/) |
+| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://alvarezguitars.com/) |
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |
 | RBB Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.rbbecon.com/careers/) |
 | Copenhagen Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://copenhageneconomics.com/careers/vacancies/) |
@@ -151,13 +151,13 @@ Canonical companies after aliases: 232
 | DotEcon | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dotecon.com/careers) |
 | Cebr | Macro & Economic Research | 1/1 pages live | [link](https://cebr.com/join-the-team/) |
 | Pantheon Macroeconomics | Macro & Economic Research | no saved page attempted | none |
-| Volterra Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://volterrakirkland.com/) |
+| Volterra Partners | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://volterrakirkland.com/) |
 | Plum Consulting | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Aldwych Partners | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indepen | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://indepenn.com/) |
 | First Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.firstphx.org/) |
 | LCP Delta | Energy & Environmental Economics | 3/3 pages live | [link](https://delta.lcp.com/careers) [link](https://www.delta.com/us/en/careers/students-and-early-careers) [link](https://www.delta.com/us/en/careers/overview) |
-| AFRY Management Consulting | Energy & Environmental Economics | no saved page attempted | none |
+| AFRY Management Consulting | Energy & Environmental Economics | 1/1 pages live | [link](https://afry.com/en) |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Lexonomics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CE Delft | Energy & Environmental Economics | no saved page attempted | none |
@@ -173,7 +173,7 @@ Canonical companies after aliases: 232
 | THEMA Consulting Group | Energy & Environmental Economics | no saved page attempted | none |
 | Ramboll Management Consulting | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.ramboll.com/careers) |
 | Afi | Competition & Regulatory (Europe) | no saved page attempted | none |
-| REF-E | Energy & Environmental Economics | 1/1 pages live | [link](https://asktheref.org/) |
+| REF-E | Energy & Environmental Economics | 0/1 pages live | [link](https://asktheref.org/) |
 | Prometeia | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DKM Economic Consultants | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dkmedigroup.com/) |
@@ -207,7 +207,7 @@ Canonical companies after aliases: 232
 | American Institutes for Research | Policy & Research Economics | 1/1 pages live | [link](https://www.air.org/build-career-air) |
 | Chemonics International | Policy & Research Economics | 1/1 pages live | [link](https://www.chemonics.com/careers/) |
 | DAI Global | Policy & Research Economics | 1/1 pages live | [link](https://careers.daicompanies.com/) |
-| Econsult Solutions | Policy & Research Economics | 1/1 pages live | [link](https://econsultsolutions.com/careers/) |
+| Econsult Solutions | Policy & Research Economics | 0/1 pages live | [link](https://econsultsolutions.com/careers/) |
 | BAE Urban Economics | Policy & Research Economics | 1/1 pages live | [link](https://www.bae1.com/careers) |
 | Keyser Marston Associates | Policy & Research Economics | 1/1 pages live | [link](https://www.keysermarston.com/careers/) |
 | TischlerBise | Policy & Research Economics | no saved page attempted | none |

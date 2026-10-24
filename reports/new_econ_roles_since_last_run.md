@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-23T08:58:42.561Z
-Current scan: 2026-10-23T17:51:43.910Z
-Previous rows: 117
+Previous scan: 2026-10-23T17:51:43.910Z
+Current scan: 2026-10-24T16:33:20.620Z
+Previous rows: 115
 Current rows: 115
 New stable job URLs: 0
-No longer present: 0
+No longer present: 2
 
 ## New Roles By Region
 
@@ -47,4 +47,5 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Ankura** - [Part Time Intern, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072)
+- **Frontier Economics** - [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239)

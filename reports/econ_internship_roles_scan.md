@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-23T17:49:41.954Z
+Scanned: 2026-10-24T16:31:27.825Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
 Internship roles: 108
-Entry-level analyst roles: 43
+Entry-level analyst roles: 44
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -142,6 +142,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Aurora Energy Research** — [Graduate Analyst Programme (Oxford, 2027)](https://careers.auroraer.com/en/postings/0aa034dd-9e51-4c22-8707-01f4d8c98e6e) — Oxford, UK (Official ATS Pinpoint:careers.auroraer.com)
 - **Aurora Energy Research** — [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com)
 - **BDO (Transfer Pricing)** — [Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014) — Atlanta, GA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers)
+- **Berkeley Research Group** — [Analyst, Data Analytics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Analyst--Data-Analytics_JR101209) — Washington, DC (Official ATS Workday:thinkbrg/BRG_External_Career_Site)
 - **Compass Lexecon** — [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) — Beijing, China (Official ATS Workday:fticonsulting/CompassLexeconCareers)
 - **Eastern Research Group** — [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) — Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA (Official ATS Lever:erg)
 - **Frontier Economics** — [2027 Graduate Economic Analyst - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Graduate-Economic-Analyst---London_JR10236) — London (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers)

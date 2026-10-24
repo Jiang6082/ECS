@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-23T17:51:43.910Z
+Last updated: 2026-10-24T16:33:20.620Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 209
+- Career pages checked: 210
 - Current internship roles: 115
-- Entry-level analyst roles: 46 ([list](econ_entry_level_roles.md))
+- Entry-level analyst roles: 47 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- No longer present since previous scan: 2
 - Firms with matching roles: 28
 - Confirmed no open postings: 5
 - Openings but no matching role: 28
@@ -66,7 +66,8 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Ankura** - [Part Time Intern, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072) - Ann Arbor, MI
+- **Frontier Economics** - [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) - London
 
 ## Full Reports
 

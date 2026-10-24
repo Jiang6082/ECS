@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 45
-Last updated: 2026-10-23T17:51:43.910Z
+Total closures recorded: 47
+Last updated: 2026-10-24T16:33:20.620Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-24 (2)
+
+- **Ankura** - [Part Time Intern, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072) - Ann Arbor, MI
+- **Frontier Economics** - [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) - London
 
 ### 2026-10-23 (1)
 
