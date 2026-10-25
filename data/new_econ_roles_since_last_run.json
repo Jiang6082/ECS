@@ -1,30 +1,9 @@
 {
-  "generatedAt": "2026-10-24T16:35:30.165Z",
-  "previousScanAt": "2026-10-23T17:51:43.910Z",
-  "currentScanAt": "2026-10-24T16:33:20.620Z",
+  "generatedAt": "2026-10-25T13:58:19.511Z",
+  "previousScanAt": "2026-10-24T16:33:20.620Z",
+  "currentScanAt": "2026-10-25T13:56:39.498Z",
   "previousRows": 115,
-  "currentRows": 115,
+  "currentRows": 114,
   "added": [],
-  "removed": [
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Part Time Intern, Disputes & Economics - Intellectual Property",
-      "Location": "Ann Arbor, MI",
-      "Region": "North America",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Frontier Economics",
-      "Category": "Competition & Regulatory (Europe)",
-      "Title": "2027 Economic Analyst Intern (Long-term) - London",
-      "Location": "London",
-      "Region": "Europe",
-      "URL": "https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239",
-      "Source": "Official ATS Workday:frontiereconomics/Frontier_Economics_Careers",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

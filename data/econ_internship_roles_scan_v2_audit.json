@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-24T16:33:20.620Z",
+  "searchedAt": "2026-10-25T13:56:39.498Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1080,8 +1080,8 @@
       "company": "Summit Consulting",
       "pageUrl": "https://www.summitsalonacademyportland.com/",
       "resolvedUrl": "https://www.summitsalonacademyportland.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1651,9 +1651,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -2174,12 +2178,24 @@
       "company": "Urban Institute",
       "pageUrl": "https://www.urban.org/about/careers",
       "resolvedUrl": "https://www.urban.org/about/careers",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "urban.wd115.myworkdayjobs.com",
+            "site": "Urban-Careers"
+          }
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:urban/Urban-Careers",
+          "jobsSeen": 5
+        }
+      ],
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -2210,8 +2226,8 @@
       "company": "Urban Institute",
       "pageUrl": "https://www.urban.org/tags/job-opportunities",
       "resolvedUrl": "https://www.urban.org/tags/job-opportunities",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2288,8 +2304,8 @@
       "company": "Econsult Solutions",
       "pageUrl": "https://econsultsolutions.com/careers/",
       "resolvedUrl": "https://econsultsolutions.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2556,10 +2572,12 @@
       "company": "ScottMadden",
       "pageUrl": "https://www.scottmadden.com/careers/",
       "resolvedUrl": "https://www.scottmadden.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "ultipro"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2717,8 +2735,8 @@
       "company": "Deloitte (Economics / Transfer Pricing)",
       "pageUrl": "https://apply.deloitte.com/en_US/careers/SearchJobs/",
       "resolvedUrl": "https://apply.deloitte.com/en_US/careers/SearchJobs/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3166,10 +3184,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1012
+          "jobsSeen": 1010
         }
       ],
-      "jobsSeen": 1012,
+      "jobsSeen": 1010,
       "relevantRoles": 1
     },
     {
