@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-25T13:56:39.498Z",
+  "searchedAt": "2026-10-25T17:02:48.729Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -264,7 +264,6 @@
     "Pantheon Macroeconomics",
     "Plum Consulting",
     "Aldwych Partners",
-    "SEO Amsterdam Economics",
     "Lexonomics",
     "CE Delft",
     "Decisio",
@@ -292,7 +291,6 @@
     "Camoin Associates",
     "Rhodium Group",
     "Monitoring Analytics",
-    "Ryan (Transfer Pricing)",
     "Andersen (Transfer Pricing)",
     "Economics Partners",
     "KNG Health Consulting",
@@ -1140,8 +1138,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1152,8 +1150,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1544,8 +1542,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1740,6 +1738,27 @@
       "relevantRoles": 0
     },
     {
+      "company": "SEO Amsterdam Economics",
+      "pageUrl": "https://www.seo-usa.org/",
+      "resolvedUrl": "https://www.seo-usa.org/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "sponsorsforeducationalopportunity"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:sponsorsforeducationalopportunity",
+          "jobsSeen": 9
+        }
+      ],
+      "jobsSeen": 9,
+      "relevantRoles": 0
+    },
+    {
       "company": "DICE Consult",
       "pageUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
       "resolvedUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
@@ -1815,8 +1834,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2903,6 +2922,18 @@
       "company": "Baker Tilly (Transfer Pricing)",
       "pageUrl": "https://bakerconstruction.com/",
       "resolvedUrl": "https://bakerconstruction.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ryan (Transfer Pricing)",
+      "pageUrl": "https://www.ryan.com/who-we-are/careers",
+      "resolvedUrl": "https://ryan.com/who-we-are/careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},

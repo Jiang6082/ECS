@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-25T13:58:19.511Z",
-  "previousScanAt": "2026-10-24T16:33:20.620Z",
-  "currentScanAt": "2026-10-25T13:56:39.498Z",
-  "previousRows": 115,
+  "generatedAt": "2026-10-25T17:04:28.897Z",
+  "previousScanAt": "2026-10-25T13:56:39.498Z",
+  "currentScanAt": "2026-10-25T17:02:48.729Z",
+  "previousRows": 114,
   "currentRows": 114,
   "added": [],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Compass Lexecon",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Analyst Interns - US",
+      "Location": "5 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385",
+      "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

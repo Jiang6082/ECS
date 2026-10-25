@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:56:39.499Z",
+  "generatedAt": "2026-10-25T17:02:48.730Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -587,8 +587,10 @@
       "updatedAt": "2026-10-24T16:33:20.621Z"
     },
     "SEO Amsterdam Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.seo-usa.org/"
+      ],
+      "updatedAt": "2026-10-25T17:02:48.730Z"
     },
     "Lexonomics": {
       "careerPages": [],
@@ -1132,8 +1134,10 @@
       "updatedAt": "2026-09-29T18:32:17.613Z"
     },
     "Ryan (Transfer Pricing)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.ryan.com/who-we-are/careers"
+      ],
+      "updatedAt": "2026-10-25T17:02:48.730Z"
     },
     "Andersen (Transfer Pricing)": {
       "careerPages": [],

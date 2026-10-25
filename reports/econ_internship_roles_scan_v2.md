@@ -1,8 +1,8 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-25T13:56:39.498Z
+Scanned: 2026-10-25T17:02:48.729Z
 Firms searched: 232
-Career pages checked: 210
+Career pages checked: 212
 Internship roles/leads retained: 114
 Entry-level analyst roles (separate report): 47
 
@@ -191,6 +191,7 @@ _None._
 - Lumanity
 - Nous Group
 - S&P Global (Economics)
+- SEO Amsterdam Economics
 - Synapse Energy Economics
 - The Cadmus Group
 - Urban Institute
@@ -352,7 +353,6 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - Resources for the Future
 - Rhodium Group
 - Ryan (Transfer Pricing)
-- SEO Amsterdam Economics
 - SGS Economics & Planning
 - SQW
 - Sapere Research Group

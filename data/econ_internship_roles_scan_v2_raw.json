@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-25T13:56:39.498Z",
+  "searchedAt": "2026-10-25T17:02:48.729Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-25T13:56:39.499Z",
+    "generatedAt": "2026-10-25T17:02:48.730Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -823,8 +823,10 @@
         "updatedAt": "2026-10-24T16:33:20.621Z"
       },
       "SEO Amsterdam Economics": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.seo-usa.org/"
+        ],
+        "updatedAt": "2026-10-25T17:02:48.730Z"
       },
       "Lexonomics": {
         "careerPages": [],
@@ -1368,8 +1370,10 @@
         "updatedAt": "2026-09-29T18:32:17.613Z"
       },
       "Ryan (Transfer Pricing)": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.ryan.com/who-we-are/careers"
+        ],
+        "updatedAt": "2026-10-25T17:02:48.730Z"
       },
       "Andersen (Transfer Pricing)": {
         "careerPages": [],
@@ -1925,6 +1929,10 @@
       "pageUrl": "https://afry.com/en"
     },
     {
+      "company": "SEO Amsterdam Economics",
+      "pageUrl": "https://www.seo-usa.org/"
+    },
+    {
       "company": "DICE Consult",
       "pageUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47"
     },
@@ -2255,6 +2263,10 @@
     {
       "company": "Baker Tilly (Transfer Pricing)",
       "pageUrl": "https://bakerconstruction.com/"
+    },
+    {
+      "company": "Ryan (Transfer Pricing)",
+      "pageUrl": "https://www.ryan.com/who-we-are/careers"
     },
     {
       "company": "Deloitte UK Economic Advisory",
@@ -3231,8 +3243,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3243,8 +3255,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3635,8 +3647,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3831,6 +3843,27 @@
       "relevantRoles": 0
     },
     {
+      "company": "SEO Amsterdam Economics",
+      "pageUrl": "https://www.seo-usa.org/",
+      "resolvedUrl": "https://www.seo-usa.org/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "sponsorsforeducationalopportunity"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Greenhouse:sponsorsforeducationalopportunity",
+          "jobsSeen": 9
+        }
+      ],
+      "jobsSeen": 9,
+      "relevantRoles": 0
+    },
+    {
       "company": "DICE Consult",
       "pageUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
       "resolvedUrl": "https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47",
@@ -3906,8 +3939,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4994,6 +5027,18 @@
       "company": "Baker Tilly (Transfer Pricing)",
       "pageUrl": "https://bakerconstruction.com/",
       "resolvedUrl": "https://bakerconstruction.com/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Ryan (Transfer Pricing)",
+      "pageUrl": "https://www.ryan.com/who-we-are/careers",
+      "resolvedUrl": "https://ryan.com/who-we-are/careers",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -8130,6 +8175,7 @@
     "Lumanity",
     "Nous Group",
     "S&P Global (Economics)",
+    "SEO Amsterdam Economics",
     "Synapse Energy Economics",
     "The Cadmus Group",
     "Urban Institute",
@@ -8288,7 +8334,6 @@
     "Resources for the Future",
     "Rhodium Group",
     "Ryan (Transfer Pricing)",
-    "SEO Amsterdam Economics",
     "SGS Economics & Planning",
     "SQW",
     "Sapere Research Group",

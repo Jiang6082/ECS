@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-25T13:55:02.078Z",
+  "scannedAt": "2026-10-25T17:01:07.337Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -3685,13 +3685,13 @@
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1361
+          "count": 1362
         }
       ],
-      "jobsSeen": 1409,
+      "jobsSeen": 1410,
       "rejected": {
         "non-economics practice": 199,
-        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1084,
+        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1085,
         "PhD/MBA/JD-only": 2,
         "non-economics function": 74,
         "recruiting event / talent pool": 32,
@@ -4047,15 +4047,16 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1909
+          "count": 1910
         }
       ],
-      "jobsSeen": 1909,
+      "jobsSeen": 1910,
       "rejected": {
         "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1705,
         "non-economics function": 140,
         "non-economics practice": 14,
         "not an internship or entry-level role": 47,
+        "empty title": 1,
         "recruiting event / talent pool": 1
       },
       "matches": [
@@ -4372,13 +4373,13 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 308
+          "count": 311
         }
       ],
-      "jobsSeen": 308,
+      "jobsSeen": 311,
       "rejected": {
-        "outside firm scope (econom)": 248,
-        "non-economics function": 45,
+        "outside firm scope (econom)": 249,
+        "non-economics function": 47,
         "non-economics practice": 12,
         "recruiting event / talent pool": 2,
         "not an internship or entry-level role": 1

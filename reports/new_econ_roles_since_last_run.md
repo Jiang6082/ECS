@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-24T16:33:20.620Z
-Current scan: 2026-10-25T13:56:39.498Z
-Previous rows: 115
+Previous scan: 2026-10-25T13:56:39.498Z
+Current scan: 2026-10-25T17:02:48.729Z
+Previous rows: 114
 Current rows: 114
 New stable job URLs: 0
-No longer present: 0
+No longer present: 1
 
 ## New Roles By Region
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385)

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-25T13:58:19.453Z",
-  "scanStartedAt": "2026-10-25T13:56:39.498Z",
+  "generatedAt": "2026-10-25T17:04:28.857Z",
+  "scanStartedAt": "2026-10-25T17:02:48.729Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 28,
     "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 28,
-    "could-not-fully-verify": 171
+    "confirmed-openings-no-matching-role": 29,
+    "could-not-fully-verify": 170
   },
   "companies": [
     {
@@ -945,7 +945,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -960,7 +960,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1404,7 +1404,7 @@
       "careerPages": [
         "https://volterrakirkland.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1537,11 +1537,13 @@
         "SEO Amsterdam Economics"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.seo-usa.org/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -1747,7 +1749,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2965,9 +2967,11 @@
       ],
       "category": "Transfer Pricing & Valuation",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.ryan.com/who-we-are/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },

@@ -1,6 +1,6 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-25 13:56 UTC · **114 roles confirmed live on official job boards** across 28 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-25 17:02 UTC · **114 roles confirmed live on official job boards** across 28 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
@@ -290,10 +290,11 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 47 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (9)
+## ⛔ Closed In The Last 14 Days (10)
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| Compass Lexecon | [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) | 2026-10-25 |
 | Ankura | [Part Time Intern, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072) | 2026-10-24 |
 | Frontier Economics | [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) | 2026-10-24 |
 | Aurora Energy Research | [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) | 2026-10-23 |
