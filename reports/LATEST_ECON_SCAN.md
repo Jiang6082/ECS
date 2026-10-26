@@ -1,30 +1,30 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-25T17:02:48.729Z
+Last updated: 2026-10-26T19:10:20.103Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 212
-- Current internship roles: 114
-- Entry-level analyst roles: 47 ([list](econ_entry_level_roles.md))
+- Current internship roles: 117
+- Entry-level analyst roles: 46 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
-- Firms with matching roles: 28
+- No longer present since previous scan: 0
+- Firms with matching roles: 27
 - Confirmed no open postings: 5
-- Openings but no matching role: 29
+- Openings but no matching role: 30
 - Could not fully verify: 170
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 81
+- Litigation, Antitrust & Damages: 84
 - Health Economics & HEOR: 9
-- Transfer Pricing & Valuation: 6
+- Transfer Pricing & Valuation: 7
+- Energy & Environmental Economics: 5
 - Big 4 & Advisory Economics: 5
-- Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 4
-- Macro & Economic Research: 3
 - Policy & Research Economics: 2
+- Macro & Economic Research: 1
 
 ## New Roles Since Previous Scan
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) - 5 Locations
+_None._
 
 ## Full Reports
 

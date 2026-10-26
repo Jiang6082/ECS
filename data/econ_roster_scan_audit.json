@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T17:04:28.857Z",
-  "scanStartedAt": "2026-10-25T17:02:48.729Z",
+  "generatedAt": "2026-10-26T19:12:21.115Z",
+  "scanStartedAt": "2026-10-26T19:10:20.103Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 28,
+    "matching-role-found": 27,
     "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 29,
+    "confirmed-openings-no-matching-role": 30,
     "could-not-fully-verify": 170
   },
   "companies": [
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 33,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -806,7 +806,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 111,
+      "jobsSeen": 106,
       "relevantRoles": 5
     },
     {
@@ -1141,8 +1141,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 100,
-      "relevantRoles": 7
+      "jobsSeen": 102,
+      "relevantRoles": 8
     },
     {
       "company": "Cornwall Insight",
@@ -1494,9 +1494,9 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 111,
+      "jobsSeen": 107,
       "relevantRoles": 0
     },
     {
@@ -1543,7 +1543,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -2268,7 +2268,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -2832,7 +2832,7 @@
       "careerPages": [
         "https://apply.deloitte.com/en_US/careers/SearchJobs/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2910,8 +2910,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 690,
-      "relevantRoles": 3
+      "jobsSeen": 685,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2925,7 +2925,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 682,
+      "jobsSeen": 679,
       "relevantRoles": 0
     },
     {
@@ -3181,7 +3181,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -3211,7 +3211,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 37,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -3226,7 +3226,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1010,
+      "jobsSeen": 1018,
       "relevantRoles": 1
     },
     {
@@ -3373,7 +3373,7 @@
         "Capital Economics"
       ],
       "category": "Macro & Economic Research",
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://apply.workable.com/capital-economics/"
       ],
