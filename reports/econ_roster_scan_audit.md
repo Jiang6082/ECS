@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-27T12:24:41.279Z
+Scan started: 2026-10-27T18:40:31.533Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -56,11 +56,11 @@ Canonical companies after aliases: 232
 | Coherent Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://coherentecon.com/job-openings/) |
 | Fideres | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://job-boards.eu.greenhouse.io/fideres) |
 | HKA | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://careers.hka.com/) [link](https://careers.hka.com/jobs) |
-| Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
+| Frontier Economics | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://frontier.edu/) |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
-| Baringa | Energy & Environmental Economics | 2/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
+| Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.seo-usa.org/) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
@@ -108,7 +108,7 @@ Canonical companies after aliases: 232
 | Finnerty Economic Consulting | Litigation, Antitrust & Damages | no saved page attempted | none |
 | DCI Consulting Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.dci.org/events/) |
 | Precision Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
-| Capital Trade | Litigation, Antitrust & Damages | no saved page attempted | none |
+| Capital Trade | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://wfscapitalarea.com/) |
 | Georgetown Economic Services | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://www.georgetown.edu/admissions/) [link](https://uadmissions.georgetown.edu/apply/first-year-applicants/) |
 | Economic Consulting Services | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Empiris | Litigation, Antitrust & Damages | no saved page attempted | none |
@@ -128,7 +128,7 @@ Canonical companies after aliases: 232
 | LitiNomics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Quadrant Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://quadrant.gg/) |
 | Vocational Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
-| ARPC | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
+| ARPC | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
 | Bates Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://my.batestech.edu/) |
 | Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://alvarezguitars.com/) |
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |

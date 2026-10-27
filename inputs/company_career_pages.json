@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:24:41.280Z",
+  "generatedAt": "2026-10-27T18:40:31.534Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -240,8 +240,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Capital Trade": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://wfscapitalarea.com/"
+      ],
+      "updatedAt": "2026-10-27T18:40:31.534Z"
     },
     "Georgetown Economic Services": {
       "careerPages": [

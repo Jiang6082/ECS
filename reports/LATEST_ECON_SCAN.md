@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-27T12:24:41.279Z
+Last updated: 2026-10-27T18:40:31.533Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 213
-- Current internship roles: 116
-- Entry-level analyst roles: 46 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 2
+- Career pages checked: 214
+- Current internship roles: 114
+- Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 1
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 30
@@ -17,7 +17,7 @@ Last updated: 2026-10-27T12:24:41.279Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 84
+- Litigation, Antitrust & Damages: 82
 - Health Economics & HEOR: 9
 - Transfer Pricing & Valuation: 7
 - Energy & Environmental Economics: 5
@@ -28,14 +28,13 @@ Last updated: 2026-10-27T12:24:41.279Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States
+_None._
 
-### Europe (2)
+### Europe (0)
 
-- **FTI Consulting (Economic Consulting)** - [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971) - Milan (Torre Velasca)
-- **FTI Consulting (Economic Consulting)** - [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) - London, United Kingdom
+_None._
 
 ### Asia (0)
 
@@ -49,9 +48,9 @@ _None._
 
 _None._
 
-### South America (1)
+### South America (0)
 
-- **Aurora Energy Research** - [Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) - São Paulo, Brazil
+_None._
 
 ### Africa (0)
 
@@ -61,14 +60,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) - 5 Locations
+_None._
 
 ## No Longer Present
 
-- **Capital Economics** - [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) - London, England, United Kingdom
-- **Oxford Economics** - [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) - Singapore
+- **Technopolis Group** - [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) - Paris
 
 ## Full Reports
 

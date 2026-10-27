@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T12:26:39.906Z",
-  "scanStartedAt": "2026-10-27T12:24:41.279Z",
+  "generatedAt": "2026-10-27T18:42:36.130Z",
+  "scanStartedAt": "2026-10-27T18:40:31.533Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -633,9 +633,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://wfscapitalarea.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -806,7 +808,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 106,
+      "jobsSeen": 108,
       "relevantRoles": 5
     },
     {
@@ -930,7 +932,7 @@
       "careerPages": [
         "https://www.arpc.afrc.af.mil/Services/Assignments/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1006,7 +1008,7 @@
       "careerPages": [
         "https://frontier.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1481,7 +1483,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -1496,7 +1498,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 107,
       "relevantRoles": 0
@@ -1545,7 +1547,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 26,
+      "jobsSeen": 27,
       "relevantRoles": 0
     },
     {
@@ -2270,7 +2272,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -2912,7 +2914,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 680,
+      "jobsSeen": 677,
       "relevantRoles": 4
     },
     {
@@ -2927,7 +2929,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 685,
+      "jobsSeen": 680,
       "relevantRoles": 0
     },
     {
@@ -3213,7 +3215,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 34,
+      "jobsSeen": 35,
       "relevantRoles": 0
     },
     {
@@ -3228,7 +3230,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1024,
+      "jobsSeen": 1018,
       "relevantRoles": 1
     },
     {
