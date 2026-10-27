@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 48
-Last updated: 2026-10-26T19:10:20.103Z
+Total closures recorded: 50
+Last updated: 2026-10-27T12:24:41.279Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-27 (2)
+
+- **Capital Economics** - [Research Assistant (London) - Industrial Placement Year](https://apply.workable.com/capital-economics/j/2789A61D4B/) - London, England, United Kingdom
+- **Oxford Economics** - [Economist Intern - Economic Impact - Singapore](https://careers.oxfordeconomics.com/en/postings/c60ffdde-0725-4520-9d77-3d0dcdea933b) - Singapore
 
 ### 2026-10-25 (1)
 

@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-26T19:10:20.103Z
+Scan started: 2026-10-27T12:24:41.279Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -128,7 +128,7 @@ Canonical companies after aliases: 232
 | LitiNomics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Quadrant Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://quadrant.gg/) |
 | Vocational Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
-| ARPC | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
+| ARPC | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
 | Bates Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://my.batestech.edu/) |
 | Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://alvarezguitars.com/) |
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |
@@ -154,7 +154,7 @@ Canonical companies after aliases: 232
 | Pantheon Macroeconomics | Macro & Economic Research | no saved page attempted | none |
 | Volterra Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://volterrakirkland.com/) |
 | Plum Consulting | Competition & Regulatory (Europe) | no saved page attempted | none |
-| Aldwych Partners | Competition & Regulatory (Europe) | no saved page attempted | none |
+| Aldwych Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.aldwychconsulting.com/) |
 | Indepen | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://indepenn.com/) |
 | First Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.firstphx.org/) |
 | LCP Delta | Energy & Environmental Economics | 3/3 pages live | [link](https://delta.lcp.com/careers) [link](https://www.delta.com/us/en/careers/students-and-early-careers) [link](https://www.delta.com/us/en/careers/overview) |
@@ -247,7 +247,7 @@ Canonical companies after aliases: 232
 | Evidera (Thermo Fisher) | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.thermofisher.com/global/en/) |
 | Dobson DaVanzo & Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.dobsondavanzo.com/careers/) |
 | Milliman | Health Economics & HEOR | 1/1 pages live | [link](https://careers.milliman.com/en/Search) |
-| Genesis Research Group | Health Economics & HEOR | 0/1 pages live | [link](https://genesisrg.com/careers/) |
+| Genesis Research Group | Health Economics & HEOR | 1/1 pages live | [link](https://genesisrg.com/careers/) |
 | OPEN Health | Health Economics & HEOR | 3/3 pages live | [link](https://www.openhealthgroup.com/careers/) [link](http://careers.openhealthgroup.com/) [link](https://www.openhealthgroup.com/open-roles/) |
 | Medicus Economics | Health Economics & HEOR | 1/1 pages live | [link](https://medicushcs.com/) |
 | KNG Health Consulting | Health Economics & HEOR | no saved page attempted | none |

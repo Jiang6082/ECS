@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T19:12:21.115Z",
-  "scanStartedAt": "2026-10-26T19:10:20.103Z",
+  "generatedAt": "2026-10-27T12:26:39.906Z",
+  "scanStartedAt": "2026-10-27T12:24:41.279Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -930,7 +930,7 @@
       "careerPages": [
         "https://www.arpc.afrc.af.mil/Services/Assignments/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1141,7 +1141,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 102,
+      "jobsSeen": 97,
       "relevantRoles": 8
     },
     {
@@ -1429,9 +1429,11 @@
       ],
       "category": "Competition & Regulatory (Europe)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.aldwychconsulting.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2910,7 +2912,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 685,
+      "jobsSeen": 680,
       "relevantRoles": 4
     },
     {
@@ -2925,7 +2927,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 679,
+      "jobsSeen": 685,
       "relevantRoles": 0
     },
     {
@@ -3194,7 +3196,7 @@
       "careerPages": [
         "https://genesisrg.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3226,7 +3228,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1018,
+      "jobsSeen": 1024,
       "relevantRoles": 1
     },
     {

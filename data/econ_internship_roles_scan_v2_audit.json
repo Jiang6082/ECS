@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-26T19:10:20.103Z",
+  "searchedAt": "2026-10-27T12:24:41.279Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -263,7 +263,6 @@
     "Perspective Economics",
     "Pantheon Macroeconomics",
     "Plum Consulting",
-    "Aldwych Partners",
     "Lexonomics",
     "CE Delft",
     "Decisio",
@@ -1126,8 +1125,8 @@
       "company": "ARPC",
       "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
       "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1139,7 +1138,7 @@
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
       "pageOk": true,
-      "pageStatus": 200,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1151,7 +1150,7 @@
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
       "pageOk": true,
-      "pageStatus": 200,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1342,10 +1341,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 102
+          "jobsSeen": 97
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 97,
       "relevantRoles": 8
     },
     {
@@ -1542,6 +1541,18 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
+      "pageOk": true,
+      "pageStatus": 202,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Aldwych Partners",
+      "pageUrl": "https://www.aldwychconsulting.com/",
+      "resolvedUrl": "https://www.aldwychconsulting.com/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -2844,10 +2855,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 685
+          "jobsSeen": 680
         }
       ],
-      "jobsSeen": 685,
+      "jobsSeen": 680,
       "relevantRoles": 4
     },
     {
@@ -2868,10 +2879,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 679
+          "jobsSeen": 685
         }
       ],
-      "jobsSeen": 679,
+      "jobsSeen": 685,
       "relevantRoles": 0
     },
     {
@@ -3154,8 +3165,8 @@
       "company": "Genesis Research Group",
       "pageUrl": "https://genesisrg.com/careers/",
       "resolvedUrl": "https://genesisrg.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3211,10 +3222,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1018
+          "jobsSeen": 1024
         }
       ],
-      "jobsSeen": 1018,
+      "jobsSeen": 1024,
       "relevantRoles": 1
     },
     {

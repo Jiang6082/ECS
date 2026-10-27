@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:10:20.104Z",
+  "generatedAt": "2026-10-27T12:24:41.280Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -541,8 +541,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Aldwych Partners": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.aldwychconsulting.com/"
+      ],
+      "updatedAt": "2026-10-27T12:24:41.280Z"
     },
     "Indepen": {
       "careerPages": [

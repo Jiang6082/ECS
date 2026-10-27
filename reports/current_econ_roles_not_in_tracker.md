@@ -1,8 +1,8 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-26T19:10:20.103Z
+Current scan: 2026-10-27T12:24:41.279Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 117
+Current roles absent from tracker: 116
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
@@ -64,7 +64,7 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 - **Trinity Life Sciences** - [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) - Waltham, MA - Headquarters - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 - **Xcenda (Cencora)** - [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) - Washington, DC - Confirmed official posting (Career page Workday:myhrabc/Global): career_page=https://www.cencora.com/initiatives/pharma/mahc-student-programs | timing not stated in title
 
-### Europe (41)
+### Europe (40)
 
 - **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -106,7 +106,6 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 - **Secretariat** - [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) - München, Bavaria, Germany - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing not stated in title
 - **Technopolis Group** - [Full time paid Internship / Stage Paris](https://technopolis-group.jobs.personio.com/job/2247787) - Paris - Confirmed official posting (Official ATS Personio:technopolis-group): timing not stated in title
 - **Technopolis Group** - [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) - Paris - Confirmed official posting (Official ATS Personio:technopolis-group): timing not stated in title
-- **Technopolis Group** - [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) - Paris - Confirmed official posting (Official ATS Personio:technopolis-group): timing not stated in title
 
 ### Asia (3)
 

@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-26T19:08:11.420Z
+Scanned: 2026-10-27T12:22:22.048Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 110
+Internship roles: 109
 Entry-level analyst roles: 43
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
@@ -107,7 +107,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Stout** — [Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2) — Location not listed (Official ATS Workday:stout/Stout-Careers; timing: Summer 2027)
 - **Technopolis Group** — [Full time paid Internship / Stage Paris](https://technopolis-group.jobs.personio.com/job/2247787) — Paris (Official ATS Personio:technopolis-group; timing not stated in title)
 - **Technopolis Group** — [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) — Paris (Official ATS Personio:technopolis-group; timing not stated in title)
-- **Technopolis Group** — [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) — Paris (Official ATS Personio:technopolis-group; timing not stated in title)
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) — Boston, Massachusetts, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) — Toronto, Ontario, Canada (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
@@ -135,7 +134,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Ankura** — [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104973) — Chicago, IL (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104982) — New York, NY (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104980) — Washington D.C. (Official ATS Workday:ankura/Ankura)
-- **Ankura** — [University Associate, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996) — New York, NY (Official ATS Workday:ankura/Ankura)
+- **Ankura** — [University Associate, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996) — 3 Locations (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Valuation---Transaction-Advisory_R104983) — Chicago, IL (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Forensic-Data---Analytics_R104939) — Chicago, IL (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Forensic-Data---Analytics_R104938) — New York, NY (Official ATS Workday:ankura/Ankura)
