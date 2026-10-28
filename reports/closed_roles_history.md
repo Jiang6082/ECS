@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 51
-Last updated: 2026-10-27T18:40:31.533Z
+Total closures recorded: 53
+Last updated: 2026-10-28T11:52:58.536Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-28 (2)
+
+- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) - Chicago, IL
+- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) - New York, NY
 
 ### 2026-10-27 (3)
 

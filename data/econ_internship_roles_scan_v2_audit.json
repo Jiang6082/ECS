@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-27T18:40:31.533Z",
+  "searchedAt": "2026-10-28T11:52:58.536Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -678,10 +678,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 34
+          "jobsSeen": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -710,10 +710,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 34
+          "jobsSeen": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -1062,14 +1062,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 108
+          "jobsSeen": 113
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 113,
       "relevantRoles": 5
     },
     {
@@ -1232,8 +1232,8 @@
       "company": "Frontier Economics",
       "pageUrl": "https://frontier.edu/",
       "resolvedUrl": "https://frontier.edu/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1352,10 +1352,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 97
+          "jobsSeen": 98
         }
       ],
-      "jobsSeen": 97,
+      "jobsSeen": 98,
       "relevantRoles": 8
     },
     {
@@ -1637,7 +1637,7 @@
       "boards": [
         {
           "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 38
+          "jobsSeen": 37
         },
         {
           "source": "SmartRecruiters:cdn-cgi",
@@ -1648,7 +1648,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -1697,10 +1697,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 107
+          "jobsSeen": 109
         }
       ],
-      "jobsSeen": 107,
+      "jobsSeen": 109,
       "relevantRoles": 0
     },
     {
@@ -2866,10 +2866,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 677
+          "jobsSeen": 678
         }
       ],
-      "jobsSeen": 677,
+      "jobsSeen": 678,
       "relevantRoles": 4
     },
     {
@@ -2890,10 +2890,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 680
+          "jobsSeen": 685
         }
       ],
-      "jobsSeen": 680,
+      "jobsSeen": 685,
       "relevantRoles": 0
     },
     {
@@ -3233,10 +3233,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1018
+          "jobsSeen": 1009
         }
       ],
-      "jobsSeen": 1018,
+      "jobsSeen": 1009,
       "relevantRoles": 1
     },
     {
@@ -3340,10 +3340,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {

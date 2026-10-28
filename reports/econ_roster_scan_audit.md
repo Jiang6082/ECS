@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-27T18:40:31.533Z
+Scan started: 2026-10-28T11:52:58.536Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -46,7 +46,7 @@ Canonical companies after aliases: 232
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
 
-## Confirmed Openings, No Matching Role (30)
+## Confirmed Openings, No Matching Role (29)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -56,8 +56,7 @@ Canonical companies after aliases: 232
 | Coherent Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://coherentecon.com/job-openings/) |
 | Fideres | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://job-boards.eu.greenhouse.io/fideres) |
 | HKA | Litigation, Antitrust & Damages | 2/2 pages live | [link](https://careers.hka.com/) [link](https://careers.hka.com/jobs) |
-| Frontier Economics | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://frontier.edu/) |
-| Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
+| Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
 | Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
@@ -81,7 +80,7 @@ Canonical companies after aliases: 232
 | Capital Economics | Macro & Economic Research | 1/1 pages live | [link](https://apply.workable.com/capital-economics/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (170)
+## Could Not Fully Verify (171)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -144,6 +143,7 @@ Canonical companies after aliases: 232
 | DIW Econ | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://diw-econ.de/en/career/) |
 | WIK-Consult | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.wik.org/ueber-uns/karriere) |
 | Ecorys | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.ecorys.com/en/vacancies) |
+| Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Accuracy | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://careers.accuracy.com/) |
 | Economic Consulting Associates | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/) |
 | Lear | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.learlab.com/careers/vacancies/) |

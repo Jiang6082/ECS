@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-27T18:40:31.533Z
+Scanned: 2026-10-28T11:52:58.536Z
 Firms searched: 232
 Career pages checked: 214
 Internship roles/leads retained: 114
@@ -196,7 +196,6 @@ _None._
 - Synapse Energy Economics
 - The Cadmus Group
 - Urban Institute
-- Vivid Economics (McKinsey)
 - Wakely Consulting Group
 - Wood Mackenzie
 
@@ -369,6 +368,7 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - TischlerBise
 - Vega Economics
 - Vista Analyse
+- Vivid Economics (McKinsey)
 - Vocational Economics
 - Volterra Partners
 - WIK-Consult

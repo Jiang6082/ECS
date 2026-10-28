@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T18:42:36.130Z",
-  "scanStartedAt": "2026-10-27T18:40:31.533Z",
+  "generatedAt": "2026-10-28T11:54:51.542Z",
+  "scanStartedAt": "2026-10-28T11:52:58.536Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 27,
     "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 30,
-    "could-not-fully-verify": 170
+    "confirmed-openings-no-matching-role": 29,
+    "could-not-fully-verify": 171
   },
   "companies": [
     {
@@ -294,7 +294,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -808,7 +808,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 108,
+      "jobsSeen": 113,
       "relevantRoles": 5
     },
     {
@@ -1008,7 +1008,7 @@
       "careerPages": [
         "https://frontier.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1143,7 +1143,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 97,
+      "jobsSeen": 98,
       "relevantRoles": 8
     },
     {
@@ -1255,7 +1255,7 @@
         "Vivid Economics (McKinsey)"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9",
         "https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d"
@@ -1483,7 +1483,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -1500,7 +1500,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 107,
+      "jobsSeen": 109,
       "relevantRoles": 0
     },
     {
@@ -2914,7 +2914,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 677,
+      "jobsSeen": 678,
       "relevantRoles": 4
     },
     {
@@ -2929,7 +2929,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 680,
+      "jobsSeen": 685,
       "relevantRoles": 0
     },
     {
@@ -3230,7 +3230,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1018,
+      "jobsSeen": 1009,
       "relevantRoles": 1
     },
     {
@@ -3306,7 +3306,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {

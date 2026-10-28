@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-27T18:40:31.533Z
+Last updated: 2026-10-28T11:52:58.536Z
 
 ## Summary
 
@@ -9,11 +9,11 @@ Last updated: 2026-10-27T18:40:31.533Z
 - Current internship roles: 114
 - Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- No longer present since previous scan: 2
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
-- Openings but no matching role: 30
-- Could not fully verify: 170
+- Openings but no matching role: 29
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
@@ -66,7 +66,8 @@ _None._
 
 ## No Longer Present
 
-- **Technopolis Group** - [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) - Paris
+- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) - Chicago, IL
+- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) - New York, NY
 
 ## Full Reports
 

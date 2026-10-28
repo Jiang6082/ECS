@@ -1,19 +1,29 @@
 {
-  "generatedAt": "2026-10-27T18:42:36.179Z",
-  "previousScanAt": "2026-10-27T12:24:41.279Z",
-  "currentScanAt": "2026-10-27T18:40:31.533Z",
-  "previousRows": 116,
+  "generatedAt": "2026-10-28T11:54:51.599Z",
+  "previousScanAt": "2026-10-27T18:40:31.533Z",
+  "currentScanAt": "2026-10-28T11:52:58.536Z",
+  "previousRows": 114,
   "currentRows": 114,
   "added": [],
   "removed": [
     {
-      "Company": "Technopolis Group",
-      "Category": "Competition & Regulatory (Europe)",
-      "Title": "Full time paid Internship in Public policies for Green transition",
-      "Location": "Paris",
-      "Region": "Europe",
-      "URL": "https://technopolis-group.jobs.personio.com/job/1189784",
-      "Source": "Official ATS Personio:technopolis-group",
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Forensic Data & Analytics",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944",
+      "Source": "Official ATS Workday:ankura/Ankura",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Ankura",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "University Intern, Forensic Data & Analytics",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943",
+      "Source": "Official ATS Workday:ankura/Ankura",
       "Status": "Confirmed official posting"
     }
   ]

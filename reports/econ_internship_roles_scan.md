@@ -1,8 +1,8 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-27T18:38:23.145Z
+Scanned: 2026-10-28T11:50:47.897Z
 Firms in universe: 232
-Firms with at least one live ATS board: 59
+Firms with at least one live ATS board: 58
 Internship roles: 107
 Entry-level analyst roles: 41
 
@@ -222,6 +222,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - DIW Econ
 - WIK-Consult
 - Ecorys
+- Vivid Economics (McKinsey)
 - Accuracy
 - Economic Consulting Associates
 - Lear

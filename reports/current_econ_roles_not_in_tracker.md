@@ -1,6 +1,6 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-27T18:40:31.533Z
+Current scan: 2026-10-28T11:52:58.536Z
 Historical tracker URLs: 0
 Current roles absent from tracker: 114
 
