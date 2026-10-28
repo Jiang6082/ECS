@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-28T11:52:58.536Z",
+  "searchedAt": "2026-10-28T18:47:10.137Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -266,11 +266,9 @@
     "CE Delft",
     "Decisio",
     "Prognos",
-    "BAK Economics",
     "Ecoplan",
     "Oslo Economics",
     "THEMA Consulting Group",
-    "Afi",
     "Prometeia",
     "Indecon",
     "SQW",
@@ -317,10 +315,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -1062,14 +1060,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 113
+          "jobsSeen": 114
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 113,
+      "jobsSeen": 114,
       "relevantRoles": 5
     },
     {
@@ -1637,7 +1635,7 @@
       "boards": [
         {
           "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 37
+          "jobsSeen": 39
         },
         {
           "source": "SmartRecruiters:cdn-cgi",
@@ -1648,7 +1646,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -1697,10 +1695,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 109
+          "jobsSeen": 110
         }
       ],
-      "jobsSeen": 109,
+      "jobsSeen": 110,
       "relevantRoles": 0
     },
     {
@@ -1801,6 +1799,30 @@
       "relevantRoles": 0
     },
     {
+      "company": "BAK Economics",
+      "pageUrl": "https://bak-economics.com/en/about-us/career/",
+      "resolvedUrl": "https://bak-economics.com/en/about/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "BAK Economics",
+      "pageUrl": "https://classic.bak-economics.com/en/about-us/career",
+      "resolvedUrl": "https://classic.bak-economics.com/en/about-us/career",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "INFRAS",
       "pageUrl": "https://www.infrasai.io/",
       "resolvedUrl": "https://www.infrasai.io/",
@@ -1842,6 +1864,18 @@
       "resolvedUrl": "https://www.ramboll.com/careers",
       "pageOk": true,
       "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Afi",
+      "pageUrl": "https://fest.afi.com/",
+      "resolvedUrl": "https://fest.afi.com/",
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1900,8 +1934,8 @@
       "company": "HoustonKemp",
       "pageUrl": "https://houstonkemp.com/careers/graduates/",
       "resolvedUrl": "https://houstonkemp.com/careers/graduates/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2609,12 +2643,10 @@
       "company": "ScottMadden",
       "pageUrl": "https://www.scottmadden.com/careers/",
       "resolvedUrl": "https://www.scottmadden.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "ultipro"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2890,10 +2922,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 685
+          "jobsSeen": 687
         }
       ],
-      "jobsSeen": 685,
+      "jobsSeen": 687,
       "relevantRoles": 0
     },
     {
@@ -3205,14 +3237,14 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 19
+          "jobsSeen": 20
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 35,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -3233,10 +3265,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1009
+          "jobsSeen": 1012
         }
       ],
-      "jobsSeen": 1009,
+      "jobsSeen": 1012,
       "relevantRoles": 1
     },
     {
@@ -3409,10 +3441,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 5
+          "jobsSeen": 7
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 7,
       "relevantRoles": 0
     },
     {

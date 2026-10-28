@@ -1,30 +1,9 @@
 {
-  "generatedAt": "2026-10-28T11:54:51.599Z",
-  "previousScanAt": "2026-10-27T18:40:31.533Z",
-  "currentScanAt": "2026-10-28T11:52:58.536Z",
+  "generatedAt": "2026-10-28T18:49:06.375Z",
+  "previousScanAt": "2026-10-28T11:52:58.536Z",
+  "currentScanAt": "2026-10-28T18:47:10.137Z",
   "previousRows": 114,
-  "currentRows": 114,
+  "currentRows": 115,
   "added": [],
-  "removed": [
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "University Intern, Forensic Data & Analytics",
-      "Location": "Chicago, IL",
-      "Region": "North America",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Ankura",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "University Intern, Forensic Data & Analytics",
-      "Location": "New York, NY",
-      "Region": "North America",
-      "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943",
-      "Source": "Official ATS Workday:ankura/Ankura",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

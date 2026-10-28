@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-27T18:40:31.533Z
-Current scan: 2026-10-28T11:52:58.536Z
+Previous scan: 2026-10-28T11:52:58.536Z
+Current scan: 2026-10-28T18:47:10.137Z
 Previous rows: 114
-Current rows: 114
+Current rows: 115
 New stable job URLs: 0
-No longer present: 2
+No longer present: 0
 
 ## New Roles By Region
 
@@ -47,5 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944)
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943)
+_None._

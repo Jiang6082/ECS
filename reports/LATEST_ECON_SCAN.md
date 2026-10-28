@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-28T11:52:58.536Z
+Last updated: 2026-10-28T18:47:10.137Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 214
-- Current internship roles: 114
+- Career pages checked: 217
+- Current internship roles: 115
 - Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 2
+- No longer present since previous scan: 0
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
@@ -18,7 +18,7 @@ Last updated: 2026-10-28T11:52:58.536Z
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 82
-- Health Economics & HEOR: 9
+- Health Economics & HEOR: 10
 - Transfer Pricing & Valuation: 7
 - Energy & Environmental Economics: 5
 - Big 4 & Advisory Economics: 5
@@ -66,8 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) - Chicago, IL
-- **Ankura** - [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) - New York, NY
+_None._
 
 ## Full Reports
 

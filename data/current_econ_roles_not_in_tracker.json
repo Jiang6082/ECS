@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T11:54:51.599Z",
-  "currentScanAt": "2026-10-28T11:52:58.536Z",
+  "generatedAt": "2026-10-28T18:49:06.375Z",
+  "currentScanAt": "2026-10-28T18:47:10.137Z",
   "historicalTrackerUrls": 0,
   "roles": [
     {
@@ -912,6 +912,19 @@
       "Notes": "timing: SUMMER",
       "Status": "Confirmed official posting",
       "Region": "North America"
+    },
+    {
+      "Company": "IQVIA (HEOR)",
+      "Category": "Health Economics & HEOR",
+      "Track": "Internship",
+      "Title": "Health Economics internship",
+      "Location": "Milan, Italy",
+      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642",
+      "Source": "Official ATS Workday:iqvia/IQVIA",
+      "PostedAt": "Posted Today",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
     },
     {
       "Company": "IQVIA (HEOR)",

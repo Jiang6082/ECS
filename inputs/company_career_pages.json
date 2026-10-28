@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:52:58.537Z",
+  "generatedAt": "2026-10-28T18:47:10.137Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -620,8 +620,11 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "BAK Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://bak-economics.com/en/about-us/career/",
+        "https://classic.bak-economics.com/en/about-us/career"
+      ],
+      "updatedAt": "2026-10-28T18:47:10.137Z"
     },
     "Ecoplan": {
       "careerPages": [],
@@ -660,8 +663,10 @@
       "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Afi": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://fest.afi.com/"
+      ],
+      "updatedAt": "2026-10-28T18:47:10.137Z"
     },
     "REF-E": {
       "careerPages": [

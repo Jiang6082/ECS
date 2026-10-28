@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-28T11:52:58.536Z
+Scan started: 2026-10-28T18:47:10.137Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -164,7 +164,7 @@ Canonical companies after aliases: 232
 | Decisio | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DICE Consult | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.dice.com/?msockid=06d8e90807ee6da110bafeea064f6c47) [link](https://www.dice.com/?msockid=1f0e1e11720961d0183309f373c760c5) |
 | Prognos | Competition & Regulatory (Europe) | no saved page attempted | none |
-| BAK Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
+| BAK Economics | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://bak-economics.com/en/about-us/career/) [link](https://classic.bak-economics.com/en/about-us/career) |
 | Ecoplan | Competition & Regulatory (Europe) | no saved page attempted | none |
 | INFRAS | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.infrasai.io/) |
 | Menon Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://menon.us/) |
@@ -172,7 +172,7 @@ Canonical companies after aliases: 232
 | Vista Analyse | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://vistams.lausd.org/) |
 | THEMA Consulting Group | Energy & Environmental Economics | no saved page attempted | none |
 | Ramboll Management Consulting | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.ramboll.com/careers) |
-| Afi | Competition & Regulatory (Europe) | no saved page attempted | none |
+| Afi | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://fest.afi.com/) |
 | REF-E | Energy & Environmental Economics | 1/1 pages live | [link](https://asktheref.org/) |
 | Prometeia | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
@@ -181,7 +181,7 @@ Canonical companies after aliases: 232
 | Steer | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://steer.education/) |
 | BiGGAR Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Metro Dynamics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.metrostate.edu/students) |
-| HoustonKemp | Economic Consulting (APAC) | 1/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
+| HoustonKemp | Economic Consulting (APAC) | 0/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
 | CEG (Competition Economists Group) | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.ceg-global.com/careers) |
 | Sapere Research Group | Economic Consulting (APAC) | 1/1 pages live | [link](https://sapere.ai/en) |
 | Frontier Economics Australia | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.frontier-economics.com.au/careers/current-opportunities/) |
@@ -223,7 +223,7 @@ Canonical companies after aliases: 232
 | Christensen Associates Energy Consulting | Energy & Environmental Economics | 1/1 pages live | [link](https://www.caenergy.com/careers/) |
 | London Economics International | Energy & Environmental Economics | 1/1 pages live | [link](https://londoneconomics.com/careers) |
 | Concentric Energy Advisors | Energy & Environmental Economics | 1/1 pages live | [link](https://ceadvisors.com/careers/) |
-| ScottMadden | Energy & Environmental Economics | 1/1 pages live | [link](https://www.scottmadden.com/careers/) |
+| ScottMadden | Energy & Environmental Economics | 0/1 pages live | [link](https://www.scottmadden.com/careers/) |
 | Demand Side Analytics | Energy & Environmental Economics | 1/1 pages live | [link](https://demandsideanalytics.com/careers/) |
 | Resources for the Future | Energy & Environmental Economics | 1/1 pages live | [link](https://www.rff.org/careers/) |
 | Rhodium Group | Energy & Environmental Economics | no saved page attempted | none |
