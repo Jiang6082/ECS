@@ -1,10 +1,10 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-28T18:47:10.137Z
+Scan started: 2026-10-29T18:56:42.496Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (27)
+## Matching Roles Found (28)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ Canonical companies after aliases: 232
 | Energy + Environmental Economics (E3) | Energy & Environmental Economics | 1/1 pages live | [link](https://www.ethree.com/careers/) |
 | PwC (Economics / Transfer Pricing / Forensics) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://jobs.us.pwc.com/entry-level-transfer-pricing) |
 | BDO (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.bdo.com/careers) |
+| RSM (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://jobs.rsmus.com/) |
 | PRECISIONheor (Precision AQ) | Health Economics & HEOR | 1/1 pages live | [link](https://job-boards.greenhouse.io/precisionaq) |
 | IQVIA (HEOR) | Health Economics & HEOR | 1/2 pages live | [link](https://jobs.iqvia.com/en) [link](https://iqvia.wd1.myworkdayjobs.com/IQVIA/) |
 | Xcenda (Cencora) | Health Economics & HEOR | 1/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
@@ -59,7 +60,7 @@ Canonical companies after aliases: 232
 | Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
 | Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
-| Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
+| Baringa | Energy & Environmental Economics | 2/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.seo-usa.org/) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
@@ -80,7 +81,7 @@ Canonical companies after aliases: 232
 | Capital Economics | Macro & Economic Research | 1/1 pages live | [link](https://apply.workable.com/capital-economics/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (171)
+## Could Not Fully Verify (170)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -181,7 +182,7 @@ Canonical companies after aliases: 232
 | Steer | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://steer.education/) |
 | BiGGAR Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Metro Dynamics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.metrostate.edu/students) |
-| HoustonKemp | Economic Consulting (APAC) | 0/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
+| HoustonKemp | Economic Consulting (APAC) | 1/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
 | CEG (Competition Economists Group) | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.ceg-global.com/careers) |
 | Sapere Research Group | Economic Consulting (APAC) | 1/1 pages live | [link](https://sapere.ai/en) |
 | Frontier Economics Australia | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.frontier-economics.com.au/careers/current-opportunities/) |
@@ -233,7 +234,6 @@ Canonical companies after aliases: 232
 | Deloitte (Economics / Transfer Pricing) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://apply.deloitte.com/en_US/careers/SearchJobs/) |
 | EY (QUEST / Economic Advisory / Transfer Pricing) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://usearlycareers.ey.com/) |
 | KPMG (Economic & Valuation Services) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmguscareers.com/early-career/) |
-| RSM (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://jobs.rsmus.com/) |
 | Crowe (Transfer Pricing) | Transfer Pricing & Valuation | 2/3 pages live | [link](https://www.crowe.com/careers) [link](https://careers.crowe.com/) [link](https://careers.crowe.com/student-careers) |
 | Baker Tilly (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://bakerconstruction.com/) |
 | Ryan (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.ryan.com/who-we-are/careers) |

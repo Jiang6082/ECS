@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T18:49:06.334Z",
-  "scanStartedAt": "2026-10-28T18:47:10.137Z",
+  "generatedAt": "2026-10-29T18:58:50.529Z",
+  "scanStartedAt": "2026-10-29T18:56:42.496Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 27,
+    "matching-role-found": 28,
     "confirmed-no-open-postings": 5,
     "confirmed-openings-no-matching-role": 29,
-    "could-not-fully-verify": 171
+    "could-not-fully-verify": 170
   },
   "companies": [
     {
@@ -808,7 +808,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 114,
+      "jobsSeen": 115,
       "relevantRoles": 5
     },
     {
@@ -1143,7 +1143,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 98,
+      "jobsSeen": 100,
       "relevantRoles": 8
     },
     {
@@ -1483,7 +1483,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 39,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -1498,7 +1498,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 110,
       "relevantRoles": 0
@@ -1870,7 +1870,7 @@
       "careerPages": [
         "https://houstonkemp.com/careers/graduates/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2277,7 +2277,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantRoles": 0
     },
     {
@@ -2928,14 +2928,14 @@
         "RSM (Transfer Pricing)"
       ],
       "category": "Transfer Pricing & Valuation",
-      "status": "could-not-fully-verify",
+      "status": "matching-role-found",
       "careerPages": [
         "https://jobs.rsmus.com/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 687,
-      "relevantRoles": 0
+      "relevantRoles": 1
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3220,7 +3220,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 36,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -3235,7 +3235,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1012,
+      "jobsSeen": 1007,
       "relevantRoles": 1
     },
     {
@@ -3358,7 +3358,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {

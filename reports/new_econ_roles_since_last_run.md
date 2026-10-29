@@ -1,10 +1,10 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-28T11:52:58.536Z
-Current scan: 2026-10-28T18:47:10.137Z
-Previous rows: 114
-Current rows: 115
-New stable job URLs: 0
+Previous scan: 2026-10-28T18:47:10.137Z
+Current scan: 2026-10-29T18:56:42.496Z
+Previous rows: 115
+Current rows: 113
+New stable job URLs: 1
 No longer present: 0
 
 ## New Roles By Region
@@ -13,9 +13,9 @@ No longer present: 0
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy - Confirmed official posting (Official ATS Workday:iqvia/IQVIA)
 
 ### Asia (0)
 

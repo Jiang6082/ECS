@@ -1,6 +1,6 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-10-28T18:47:10.137Z
+Scanned: 2026-10-29T18:56:42.496Z
 Roles: 44
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
@@ -23,6 +23,7 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Berkeley Research Group** - [Analyst, Data Analytics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Analyst--Data-Analytics_JR101209) - Washington, DC - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Berkeley Research Group** - [Analyst, Product Success](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Analyst--Product-Success_JR101217-1) - Remote - USA - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Eastern Research Group** - [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) - Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA - Confirmed official posting (Official ATS Lever:erg): timing not stated in title
+- **HR&A Advisors** - [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/OIdLbkgMzp/Analyst-Inclusive-Cities) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) - Washington, DC, DC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
@@ -33,7 +34,6 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005) - San Francisco, California, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720811005) - New York, New York, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732797005) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
-- **The Brattle Group** - [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720832005) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720833005) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720834005) - New York, New York, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720836005) - Boston, Massachusetts, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027

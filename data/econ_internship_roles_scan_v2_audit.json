@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-28T18:47:10.137Z",
+  "searchedAt": "2026-10-29T18:56:42.496Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1060,14 +1060,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 114
+          "jobsSeen": 115
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 114,
+      "jobsSeen": 115,
       "relevantRoles": 5
     },
     {
@@ -1350,10 +1350,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 98
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 98,
+      "jobsSeen": 100,
       "relevantRoles": 8
     },
     {
@@ -1635,7 +1635,7 @@
       "boards": [
         {
           "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 39
+          "jobsSeen": 41
         },
         {
           "source": "SmartRecruiters:cdn-cgi",
@@ -1646,7 +1646,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -1665,13 +1665,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1934,8 +1930,8 @@
       "company": "HoustonKemp",
       "pageUrl": "https://houstonkemp.com/careers/graduates/",
       "resolvedUrl": "https://houstonkemp.com/careers/graduates/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2239,10 +2235,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 16
+          "jobsSeen": 17
         }
       ],
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantRoles": 0
     },
     {
@@ -2926,7 +2922,7 @@
         }
       ],
       "jobsSeen": 687,
-      "relevantRoles": 0
+      "relevantRoles": 1
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3233,7 +3229,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 16
+          "jobsSeen": 18
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -3244,7 +3240,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 36,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -3265,10 +3261,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1012
+          "jobsSeen": 1007
         }
       ],
-      "jobsSeen": 1012,
+      "jobsSeen": 1007,
       "relevantRoles": 1
     },
     {
@@ -3441,10 +3437,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 7
+          "jobsSeen": 8
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {

@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-28T18:47:10.137Z
+Last updated: 2026-10-29T18:56:42.496Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 217
-- Current internship roles: 115
+- Current internship roles: 113
 - Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 0
-- Firms with matching roles: 27
+- Firms with matching roles: 28
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
-- Could not fully verify: 171
+- Could not fully verify: 170
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 82
+- Litigation, Antitrust & Damages: 79
 - Health Economics & HEOR: 10
-- Transfer Pricing & Valuation: 7
+- Transfer Pricing & Valuation: 8
 - Energy & Environmental Economics: 5
 - Big 4 & Advisory Economics: 5
 - Competition & Regulatory (Europe): 3
@@ -32,9 +32,9 @@ Last updated: 2026-10-28T18:47:10.137Z
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy
 
 ### Asia (0)
 
