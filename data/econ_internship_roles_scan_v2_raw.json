@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-30T10:35:51.514Z",
+  "searchedAt": "2026-10-30T18:34:07.848Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-30T10:35:51.515Z",
+    "generatedAt": "2026-10-30T18:34:07.849Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -298,8 +298,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "FTI Consulting (Economic Consulting)": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://www.fticonsulting.com/careers"
+        ],
+        "updatedAt": "2026-10-30T18:34:07.849Z"
       },
       "Econ One": {
         "careerPages": [
@@ -1602,6 +1604,10 @@
       "pageUrl": "https://www.thinkbrg.com/careers/early-careers/"
     },
     {
+      "company": "FTI Consulting (Economic Consulting)",
+      "pageUrl": "https://www.fticonsulting.com/careers"
+    },
+    {
       "company": "Econ One",
       "pageUrl": "https://econone.com/careers/"
     },
@@ -2653,6 +2659,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "FTI Consulting (Economic Consulting)",
+      "pageUrl": "https://www.fticonsulting.com/careers",
+      "resolvedUrl": "https://www.fticonsulting.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Econ One",
       "pageUrl": "https://econone.com/careers/",
       "resolvedUrl": "https://econone.com/careers/",
@@ -3284,8 +3302,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3296,8 +3314,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3526,8 +3544,8 @@
       "company": "DIW Econ",
       "pageUrl": "https://diw-econ.de/en/career/",
       "resolvedUrl": "https://diw-econ.de/en/career/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3664,8 +3682,8 @@
       "company": "Cebr",
       "pageUrl": "https://cebr.com/join-the-team/",
       "resolvedUrl": "https://cebr.com/join-the-team/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3688,8 +3706,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3803,9 +3821,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -3829,10 +3851,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 110
+          "jobsSeen": 108
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 108,
       "relevantRoles": 0
     },
     {
@@ -3902,10 +3924,10 @@
       "boards": [
         {
           "source": "Greenhouse:sponsorsforeducationalopportunity",
-          "jobsSeen": 27
+          "jobsSeen": 26
         }
       ],
-      "jobsSeen": 27,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -4020,8 +4042,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4577,8 +4599,8 @@
       "company": "Keyser Marston Associates",
       "pageUrl": "https://www.keysermarston.com/careers/",
       "resolvedUrl": "https://www.keysermarston.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -5032,11 +5054,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 680
+          "jobsSeen": 671
         }
       ],
-      "jobsSeen": 680,
-      "relevantRoles": 5
+      "jobsSeen": 671,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -5056,10 +5078,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 680
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 680,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -5399,10 +5421,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1009
+          "jobsSeen": 1021
         }
       ],
-      "jobsSeen": 1009,
+      "jobsSeen": 1021,
       "relevantRoles": 0
     },
     {
@@ -6251,19 +6273,6 @@
       "Company": "BDO (Transfer Pricing)",
       "Category": "Transfer Pricing & Valuation",
       "Track": "Internship",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
-      "Location": "Detroit, MI, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779",
-      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-      "PostedAt": "2026-10-26",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
       "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
       "Location": "Los Angeles, CA, United States",
       "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875",
@@ -6966,19 +6975,6 @@
       "Company": "PwC (Economics / Transfer Pricing / Forensics)",
       "Category": "Big 4 & Advisory Economics",
       "Track": "Internship",
-      "Title": "Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)",
-      "Location": "Palermo",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 30+ Days Ago",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Track": "Internship",
       "Title": "Intern - International Tax & Transfer Pricing - Milano [TAX]",
       "Location": "Milan",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1",
@@ -7143,19 +7139,6 @@
       "Notes": "timing: Summer 2027; graduation years mentioned: 2027, 2028",
       "Status": "Confirmed official posting",
       "Region": "North America"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Summer 2027 Intern - Disputes Claims & Investigations: Chicago",
-      "Location": "",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 30+ Days Ago",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "Remote / Unspecified"
     },
     {
       "Company": "Stout",

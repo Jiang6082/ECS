@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-30T10:35:51.514Z",
+  "searchedAt": "2026-10-30T18:34:07.848Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,6 @@
     "S&P Global (Economics)"
   ],
   "companiesWithoutKnownCareerPage": [
-    "FTI Consulting (Economic Consulting)",
     "Houlihan Lokey (Dispute Resolution Consulting)",
     "Global Economics Group",
     "Economists Incorporated",
@@ -510,6 +509,18 @@
       "unsupportedAts": [
         "jobvite"
       ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "FTI Consulting (Economic Consulting)",
+      "pageUrl": "https://www.fticonsulting.com/careers",
+      "resolvedUrl": "https://www.fticonsulting.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1146,8 +1157,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1158,8 +1169,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1388,8 +1399,8 @@
       "company": "DIW Econ",
       "pageUrl": "https://diw-econ.de/en/career/",
       "resolvedUrl": "https://diw-econ.de/en/career/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1526,8 +1537,8 @@
       "company": "Cebr",
       "pageUrl": "https://cebr.com/join-the-team/",
       "resolvedUrl": "https://cebr.com/join-the-team/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1550,8 +1561,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1665,9 +1676,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1691,10 +1706,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 110
+          "jobsSeen": 108
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 108,
       "relevantRoles": 0
     },
     {
@@ -1764,10 +1779,10 @@
       "boards": [
         {
           "source": "Greenhouse:sponsorsforeducationalopportunity",
-          "jobsSeen": 27
+          "jobsSeen": 26
         }
       ],
-      "jobsSeen": 27,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -1882,8 +1897,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2439,8 +2454,8 @@
       "company": "Keyser Marston Associates",
       "pageUrl": "https://www.keysermarston.com/careers/",
       "resolvedUrl": "https://www.keysermarston.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2894,11 +2909,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 680
+          "jobsSeen": 671
         }
       ],
-      "jobsSeen": 680,
-      "relevantRoles": 5
+      "jobsSeen": 671,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2918,10 +2933,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 680
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 680,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -3261,10 +3276,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1009
+          "jobsSeen": 1021
         }
       ],
-      "jobsSeen": 1009,
+      "jobsSeen": 1021,
       "relevantRoles": 0
     },
     {

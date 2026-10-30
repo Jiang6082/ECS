@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-10-30T10:37:44.672Z",
-  "previousScanAt": "2026-10-29T18:56:42.496Z",
-  "currentScanAt": "2026-10-30T10:35:51.514Z",
-  "previousRows": 113,
-  "currentRows": 111,
+  "generatedAt": "2026-10-30T18:36:10.820Z",
+  "previousScanAt": "2026-10-30T10:35:51.514Z",
+  "currentScanAt": "2026-10-30T18:34:07.848Z",
+  "previousRows": 111,
+  "currentRows": 108,
   "added": [
     {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
-      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "RSM (Transfer Pricing)",
+      "Company": "BDO (Transfer Pricing)",
       "Category": "Transfer Pricing & Valuation",
-      "Title": "International Tax Transfer Pricing Intern - Winter 2027",
-      "Location": "Toronto",
+      "Title": "Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)",
+      "Location": "Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States",
       "Region": "North America",
-      "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896",
-      "Source": "Career page Workday:rsm/RSMCareers",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
       "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "Analysis Group",
+      "Company": "FTI Consulting (Economic Consulting)",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)",
-      "Location": "",
+      "Title": "2027 Industry Placement, Economic & Financial Consulting",
+      "Location": "London, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Xcenda (Cencora)",
+      "Category": "Health Economics & HEOR",
+      "Title": "U.S. Public Policy & Advocacy Intern",
+      "Location": "Washington, DC",
+      "Region": "North America",
+      "URL": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769",
+      "Source": "Career page Workday:myhrabc/Global",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Trinity Life Sciences",
+      "Category": "Health Economics & HEOR",
+      "Title": "Summer Associate, Evidence Strategy",
+      "Location": "2 Locations",
       "Region": "Remote / Unspecified",
-      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3029/job",
-      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
+      "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866",
+      "Source": "Official ATS Workday:trinitylifesciences/Trinity",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "Analysis Group",
+      "Company": "Compass Lexecon",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)",
-      "Location": "CA-QC-Montreal | CA-ON-Toronto",
-      "Region": "North America",
-      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3064/job",
-      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Analysis Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)",
-      "Location": "CA-QC-Montreal | CA-ON-Toronto",
-      "Region": "North America",
-      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3067/job",
-      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
+      "Title": "2027 Analyst Interns - US",
+      "Location": "5 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385",
+      "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
       "Status": "Confirmed official posting"
     }
   ]

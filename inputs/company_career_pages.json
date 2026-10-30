@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:35:51.515Z",
+  "generatedAt": "2026-10-30T18:34:07.849Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -62,8 +62,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "FTI Consulting (Economic Consulting)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.fticonsulting.com/careers"
+      ],
+      "updatedAt": "2026-10-30T18:34:07.849Z"
     },
     "Econ One": {
       "careerPages": [

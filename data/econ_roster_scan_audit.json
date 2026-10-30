@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T10:37:44.607Z",
-  "scanStartedAt": "2026-10-30T10:35:51.514Z",
+  "generatedAt": "2026-10-30T18:36:10.761Z",
+  "scanStartedAt": "2026-10-30T18:34:07.848Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -167,9 +167,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "matching-role-found",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.fticonsulting.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -947,7 +949,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -962,7 +964,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1199,7 +1201,7 @@
       "careerPages": [
         "https://diw-econ.de/en/career/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1363,7 +1365,7 @@
       "careerPages": [
         "https://cebr.com/join-the-team/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1406,7 +1408,7 @@
       "careerPages": [
         "https://volterrakirkland.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1498,9 +1500,9 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 110,
+      "jobsSeen": 108,
       "relevantRoles": 0
     },
     {
@@ -1547,7 +1549,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 27,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -1758,7 +1760,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2429,7 +2431,7 @@
       "careerPages": [
         "https://www.keysermarston.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2919,8 +2921,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 680,
-      "relevantRoles": 5
+      "jobsSeen": 671,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2934,7 +2936,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 680,
+      "jobsSeen": 673,
       "relevantRoles": 1
     },
     {
@@ -3235,7 +3237,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1009,
+      "jobsSeen": 1021,
       "relevantRoles": 0
     },
     {

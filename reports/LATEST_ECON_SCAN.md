@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-30T10:35:51.514Z
+Last updated: 2026-10-30T18:34:07.848Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 217
-- Current internship roles: 111
+- Career pages checked: 218
+- Current internship roles: 108
 - Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 3
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 4
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
@@ -18,10 +18,10 @@ Last updated: 2026-10-30T10:35:51.514Z
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 77
-- Transfer Pricing & Valuation: 9
 - Health Economics & HEOR: 8
-- Big 4 & Advisory Economics: 6
+- Transfer Pricing & Valuation: 7
 - Energy & Environmental Economics: 5
+- Big 4 & Advisory Economics: 5
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 2
 - Macro & Economic Research: 1
@@ -30,7 +30,7 @@ Last updated: 2026-10-30T10:35:51.514Z
 
 ### North America (1)
 
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto
+- **BDO (Transfer Pricing)** - [Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) - Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States
 
 ### Europe (0)
 
@@ -60,15 +60,16 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
+_None._
 
 ## No Longer Present
 
-- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - Location not listed
-- **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - CA-QC-Montreal | CA-ON-Toronto
-- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - CA-QC-Montreal | CA-ON-Toronto
+- **FTI Consulting (Economic Consulting)** - [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) - London, United Kingdom
+- **Xcenda (Cencora)** - [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) - Washington, DC
+- **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations
+- **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) - 5 Locations
 
 ## Full Reports
 
