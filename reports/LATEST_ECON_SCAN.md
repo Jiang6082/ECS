@@ -1,40 +1,40 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-29T18:56:42.496Z
+Last updated: 2026-10-30T10:35:51.514Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 217
-- Current internship roles: 113
+- Current internship roles: 111
 - Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 0
-- Firms with matching roles: 28
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 3
+- Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
-- Could not fully verify: 170
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 79
-- Health Economics & HEOR: 10
-- Transfer Pricing & Valuation: 8
+- Litigation, Antitrust & Damages: 77
+- Transfer Pricing & Valuation: 9
+- Health Economics & HEOR: 8
+- Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 5
-- Big 4 & Advisory Economics: 5
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 2
 - Macro & Economic Research: 1
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
+
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto
+
+### Europe (0)
 
 _None._
-
-### Europe (1)
-
-- **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy
 
 ### Asia (0)
 
@@ -60,13 +60,15 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
 
 ## No Longer Present
 
-_None._
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - Location not listed
+- **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - CA-QC-Montreal | CA-ON-Toronto
+- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - CA-QC-Montreal | CA-ON-Toronto
 
 ## Full Reports
 

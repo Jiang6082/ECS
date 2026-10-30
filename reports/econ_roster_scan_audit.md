@@ -1,10 +1,10 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-10-29T18:56:42.496Z
+Scan started: 2026-10-30T10:35:51.514Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (28)
+## Matching Roles Found (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -33,7 +33,6 @@ Canonical companies after aliases: 232
 | RSM (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://jobs.rsmus.com/) |
 | PRECISIONheor (Precision AQ) | Health Economics & HEOR | 1/1 pages live | [link](https://job-boards.greenhouse.io/precisionaq) |
 | IQVIA (HEOR) | Health Economics & HEOR | 1/2 pages live | [link](https://jobs.iqvia.com/en) [link](https://iqvia.wd1.myworkdayjobs.com/IQVIA/) |
-| Xcenda (Cencora) | Health Economics & HEOR | 1/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
 | Trinity Life Sciences | Health Economics & HEOR | 1/1 pages live | [link](https://www.trinitychurch.com/) |
 | Oxford Economics | Macro & Economic Research | 1/1 pages live | [link](https://careers.oxfordeconomics.com/) |
 
@@ -81,7 +80,7 @@ Canonical companies after aliases: 232
 | Capital Economics | Macro & Economic Research | 1/1 pages live | [link](https://apply.workable.com/capital-economics/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (170)
+## Could Not Fully Verify (171)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -141,7 +140,7 @@ Canonical companies after aliases: 232
 | Cambridge Econometrics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.camecon.com/careers) |
 | Swiss Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.swiss-economics.ch/career.html) |
 | Polynomics | Competition & Regulatory (Europe) | no saved page attempted | none |
-| DIW Econ | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://diw-econ.de/en/career/) |
+| DIW Econ | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://diw-econ.de/en/career/) |
 | WIK-Consult | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.wik.org/ueber-uns/karriere) |
 | Ecorys | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.ecorys.com/en/vacancies) |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
@@ -151,7 +150,7 @@ Canonical companies after aliases: 232
 | Reckon LLP | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.reckon.co.uk/junior-consultant-opportunity) |
 | Perspective Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DotEcon | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dotecon.com/careers) |
-| Cebr | Macro & Economic Research | 1/1 pages live | [link](https://cebr.com/join-the-team/) |
+| Cebr | Macro & Economic Research | 0/1 pages live | [link](https://cebr.com/join-the-team/) |
 | Pantheon Macroeconomics | Macro & Economic Research | no saved page attempted | none |
 | Volterra Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://volterrakirkland.com/) |
 | Plum Consulting | Competition & Regulatory (Europe) | no saved page attempted | none |
@@ -210,7 +209,7 @@ Canonical companies after aliases: 232
 | DAI Global | Policy & Research Economics | 1/1 pages live | [link](https://careers.daicompanies.com/) |
 | Econsult Solutions | Policy & Research Economics | 1/1 pages live | [link](https://econsultsolutions.com/careers/) |
 | BAE Urban Economics | Policy & Research Economics | 1/1 pages live | [link](https://www.bae1.com/careers) |
-| Keyser Marston Associates | Policy & Research Economics | 1/1 pages live | [link](https://www.keysermarston.com/careers/) |
+| Keyser Marston Associates | Policy & Research Economics | 0/1 pages live | [link](https://www.keysermarston.com/careers/) |
 | TischlerBise | Policy & Research Economics | no saved page attempted | none |
 | EBP US | Policy & Research Economics | 0/1 pages live | [link](https://www.ebp-us.com/en/job-openings-0) |
 | MDRC | Policy & Research Economics | 1/1 pages live | [link](https://www.mdrc.org/about/careers) |
@@ -248,6 +247,7 @@ Canonical companies after aliases: 232
 | Dobson DaVanzo & Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.dobsondavanzo.com/careers/) |
 | Milliman | Health Economics & HEOR | 1/1 pages live | [link](https://careers.milliman.com/en/Search) |
 | Genesis Research Group | Health Economics & HEOR | 1/1 pages live | [link](https://genesisrg.com/careers/) |
+| Xcenda (Cencora) | Health Economics & HEOR | 1/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
 | OPEN Health | Health Economics & HEOR | 3/3 pages live | [link](https://www.openhealthgroup.com/careers/) [link](http://careers.openhealthgroup.com/) [link](https://www.openhealthgroup.com/open-roles/) |
 | Medicus Economics | Health Economics & HEOR | 1/1 pages live | [link](https://medicushcs.com/) |
 | KNG Health Consulting | Health Economics & HEOR | no saved page attempted | none |

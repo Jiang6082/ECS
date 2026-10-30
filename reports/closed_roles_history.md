@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 53
-Last updated: 2026-10-29T18:56:42.496Z
+Total closures recorded: 56
+Last updated: 2026-10-30T10:35:51.514Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-10-30 (3)
+
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job)
+- **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - CA-QC-Montreal | CA-ON-Toronto
+- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - CA-QC-Montreal | CA-ON-Toronto
 
 ### 2026-10-28 (2)
 

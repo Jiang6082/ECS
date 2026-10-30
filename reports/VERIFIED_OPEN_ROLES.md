@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-10-29 18:56 UTC · **113 roles confirmed live on official job boards** across 28 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-10-30 10:35 UTC · **111 roles confirmed live on official job boards** across 27 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (113)
+## ✅ Confirmed Live On Official Job Boards (111)
 
 ### Analysis Group (11)
 
@@ -49,10 +49,11 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) | São Paulo, Brazil | South America |
 | [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) | Tokyo, Japan | Asia |
 
-### BDO (Transfer Pricing) (3)
+### BDO (Transfer Pricing) (4)
 
 | Role | Location | Region |
 |---|---|---|
+| [Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) | Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States | North America |
 | [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) | Dallas, TX, United States | North America |
 | [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) | Detroit, MI, United States | North America |
 | [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) | Los Angeles, CA, United States | North America |
@@ -81,11 +82,10 @@ _Resume review began Oct 15 and is rolling._
 | [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) | Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom | Europe |
 | [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) | Munich, Germany | Europe |
 
-### Compass Lexecon (13)
+### Compass Lexecon (12)
 
 | Role | Location | Region |
 |---|---|---|
-| [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) | Multiple locations | Remote / Unspecified |
 | [Intern \| Competition Practice \| Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) | Berlin, Germany | Europe |
 | [Intern \| Competition Practice \| Brussels](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310) | Brussels, Belgium | Europe |
 | [Intern \| Competition Practice \| Düsseldorf](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312) | Dusseldorf, Germany | Europe |
@@ -124,12 +124,11 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) | San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta | North America |
 
-### FTI Consulting (Economic Consulting) (6)
+### FTI Consulting (Economic Consulting) (5)
 
 | Role | Location | Region |
 |---|---|---|
 | [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971) | Milan (Torre Velasca) | Europe |
-| [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) | London, United Kingdom | Europe |
 | [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) | Paris, France | Europe |
 | [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) | London, United Kingdom | Europe |
 | [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) | Madrid, Spain | Europe |
@@ -188,10 +187,11 @@ _Resume review began Oct 15 and is rolling._
 | [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) | Remote, Canada | North America |
 | [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) | New York, NY, USA | North America |
 
-### PwC (Economics / Transfer Pricing / Forensics) (5)
+### PwC (Economics / Transfer Pricing / Forensics) (6)
 
 | Role | Location | Region |
 |---|---|---|
+| [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern \| Milano [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD) | Milan | Europe |
 | [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) | Palermo | Remote / Unspecified |
 | [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) | Milan | Europe |
 | [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) | Singapore | Asia |
@@ -253,20 +253,13 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) | Washington, District of Columbia, United States | North America |
 | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | San Francisco, California, United States | North America |
 
-### Trinity Life Sciences (4)
+### Trinity Life Sciences (3)
 
 | Role | Location | Region |
 |---|---|---|
-| [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) | Multiple locations | Remote / Unspecified |
 | [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) | New York, NY | North America |
 | [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) | San Francisco, CA | North America |
 | [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) | Waltham, MA - Headquarters | North America |
-
-### Xcenda (Cencora) (1)
-
-| Role | Location | Region |
-|---|---|---|
-| [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) | Washington, DC | North America |
 
 ## 🟡 Hand-Checked Roles (12)
 
@@ -289,10 +282,13 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 44 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (11)
+## ⛔ Closed In The Last 14 Days (14)
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| Analysis Group | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) | 2026-10-30 |
+| Analysis Group | [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) | 2026-10-30 |
+| Analysis Group | [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) | 2026-10-30 |
 | Ankura | [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) | 2026-10-28 |
 | Ankura | [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) | 2026-10-28 |
 | Technopolis Group | [Full time paid Internship in Public policies for Green transition](https://technopolis-group.jobs.personio.com/job/1189784) | 2026-10-27 |
@@ -305,4 +301,4 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | Berkeley Research Group | [2027 Summer Associate (Intern)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/XMLNAME-2027-Summer-Associate--Intern-_JR100976) | 2026-10-20 |
 | Charles River Associates | [(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) | 2026-10-20 |
 
-_Generated by ECS on 2026-10-29. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-10-30. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-29T18:56:42.496Z",
+  "searchedAt": "2026-10-30T10:35:51.514Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1350,10 +1350,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 100
+          "jobsSeen": 101
         }
       ],
-      "jobsSeen": 100,
+      "jobsSeen": 101,
       "relevantRoles": 8
     },
     {
@@ -1388,8 +1388,8 @@
       "company": "DIW Econ",
       "pageUrl": "https://diw-econ.de/en/career/",
       "resolvedUrl": "https://diw-econ.de/en/career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1526,8 +1526,8 @@
       "company": "Cebr",
       "pageUrl": "https://cebr.com/join-the-team/",
       "resolvedUrl": "https://cebr.com/join-the-team/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2439,8 +2439,8 @@
       "company": "Keyser Marston Associates",
       "pageUrl": "https://www.keysermarston.com/careers/",
       "resolvedUrl": "https://www.keysermarston.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2894,11 +2894,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 678
+          "jobsSeen": 680
         }
       ],
-      "jobsSeen": 678,
-      "relevantRoles": 4
+      "jobsSeen": 680,
+      "relevantRoles": 5
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2918,10 +2918,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 687
+          "jobsSeen": 680
         }
       ],
-      "jobsSeen": 687,
+      "jobsSeen": 680,
       "relevantRoles": 1
     },
     {
@@ -3194,10 +3194,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 10
+          "jobsSeen": 7
         }
       ],
-      "jobsSeen": 10,
+      "jobsSeen": 7,
       "relevantRoles": 0
     },
     {
@@ -3229,18 +3229,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 18
+          "jobsSeen": 19
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 20
+          "jobsSeen": 21
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -3261,11 +3261,11 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1007
+          "jobsSeen": 1009
         }
       ],
-      "jobsSeen": 1007,
-      "relevantRoles": 1
+      "jobsSeen": 1009,
+      "relevantRoles": 0
     },
     {
       "company": "Trinity Life Sciences",

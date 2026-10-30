@@ -1,21 +1,21 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-28T18:47:10.137Z
-Current scan: 2026-10-29T18:56:42.496Z
-Previous rows: 115
-Current rows: 113
-New stable job URLs: 1
-No longer present: 0
+Previous scan: 2026-10-29T18:56:42.496Z
+Current scan: 2026-10-30T10:35:51.514Z
+Previous rows: 113
+Current rows: 111
+New stable job URLs: 2
+No longer present: 3
 
 ## New Roles By Region
 
-### North America (0)
+### North America (1)
+
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto - Confirmed official posting (Career page Workday:rsm/RSMCareers)
+
+### Europe (0)
 
 _None._
-
-### Europe (1)
-
-- **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy - Confirmed official posting (Official ATS Workday:iqvia/IQVIA)
 
 ### Asia (0)
 
@@ -41,10 +41,12 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations - Confirmed official posting (Official ATS Workday:pwc/US_Entry_Level_Careers)
 
 ## No Longer Present
 
-_None._
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job)
+- **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job)
+- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job)

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T18:58:50.529Z",
-  "scanStartedAt": "2026-10-29T18:56:42.496Z",
+  "generatedAt": "2026-10-30T10:37:44.607Z",
+  "scanStartedAt": "2026-10-30T10:35:51.514Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 28,
+    "matching-role-found": 27,
     "confirmed-no-open-postings": 5,
     "confirmed-openings-no-matching-role": 29,
-    "could-not-fully-verify": 170
+    "could-not-fully-verify": 171
   },
   "companies": [
     {
@@ -1143,7 +1143,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 100,
+      "jobsSeen": 101,
       "relevantRoles": 8
     },
     {
@@ -1199,7 +1199,7 @@
       "careerPages": [
         "https://diw-econ.de/en/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1363,7 +1363,7 @@
       "careerPages": [
         "https://cebr.com/join-the-team/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2429,7 +2429,7 @@
       "careerPages": [
         "https://www.keysermarston.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2919,8 +2919,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 678,
-      "relevantRoles": 4
+      "jobsSeen": 680,
+      "relevantRoles": 5
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2934,7 +2934,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 687,
+      "jobsSeen": 680,
       "relevantRoles": 1
     },
     {
@@ -3190,7 +3190,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 7,
       "relevantRoles": 0
     },
     {
@@ -3220,7 +3220,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -3229,14 +3229,14 @@
         "Xcenda (Cencora)"
       ],
       "category": "Health Economics & HEOR",
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.xcenda.com/careers-student-programs"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1007,
-      "relevantRoles": 1
+      "jobsSeen": 1009,
+      "relevantRoles": 0
     },
     {
       "company": "Trinity Life Sciences",
