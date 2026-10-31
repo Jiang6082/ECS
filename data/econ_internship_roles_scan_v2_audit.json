@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-30T18:34:07.848Z",
+  "searchedAt": "2026-10-31T17:38:38.821Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -687,10 +687,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 33
+          "jobsSeen": 36
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -719,10 +719,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 33
+          "jobsSeen": 36
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 36,
       "relevantRoles": 0
     },
     {
@@ -1157,8 +1157,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1169,8 +1169,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1361,11 +1361,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 101
+          "jobsSeen": 94
         }
       ],
-      "jobsSeen": 101,
-      "relevantRoles": 8
+      "jobsSeen": 94,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1561,8 +1561,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 502,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1676,13 +1676,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1897,8 +1893,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2250,10 +2246,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 17
+          "jobsSeen": 16
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -2909,10 +2905,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 671
+          "jobsSeen": 675
         }
       ],
-      "jobsSeen": 671,
+      "jobsSeen": 675,
       "relevantRoles": 4
     },
     {
@@ -2933,10 +2929,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 673
+          "jobsSeen": 660
         }
       ],
-      "jobsSeen": 673,
+      "jobsSeen": 660,
       "relevantRoles": 1
     },
     {
@@ -3276,10 +3272,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1021
+          "jobsSeen": 1010
         }
       ],
-      "jobsSeen": 1021,
+      "jobsSeen": 1010,
       "relevantRoles": 0
     },
     {

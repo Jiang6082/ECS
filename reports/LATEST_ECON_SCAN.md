@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-10-30T18:34:07.848Z
+Last updated: 2026-10-31T17:38:38.821Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 218
 - Current internship roles: 108
-- Entry-level analyst roles: 44 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 4
+- Entry-level analyst roles: 43 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 3
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
@@ -28,9 +28,9 @@ Last updated: 2026-10-30T18:34:07.848Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **BDO (Transfer Pricing)** - [Advisory Intern, Risk, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) - Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States
+_None._
 
 ### Europe (0)
 
@@ -66,10 +66,9 @@ _None._
 
 ## No Longer Present
 
-- **FTI Consulting (Economic Consulting)** - [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) - London, United Kingdom
-- **Xcenda (Cencora)** - [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) - Washington, DC
-- **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations
-- **Compass Lexecon** - [2027 Analyst Interns - US](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Chicago---CL/XMLNAME-2027-Analyst-Interns---US_JR261385) - 5 Locations
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) - Palermo
+- **Stout** - [Summer 2027 Intern - Disputes Claims & Investigations: Chicago](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Chicago-IL/Summer-2027-Intern---Disputes-Claims---Investigations--Chicago_r2180-2) - Location not listed
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States
 
 ## Full Reports
 

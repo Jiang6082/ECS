@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-30T18:31:57.020Z
+Scanned: 2026-10-31T17:36:42.867Z
 Firms in universe: 232
 Firms with at least one live ATS board: 58
 Internship roles: 101
-Entry-level analyst roles: 41
+Entry-level analyst roles: 40
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -129,7 +129,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Ankura** — [University Associate, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996) — 3 Locations (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Valuation---Transaction-Advisory_R104983) — Chicago, IL (Official ATS Workday:ankura/Ankura)
 - **Aurora Energy Research** — [2027 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/6cce184a-db54-45aa-9c8b-ace0ca9fa093) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com)
-- **Aurora Energy Research** — [2027 Graduate Analyst Program (Austin)](https://careers.auroraer.com/en/postings/c5211d96-2d16-4823-b845-e1425240c8c6) — Austin, USA (Official ATS Pinpoint:careers.auroraer.com)
 - **Aurora Energy Research** — [Graduate Analyst Programme (Oxford, 2027)](https://careers.auroraer.com/en/postings/0aa034dd-9e51-4c22-8707-01f4d8c98e6e) — Oxford, UK (Official ATS Pinpoint:careers.auroraer.com)
 - **Aurora Energy Research** — [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com)
 - **BDO (Transfer Pricing)** — [Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014) — Atlanta, GA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers)
