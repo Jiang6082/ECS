@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:38:38.823Z",
+  "generatedAt": "2026-10-31T22:36:16.143Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -645,8 +645,11 @@
       "updatedAt": "2026-09-30T18:20:41.533Z"
     },
     "Oslo Economics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://osloeconomics.no/category/jobb-i-oslo-economics/",
+        "https://osloeconomics.no/en/about-us/jobs-in-oslo-economics/"
+      ],
+      "updatedAt": "2026-10-31T22:36:16.143Z"
     },
     "Vista Analyse": {
       "careerPages": [

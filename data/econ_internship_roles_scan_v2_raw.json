@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-31T17:38:38.821Z",
+  "searchedAt": "2026-10-31T22:36:16.142Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-31T17:38:38.823Z",
+    "generatedAt": "2026-10-31T22:36:16.143Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -881,8 +881,11 @@
         "updatedAt": "2026-09-30T18:20:41.533Z"
       },
       "Oslo Economics": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://osloeconomics.no/category/jobb-i-oslo-economics/",
+          "https://osloeconomics.no/en/about-us/jobs-in-oslo-economics/"
+        ],
+        "updatedAt": "2026-10-31T22:36:16.143Z"
       },
       "Vista Analyse": {
         "careerPages": [
@@ -1978,6 +1981,14 @@
     {
       "company": "Menon Economics",
       "pageUrl": "https://menon.us/"
+    },
+    {
+      "company": "Oslo Economics",
+      "pageUrl": "https://osloeconomics.no/category/jobb-i-oslo-economics/"
+    },
+    {
+      "company": "Oslo Economics",
+      "pageUrl": "https://osloeconomics.no/en/about-us/jobs-in-oslo-economics/"
     },
     {
       "company": "Vista Analyse",
@@ -3302,8 +3313,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3314,8 +3325,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3506,11 +3517,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 94
+          "jobsSeen": 93
         }
       ],
-      "jobsSeen": 94,
-      "relevantRoles": 7
+      "jobsSeen": 93,
+      "relevantRoles": 6
     },
     {
       "company": "Cornwall Insight",
@@ -3706,8 +3717,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3821,9 +3832,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -3999,6 +4014,30 @@
       "relevantRoles": 0
     },
     {
+      "company": "Oslo Economics",
+      "pageUrl": "https://osloeconomics.no/category/jobb-i-oslo-economics/",
+      "resolvedUrl": "https://osloeconomics.no/category/jobb-i-oslo-economics/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Oslo Economics",
+      "pageUrl": "https://osloeconomics.no/en/about-us/jobs-in-oslo-economics/",
+      "resolvedUrl": "https://osloeconomics.no/en/about-us/jobs-in-oslo-economics/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Vista Analyse",
       "pageUrl": "https://vistams.lausd.org/",
       "resolvedUrl": "https://vistams.lausd.org/",
@@ -4038,8 +4077,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4795,10 +4834,12 @@
       "company": "ScottMadden",
       "pageUrl": "https://www.scottmadden.com/careers/",
       "resolvedUrl": "https://www.scottmadden.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "ultipro"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -5417,10 +5458,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1010
+          "jobsSeen": 1009
         }
       ],
-      "jobsSeen": 1010,
+      "jobsSeen": 1009,
       "relevantRoles": 0
     },
     {
@@ -6194,19 +6235,6 @@
       "Title": "Energy Modelling Intern",
       "Location": "São Paulo, Brazil",
       "URL": "https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b",
-      "Source": "Official ATS Pinpoint:careers.auroraer.com",
-      "PostedAt": "",
-      "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "South America"
-    },
-    {
-      "Company": "Aurora Energy Research",
-      "Category": "Energy & Environmental Economics",
-      "Track": "Internship",
-      "Title": "Energy Modelling Intern (with preference for women)",
-      "Location": "São Paulo, Brazil",
-      "URL": "https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b",
       "Source": "Official ATS Pinpoint:careers.auroraer.com",
       "PostedAt": "",
       "Notes": "timing not stated in title",
@@ -8125,7 +8153,6 @@
     "Acumen",
     "AlixPartners",
     "Analysys Mason",
-    "Avalere Health",
     "Axiom Economics",
     "Baringa",
     "Capital Economics",
@@ -8166,6 +8193,7 @@
     "Applied Economics Consulting Group",
     "Ashenfelter & Ashmore",
     "Asia Competition Associates",
+    "Avalere Health",
     "BAE Urban Economics",
     "BAK Economics",
     "BERL",

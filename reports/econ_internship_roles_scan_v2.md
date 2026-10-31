@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-10-31T17:38:38.821Z
+Scanned: 2026-10-31T22:36:16.142Z
 Firms searched: 232
-Career pages checked: 218
-Internship roles/leads retained: 108
+Career pages checked: 220
+Internship roles/leads retained: 107
 Entry-level analyst roles (separate report): 43
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -125,10 +125,9 @@ _None._
 
 _None._
 
-### South America (3)
+### South America (2)
 
 - **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
-- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Aurora Energy Research** - [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 
 ### Africa (0)
@@ -167,7 +166,6 @@ _None._
 - Acumen
 - AlixPartners
 - Analysys Mason
-- Avalere Health
 - Axiom Economics
 - Baringa
 - Capital Economics
@@ -211,6 +209,7 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - Applied Economics Consulting Group
 - Ashenfelter & Ashmore
 - Asia Competition Associates
+- Avalere Health
 - BAE Urban Economics
 - BAK Economics
 - BERL

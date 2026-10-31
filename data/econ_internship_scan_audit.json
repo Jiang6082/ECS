@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-31T17:36:42.867Z",
+  "scannedAt": "2026-10-31T22:34:40.632Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1312,12 +1312,12 @@
           "source": "Pinpoint:careers.auroraer.com",
           "origin": "seeded",
           "ok": true,
-          "count": 94
+          "count": 93
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 94,
-      "relevantInternships": 4,
+      "jobsSeen": 93,
+      "relevantInternships": 3,
       "entryLevelRoles": 3,
       "rejectedByReason": {
         "not an internship or entry-level role": 77,
@@ -2726,16 +2726,16 @@
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1358
+          "count": 1355
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1413,
+      "jobsSeen": 1410,
       "relevantInternships": 5,
       "entryLevelRoles": 1,
       "rejectedByReason": {
         "non-economics practice": 205,
-        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1087,
+        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1084,
         "PhD/MBA/JD-only": 2,
         "non-economics function": 70,
         "dated for a past cycle": 2,
@@ -2993,22 +2993,14 @@
     {
       "company": "Avalere Health",
       "category": "Health Economics & HEOR",
-      "resolvedBoards": [
-        {
-          "source": "Lever:avalerehealth",
-          "origin": "seeded",
-          "ok": true,
-          "count": 61
-        }
+      "resolvedBoards": [],
+      "failedSeededBoards": [
+        "lever:avalerehealth"
       ],
-      "failedSeededBoards": [],
-      "jobsSeen": 61,
+      "jobsSeen": 0,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
-      "rejectedByReason": {
-        "not an internship or entry-level role": 42,
-        "non-economics function": 19
-      }
+      "rejectedByReason": {}
     },
     {
       "company": "Dobson DaVanzo & Associates",

@@ -1,8 +1,8 @@
 # Current Econ Consulting Roles Not In Your Tracker
 
-Current scan: 2026-10-31T17:38:38.821Z
+Current scan: 2026-10-31T22:36:16.142Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 108
+Current roles absent from tracker: 107
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
@@ -116,10 +116,9 @@ _None._
 
 _None._
 
-### South America (3)
+### South America (2)
 
 - **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
-- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Aurora Energy Research** - [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 
 ### Africa (0)

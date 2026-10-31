@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-10-31 &nbsp;•&nbsp; **108 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **43 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **61 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-31 &nbsp;•&nbsp; **107 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **43 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **61 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -20,9 +20,9 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles Available
 
-**108** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**107** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (51)](#north-america) · [Europe (39)](#europe) · [Asia (3)](#asia) · [South America (3)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (11)](#remote--unspecified)
+**Regions:** [North America (51)](#north-america) · [Europe (39)](#europe) · [Asia (3)](#asia) · [South America (2)](#south-america) · [Global / Multiple Regions (1)](#global--multiple-regions) · [Remote / Unspecified (11)](#remote--unspecified)
 
 ### North America
 
@@ -144,10 +144,9 @@ _No new roles detected in the latest scan._
 ### South America
 
 <details>
-<summary><strong>3 roles</strong> — click to expand</summary>
+<summary><strong>2 roles</strong> — click to expand</summary>
 
 - **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) — São Paulo, Brazil
-- **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) — São Paulo, Brazil
 - **Aurora Energy Research** — [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) — São Paulo, Brazil
 
 </details>
