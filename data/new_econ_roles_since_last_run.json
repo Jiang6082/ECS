@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-10-31T22:38:06.040Z",
-  "previousScanAt": "2026-10-31T17:38:38.821Z",
-  "currentScanAt": "2026-10-31T22:36:16.142Z",
-  "previousRows": 108,
+  "generatedAt": "2026-11-01T18:24:43.353Z",
+  "previousScanAt": "2026-10-31T22:36:16.142Z",
+  "currentScanAt": "2026-11-01T18:22:56.999Z",
+  "previousRows": 107,
   "currentRows": 107,
   "added": [],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Energy Modelling Intern (with preference for women)",
+      "Location": "São Paulo, Brazil",
+      "Region": "South America",
+      "URL": "https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 61
-Last updated: 2026-10-31T22:36:16.142Z
+Total closures recorded: 62
+Last updated: 2026-11-01T18:22:56.999Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-01 (1)
+
+- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) - São Paulo, Brazil
 
 ### 2026-10-31 (2)
 

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-31T22:36:16.142Z",
+  "searchedAt": "2026-11-01T18:22:56.999Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1156,8 +1156,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1168,8 +1168,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1560,8 +1560,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 502,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1675,13 +1675,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1920,8 +1916,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2934,10 +2930,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 675
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 675,
+      "jobsSeen": 673,
       "relevantRoles": 4
     },
     {
@@ -2958,10 +2954,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 660
+          "jobsSeen": 658
         }
       ],
-      "jobsSeen": 660,
+      "jobsSeen": 658,
       "relevantRoles": 1
     },
     {
@@ -3301,10 +3297,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1009
+          "jobsSeen": 1006
         }
       ],
-      "jobsSeen": 1009,
+      "jobsSeen": 1006,
       "relevantRoles": 0
     },
     {

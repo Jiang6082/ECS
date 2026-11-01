@@ -1,8 +1,8 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-31T22:34:40.632Z
+Scanned: 2026-11-01T18:21:24.803Z
 Firms in universe: 232
-Firms with at least one live ATS board: 57
+Firms with at least one live ATS board: 58
 Internship roles: 100
 Entry-level analyst roles: 40
 
@@ -316,7 +316,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - Grant Thornton UK Economic Consulting
 - KPMG Singapore Economics & Regulation
 - Evidera (Thermo Fisher)
-- Avalere Health
 - Dobson DaVanzo & Associates
 - Milliman
 - Health Management Associates

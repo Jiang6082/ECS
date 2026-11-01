@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-31T22:34:40.632Z",
+  "scannedAt": "2026-11-01T18:21:24.803Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -576,17 +576,17 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 778
+          "count": 780
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 778,
+      "jobsSeen": 780,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
+        "non-economics function": 45,
         "not an internship or entry-level role": 35,
         "outside firm scope (econ)": 672,
-        "non-economics function": 43,
         "non-economics practice": 28
       }
     },
@@ -2098,16 +2098,16 @@
           "source": "Oracle:egpy/JoinAbt",
           "origin": "seeded",
           "ok": true,
-          "count": 8
+          "count": 7
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "non-economics function": 2,
-        "outside firm scope (econ)": 6
+        "outside firm scope (econ)": 5
       }
     },
     {
@@ -2778,22 +2778,22 @@
           "source": "Oracle:ehzq/CX_1",
           "origin": "seeded",
           "ok": true,
-          "count": 168
+          "count": 166
         },
         {
           "source": "Oracle:ehzq/CX_4",
           "origin": "seeded",
           "ok": true,
-          "count": 166
+          "count": 164
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 334,
+      "jobsSeen": 330,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "not an internship or entry-level role": 6,
-        "outside firm scope (econ)": 261,
+        "outside firm scope (econ)": 257,
         "non-economics practice": 44,
         "non-economics function": 23
       }
@@ -2806,21 +2806,21 @@
           "source": "Oracle:ebqb/CX_1001",
           "origin": "seeded",
           "ok": true,
-          "count": 83
+          "count": 82
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 675
+          "count": 673
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 758,
+      "jobsSeen": 755,
       "relevantInternships": 6,
       "entryLevelRoles": 2,
       "rejectedByReason": {
-        "outside firm scope (econ)": 684,
+        "outside firm scope (econ)": 681,
         "dated for a past cycle": 2,
         "not an internship or entry-level role": 22,
         "non-economics function": 27,
@@ -2966,18 +2966,18 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1904
+          "count": 1901
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1904,
+      "jobsSeen": 1901,
       "relevantInternships": 3,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1691,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1689,
         "non-economics function": 151,
         "not an internship or entry-level role": 44,
-        "non-economics practice": 15
+        "non-economics practice": 14
       }
     },
     {
@@ -2993,14 +2993,22 @@
     {
       "company": "Avalere Health",
       "category": "Health Economics & HEOR",
-      "resolvedBoards": [],
-      "failedSeededBoards": [
-        "lever:avalerehealth"
+      "resolvedBoards": [
+        {
+          "source": "Lever:avalerehealth",
+          "origin": "seeded",
+          "ok": true,
+          "count": 61
+        }
       ],
-      "jobsSeen": 0,
+      "failedSeededBoards": [],
+      "jobsSeen": 61,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
-      "rejectedByReason": {}
+      "rejectedByReason": {
+        "not an internship or entry-level role": 42,
+        "non-economics function": 19
+      }
     },
     {
       "company": "Dobson DaVanzo & Associates",
@@ -3215,17 +3223,17 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 344
+          "count": 352
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 344,
+      "jobsSeen": 352,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econom)": 279,
+        "non-economics function": 52,
+        "outside firm scope (econom)": 284,
         "non-economics practice": 14,
-        "non-economics function": 49,
         "recruiting event / talent pool": 1,
         "not an internship or entry-level role": 1
       }

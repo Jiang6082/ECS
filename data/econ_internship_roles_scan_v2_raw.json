@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-31T22:36:16.142Z",
+  "searchedAt": "2026-11-01T18:22:56.999Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-10-31T22:36:16.143Z",
+    "generatedAt": "2026-11-01T18:22:57.000Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -3313,8 +3313,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3325,8 +3325,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3717,8 +3717,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 502,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3832,13 +3832,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -4077,8 +4073,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -5091,10 +5087,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 675
+          "jobsSeen": 673
         }
       ],
-      "jobsSeen": 675,
+      "jobsSeen": 673,
       "relevantRoles": 4
     },
     {
@@ -5115,10 +5111,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 660
+          "jobsSeen": 658
         }
       ],
-      "jobsSeen": 660,
+      "jobsSeen": 658,
       "relevantRoles": 1
     },
     {
@@ -5458,10 +5454,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1009
+          "jobsSeen": 1006
         }
       ],
-      "jobsSeen": 1009,
+      "jobsSeen": 1006,
       "relevantRoles": 0
     },
     {
@@ -6691,7 +6687,7 @@
       "Location": "Milan (Torre Velasca)",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6717,7 +6713,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing: 2027 Summer",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6730,7 +6726,7 @@
       "Location": "Madrid, Spain",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 26 Days Ago",
+      "PostedAt": "Posted 27 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6743,7 +6739,7 @@
       "Location": "2 Locations",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 22 Days Ago",
+      "PostedAt": "Posted 23 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6821,7 +6817,7 @@
       "Location": "Milan, Italy",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 3 Days Ago",
+      "PostedAt": "Posted 4 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6834,7 +6830,7 @@
       "Location": "2 Locations",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6847,7 +6843,7 @@
       "Location": "3 Locations",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6925,7 +6921,7 @@
       "Location": "London - St. Botolph",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6938,7 +6934,7 @@
       "Location": "2 Locations",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6990,7 +6986,7 @@
       "Location": "Milan",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 30 Days Ago",
+      "PostedAt": "Posted 30+ Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -7029,7 +7025,7 @@
       "Location": "2 Locations",
       "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
       "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "PostedAt": "Posted 2 Days Ago",
+      "PostedAt": "Posted 3 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7069,7 +7065,7 @@
       "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896",
       "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting",
-      "PostedAt": "Posted 2 Days Ago",
+      "PostedAt": "Posted 3 Days Ago",
       "Notes": "career_page=https://jobs.rsmus.com/ | timing: Winter 2027",
       "Region": "North America"
     },
@@ -7473,7 +7469,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Advisory_R104988",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 12 Days Ago",
+      "PostedAt": "Posted 13 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7538,7 +7534,7 @@
       "Location": "3 Locations",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7616,7 +7612,7 @@
       "Location": "Washington, DC",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Analyst--Data-Analytics_JR101209",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7629,7 +7625,7 @@
       "Location": "Remote - USA",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Analyst--Product-Success_JR101217-1",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 5 Days Ago",
+      "PostedAt": "Posted 6 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -8153,6 +8149,7 @@
     "Acumen",
     "AlixPartners",
     "Analysys Mason",
+    "Avalere Health",
     "Axiom Economics",
     "Baringa",
     "Capital Economics",
@@ -8193,7 +8190,6 @@
     "Applied Economics Consulting Group",
     "Ashenfelter & Ashmore",
     "Asia Competition Associates",
-    "Avalere Health",
     "BAE Urban Economics",
     "BAK Economics",
     "BERL",
