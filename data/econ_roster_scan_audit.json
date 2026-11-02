@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T18:24:43.294Z",
-  "scanStartedAt": "2026-11-01T18:22:56.999Z",
+  "generatedAt": "2026-11-02T22:21:27.038Z",
+  "scanStartedAt": "2026-11-02T22:19:20.797Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -296,7 +296,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 36,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -810,7 +810,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 115,
+      "jobsSeen": 114,
       "relevantRoles": 5
     },
     {
@@ -949,7 +949,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -964,7 +964,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1145,8 +1145,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 93,
-      "relevantRoles": 6
+      "jobsSeen": 94,
+      "relevantRoles": 5
     },
     {
       "company": "Cornwall Insight",
@@ -1408,7 +1408,7 @@
       "careerPages": [
         "https://volterrakirkland.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1485,7 +1485,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 41,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -1500,7 +1500,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 108,
       "relevantRoles": 0
@@ -1763,7 +1763,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2282,7 +2282,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -2924,7 +2924,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 673,
+      "jobsSeen": 668,
       "relevantRoles": 4
     },
     {
@@ -2939,7 +2939,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 658,
+      "jobsSeen": 653,
       "relevantRoles": 1
     },
     {
@@ -3240,7 +3240,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1006,
+      "jobsSeen": 1019,
       "relevantRoles": 0
     },
     {

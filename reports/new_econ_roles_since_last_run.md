@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-10-31T22:36:16.142Z
-Current scan: 2026-11-01T18:22:56.999Z
+Previous scan: 2026-11-01T18:22:56.999Z
+Current scan: 2026-11-02T22:19:20.797Z
 Previous rows: 107
-Current rows: 107
+Current rows: 108
 New stable job URLs: 0
-No longer present: 1
+No longer present: 0
 
 ## New Roles By Region
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b)
+_None._

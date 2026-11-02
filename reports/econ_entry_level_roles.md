@@ -1,14 +1,14 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-01T18:22:56.999Z
-Roles: 43
+Scanned: 2026-11-02T22:19:20.797Z
+Roles: 42
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
 ### North America (30)
 
 - **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | San Francisco, CA, US | Washington, DC, DC, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | San Francisco, CA, US | Washington, DC, DC, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Generalist - Montreal / Toronto (2027 Start Date) | Responsable de projets - Généraliste - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3050/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3047/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | San Francisco, CA, US - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Associate - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/2959/job) - Boston, MA, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
@@ -45,10 +45,9 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 - **Cornerstone Research** - [Analyst, London](https://uguk-chire.icims.com/jobs/4083/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 
-### Asia (5)
+### Asia (4)
 
 - **Analysis Group** - [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Aurora Energy Research** - [2027 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/6cce184a-db54-45aa-9c8b-ace0ca9fa093) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2027
 - **Aurora Energy Research** - [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Compass Lexecon** - [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) - Beijing, China - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) - Singapore - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: 2027

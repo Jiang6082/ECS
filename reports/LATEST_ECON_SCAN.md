@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-01T18:22:56.999Z
+Last updated: 2026-11-02T22:19:20.797Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 220
-- Current internship roles: 107
-- Entry-level analyst roles: 43 ([list](econ_entry_level_roles.md))
+- Current internship roles: 108
+- Entry-level analyst roles: 42 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- No longer present since previous scan: 0
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
@@ -20,7 +20,7 @@ Last updated: 2026-11-01T18:22:56.999Z
 - Litigation, Antitrust & Damages: 77
 - Health Economics & HEOR: 8
 - Transfer Pricing & Valuation: 7
-- Big 4 & Advisory Economics: 5
+- Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 2
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) - São Paulo, Brazil
+_None._
 
 ## Full Reports
 
