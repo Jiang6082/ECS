@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-03T12:52:01.867Z",
+  "searchedAt": "2026-11-03T20:04:17.533Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -285,7 +285,6 @@
     "Camoin Associates",
     "Rhodium Group",
     "Monitoring Analytics",
-    "Andersen (Transfer Pricing)",
     "Economics Partners",
     "KNG Health Consulting",
     "S&P Global (Economics)"
@@ -505,9 +504,7 @@
           }
         ]
       },
-      "unsupportedAts": [
-        "jobvite"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -528,8 +525,8 @@
       "company": "Econ One",
       "pageUrl": "https://econone.com/careers/",
       "resolvedUrl": "https://econone.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1062,23 +1059,18 @@
       "pageStatus": 200,
       "atsTokens": {
         "smartrecruiters": [
-          "JSHeldLLC",
-          "external-referrals"
+          "JSHeldLLC"
         ]
       },
       "unsupportedAts": [],
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 114
-        },
-        {
-          "source": "SmartRecruiters:external-referrals",
-          "jobsSeen": 0
+          "jobsSeen": 112
         }
       ],
-      "jobsSeen": 114,
-      "relevantRoles": 5
+      "jobsSeen": 112,
+      "relevantRoles": 4
     },
     {
       "company": "J.S. Held",
@@ -1156,8 +1148,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1168,8 +1160,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1325,8 +1317,8 @@
       "company": "London Economics",
       "pageUrl": "https://londoneconomics.co.uk/recruitment/",
       "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1360,10 +1352,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 89
+          "jobsSeen": 91
         }
       ],
-      "jobsSeen": 89,
+      "jobsSeen": 91,
       "relevantRoles": 5
     },
     {
@@ -1398,8 +1390,8 @@
       "company": "DIW Econ",
       "pageUrl": "https://diw-econ.de/en/career/",
       "resolvedUrl": "https://diw-econ.de/en/career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1536,8 +1528,8 @@
       "company": "Cebr",
       "pageUrl": "https://cebr.com/join-the-team/",
       "resolvedUrl": "https://cebr.com/join-the-team/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1560,8 +1552,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 502,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1705,10 +1697,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 108
+          "jobsSeen": 110
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 110,
       "relevantRoles": 0
     },
     {
@@ -1920,8 +1912,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1932,8 +1924,8 @@
       "company": "DKM Economic Consultants",
       "pageUrl": "https://www.dkmedigroup.com/",
       "resolvedUrl": "https://www.dkmedigroup.com/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1944,8 +1936,8 @@
       "company": "Steer",
       "pageUrl": "https://steer.education/",
       "resolvedUrl": "https://steer.education/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2477,8 +2469,8 @@
       "company": "Keyser Marston Associates",
       "pageUrl": "https://www.keysermarston.com/careers/",
       "resolvedUrl": "https://www.keysermarston.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2563,12 +2555,10 @@
       "company": "ECONorthwest",
       "pageUrl": "https://econw.com/careers/",
       "resolvedUrl": "https://econw.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "rippling"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2677,12 +2667,10 @@
       "company": "ScottMadden",
       "pageUrl": "https://www.scottmadden.com/careers/",
       "resolvedUrl": "https://www.scottmadden.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "ultipro"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2878,12 +2866,10 @@
       "company": "KPMG (Economic & Valuation Services)",
       "pageUrl": "https://www.kpmguscareers.com/early-career/",
       "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2934,35 +2920,23 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 666
+          "jobsSeen": 678
         }
       ],
-      "jobsSeen": 666,
+      "jobsSeen": 678,
       "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
       "pageUrl": "https://jobs.rsmus.com/",
       "resolvedUrl": "https://jobs.rsmus.com/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "rsm.wd1.myworkdayjobs.com",
-            "site": "RSMCareers"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 652
-        }
-      ],
-      "jobsSeen": 652,
-      "relevantRoles": 1
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3025,6 +2999,32 @@
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Andersen (Transfer Pricing)",
+      "pageUrl": "https://careers.andersen.com/jobs/7462?lang=en-us",
+      "resolvedUrl": "https://careers.andersen.com/jobs/7462?lang=en-us",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "icims": [
+          "careersexp-andersentax",
+          "careerscampus-andersentax"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "iCIMS:careersexp-andersentax",
+          "jobsSeen": 0
+        },
+        {
+          "source": "iCIMS:careerscampus-andersentax",
+          "jobsSeen": 0
+        }
+      ],
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -3092,12 +3092,10 @@
       "company": "KPMG Singapore Economics & Regulation",
       "pageUrl": "https://www.kpmguscareers.com/early-career/",
       "resolvedUrl": "https://www.kpmguscareers.com/early-career/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3106,8 +3104,8 @@
       "company": "KPMG Singapore Economics & Regulation",
       "pageUrl": "https://www.kpmguscareers.com/job-search/",
       "resolvedUrl": "https://www.kpmguscareers.com/job-search/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3269,7 +3267,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 19
+          "jobsSeen": 18
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -3280,7 +3278,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -3301,10 +3299,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1018
+          "jobsSeen": 1010
         }
       ],
-      "jobsSeen": 1018,
+      "jobsSeen": 1010,
       "relevantRoles": 0
     },
     {

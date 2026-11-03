@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:52:01.869Z",
+  "generatedAt": "2026-11-03T20:04:17.534Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -1154,8 +1154,10 @@
       "updatedAt": "2026-10-25T17:02:48.730Z"
     },
     "Andersen (Transfer Pricing)": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://careers.andersen.com/jobs/7462?lang=en-us"
+      ],
+      "updatedAt": "2026-11-03T20:04:17.534Z"
     },
     "Economics Partners": {
       "careerPages": [],

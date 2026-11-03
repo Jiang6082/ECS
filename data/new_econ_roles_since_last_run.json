@@ -1,39 +1,18 @@
 {
-  "generatedAt": "2026-11-03T12:53:56.042Z",
-  "previousScanAt": "2026-11-02T22:19:20.797Z",
-  "currentScanAt": "2026-11-03T12:52:01.867Z",
-  "previousRows": 108,
-  "currentRows": 105,
-  "added": [
-    {
-      "Company": "FTI Consulting (Economic Consulting)",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "2027 Internship, Risk & Investigations, Forensic and Litigation Consulting",
-      "Location": "Singapore, Singapore",
-      "Region": "Asia",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE",
-      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Tax Transfer Pricing Intern",
-      "Location": "Bangkok",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "generatedAt": "2026-11-03T20:06:06.744Z",
+  "previousScanAt": "2026-11-03T12:52:01.867Z",
+  "currentScanAt": "2026-11-03T20:04:17.533Z",
+  "previousRows": 105,
+  "currentRows": 106,
+  "added": [],
   "removed": [
     {
       "Company": "The Brattle Group",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Associate Intern",
-      "Location": "San Francisco, California, United States",
+      "Title": "Research Analyst Intern (Economics) - Summer 2027",
+      "Location": "New York, New York, United States",
       "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
       "Source": "Official ATS Greenhouse:thebrattlegroup",
       "Status": "Confirmed official posting"
     }

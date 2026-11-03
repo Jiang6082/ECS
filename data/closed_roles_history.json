@@ -1,6 +1,17 @@
 [
   {
     "Company": "The Brattle Group",
+    "Title": "Research Analyst Intern (Economics) - Summer 2027",
+    "Location": "New York, New York, United States",
+    "Region": "North America",
+    "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
+    "Source": "Official ATS Greenhouse:thebrattlegroup",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-11-03T12:52:01.867Z",
+    "detectedClosedAt": "2026-11-03T20:04:17.533Z"
+  },
+  {
+    "Company": "The Brattle Group",
     "Title": "Research Associate Intern",
     "Location": "San Francisco, California, United States",
     "Region": "North America",
@@ -699,6 +710,7 @@
     "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-09-30T18:20:41.531Z",
-    "detectedClosedAt": "2026-10-01T18:45:37.964Z"
+    "detectedClosedAt": "2026-10-01T18:45:37.964Z",
+    "reopenedAt": "2026-11-03T20:04:17.533Z"
   }
 ]

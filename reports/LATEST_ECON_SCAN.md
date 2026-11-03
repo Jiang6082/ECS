@@ -1,26 +1,26 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-03T12:52:01.867Z
+Last updated: 2026-11-03T20:04:17.533Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 220
-- Current internship roles: 105
-- Entry-level analyst roles: 42 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 2
+- Career pages checked: 221
+- Current internship roles: 106
+- Entry-level analyst roles: 41 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
 - No longer present since previous scan: 1
-- Firms with matching roles: 27
-- Confirmed no open postings: 5
+- Firms with matching roles: 26
+- Confirmed no open postings: 6
 - Openings but no matching role: 29
 - Could not fully verify: 171
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 76
-- Transfer Pricing & Valuation: 7
-- Health Economics & HEOR: 6
-- Big 4 & Advisory Economics: 6
+- Litigation, Antitrust & Damages: 75
+- Health Economics & HEOR: 8
+- Big 4 & Advisory Economics: 7
+- Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 2
@@ -36,9 +36,9 @@ _None._
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) - Singapore, Singapore
+_None._
 
 ### Oceania (0)
 
@@ -60,13 +60,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) - Bangkok
+_None._
 
 ## No Longer Present
 
-- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) - San Francisco, California, United States
+- **The Brattle Group** - [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) - New York, New York, United States
 
 ## Full Reports
 

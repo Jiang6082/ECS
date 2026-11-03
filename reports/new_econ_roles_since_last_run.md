@@ -1,10 +1,10 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-02T22:19:20.797Z
-Current scan: 2026-11-03T12:52:01.867Z
-Previous rows: 108
-Current rows: 105
-New stable job URLs: 2
+Previous scan: 2026-11-03T12:52:01.867Z
+Current scan: 2026-11-03T20:04:17.533Z
+Previous rows: 105
+Current rows: 106
+New stable job URLs: 0
 No longer present: 1
 
 ## New Roles By Region
@@ -17,9 +17,9 @@ _None._
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) - Singapore, Singapore - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers)
+_None._
 
 ### Oceania (0)
 
@@ -41,10 +41,10 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) - Bangkok - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers)
+_None._
 
 ## No Longer Present
 
-- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005)
+- **The Brattle Group** - [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005)
