@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-02T22:19:20.797Z
+Last updated: 2026-11-03T12:52:01.867Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 220
-- Current internship roles: 108
+- Current internship roles: 105
 - Entry-level analyst roles: 42 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 1
 - Firms with matching roles: 27
 - Confirmed no open postings: 5
 - Openings but no matching role: 29
@@ -17,9 +17,9 @@ Last updated: 2026-11-02T22:19:20.797Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 77
-- Health Economics & HEOR: 8
+- Litigation, Antitrust & Damages: 76
 - Transfer Pricing & Valuation: 7
+- Health Economics & HEOR: 6
 - Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 4
 - Competition & Regulatory (Europe): 3
@@ -36,9 +36,9 @@ _None._
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) - Singapore, Singapore
 
 ### Oceania (0)
 
@@ -60,13 +60,13 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) - Bangkok
 
 ## No Longer Present
 
-_None._
+- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) - San Francisco, California, United States
 
 ## Full Reports
 

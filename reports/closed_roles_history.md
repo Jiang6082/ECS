@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 62
-Last updated: 2026-11-02T22:19:20.797Z
+Total closures recorded: 63
+Last updated: 2026-11-03T12:52:01.867Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-03 (1)
+
+- **The Brattle Group** - [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) - San Francisco, California, United States
 
 ### 2026-11-01 (1)
 

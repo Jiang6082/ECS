@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T22:21:27.038Z",
-  "scanStartedAt": "2026-11-02T22:19:20.797Z",
+  "generatedAt": "2026-11-03T12:53:55.984Z",
+  "scanStartedAt": "2026-11-03T12:52:01.867Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -1145,7 +1145,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 94,
+      "jobsSeen": 89,
       "relevantRoles": 5
     },
     {
@@ -1485,7 +1485,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 39,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -1549,7 +1549,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 26,
+      "jobsSeen": 27,
       "relevantRoles": 0
     },
     {
@@ -2282,7 +2282,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -2924,7 +2924,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 668,
+      "jobsSeen": 666,
       "relevantRoles": 4
     },
     {
@@ -2939,7 +2939,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 653,
+      "jobsSeen": 652,
       "relevantRoles": 1
     },
     {
@@ -3240,7 +3240,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1019,
+      "jobsSeen": 1018,
       "relevantRoles": 0
     },
     {
