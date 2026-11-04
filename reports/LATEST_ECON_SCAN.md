@@ -1,27 +1,27 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-03T20:04:17.533Z
+Last updated: 2026-11-04T20:25:37.270Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 221
-- Current internship roles: 106
-- Entry-level analyst roles: 41 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
+- Current internship roles: 108
+- Entry-level analyst roles: 39 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 1
-- Firms with matching roles: 26
+- Firms with matching roles: 27
 - Confirmed no open postings: 6
 - Openings but no matching role: 29
-- Could not fully verify: 171
+- Could not fully verify: 170
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 75
 - Health Economics & HEOR: 8
+- Transfer Pricing & Valuation: 7
 - Big 4 & Advisory Economics: 7
-- Transfer Pricing & Valuation: 6
-- Energy & Environmental Economics: 4
+- Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 2
 - Macro & Economic Research: 1
@@ -32,9 +32,9 @@ Last updated: 2026-11-03T20:04:17.533Z
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern | Roma [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) - Rome
 
 ### Asia (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **The Brattle Group** - [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) - New York, New York, United States
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) - Birmingham, AL, us
 
 ## Full Reports
 

@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-11-03 20:04 UTC · **106 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-11-04 20:25 UTC · **108 roles confirmed live on official job boards** across 27 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (106)
+## ✅ Confirmed Live On Official Job Boards (108)
 
 ### Analysis Group (11)
 
@@ -40,11 +40,12 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981) | Washington D.C. | North America |
 | [University Intern, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985) | Chicago, IL | North America |
 
-### Aurora Energy Research (3)
+### Aurora Energy Research (4)
 
 | Role | Location | Region |
 |---|---|---|
-| [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) | São Paulo, Brazil | South America |
+| [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) | São Paulo, Brazil | South America |
+| [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) | São Paulo, Brazil | South America |
 | [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) | São Paulo, Brazil | South America |
 | [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) | Tokyo, Japan | Asia |
 
@@ -60,7 +61,7 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 
 | Role | Location | Region |
 |---|---|---|
-| [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | Chicago, IL | North America |
+| [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) | Johannesburg, SA | Africa |
 | [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) | Berlin, GER | Europe |
 | [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) | Brussels, BEL | Europe |
 | [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) | Brussels, BEL | Europe |
@@ -203,6 +204,12 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) | Austin / Los Angeles / Washington, D.C. | North America |
 
+### RSM (Transfer Pricing) (1)
+
+| Role | Location | Region |
+|---|---|---|
+| [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) | Toronto | North America |
+
 ### Secretariat (7)
 
 | Role | Location | Region |
@@ -270,12 +277,13 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 ## Entry-Level (Full-Time 2027) Analyst Roles
 
-41 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
+39 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
 ## ⛔ Closed In The Last 14 Days (20)
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| J.S. Held | [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) | 2026-11-04 |
 | The Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) | 2026-11-03 |
 | The Brattle Group | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | 2026-11-03 |
 | Aurora Energy Research | [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) | 2026-11-01 |
@@ -295,6 +303,5 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | Ankura | [Part Time Intern, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Ann-Arbor-MI/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R105072) | 2026-10-24 |
 | Frontier Economics | [2027 Economic Analyst Intern (Long-term) - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Economic-Analyst-Intern--Long-term----London_JR10239) | 2026-10-24 |
 | Aurora Energy Research | [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/344b9f7d-deb5-4464-94fc-9e3e3623b099) | 2026-10-23 |
-| IQVIA (HEOR) | [Intern in Evidence Synthesis - Health Economics - hybrid from Athens or Lisbon (Application Deadline: October 16th)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838) | 2026-10-21 |
 
-_Generated by ECS on 2026-11-03. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-11-04. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

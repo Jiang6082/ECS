@@ -1,11 +1,11 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-03T20:04:17.533Z
-Roles: 41
+Scanned: 2026-11-04T20:25:37.270Z
+Roles: 39
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
-### North America (29)
+### North America (27)
 
 - **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | San Francisco, CA, US | Washington, DC, DC, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -24,10 +24,8 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Eastern Research Group** - [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) - Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA - Confirmed official posting (Official ATS Lever:erg): timing not stated in title
 - **HR&A Advisors** - [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/OIdLbkgMzp/Analyst-Inclusive-Cities) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
-- **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) - Washington, DC, DC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) - Atlanta, GA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
-- **HR&A Advisors** - [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/Ma1YoqlgoV/Research-Analyst-Real-Estate) - Los Angeles, CA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **J.S. Held** - [Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)](https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910) - San Francisco, CA, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720808005) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027
 - **The Brattle Group** - [Research Analyst (Economics and Finance) - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4720810005) - San Francisco, California, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: 2027

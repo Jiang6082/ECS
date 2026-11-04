@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-03T20:04:17.533Z
+Scanned: 2026-11-04T20:25:37.270Z
 Firms searched: 232
 Career pages checked: 221
-Internship roles/leads retained: 106
-Entry-level analyst roles (separate report): 41
+Internship roles/leads retained: 108
+Entry-level analyst roles (separate report): 39
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
 
@@ -34,7 +34,6 @@ Status guide:
 - **BDO (Transfer Pricing)** - [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) - Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) - Dallas, TX, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) - Los Angeles, CA, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
-- **Berkeley Research Group** - [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) - Chicago, IL - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) - Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Summer 2027; graduation years mentioned: 2027, 2028
 - **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) - Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Summer 2027; graduation years mentioned: 2027, 2028
 - **Charles River Associates** - [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) - College Station, TX, United States; Tallahassee, FL, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Spring 2027; graduation years mentioned: 2027
@@ -50,6 +49,7 @@ Status guide:
 - **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) - Remote, Canada - Confirmed official posting (Official ATS Greenhouse:precisionaq): timing not stated in title
 - **PRECISIONheor (Precision AQ)** - [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) - New York, NY, USA - Confirmed official posting (Official ATS Greenhouse:precisionaq): timing: Summer 2027; graduation years mentioned: 2027, 2029
 - **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C. - Confirmed official posting (Official ATS Greenhouse:rclco): timing: 2027 Summer
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto - Confirmed official posting (Career page Workday:rsm/RSMCareers): career_page=https://jobs.rsmus.com/ | timing: Winter 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) - Los Angeles, California, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
@@ -124,14 +124,15 @@ _None._
 
 _None._
 
-### South America (2)
+### South America (3)
 
-- **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
+- **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
+- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Aurora Energy Research** - [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) - São Paulo, Brazil - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 
-### Africa (0)
+### Africa (1)
 
-_None._
+- **Berkeley Research Group** - [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) - Johannesburg, SA - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 
 ### Global / Multiple Regions (0)
 
@@ -337,7 +338,6 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - Quantitative Economic Solutions
 - RBB Economics
 - REF-E
-- RSM (Transfer Pricing)
 - RTI Health Solutions
 - RTI International
 - Ramboll Management Consulting

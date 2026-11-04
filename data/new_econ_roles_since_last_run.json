@@ -1,19 +1,30 @@
 {
-  "generatedAt": "2026-11-03T20:06:06.744Z",
-  "previousScanAt": "2026-11-03T12:52:01.867Z",
-  "currentScanAt": "2026-11-03T20:04:17.533Z",
-  "previousRows": 105,
-  "currentRows": 106,
-  "added": [],
+  "generatedAt": "2026-11-04T20:27:50.038Z",
+  "previousScanAt": "2026-11-03T20:04:17.533Z",
+  "currentScanAt": "2026-11-04T20:25:37.270Z",
+  "previousRows": 106,
+  "currentRows": 108,
+  "added": [
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern | Roma [ADV]",
+      "Location": "Rome",
+      "Region": "Europe",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3",
+      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "Status": "Confirmed official posting"
+    }
+  ],
   "removed": [
     {
-      "Company": "The Brattle Group",
+      "Company": "J.S. Held",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Analyst Intern (Economics) - Summer 2027",
-      "Location": "New York, New York, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
+      "Title": "Economic Damages & Valuation Internship - Summer 2027",
+      "Location": "Birmingham, AL, us",
+      "Region": "Global / Multiple Regions",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
       "Status": "Confirmed official posting"
     }
   ]

@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-03 &nbsp;•&nbsp; **106 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **41 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **64 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-04 &nbsp;•&nbsp; **108 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **39 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **65 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,17 +12,21 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-03_
+_Scan date: 2026-11-04_
 
-_No new roles detected in the latest scan._
+**1** new stable job posting since the previous scan:
+
+**Europe**
+
+- **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern \| Roma [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) — Rome
 
 ---
 
 ## 📋 All Roles Available
 
-**106** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**108** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (48)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (2)](#south-america) · [Remote / Unspecified (12)](#remote--unspecified)
+**Regions:** [North America (48)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (12)](#remote--unspecified)
 
 ### North America
 
@@ -46,7 +50,6 @@ _No new roles detected in the latest scan._
 - **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) — Los Angeles, CA, United States
-- **Berkeley Research Group** — [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) — Chicago, IL
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) — Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) — Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States
 - **Charles River Associates** — [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) — College Station, TX, United States; Tallahassee, FL, United States
@@ -62,6 +65,7 @@ _No new roles detected in the latest scan._
 - **PRECISIONheor (Precision AQ)** — [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) — Remote, Canada
 - **PRECISIONheor (Precision AQ)** — [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA
 - **RCLCO** — [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) — Austin / Los Angeles / Washington, D.C.
+- **RSM (Transfer Pricing)** — [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) — Toronto
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) — Los Angeles, California, United States
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) — Washington, District of Columbia, United States
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) — Chicago, Illinois, United States
@@ -143,10 +147,20 @@ _No new roles detected in the latest scan._
 ### South America
 
 <details>
-<summary><strong>2 roles</strong> — click to expand</summary>
+<summary><strong>3 roles</strong> — click to expand</summary>
 
-- **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) — São Paulo, Brazil
+- **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) — São Paulo, Brazil
+- **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) — São Paulo, Brazil
 - **Aurora Energy Research** — [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) — São Paulo, Brazil
+
+</details>
+
+### Africa
+
+<details>
+<summary><strong>1 role</strong> — click to expand</summary>
+
+- **Berkeley Research Group** — [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) — Johannesburg, SA
 
 </details>
 
@@ -290,7 +304,7 @@ Every `v2`/`all` run rebuilds [reports/LATEST_ECON_SCAN.md](reports/LATEST_ECON_
 | [reports/new_econ_roles_since_last_run.md](reports/new_econ_roles_since_last_run.md) | New stable job URLs, grouped by region |
 | [reports/current_econ_roles_not_in_tracker.md](reports/current_econ_roles_not_in_tracker.md) | Current roles absent from your application tracker |
 | [reports/econ_roster_scan_audit.md](reports/econ_roster_scan_audit.md) | Every firm split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed, grouped by date detected (64 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed, grouped by date detected (65 so far) |
 | [inputs/econ_firm_roster.json](inputs/econ_firm_roster.json) | The firm universe, practice-area category, and per-firm scope filter |
 | [inputs/ats_seeds.json](inputs/ats_seeds.json) | Verified ATS boards (Greenhouse, Lever, Workday, iCIMS, Workable, Personio, Teamtailor, Pinpoint, Paylocity, Oracle, …) |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Career-page database (auto-extended by discovery) |

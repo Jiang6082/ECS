@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-03T20:02:02.439Z
+Scanned: 2026-11-04T20:23:09.582Z
 Firms in universe: 232
 Firms with at least one live ATS board: 58
-Internship roles: 101
-Entry-level analyst roles: 38
+Internship roles: 102
+Entry-level analyst roles: 36
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -29,13 +29,14 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Ankura** — [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104974) — Chicago, IL (Official ATS Workday:ankura/Ankura; timing not stated in title)
 - **Ankura** — [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981) — Washington D.C. (Official ATS Workday:ankura/Ankura; timing not stated in title)
 - **Ankura** — [University Intern, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985) — Chicago, IL (Official ATS Workday:ankura/Ankura; timing not stated in title)
-- **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
+- **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
+- **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) — Los Angeles, CA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
-- **Berkeley Research Group** — [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) — Chicago, IL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
+- **Berkeley Research Group** — [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) — Johannesburg, SA (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
 - **Berkeley Research Group** — [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) — Berlin, GER (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
 - **Berkeley Research Group** — [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) — Brussels, BEL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing: 2027)
 - **Berkeley Research Group** — [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) — Brussels, BEL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
@@ -137,10 +138,8 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Eastern Research Group** — [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) — Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA (Official ATS Lever:erg)
 - **HR&A Advisors** — [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/OIdLbkgMzp/Analyst-Inclusive-Cities) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) — New York, NY (Official ATS JazzHR:hraadvisors)
-- **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/htZCMWIuUX/Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) — Atlanta, GA (Official ATS JazzHR:hraadvisors)
-- **HR&A Advisors** — [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/Ma1YoqlgoV/Research-Analyst-Real-Estate) — Los Angeles, CA (Official ATS JazzHR:hraadvisors)
 - **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) — Moscow, ID (Official ATS Lever:economicmodeling)
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers)

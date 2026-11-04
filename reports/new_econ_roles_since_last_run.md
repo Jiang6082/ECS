@@ -1,10 +1,10 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-03T12:52:01.867Z
-Current scan: 2026-11-03T20:04:17.533Z
-Previous rows: 105
-Current rows: 106
-New stable job URLs: 0
+Previous scan: 2026-11-03T20:04:17.533Z
+Current scan: 2026-11-04T20:25:37.270Z
+Previous rows: 106
+Current rows: 108
+New stable job URLs: 1
 No longer present: 1
 
 ## New Roles By Region
@@ -13,9 +13,9 @@ No longer present: 1
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern | Roma [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) - Rome - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers)
 
 ### Asia (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **The Brattle Group** - [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005)
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929)

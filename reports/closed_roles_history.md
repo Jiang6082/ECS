@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 64
-Last updated: 2026-11-03T20:04:17.533Z
+Total closures recorded: 65
+Last updated: 2026-11-04T20:25:37.270Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-04 (1)
+
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) - Birmingham, AL, us
 
 ### 2026-11-03 (2)
 
