@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closures recorded: 67
-Last updated: 2026-11-05T13:12:55.603Z
+Last updated: 2026-11-05T20:36:38.457Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
@@ -28,14 +28,14 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 ### 2026-10-31 (2)
 
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) - Palermo
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States — _reopened 2026-11-05_
 
 ### 2026-10-30 (6)
 
 - **FTI Consulting (Economic Consulting)** - [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) - London, United Kingdom
 - **Xcenda (Cencora)** - [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) - Washington, DC
 - **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations
-- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job)
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — _reopened 2026-11-05_
 - **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - CA-QC-Montreal | CA-ON-Toronto
 - **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - CA-QC-Montreal | CA-ON-Toronto
 

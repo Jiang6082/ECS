@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-05 &nbsp;•&nbsp; **108 open internships** &nbsp;•&nbsp; **3 new today** &nbsp;•&nbsp; **34 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **67 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-05 &nbsp;•&nbsp; **110 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **34 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **67 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,29 +14,20 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 _Scan date: 2026-11-05_
 
-**3** new stable job postings since the previous scan:
-
-**South America**
-
-- **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) — São Paulo, Brazil
-- **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) — São Paulo, Brazil
-
-**Africa**
-
-- **Berkeley Research Group** — [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) — Johannesburg, SA
+_No new roles detected in the latest scan._
 
 ---
 
 ## 📋 All Roles Available
 
-**108** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**110** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (48)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (12)](#remote--unspecified)
+**Regions:** [North America (49)](#north-america) · [Europe (41)](#europe) · [Asia (4)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (12)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>48 roles</strong> — click to expand</summary>
+<summary><strong>49 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) — Montreal, QC, CA \| Toronto, ON, CA
 - **Analysis Group** — [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US
@@ -54,6 +45,7 @@ _Scan date: 2026-11-05_
 - **Ankura** — [University Intern, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985) — Chicago, IL
 - **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States
+- **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) — Detroit, MI, United States
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) — Los Angeles, CA, United States
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) — Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) — Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States
@@ -92,12 +84,13 @@ _Scan date: 2026-11-05_
 ### Europe
 
 <details>
-<summary><strong>40 roles</strong> — click to expand</summary>
+<summary><strong>41 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — Brussels, BE
 - **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — Paris, FR
 - **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) — London, UK
 - **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) — Paris, FR
+- **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — London, UK
 - **Berkeley Research Group** — [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) — Berlin, GER
 - **Berkeley Research Group** — [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) — Brussels, BEL
 - **Berkeley Research Group** — [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) — Brussels, BEL

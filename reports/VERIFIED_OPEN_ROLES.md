@@ -1,15 +1,15 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-11-05 13:12 UTC · **108 roles confirmed live on official job boards** across 27 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-11-05 20:36 UTC · **110 roles confirmed live on official job boards** across 27 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (108)
+## ✅ Confirmed Live On Official Job Boards (110)
 
-### Analysis Group (11)
+### Analysis Group (12)
 
 _Primary deadline (Sep 30) has passed; later applications are reviewed on a rolling basis._
 
@@ -20,6 +20,7 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) | Beijing, CN | Asia |
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) | London, UK | Europe |
 | [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) | Paris, FR | Europe |
+| [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) | London, UK | Europe |
 | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) | Montreal, QC, CA \| Toronto, ON, CA | North America |
 | [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) | Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US | North America |
 | [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) | Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US \| New York, NY, US \| San Francisco, CA, US \| Washington, DC, DC, US | North America |
@@ -49,12 +50,13 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) | São Paulo, Brazil | South America |
 | [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) | Tokyo, Japan | Asia |
 
-### BDO (Transfer Pricing) (3)
+### BDO (Transfer Pricing) (4)
 
 | Role | Location | Region |
 |---|---|---|
 | [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) | Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States | North America |
 | [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) | Dallas, TX, United States | North America |
+| [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) | Detroit, MI, United States | North America |
 | [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) | Los Angeles, CA, United States | North America |
 
 ### Berkeley Research Group (4)
@@ -279,7 +281,7 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 34 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (22)
+## ⛔ Closed In The Last 14 Days (20)
 
 | Firm | Role | Detected closed |
 |---|---|---|
@@ -290,11 +292,9 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | The Brattle Group | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | 2026-11-03 |
 | Aurora Energy Research | [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) | 2026-11-01 |
 | PwC (Economics / Transfer Pricing / Forensics) | [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) | 2026-10-31 |
-| BDO (Transfer Pricing) | [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) | 2026-10-31 |
 | FTI Consulting (Economic Consulting) | [2027 Industry Placement, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719) | 2026-10-30 |
 | Xcenda (Cencora) | [U.S. Public Policy & Advocacy Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/US-Public-Policy---Advocacy-Intern_R2613769) | 2026-10-30 |
 | Trinity Life Sciences | [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) | 2026-10-30 |
-| Analysis Group | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) | 2026-10-30 |
 | Analysis Group | [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) | 2026-10-30 |
 | Analysis Group | [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) | 2026-10-30 |
 | Ankura | [University Intern, Forensic Data & Analytics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) | 2026-10-28 |

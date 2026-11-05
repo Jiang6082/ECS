@@ -85,7 +85,8 @@
     "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-10-30T18:34:07.848Z",
-    "detectedClosedAt": "2026-10-31T17:38:38.821Z"
+    "detectedClosedAt": "2026-10-31T17:38:38.821Z",
+    "reopenedAt": "2026-11-05T20:36:38.457Z"
   },
   {
     "Company": "FTI Consulting (Economic Consulting)",
@@ -129,7 +130,8 @@
     "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-10-29T18:56:42.496Z",
-    "detectedClosedAt": "2026-10-30T10:35:51.514Z"
+    "detectedClosedAt": "2026-10-30T10:35:51.514Z",
+    "reopenedAt": "2026-11-05T20:36:38.457Z"
   },
   {
     "Company": "Analysis Group",

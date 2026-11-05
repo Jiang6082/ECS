@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T13:14:49.280Z",
-  "scanStartedAt": "2026-11-05T13:12:55.603Z",
+  "generatedAt": "2026-11-05T20:38:37.832Z",
+  "scanStartedAt": "2026-11-05T20:36:38.457Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -22,7 +22,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -80,7 +80,7 @@
       "careerPages": [
         "https://www.nera.com/open-roles.html"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -296,7 +296,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 37,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -810,7 +810,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 108,
+      "jobsSeen": 103,
       "relevantRoles": 4
     },
     {
@@ -949,7 +949,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -964,7 +964,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1145,7 +1145,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantRoles": 6
     },
     {
@@ -1408,7 +1408,7 @@
       "careerPages": [
         "https://volterrakirkland.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1500,7 +1500,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 109,
       "relevantRoles": 0
@@ -1763,7 +1763,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2207,7 +2207,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -2282,7 +2282,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -2524,7 +2524,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -2924,8 +2924,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 671,
-      "relevantRoles": 4
+      "jobsSeen": 678,
+      "relevantRoles": 5
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2939,7 +2939,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 658,
+      "jobsSeen": 646,
       "relevantRoles": 1
     },
     {
@@ -3227,7 +3227,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 42,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -3318,7 +3318,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -3365,7 +3365,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {

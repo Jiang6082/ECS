@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-05T13:12:55.603Z
+Scanned: 2026-11-05T20:36:38.457Z
 Firms searched: 232
 Career pages checked: 221
-Internship roles/leads retained: 108
+Internship roles/leads retained: 110
 Entry-level analyst roles (separate report): 34
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -15,7 +15,7 @@ Status guide:
 
 ## Roles And Leads By Region
 
-### North America (48)
+### North America (49)
 
 - **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -33,6 +33,7 @@ Status guide:
 - **Ankura** - [University Intern, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985) - Chicago, IL - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **BDO (Transfer Pricing)** - [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) - Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) - Dallas, TX, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) - Los Angeles, CA, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers): timing: Summer 2027
 - **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) - Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Summer 2027; graduation years mentioned: 2027, 2028
 - **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) - Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Summer 2027; graduation years mentioned: 2027, 2028
@@ -66,12 +67,13 @@ Status guide:
 - **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) - San Francisco, CA - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 - **Trinity Life Sciences** - [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) - Waltham, MA - Headquarters - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 
-### Europe (40)
+### Europe (41)
 
 - **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3079/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) / Stage - Analyste - Économie de la santé et épidémiologie - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3014/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - London, UK - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Berkeley Research Group** - [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) - Berlin, GER - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Berkeley Research Group** - [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) - Brussels, BEL - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing: 2027
 - **Berkeley Research Group** - [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) - Brussels, BEL - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title

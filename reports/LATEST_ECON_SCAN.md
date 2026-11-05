@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-05T13:12:55.603Z
+Last updated: 2026-11-05T20:36:38.457Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 221
-- Current internship roles: 108
+- Current internship roles: 110
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 3
-- No longer present since previous scan: 2
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 0
 - Firms with matching roles: 27
 - Confirmed no open postings: 6
 - Openings but no matching role: 29
@@ -17,9 +17,9 @@ Last updated: 2026-11-05T13:12:55.603Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 75
+- Litigation, Antitrust & Damages: 76
+- Transfer Pricing & Valuation: 8
 - Health Economics & HEOR: 8
-- Transfer Pricing & Valuation: 7
 - Big 4 & Advisory Economics: 7
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
@@ -48,14 +48,13 @@ _None._
 
 _None._
 
-### South America (2)
+### South America (0)
 
-- **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) - São Paulo, Brazil
-- **Aurora Energy Research** - [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) - São Paulo, Brazil
+_None._
 
-### Africa (1)
+### Africa (0)
 
-- **Berkeley Research Group** - [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) - Johannesburg, SA
+_None._
 
 ### Global / Multiple Regions (0)
 
@@ -67,8 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) - São Paulo, Brazil
-- **Berkeley Research Group** - [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) - Chicago, IL
+_None._
 
 ## Full Reports
 

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T13:14:49.338Z",
-  "currentScanAt": "2026-11-05T13:12:55.603Z",
+  "generatedAt": "2026-11-05T20:38:37.870Z",
+  "currentScanAt": "2026-11-05T20:36:38.457Z",
   "historicalTrackerUrls": 0,
   "roles": [
     {
@@ -63,6 +63,19 @@
       "Location": "Paris, FR",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3014/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
+      "PostedAt": "",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Analysis Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
+      "Title": "Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)",
+      "Location": "London, UK",
+      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3029/job",
+      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
       "PostedAt": "",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
@@ -324,6 +337,19 @@
       "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832",
       "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
       "PostedAt": "2026-11-03",
+      "Notes": "timing: Summer 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "BDO (Transfer Pricing)",
+      "Category": "Transfer Pricing & Valuation",
+      "Track": "Internship",
+      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
+      "Location": "Detroit, MI, United States",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
+      "PostedAt": "2026-11-05",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"

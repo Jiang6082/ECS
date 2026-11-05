@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-05T13:12:55.603Z",
+  "searchedAt": "2026-11-05T20:36:38.457Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-05T13:12:55.604Z",
+    "generatedAt": "2026-11-05T20:36:38.457Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -2476,10 +2476,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 16,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -2588,8 +2588,8 @@
       "company": "NERA Economic Consulting",
       "pageUrl": "https://www.nera.com/open-roles.html",
       "resolvedUrl": "https://www.nera.com/open-roles.html",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2847,10 +2847,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 37
+          "jobsSeen": 39
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -2879,10 +2879,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 37
+          "jobsSeen": 39
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -3231,14 +3231,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 108
+          "jobsSeen": 103
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 103,
       "relevantRoles": 4
     },
     {
@@ -3317,8 +3317,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3329,8 +3329,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3521,10 +3521,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 92
+          "jobsSeen": 91
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 91,
       "relevantRoles": 6
     },
     {
@@ -3721,8 +3721,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3836,13 +3836,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -4081,8 +4077,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4343,10 +4339,10 @@
       "boards": [
         {
           "source": "Breezy:iec",
-          "jobsSeen": 2
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 2,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -4434,10 +4430,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 14
+          "jobsSeen": 16
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -4714,10 +4710,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 5
+          "jobsSeen": 6
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -5095,11 +5091,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 671
+          "jobsSeen": 678
         }
       ],
-      "jobsSeen": 671,
-      "relevantRoles": 4
+      "jobsSeen": 678,
+      "relevantRoles": 5
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -5119,10 +5115,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 658
+          "jobsSeen": 646
         }
       ],
-      "jobsSeen": 658,
+      "jobsSeen": 646,
       "relevantRoles": 1
     },
     {
@@ -5456,18 +5452,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 18
+          "jobsSeen": 17
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 24
+          "jobsSeen": 21
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 42,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -5595,10 +5591,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 13
+          "jobsSeen": 14
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -5664,10 +5660,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 7
+          "jobsSeen": 8
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {
@@ -6080,6 +6076,19 @@
       "Company": "Analysis Group",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
+      "Title": "Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)",
+      "Location": "London, UK",
+      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3029/job",
+      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
+      "PostedAt": "",
+      "Notes": "timing: 2027",
+      "Status": "Confirmed official posting",
+      "Region": "Europe"
+    },
+    {
+      "Company": "Analysis Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Track": "Internship",
       "Title": "Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)",
       "Location": "Montreal, QC, CA | Toronto, ON, CA",
       "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3066/job",
@@ -6332,6 +6341,19 @@
       "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832",
       "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
       "PostedAt": "2026-11-03",
+      "Notes": "timing: Summer 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "BDO (Transfer Pricing)",
+      "Category": "Transfer Pricing & Valuation",
+      "Track": "Internship",
+      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
+      "Location": "Detroit, MI, United States",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
+      "PostedAt": "2026-11-05",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
