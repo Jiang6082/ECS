@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 65
-Last updated: 2026-11-04T20:25:37.270Z
+Total closures recorded: 67
+Last updated: 2026-11-05T13:12:55.603Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-05 (2)
+
+- **Aurora Energy Research** - [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) - São Paulo, Brazil
+- **Berkeley Research Group** - [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) - Chicago, IL
 
 ### 2026-11-04 (1)
 

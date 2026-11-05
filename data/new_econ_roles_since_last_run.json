@@ -1,30 +1,60 @@
 {
-  "generatedAt": "2026-11-04T20:27:50.038Z",
-  "previousScanAt": "2026-11-03T20:04:17.533Z",
-  "currentScanAt": "2026-11-04T20:25:37.270Z",
-  "previousRows": 106,
+  "generatedAt": "2026-11-05T13:14:49.338Z",
+  "previousScanAt": "2026-11-04T20:25:37.270Z",
+  "currentScanAt": "2026-11-05T13:12:55.603Z",
+  "previousRows": 108,
   "currentRows": 108,
   "added": [
     {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern | Roma [ADV]",
-      "Location": "Rome",
-      "Region": "Europe",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Energy Modelling Intern",
+      "Location": "São Paulo, Brazil",
+      "Region": "South America",
+      "URL": "https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Energy Modelling Intern (with preference for women)",
+      "Location": "São Paulo, Brazil",
+      "Region": "South America",
+      "URL": "https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Berkeley Research Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Intern - Competition Economics",
+      "Location": "Johannesburg, SA",
+      "Region": "Africa",
+      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244",
+      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
       "Status": "Confirmed official posting"
     }
   ],
   "removed": [
     {
-      "Company": "J.S. Held",
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Energy Modelling Intern",
+      "Location": "São Paulo, Brazil",
+      "Region": "South America",
+      "URL": "https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Berkeley Research Group",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Economic Damages & Valuation Internship - Summer 2027",
-      "Location": "Birmingham, AL, us",
-      "Region": "Global / Multiple Regions",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
+      "Title": "Chicago Office Health Analytics Practice Intern",
+      "Location": "Chicago, IL",
+      "Region": "North America",
+      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039",
+      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
       "Status": "Confirmed official posting"
     }
   ]
