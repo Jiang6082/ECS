@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-05T20:34:16.509Z
+Scanned: 2026-11-06T19:54:58.245Z
 Firms in universe: 232
 Firms with at least one live ATS board: 58
 Internship roles: 104
@@ -53,7 +53,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Compass Lexecon** — [Intern | Competition Practice | Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Brussels](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310) — Brussels, Belgium (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Düsseldorf](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312) — Dusseldorf, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
-- **Compass Lexecon** — [Intern | Competition Practice | Helsinki](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314) — Helsinki, Finland (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Madrid](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Madrid-Spain/Intern---Competition-Practice---Madrid_JR261344) — Madrid, Spain (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Milan](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Milan-Italy/Intern---Competition-Practice---Milan_JR261355) — Milan, Italy (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
 - **Compass Lexecon** — [Intern | Competition Practice | Paris](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Competition-Practice---Paris_JR261357) — Paris, France (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
@@ -79,6 +78,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **IQVIA (HEOR)** — [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) — Milan, Italy (Official ATS Workday:iqvia/IQVIA; timing not stated in title)
 - **IQVIA (HEOR)** — [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) — 2 Locations (Official ATS Workday:iqvia/IQVIA; timing not stated in title)
 - **IQVIA (HEOR)** — [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) — 3 Locations (Official ATS Workday:iqvia/IQVIA; timing not stated in title)
+- **NERA Economic Consulting** — [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) — Toronto - Bremner (Official ATS Workday:mmc/MMC; timing not stated in title)
 - **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations (Official ATS Workday:mmc/MMC; timing: Summer 2028)
 - **NERA Economic Consulting** — [NERA Summer Internship 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) — London - St. Botolph (Official ATS Workday:mmc/MMC; timing: 2027)
 - **NERA Economic Consulting** — [NERA: Internship (Berlin, Frankfurt, and Paris)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) — 2 Locations (Official ATS Workday:mmc/MMC; timing not stated in title)

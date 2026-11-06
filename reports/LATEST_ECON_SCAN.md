@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-05T20:36:38.457Z
+Last updated: 2026-11-06T19:56:52.353Z
 
 ## Summary
 
@@ -8,7 +8,7 @@ Last updated: 2026-11-05T20:36:38.457Z
 - Career pages checked: 221
 - Current internship roles: 110
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
+- New stable job URLs since previous scan: 2
 - No longer present since previous scan: 0
 - Firms with matching roles: 27
 - Confirmed no open postings: 6
@@ -28,13 +28,13 @@ Last updated: 2026-11-05T20:36:38.457Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - London, UK
 
 ### Asia (0)
 

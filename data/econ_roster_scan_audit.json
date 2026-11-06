@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T20:38:37.832Z",
-  "scanStartedAt": "2026-11-05T20:36:38.457Z",
+  "generatedAt": "2026-11-06T19:58:51.135Z",
+  "scanStartedAt": "2026-11-06T19:56:52.353Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -22,7 +22,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -296,7 +296,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 39,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -810,7 +810,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 103,
+      "jobsSeen": 99,
       "relevantRoles": 4
     },
     {
@@ -1145,7 +1145,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 91,
+      "jobsSeen": 87,
       "relevantRoles": 6
     },
     {
@@ -1485,7 +1485,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -1500,9 +1500,9 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 109,
+      "jobsSeen": 108,
       "relevantRoles": 0
     },
     {
@@ -1549,7 +1549,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 26,
+      "jobsSeen": 25,
       "relevantRoles": 0
     },
     {
@@ -2282,7 +2282,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -2924,7 +2924,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 678,
+      "jobsSeen": 672,
       "relevantRoles": 5
     },
     {
@@ -2939,7 +2939,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 646,
+      "jobsSeen": 645,
       "relevantRoles": 1
     },
     {
@@ -3227,7 +3227,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -3318,7 +3318,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
