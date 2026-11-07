@@ -1,30 +1,19 @@
 {
-  "generatedAt": "2026-11-07T16:28:20.763Z",
-  "previousScanAt": "2026-11-06T19:56:52.353Z",
-  "currentScanAt": "2026-11-07T16:26:28.660Z",
-  "previousRows": 110,
+  "generatedAt": "2026-11-07T18:03:13.668Z",
+  "previousScanAt": "2026-11-07T16:26:28.660Z",
+  "currentScanAt": "2026-11-07T18:01:21.525Z",
+  "previousRows": 109,
   "currentRows": 109,
-  "added": [
-    {
-      "Company": "NERA Economic Consulting",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "NERA Co-op Intern (Toronto)",
-      "Location": "Toronto - Bremner",
-      "Region": "North America",
-      "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980",
-      "Source": "Official ATS Workday:mmc/MMC",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "added": [],
   "removed": [
     {
-      "Company": "Compass Lexecon",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Intern | Competition Practice | Helsinki",
-      "Location": "Helsinki, Finland",
-      "Region": "Europe",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314",
-      "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
+      "Company": "RSM (Transfer Pricing)",
+      "Category": "Transfer Pricing & Valuation",
+      "Title": "International Tax Transfer Pricing Intern - Winter 2027",
+      "Location": "Toronto",
+      "Region": "North America",
+      "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896",
+      "Source": "Career page Workday:rsm/RSMCareers",
       "Status": "Confirmed official posting"
     }
   ]

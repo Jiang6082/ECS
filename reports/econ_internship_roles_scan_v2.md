@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-07T16:26:28.660Z
+Scanned: 2026-11-07T18:01:21.525Z
 Firms searched: 232
 Career pages checked: 222
 Internship roles/leads retained: 109

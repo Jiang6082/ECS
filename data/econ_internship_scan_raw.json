@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-07T16:24:53.461Z",
+  "scannedAt": "2026-11-07T17:59:14.007Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -3462,12 +3462,12 @@
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1325
+          "count": 1324
         }
       ],
-      "jobsSeen": 1375,
+      "jobsSeen": 1374,
       "rejected": {
-        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1055,
+        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1054,
         "non-economics practice": 193,
         "PhD/MBA/JD-only": 2,
         "non-economics function": 72,

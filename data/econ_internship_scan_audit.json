@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-07T16:24:53.461Z",
+  "scannedAt": "2026-11-07T17:59:14.007Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -2718,15 +2718,15 @@
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1325
+          "count": 1324
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1375,
+      "jobsSeen": 1374,
       "relevantInternships": 7,
       "entryLevelRoles": 1,
       "rejectedByReason": {
-        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1055,
+        "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1054,
         "non-economics practice": 193,
         "PhD/MBA/JD-only": 2,
         "non-economics function": 72,

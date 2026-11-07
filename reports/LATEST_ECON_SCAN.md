@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-07T16:26:28.660Z
+Last updated: 2026-11-07T18:01:21.525Z
 
 ## Summary
 
@@ -8,7 +8,7 @@ Last updated: 2026-11-07T16:26:28.660Z
 - Career pages checked: 222
 - Current internship roles: 109
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
+- New stable job URLs since previous scan: 0
 - No longer present since previous scan: 1
 - Firms with matching roles: 26
 - Confirmed no open postings: 6
@@ -28,9 +28,9 @@ Last updated: 2026-11-07T16:26:28.660Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **NERA Economic Consulting** - [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) - Toronto - Bremner
+_None._
 
 ### Europe (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Compass Lexecon** - [Intern | Competition Practice | Helsinki](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314) - Helsinki, Finland
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto
 
 ## Full Reports
 

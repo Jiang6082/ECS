@@ -1,14 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 68
-Last updated: 2026-11-07T16:26:28.660Z
+Total closures recorded: 69
+Last updated: 2026-11-07T18:01:21.525Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
 
-### 2026-11-07 (1)
+### 2026-11-07 (2)
 
+- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto
 - **Compass Lexecon** - [Intern | Competition Practice | Helsinki](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314) - Helsinki, Finland
 
 ### 2026-11-05 (2)
