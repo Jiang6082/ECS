@@ -1,21 +1,21 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-05T20:36:38.457Z
-Current scan: 2026-11-06T19:56:52.353Z
+Previous scan: 2026-11-06T19:56:52.353Z
+Current scan: 2026-11-07T16:26:28.660Z
 Previous rows: 110
-Current rows: 110
-New stable job URLs: 2
-No longer present: 0
+Current rows: 109
+New stable job URLs: 1
+No longer present: 1
 
 ## New Roles By Region
 
 ### North America (1)
 
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers)
+- **NERA Economic Consulting** - [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) - Toronto - Bremner - Confirmed official posting (Official ATS Workday:mmc/MMC)
 
-### Europe (1)
+### Europe (0)
 
-- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - London, UK - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup)
+_None._
 
 ### Asia (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Compass Lexecon** - [Intern | Competition Practice | Helsinki](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314)

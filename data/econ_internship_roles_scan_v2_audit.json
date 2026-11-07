@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-06T19:56:52.353Z",
+  "searchedAt": "2026-11-07T16:26:28.660Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -282,7 +282,6 @@
     "TischlerBise",
     "Econometrica",
     "L&M Policy Research",
-    "Camoin Associates",
     "Rhodium Group",
     "Monitoring Analytics",
     "Economics Partners",
@@ -1059,8 +1058,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "smartrecruiters": [
-          "JSHeldLLC",
-          "external-referrals"
+          "JSHeldLLC"
         ]
       },
       "unsupportedAts": [],
@@ -1068,10 +1066,6 @@
         {
           "source": "SmartRecruiters:JSHeldLLC",
           "jobsSeen": 99
-        },
-        {
-          "source": "SmartRecruiters:external-referrals",
-          "jobsSeen": 0
         }
       ],
       "jobsSeen": 99,
@@ -1153,8 +1147,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1165,8 +1159,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1557,8 +1551,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 502,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1702,10 +1696,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 108
+          "jobsSeen": 102
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 102,
       "relevantRoles": 0
     },
     {
@@ -1917,8 +1911,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2550,10 +2544,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 6
+          "jobsSeen": 5
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -2586,6 +2580,18 @@
       "company": "Chmura Economics & Analytics",
       "pageUrl": "https://www.chmura.com/events",
       "resolvedUrl": "https://www.chmura.com/events",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Camoin Associates",
+      "pageUrl": "https://charles-camoin.com/en/home/charles-camoin/work/",
+      "resolvedUrl": "https://charles-camoin.com/en/home/charles-camoin/work/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -2931,10 +2937,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 672
+          "jobsSeen": 679
         }
       ],
-      "jobsSeen": 672,
+      "jobsSeen": 679,
       "relevantRoles": 5
     },
     {
@@ -2955,11 +2961,11 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 645
+          "jobsSeen": 644
         }
       ],
-      "jobsSeen": 645,
-      "relevantRoles": 1
+      "jobsSeen": 644,
+      "relevantRoles": 0
     },
     {
       "company": "Crowe (Transfer Pricing)",
@@ -3324,10 +3330,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1030
+          "jobsSeen": 1031
         }
       ],
-      "jobsSeen": 1030,
+      "jobsSeen": 1031,
       "relevantRoles": 0
     },
     {

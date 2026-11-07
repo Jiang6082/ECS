@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 67
-Last updated: 2026-11-06T19:56:52.353Z
+Total closures recorded: 68
+Last updated: 2026-11-07T16:26:28.660Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-07 (1)
+
+- **Compass Lexecon** - [Intern | Competition Practice | Helsinki](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314) - Helsinki, Finland
 
 ### 2026-11-05 (2)
 

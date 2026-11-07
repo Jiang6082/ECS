@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-06T19:56:52.353Z
+Last updated: 2026-11-07T16:26:28.660Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 221
-- Current internship roles: 110
+- Career pages checked: 222
+- Current internship roles: 109
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 0
-- Firms with matching roles: 27
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 1
+- Firms with matching roles: 26
 - Confirmed no open postings: 6
 - Openings but no matching role: 29
-- Could not fully verify: 170
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 76
-- Transfer Pricing & Valuation: 8
 - Health Economics & HEOR: 8
+- Transfer Pricing & Valuation: 7
 - Big 4 & Advisory Economics: 7
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
@@ -30,11 +30,11 @@ Last updated: 2026-11-06T19:56:52.353Z
 
 ### North America (1)
 
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States
+- **NERA Economic Consulting** - [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) - Toronto - Bremner
 
-### Europe (1)
+### Europe (0)
 
-- **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) - London, UK
+_None._
 
 ### Asia (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Compass Lexecon** - [Intern | Competition Practice | Helsinki](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Helsinki-Finland/Intern---Competition-Practice---Helsinki_JR261314) - Helsinki, Finland
 
 ## Full Reports
 
