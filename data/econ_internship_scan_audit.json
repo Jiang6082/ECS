@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-07T17:59:14.007Z",
+  "scannedAt": "2026-11-08T18:17:19.111Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -2770,22 +2770,22 @@
           "source": "Oracle:ehzq/CX_1",
           "origin": "seeded",
           "ok": true,
-          "count": 172
+          "count": 171
         },
         {
           "source": "Oracle:ehzq/CX_4",
           "origin": "seeded",
           "ok": true,
-          "count": 168
+          "count": 167
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 340,
+      "jobsSeen": 338,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "non-economics practice": 45,
-        "outside firm scope (econ)": 262,
+        "outside firm scope (econ)": 260,
         "non-economics function": 27,
         "not an internship or entry-level role": 6
       }
@@ -2804,16 +2804,16 @@
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 679
+          "count": 677
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 754,
+      "jobsSeen": 752,
       "relevantInternships": 8,
       "entryLevelRoles": 2,
       "rejectedByReason": {
         "dated for a past cycle": 4,
-        "outside firm scope (econ)": 675,
+        "outside firm scope (econ)": 673,
         "non-economics function": 29,
         "not an internship or entry-level role": 20,
         "non-economics practice": 16
@@ -2958,17 +2958,17 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1892
+          "count": 1893
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1892,
+      "jobsSeen": 1893,
       "relevantInternships": 3,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1696,
+        "non-economics function": 139,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1698,
         "not an internship or entry-level role": 35,
-        "non-economics function": 140,
         "non-economics practice": 18
       }
     },
@@ -2990,16 +2990,16 @@
           "source": "Lever:avalerehealth",
           "origin": "seeded",
           "ok": true,
-          "count": 60
+          "count": 58
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 60,
+      "jobsSeen": 58,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
         "not an internship or entry-level role": 42,
-        "non-economics function": 18
+        "non-economics function": 16
       }
     },
     {
@@ -3215,17 +3215,17 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 338
+          "count": 345
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 338,
+      "jobsSeen": 345,
       "relevantInternships": 0,
       "entryLevelRoles": 0,
       "rejectedByReason": {
-        "outside firm scope (econom)": 266,
+        "outside firm scope (econom)": 272,
+        "non-economics practice": 15,
         "non-economics function": 57,
-        "non-economics practice": 14,
         "recruiting event / talent pool": 1
       }
     }

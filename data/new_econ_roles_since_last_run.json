@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-11-07T18:03:13.668Z",
-  "previousScanAt": "2026-11-07T16:26:28.660Z",
-  "currentScanAt": "2026-11-07T18:01:21.525Z",
+  "generatedAt": "2026-11-08T18:20:37.364Z",
+  "previousScanAt": "2026-11-07T18:01:21.525Z",
+  "currentScanAt": "2026-11-08T18:18:47.465Z",
   "previousRows": 109,
   "currentRows": 109,
   "added": [],
-  "removed": [
-    {
-      "Company": "RSM (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "International Tax Transfer Pricing Intern - Winter 2027",
-      "Location": "Toronto",
-      "Region": "North America",
-      "URL": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896",
-      "Source": "Career page Workday:rsm/RSMCareers",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

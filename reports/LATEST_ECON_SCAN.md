@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-07T18:01:21.525Z
+Last updated: 2026-11-08T18:18:47.465Z
 
 ## Summary
 
@@ -9,7 +9,7 @@ Last updated: 2026-11-07T18:01:21.525Z
 - Current internship roles: 109
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- No longer present since previous scan: 0
 - Firms with matching roles: 26
 - Confirmed no open postings: 6
 - Openings but no matching role: 29
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **RSM (Transfer Pricing)** - [International Tax Transfer Pricing Intern - Winter 2027](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/International-Tax-Transfer-Pricing-Intern---Winter-2027_JR120896) - Toronto
+_None._
 
 ## Full Reports
 

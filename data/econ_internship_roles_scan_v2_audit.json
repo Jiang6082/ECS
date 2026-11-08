@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-07T18:01:21.525Z",
+  "searchedAt": "2026-11-08T18:18:47.465Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1147,8 +1147,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1159,8 +1159,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1291,9 +1291,9 @@
     {
       "company": "Economic Insight",
       "pageUrl": "https://www.economic-insight.com/careers/",
-      "resolvedUrl": "https://www.economic-insight.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "resolvedUrl": "https://economic-insight.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1551,8 +1551,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1907,8 +1907,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2933,10 +2933,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 679
+          "jobsSeen": 677
         }
       ],
-      "jobsSeen": 679,
+      "jobsSeen": 677,
       "relevantRoles": 5
     },
     {
@@ -3326,10 +3326,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1032
+          "jobsSeen": 1025
         }
       ],
-      "jobsSeen": 1032,
+      "jobsSeen": 1025,
       "relevantRoles": 0
     },
     {
