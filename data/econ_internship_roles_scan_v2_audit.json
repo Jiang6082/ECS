@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-08T18:18:47.465Z",
+  "searchedAt": "2026-11-09T14:11:59.303Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1351,11 +1351,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 87
+          "jobsSeen": 86
         }
       ],
-      "jobsSeen": 87,
-      "relevantRoles": 6
+      "jobsSeen": 86,
+      "relevantRoles": 5
     },
     {
       "company": "Cornwall Insight",
@@ -1666,9 +1666,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1692,10 +1696,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 102
+          "jobsSeen": 101
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantRoles": 0
     },
     {
@@ -2957,10 +2961,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 644
+          "jobsSeen": 500
         }
       ],
-      "jobsSeen": 644,
+      "jobsSeen": 500,
       "relevantRoles": 0
     },
     {
@@ -3326,10 +3330,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1025
+          "jobsSeen": 1026
         }
       ],
-      "jobsSeen": 1025,
+      "jobsSeen": 1026,
       "relevantRoles": 0
     },
     {
@@ -3433,10 +3437,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {

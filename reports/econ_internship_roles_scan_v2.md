@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-08T18:18:47.465Z
+Scanned: 2026-11-09T14:11:59.303Z
 Firms searched: 232
 Career pages checked: 222
 Internship roles/leads retained: 109
-Entry-level analyst roles (separate report): 34
+Entry-level analyst roles (separate report): 33
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
 
@@ -158,7 +158,6 @@ _None._
 
 - Andersen (Transfer Pricing)
 - Chmura Economics & Analytics
-- Cornwall Insight
 - Economic & Planning Systems
 - Edgeworth Economics
 - REMI
@@ -174,6 +173,7 @@ _None._
 - Baringa
 - Capital Economics
 - Coherent Economics
+- Cornwall Insight
 - Eastern Research Group
 - Fathom Consulting
 - Fideres

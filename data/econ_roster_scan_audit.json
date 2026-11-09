@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T18:20:37.316Z",
-  "scanStartedAt": "2026-11-08T18:18:47.465Z",
+  "generatedAt": "2026-11-09T14:14:05.629Z",
+  "scanStartedAt": "2026-11-09T14:11:59.303Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 26,
-    "confirmed-no-open-postings": 6,
-    "confirmed-openings-no-matching-role": 29,
+    "confirmed-no-open-postings": 5,
+    "confirmed-openings-no-matching-role": 30,
     "could-not-fully-verify": 171
   },
   "companies": [
@@ -1145,8 +1145,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 87,
-      "relevantRoles": 6
+      "jobsSeen": 86,
+      "relevantRoles": 5
     },
     {
       "company": "Cornwall Insight",
@@ -1154,7 +1154,7 @@
         "Cornwall Insight"
       ],
       "category": "Energy & Environmental Economics",
-      "status": "confirmed-no-open-postings",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://cornwallinsight.pinpointhq.com/"
       ],
@@ -1500,9 +1500,9 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantRoles": 0
     },
     {
@@ -2941,7 +2941,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 644,
+      "jobsSeen": 500,
       "relevantRoles": 0
     },
     {
@@ -3244,7 +3244,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1025,
+      "jobsSeen": 1026,
       "relevantRoles": 0
     },
     {
@@ -3320,7 +3320,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {

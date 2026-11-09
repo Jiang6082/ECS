@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-08 &nbsp;•&nbsp; **109 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **34 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **69 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-09 &nbsp;•&nbsp; **109 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **33 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **69 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,7 +12,7 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-08_
+_Scan date: 2026-11-09_
 
 _No new roles detected in the latest scan._
 

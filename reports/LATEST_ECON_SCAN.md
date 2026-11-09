@@ -1,18 +1,18 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-08T18:18:47.465Z
+Last updated: 2026-11-09T14:11:59.303Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 222
 - Current internship roles: 109
-- Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
+- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
 - Firms with matching roles: 26
-- Confirmed no open postings: 6
-- Openings but no matching role: 29
+- Confirmed no open postings: 5
+- Openings but no matching role: 30
 - Could not fully verify: 171
 
 ## Internships By Practice Area
