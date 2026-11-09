@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-09T14:11:59.303Z",
+  "searchedAt": "2026-11-09T22:58:21.679Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-09T14:11:59.304Z",
+    "generatedAt": "2026-11-09T22:58:21.680Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -2482,10 +2482,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 11
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -2545,7 +2545,7 @@
         },
         {
           "source": "iCIMS:exp-chire",
-          "jobsSeen": 2
+          "jobsSeen": 1
         },
         {
           "source": "iCIMS:expuk-chire",
@@ -2556,7 +2556,7 @@
           "jobsSeen": 1
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantRoles": 4
     },
     {
@@ -2853,10 +2853,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 41
+          "jobsSeen": 42
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -2885,10 +2885,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 41
+          "jobsSeen": 42
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -3240,7 +3240,7 @@
         }
       ],
       "jobsSeen": 99,
-      "relevantRoles": 4
+      "relevantRoles": 3
     },
     {
       "company": "J.S. Held",
@@ -3522,10 +3522,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 86
+          "jobsSeen": 82
         }
       ],
-      "jobsSeen": 86,
+      "jobsSeen": 82,
       "relevantRoles": 5
     },
     {
@@ -4435,10 +4435,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 14
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
@@ -4715,10 +4715,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 5
+          "jobsSeen": 6
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -5108,11 +5108,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 677
+          "jobsSeen": 670
         }
       ],
-      "jobsSeen": 677,
-      "relevantRoles": 5
+      "jobsSeen": 670,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -5132,10 +5132,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 500
+          "jobsSeen": 634
         }
       ],
-      "jobsSeen": 500,
+      "jobsSeen": 634,
       "relevantRoles": 0
     },
     {
@@ -5469,18 +5469,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 17
+          "jobsSeen": 15
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 20
+          "jobsSeen": 19
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -5501,10 +5501,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1026
+          "jobsSeen": 1027
         }
       ],
-      "jobsSeen": 1026,
+      "jobsSeen": 1027,
       "relevantRoles": 0
     },
     {
@@ -6158,19 +6158,6 @@
       "Company": "Analysis Group",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) | Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)",
-      "Location": "Montreal, QC, CA | Toronto, ON, CA",
-      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job",
-      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-      "PostedAt": "",
-      "Notes": "timing: 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Analysis Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
       "Title": "Summer Research Professional Intern-Health Care (HEOR, Epidemiology & Market Access) -Montreal/Toronto (2027 Start Date) | Stage d'été-Professionnel de recherche-Économie de la santé, biostatistique, et épidémiologie - Montréal/Toronto (Date de début 2027)",
       "Location": "Montreal, QC, CA | Toronto, ON, CA",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3065/job",
@@ -6363,32 +6350,6 @@
       "Region": "North America"
     },
     {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
-      "Location": "Detroit, MI, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779",
-      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-      "PostedAt": "2026-11-05",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-      "Location": "Los Angeles, CA, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875",
-      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-      "PostedAt": "2026-09-03",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
       "Company": "Berkeley Research Group",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
@@ -6535,7 +6496,7 @@
       "Company": "Charles River Associates",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d",
+      "Title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/w/d",
       "Location": "Munich, Germany",
       "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673",
       "Source": "Official ATS Greenhouse:charlesriverassociates",
@@ -6951,19 +6912,6 @@
       "Company": "J.S. Held",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
-      "Title": "Economic Damages & Valuation Internship - Summer 2027",
-      "Location": "San Francisco, CA, us",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting",
-      "PostedAt": "2026-08-26T15:32:15.183Z",
-      "Notes": "career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027",
-      "Region": "North America"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
       "Title": "IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)",
       "Location": "Chicago, IL, us",
       "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349",
@@ -7216,19 +7164,6 @@
       "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009",
       "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
       "PostedAt": "2026-09-10T12:08:29-04:00",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Secretariat",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Downtown Boston, MA",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
-      "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-      "PostedAt": "2026-09-24T12:39:30-04:00",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7502,19 +7437,6 @@
       "Title": "Associate - Generalist - Montreal / Toronto (2027 Start Date) | Responsable de projets - Généraliste - Montréal / Toronto (Date de début 2027)",
       "Location": "Montreal, QC, CA | Toronto, ON, CA",
       "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3050/job",
-      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
-      "PostedAt": "",
-      "Notes": "timing: 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Analysis Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Entry-level",
-      "Title": "Associate - Generalist (MBA/MA) (2027 Start Date)",
-      "Location": "Boston, MA, US | Chicago, IL, US | Denver, CO, US | San Francisco, CA, US",
-      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3047/job",
       "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
       "PostedAt": "",
       "Notes": "timing: 2027",
@@ -8093,7 +8015,6 @@
     "Acumen",
     "AlixPartners",
     "Analysys Mason",
-    "Avalere Health",
     "Axiom Economics",
     "Baringa",
     "Capital Economics",
@@ -8134,6 +8055,7 @@
     "Applied Economics Consulting Group",
     "Ashenfelter & Ashmore",
     "Asia Competition Associates",
+    "Avalere Health",
     "BAE Urban Economics",
     "BAK Economics",
     "BERL",

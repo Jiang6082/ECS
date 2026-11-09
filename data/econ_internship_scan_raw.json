@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-09T14:09:11.013Z",
+  "scannedAt": "2026-11-09T22:56:41.653Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -9,16 +9,16 @@
           "source": "iCIMS:analystcareers-analysisgroup",
           "origin": "seeded",
           "ok": true,
-          "count": 15
+          "count": 14
         },
         {
           "source": "iCIMS:associatecareers-analysisgroup",
           "origin": "seeded",
           "ok": true,
-          "count": 9
+          "count": 8
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 22,
       "rejected": {
         "non-economics practice": 1,
         "not an internship or entry-level role": 2,
@@ -76,17 +76,6 @@
           "Title": "Analyst Intern - Generalist - Brussels (2027 Start Date)",
           "Location": "CA-QC-Montreal | CA-ON-Toronto",
           "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3045/job",
-          "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-          "PostedAt": "",
-          "Notes": "timing: 2027"
-        },
-        {
-          "Company": "Analysis Group",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Internship",
-          "Title": "Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) | Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)",
-          "Location": "CA-QC-Montreal | CA-ON-Toronto",
-          "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job",
           "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
           "PostedAt": "",
           "Notes": "timing: 2027"
@@ -165,17 +154,6 @@
           "Location": "UK-London",
           "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3079/job",
           "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-          "PostedAt": "",
-          "Notes": "timing: 2027"
-        },
-        {
-          "Company": "Analysis Group",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Entry-level",
-          "Title": "Associate - Generalist (MBA/MA) (2027 Start Date)",
-          "Location": "US-MA-Boston | US-IL-Chicago | US-TX-Dallas | US-CO-Denver | US-CA-Los Angeles | US-NY-New York | US-CA-San Francisco | US-DC-Washington, DC",
-          "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3047/job",
-          "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
           "PostedAt": "",
           "Notes": "timing: 2027"
         },
@@ -418,13 +396,13 @@
           "source": "Greenhouse:charlesriverassociates",
           "origin": "seeded",
           "ok": true,
-          "count": 92
+          "count": 93
         }
       ],
-      "jobsSeen": 92,
+      "jobsSeen": 93,
       "rejected": {
         "not an internship or entry-level role": 58,
-        "non-economics practice": 10,
+        "non-economics practice": 11,
         "PhD/MBA/JD-only": 3,
         "non-economics function": 13
       },
@@ -510,7 +488,7 @@
           "Company": "Charles River Associates",
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Internship",
-          "Title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d",
+          "Title": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/w/d",
           "Location": "Munich, Germany",
           "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673",
           "Source": "Official ATS Greenhouse:charlesriverassociates",
@@ -527,14 +505,14 @@
           "source": "Workday:mmc/MMC",
           "origin": "seeded",
           "ok": true,
-          "count": 47
+          "count": 48
         }
       ],
-      "jobsSeen": 47,
+      "jobsSeen": 48,
       "rejected": {
         "not an internship or entry-level role": 9,
         "PhD/MBA/JD-only": 2,
-        "outside firm scope (\\bNERA\\b)": 26,
+        "outside firm scope (\\bNERA\\b)": 27,
         "non-economics function": 4,
         "non-economics practice": 1
       },
@@ -604,15 +582,15 @@
           "source": "Greenhouse:thebrattlegroup",
           "origin": "seeded",
           "ok": true,
-          "count": 44
+          "count": 45
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 45,
       "rejected": {
         "not an internship or entry-level role": 12,
         "non-economics practice": 1,
         "PhD/MBA/JD-only": 17,
-        "non-economics function": 6
+        "non-economics function": 7
       },
       "matches": [
         {
@@ -653,6 +631,17 @@
           "Category": "Litigation, Antitrust & Damages",
           "Track": "Internship",
           "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
+          "Location": "New York, New York, United States",
+          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
+          "Source": "Official ATS Greenhouse:thebrattlegroup",
+          "PostedAt": "2026-09-18T16:58:40-04:00",
+          "Notes": "timing: Summer 2027"
+        },
+        {
+          "Company": "The Brattle Group",
+          "Category": "Litigation, Antitrust & Damages",
+          "Track": "Internship",
+          "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
           "Location": "Washington, District of Columbia, United States",
           "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735792005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
@@ -679,17 +668,6 @@
           "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
           "Source": "Official ATS Greenhouse:thebrattlegroup",
           "PostedAt": "2026-09-18T16:58:47-04:00",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "The Brattle Group",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Internship",
-          "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-          "Location": "New York, New York, United States",
-          "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005",
-          "Source": "Official ATS Greenhouse:thebrattlegroup",
-          "PostedAt": "2026-09-18T16:58:40-04:00",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -848,10 +826,10 @@
       ],
       "jobsSeen": 248,
       "rejected": {
-        "not an internship or entry-level role": 19,
-        "outside firm scope (econ)": 84,
         "non-economics practice": 93,
-        "non-economics function": 46
+        "outside firm scope (econ)": 84,
+        "non-economics function": 46,
+        "not an internship or entry-level role": 19
       },
       "matches": [
         {
@@ -970,7 +948,7 @@
       ],
       "jobsSeen": 83,
       "rejected": {
-        "non-economics practice": 49,
+        "non-economics practice": 50,
         "not an internship or entry-level role": 26,
         "non-economics function": 1
       },
@@ -1006,17 +984,6 @@
           "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009",
           "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
           "PostedAt": "2026-09-10T12:08:29-04:00",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "Secretariat",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Internship",
-          "Title": "Intern, Damages & Valuations (Summer 2027)",
-          "Location": "Downtown Boston, MA",
-          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
-          "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-          "PostedAt": "2026-09-24T12:39:30-04:00",
           "Notes": "timing: Summer 2027"
         },
         {
@@ -1070,14 +1037,14 @@
           "source": "Workday:ankura/Ankura",
           "origin": "seeded",
           "ok": true,
-          "count": 86
+          "count": 84
         }
       ],
-      "jobsSeen": 86,
+      "jobsSeen": 84,
       "rejected": {
-        "outside firm scope (econ)": 39,
-        "non-economics function": 5,
         "non-economics practice": 19,
+        "outside firm scope (econ)": 37,
+        "non-economics function": 5,
         "not an internship or entry-level role": 8
       },
       "matches": [
@@ -1256,15 +1223,15 @@
           "source": "Greenhouse:alixpartners",
           "origin": "seeded",
           "ok": true,
-          "count": 128
+          "count": 129
         }
       ],
-      "jobsSeen": 128,
+      "jobsSeen": 129,
       "rejected": {
-        "outside firm scope (econ)": 82,
-        "non-economics function": 13,
+        "outside firm scope (econ)": 83,
+        "non-economics function": 14,
         "not an internship or entry-level role": 19,
-        "non-economics practice": 14
+        "non-economics practice": 13
       },
       "matches": []
     },
@@ -1276,15 +1243,15 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 827
+          "count": 831
         }
       ],
-      "jobsSeen": 827,
+      "jobsSeen": 831,
       "rejected": {
-        "outside firm scope (econ)": 714,
-        "non-economics practice": 30,
-        "not an internship or entry-level role": 37,
-        "non-economics function": 46
+        "outside firm scope (econ)": 718,
+        "not an internship or entry-level role": 39,
+        "non-economics practice": 29,
+        "non-economics function": 45
       },
       "matches": []
     },
@@ -1304,13 +1271,13 @@
           "source": "Workday:stout/Stout-Student-Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 4
+          "count": 3
         },
         {
           "source": "Workday:stout/Stout-Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 45
+          "count": 46
         },
         {
           "source": "Ashby:stout",
@@ -1321,10 +1288,10 @@
       ],
       "jobsSeen": 49,
       "rejected": {
-        "not an internship or entry-level role": 16,
+        "not an internship or entry-level role": 17,
         "outside firm scope (econ)": 22,
         "non-economics function": 3,
-        "non-economics practice": 2
+        "non-economics practice": 1
       },
       "matches": [
         {
@@ -1403,12 +1370,12 @@
           "source": "Workday:hl/Campus",
           "origin": "seeded",
           "ok": true,
-          "count": 51
+          "count": 50
         }
       ],
-      "jobsSeen": 51,
+      "jobsSeen": 50,
       "rejected": {
-        "outside firm scope (dispute)": 33,
+        "outside firm scope (dispute)": 32,
         "non-economics practice": 18
       },
       "matches": []
@@ -2060,12 +2027,12 @@
           "source": "Pinpoint:careers.auroraer.com",
           "origin": "seeded",
           "ok": true,
-          "count": 86
+          "count": 82
         }
       ],
-      "jobsSeen": 86,
+      "jobsSeen": 82,
       "rejected": {
-        "not an internship or entry-level role": 72,
+        "not an internship or entry-level role": 68,
         "non-economics function": 7,
         "non-economics practice": 2
       },
@@ -2810,8 +2777,8 @@
       "rejected": {
         "outside firm scope (econ)": 319,
         "not an internship or entry-level role": 19,
-        "non-economics practice": 9,
-        "non-economics function": 23
+        "non-economics function": 23,
+        "non-economics practice": 9
       },
       "matches": [
         {
@@ -2852,13 +2819,13 @@
           "source": "Lever:erg",
           "origin": "seeded",
           "ok": true,
-          "count": 44
+          "count": 46
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 46,
       "rejected": {
         "not an internship or entry-level role": 35,
-        "non-economics function": 7,
+        "non-economics function": 9,
         "recruiting event / talent pool": 1
       },
       "matches": [
@@ -2907,14 +2874,13 @@
           "source": "Greenhouse:americaninstitutesforresearch",
           "origin": "guessed",
           "ok": true,
-          "count": 14
+          "count": 11
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 11,
       "rejected": {
-        "non-economics function": 1,
         "outside firm scope (econ)": 9,
-        "not an internship or entry-level role": 4
+        "not an internship or entry-level role": 2
       },
       "matches": []
     },
@@ -3145,13 +3111,13 @@
           "source": "Lever:economicmodeling",
           "origin": "seeded",
           "ok": true,
-          "count": 22
+          "count": 23
         }
       ],
-      "jobsSeen": 22,
+      "jobsSeen": 23,
       "rejected": {
-        "outside firm scope (econ)": 11,
-        "not an internship or entry-level role": 3,
+        "outside firm scope (econ)": 13,
+        "not an internship or entry-level role": 2,
         "non-economics function": 5,
         "recruiting event / talent pool": 2
       },
@@ -3200,12 +3166,12 @@
           "source": "Greenhouse:acumen",
           "origin": "guessed",
           "ok": true,
-          "count": 5
+          "count": 6
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "rejected": {
-        "not an internship or entry-level role": 5
+        "not an internship or entry-level role": 6
       },
       "matches": []
     },
@@ -3447,23 +3413,22 @@
           "source": "Workday:pwc/US_Entry_Level_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 49
+          "count": 48
         },
         {
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1322
+          "count": 1317
         }
       ],
-      "jobsSeen": 1371,
+      "jobsSeen": 1365,
       "rejected": {
         "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 1048,
-        "non-economics practice": 193,
+        "non-economics practice": 189,
         "PhD/MBA/JD-only": 2,
-        "non-economics function": 73,
+        "non-economics function": 72,
         "recruiting event / talent pool": 33,
-        "empty title": 1,
         "not an internship or entry-level role": 11,
         "dated for a past cycle": 2
       },
@@ -3589,20 +3554,20 @@
           "source": "Oracle:ehzq/CX_1",
           "origin": "seeded",
           "ok": true,
-          "count": 171
+          "count": 163
         },
         {
           "source": "Oracle:ehzq/CX_4",
           "origin": "seeded",
           "ok": true,
-          "count": 167
+          "count": 159
         }
       ],
-      "jobsSeen": 338,
+      "jobsSeen": 322,
       "rejected": {
-        "non-economics practice": 45,
-        "outside firm scope (econ)": 260,
-        "non-economics function": 27,
+        "non-economics function": 29,
+        "outside firm scope (econ)": 246,
+        "non-economics practice": 41,
         "not an internship or entry-level role": 6
       },
       "matches": []
@@ -3615,35 +3580,24 @@
           "source": "Oracle:ebqb/CX_1001",
           "origin": "seeded",
           "ok": true,
-          "count": 74
+          "count": 73
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 677
+          "count": 670
         }
       ],
-      "jobsSeen": 751,
+      "jobsSeen": 743,
       "rejected": {
-        "dated for a past cycle": 4,
-        "outside firm scope (econ)": 671,
-        "non-economics function": 30,
+        "outside firm scope (econ)": 674,
+        "dated for a past cycle": 2,
+        "non-economics function": 28,
         "not an internship or entry-level role": 20,
-        "non-economics practice": 16
+        "non-economics practice": 13
       },
       "matches": [
-        {
-          "Company": "BDO (Transfer Pricing)",
-          "Category": "Transfer Pricing & Valuation",
-          "Track": "Internship",
-          "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
-          "Location": "Detroit, MI, United States",
-          "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11779",
-          "Source": "Official ATS Oracle:ebqb/CX_1001",
-          "PostedAt": "2026-11-05",
-          "Notes": "timing: Summer 2027"
-        },
         {
           "Company": "BDO (Transfer Pricing)",
           "Category": "Transfer Pricing & Valuation",
@@ -3681,28 +3635,6 @@
           "Company": "BDO (Transfer Pricing)",
           "Category": "Transfer Pricing & Valuation",
           "Track": "Internship",
-          "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-          "Location": "Los Angeles, CA, United States",
-          "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13875",
-          "Source": "Official ATS Oracle:ebqb/CX_1001",
-          "PostedAt": "2026-09-03",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "BDO (Transfer Pricing)",
-          "Category": "Transfer Pricing & Valuation",
-          "Track": "Internship",
-          "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
-          "Location": "Detroit, MI, United States",
-          "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779",
-          "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-          "PostedAt": "2026-11-05",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "BDO (Transfer Pricing)",
-          "Category": "Transfer Pricing & Valuation",
-          "Track": "Internship",
           "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
           "Location": "Dallas, TX, United States",
           "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832",
@@ -3730,17 +3662,6 @@
           "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014",
           "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
           "PostedAt": "2026-09-14",
-          "Notes": "timing: Summer 2027"
-        },
-        {
-          "Company": "BDO (Transfer Pricing)",
-          "Category": "Transfer Pricing & Valuation",
-          "Track": "Internship",
-          "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)",
-          "Location": "Los Angeles, CA, United States",
-          "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875",
-          "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-          "PostedAt": "2026-09-03",
           "Notes": "timing: Summer 2027"
         }
       ]
@@ -3841,14 +3762,14 @@
           "source": "Greenhouse:precisionaq",
           "origin": "seeded",
           "ok": true,
-          "count": 47
+          "count": 45
         }
       ],
-      "jobsSeen": 47,
+      "jobsSeen": 45,
       "rejected": {
         "not an internship or entry-level role": 18,
-        "outside firm scope (econ)": 13,
-        "non-economics function": 14
+        "outside firm scope (econ)": 12,
+        "non-economics function": 13
       },
       "matches": [
         {
@@ -3883,15 +3804,16 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1890
+          "count": 1903
         }
       ],
-      "jobsSeen": 1890,
+      "jobsSeen": 1903,
       "rejected": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1693,
-        "not an internship or entry-level role": 36,
-        "non-economics function": 142,
-        "non-economics practice": 16
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1708,
+        "non-economics function": 136,
+        "non-economics practice": 16,
+        "not an internship or entry-level role": 38,
+        "empty title": 1
       },
       "matches": [
         {
@@ -3942,17 +3864,14 @@
       "category": "Health Economics & HEOR",
       "boards": [
         {
-          "source": "Lever:avalerehealth",
+          "source": "lever:avalerehealth",
           "origin": "seeded",
-          "ok": true,
-          "count": 57
+          "ok": false,
+          "count": 0
         }
       ],
-      "jobsSeen": 57,
-      "rejected": {
-        "not an internship or entry-level role": 40,
-        "non-economics function": 17
-      },
+      "jobsSeen": 0,
+      "rejected": {},
       "matches": []
     },
     {
@@ -4011,12 +3930,12 @@
           "source": "Workday:trinitylifesciences/Trinity",
           "origin": "seeded",
           "ok": true,
-          "count": 90
+          "count": 89
         }
       ],
-      "jobsSeen": 90,
+      "jobsSeen": 89,
       "rejected": {
-        "not an internship or entry-level role": 14,
+        "not an internship or entry-level role": 13,
         "non-economics function": 6,
         "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 53,
         "non-economics practice": 14
@@ -4184,15 +4103,14 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 348
+          "count": 346
         }
       ],
-      "jobsSeen": 348,
+      "jobsSeen": 346,
       "rejected": {
-        "outside firm scope (econom)": 273,
-        "non-economics practice": 16,
-        "non-economics function": 57,
-        "empty title": 1,
+        "non-economics practice": 17,
+        "outside firm scope (econom)": 270,
+        "non-economics function": 58,
         "recruiting event / talent pool": 1
       },
       "matches": []
