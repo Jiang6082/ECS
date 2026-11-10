@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:09:00.670Z",
+  "generatedAt": "2026-11-10T20:26:34.620Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -783,8 +783,10 @@
       "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     "Incenta Economic Consulting": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://incentaplus.com/"
+      ],
+      "updatedAt": "2026-11-10T20:26:34.620Z"
     },
     "Axiom Economics": {
       "careerPages": [

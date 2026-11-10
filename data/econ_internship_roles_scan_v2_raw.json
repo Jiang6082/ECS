@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-10T11:09:00.668Z",
+  "searchedAt": "2026-11-10T20:26:34.619Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-10T11:09:00.670Z",
+    "generatedAt": "2026-11-10T20:26:34.620Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -1019,8 +1019,10 @@
         "updatedAt": "2026-09-27T00:00:00.000Z"
       },
       "Incenta Economic Consulting": {
-        "careerPages": [],
-        "updatedAt": "2026-09-27T00:00:00.000Z"
+        "careerPages": [
+          "https://incentaplus.com/"
+        ],
+        "updatedAt": "2026-11-10T20:26:34.620Z"
       },
       "Axiom Economics": {
         "careerPages": [
@@ -2065,6 +2067,10 @@
     {
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/company/marsden-central"
+    },
+    {
+      "company": "Incenta Economic Consulting",
+      "pageUrl": "https://incentaplus.com/"
     },
     {
       "company": "Axiom Economics",
@@ -3236,10 +3242,10 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 99
+          "jobsSeen": 97
         }
       ],
-      "jobsSeen": 99,
+      "jobsSeen": 97,
       "relevantRoles": 3
     },
     {
@@ -3807,7 +3813,7 @@
       "boards": [
         {
           "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 38
+          "jobsSeen": 37
         },
         {
           "source": "SmartRecruiters:cdn-cgi",
@@ -3818,7 +3824,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -3867,10 +3873,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 102
+          "jobsSeen": 97
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 97,
       "relevantRoles": 0
     },
     {
@@ -3940,10 +3946,10 @@
       "boards": [
         {
           "source": "Greenhouse:sponsorsforeducationalopportunity",
-          "jobsSeen": 25
+          "jobsSeen": 24
         }
       ],
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantRoles": 0
     },
     {
@@ -4252,6 +4258,18 @@
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/company/marsden-central",
       "resolvedUrl": "https://careers.marsden.com/company/marsden-central",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Incenta Economic Consulting",
+      "pageUrl": "https://incentaplus.com/",
+      "resolvedUrl": "https://incentaplus.com/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -5108,10 +5126,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 673
+          "jobsSeen": 675
         }
       ],
-      "jobsSeen": 673,
+      "jobsSeen": 675,
       "relevantRoles": 3
     },
     {
@@ -5132,10 +5150,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 633
+          "jobsSeen": 631
         }
       ],
-      "jobsSeen": 633,
+      "jobsSeen": 631,
       "relevantRoles": 0
     },
     {
@@ -5469,18 +5487,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 15
+          "jobsSeen": 18
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 19
+          "jobsSeen": 20
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -5501,10 +5519,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1034
+          "jobsSeen": 1040
         }
       ],
-      "jobsSeen": 1034,
+      "jobsSeen": 1040,
       "relevantRoles": 0
     },
     {

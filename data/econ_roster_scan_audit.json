@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T11:10:54.236Z",
-  "scanStartedAt": "2026-11-10T11:09:00.668Z",
+  "generatedAt": "2026-11-10T20:28:38.594Z",
+  "scanStartedAt": "2026-11-10T20:26:34.619Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -810,7 +810,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 99,
+      "jobsSeen": 97,
       "relevantRoles": 3
     },
     {
@@ -1485,7 +1485,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 38,
+      "jobsSeen": 37,
       "relevantRoles": 0
     },
     {
@@ -1502,7 +1502,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 97,
       "relevantRoles": 0
     },
     {
@@ -1549,7 +1549,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantRoles": 0
     },
     {
@@ -2049,9 +2049,11 @@
       ],
       "category": "Economic Consulting (APAC)",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://incentaplus.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -2926,7 +2928,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 673,
+      "jobsSeen": 675,
       "relevantRoles": 3
     },
     {
@@ -2941,7 +2943,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 633,
+      "jobsSeen": 631,
       "relevantRoles": 0
     },
     {
@@ -3229,7 +3231,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 34,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -3244,7 +3246,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1034,
+      "jobsSeen": 1040,
       "relevantRoles": 0
     },
     {
