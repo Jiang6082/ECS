@@ -1,6 +1,6 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-09T22:58:21.679Z
+Scanned: 2026-11-10T11:09:00.668Z
 Roles: 32
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.

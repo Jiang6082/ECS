@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-09T22:58:21.679Z
+Last updated: 2026-11-10T11:09:00.668Z
 
 ## Summary
 
@@ -9,11 +9,11 @@ Last updated: 2026-11-09T22:58:21.679Z
 - Current internship roles: 104
 - Entry-level analyst roles: 32 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- No longer present since previous scan: 5
 - Firms with matching roles: 26
 - Confirmed no open postings: 5
-- Openings but no matching role: 29
-- Could not fully verify: 172
+- Openings but no matching role: 30
+- Could not fully verify: 171
 
 ## Internships By Practice Area
 
@@ -66,7 +66,11 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Analysis Group** - [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) | Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) - CA-QC-Montreal | CA-ON-Toronto
+- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) - Downtown Boston, MA
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) - San Francisco, CA, us
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Los Angeles)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13875) - Los Angeles, CA, United States
+- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Detroit)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11779) - Detroit, MI, United States
 
 ## Full Reports
 

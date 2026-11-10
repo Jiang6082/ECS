@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 69
-Last updated: 2026-11-09T22:58:21.679Z
+Total closures recorded: 72
+Last updated: 2026-11-10T11:09:00.668Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-10 (3)
+
+- **Analysis Group** - [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) | Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) - CA-QC-Montreal | CA-ON-Toronto
+- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) - Downtown Boston, MA
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) - San Francisco, CA, us
 
 ### 2026-11-07 (2)
 

@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-09T22:58:21.679Z
+Scanned: 2026-11-10T11:09:00.668Z
 Firms searched: 232
 Career pages checked: 222
 Internship roles/leads retained: 104
@@ -163,6 +163,7 @@ _None._
 - Acumen
 - AlixPartners
 - Analysys Mason
+- Avalere Health
 - Axiom Economics
 - Baringa
 - Capital Economics
@@ -206,7 +207,6 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - Applied Economics Consulting Group
 - Ashenfelter & Ashmore
 - Asia Competition Associates
-- Avalere Health
 - BAE Urban Economics
 - BAK Economics
 - BERL
