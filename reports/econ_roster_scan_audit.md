@@ -1,10 +1,10 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-11-10T20:26:34.619Z
+Scan started: 2026-11-11T20:09:01.907Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (26)
+## Matching Roles Found (25)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -16,7 +16,6 @@ Canonical companies after aliases: 232
 | The Brattle Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.brattle.com/careers/current-openings/) |
 | Berkeley Research Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.thinkbrg.com/careers/early-careers/) |
 | FTI Consulting (Economic Consulting) | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.fticonsulting.com/careers) |
-| Econ One | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://econone.com/careers/) |
 | Secretariat | Litigation, Antitrust & Damages | 3/3 pages live | [link](https://secretariat-intl.com/careers/current-openings/) [link](https://secretariat-intl.com/careers/) [link](https://job-boards.greenhouse.io/secretariatadvisorsllc/) |
 | Ankura | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://ankura.com/job-openings) |
 | Stout | Transfer Pricing & Valuation | 3/3 pages live | [link](https://www.stout.com/en/careers) [link](https://www.stout.com/en/careers/search) [link](https://stout.wd5.myworkdayjobs.com/Stout-Careers) |
@@ -45,10 +44,11 @@ Canonical companies after aliases: 232
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
 | Andersen (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://careers.andersen.com/jobs/7462?lang=en-us) |
 
-## Confirmed Openings, No Matching Role (30)
+## Confirmed Openings, No Matching Role (31)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
+| Econ One | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://econone.com/careers/) |
 | AlixPartners | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.alixpartners.com/careers/job-search/) |
 | Guidehouse | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://guidehouse.com/careers/internship) |
 | Houlihan Lokey (Dispute Resolution Consulting) | Litigation, Antitrust & Damages | no saved page attempted | none |
@@ -95,7 +95,7 @@ Canonical companies after aliases: 232
 | Resolution Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://resecon.com/careers/) |
 | Welch Consulting | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://welch.houstonisd.org/) |
 | MiCRA | Litigation, Antitrust & Damages | no saved page attempted | none |
-| Vega Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://vegaeconomics.com/careers/openings) |
+| Vega Economics | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://vegaeconomics.com/careers/openings) |
 | Epsilon Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.epsiloneconomics.com/join-us) |
 | Monument Economics Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.megconsulting.com/careers/current-positions/) |
 | Quantitative Economic Solutions | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.qes-llc.com/careers) |
@@ -136,7 +136,7 @@ Canonical companies after aliases: 232
 | Economic Insight | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.economic-insight.com/careers/) |
 | Europe Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CEPA | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.cepa.co.uk/careers/working-at-cepa) |
-| London Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
+| London Economics | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
 | Cambridge Econometrics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.camecon.com/careers) |
 | Swiss Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.swiss-economics.ch/career.html) |
 | Polynomics | Competition & Regulatory (Europe) | no saved page attempted | none |

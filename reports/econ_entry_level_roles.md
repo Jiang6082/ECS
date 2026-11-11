@@ -1,7 +1,7 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-10T20:26:34.619Z
-Roles: 32
+Scanned: 2026-11-11T20:09:01.907Z
+Roles: 33
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
@@ -29,9 +29,10 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **J.S. Held** - [Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)](https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910) - San Francisco, CA, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 - **The Cadmus Group** - [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) - Arlington, VA, US | Boston, MA, US | Waltham, MA, US - Confirmed official posting (Official ATS iCIMS:careers-cadmusgroup): timing not stated in title
 
-### Europe (3)
+### Europe (4)
 
 - **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Aurora Energy Research** - [Research Associate, UK & Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 - **Cornerstone Research** - [Analyst, London](https://uguk-chire.icims.com/jobs/4083/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 

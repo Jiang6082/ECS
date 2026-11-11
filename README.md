@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-10 &nbsp;•&nbsp; **104 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **32 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **72 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-11 &nbsp;•&nbsp; **105 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **33 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **72 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,7 +12,7 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-10_
+_Scan date: 2026-11-11_
 
 _No new roles detected in the latest scan._
 
@@ -20,18 +20,18 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles Available
 
-**104** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**105** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (44)](#north-america) · [Europe (40)](#europe) · [Asia (4)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (12)](#remote--unspecified)
+**Regions:** [North America (43)](#north-america) · [Europe (40)](#europe) · [Asia (5)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (13)](#remote--unspecified)
 
 ### North America
 
 <details>
-<summary><strong>44 roles</strong> — click to expand</summary>
+<summary><strong>43 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) — Montreal, QC, CA \| Toronto, ON, CA
 - **Analysis Group** — [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) — Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US
-- **Analysis Group** — [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) — Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US \| New York, NY, US \| San Francisco, CA, US \| Washington, DC, DC, US
+- **Analysis Group** — [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) — Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US \| New York, NY, US \| San Francisco, CA, US
 - **Analysis Group** — [Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3071/job) — Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US \| New York, NY, US \| San Francisco, CA, US \| Washington, DC, DC, US
 - **Analysis Group** — [Summer Research Professional Intern-Health Care (HEOR, Epidemiology & Market Access) -Montreal/Toronto (2027 Start Date) \| Stage d'été-Professionnel de recherche-Économie de la santé, biostatistique, et épidémiologie - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3065/job) — Montreal, QC, CA \| Toronto, ON, CA
 - **Ankura** — [University Intern, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987) — Los Angeles, CA
@@ -42,19 +42,18 @@ _No new roles detected in the latest scan._
 - **Ankura** — [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104974) — Chicago, IL
 - **Ankura** — [University Intern, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Healthcare-and-Life-Sciences_R104981) — Washington D.C.
 - **Ankura** — [University Intern, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Intern--Disputes---Economics---Valuation---Transaction-Advisory_R104985) — Chicago, IL
-- **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States
+- **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States; Houston, TX, United States
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States
+- **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Orange County)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14716) — Costa Mesa, CA, United States
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) — Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) — Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States
 - **Charles River Associates** — [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) — College Station, TX, United States; Tallahassee, FL, United States
-- **Econ One** — [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) — Los Angeles, California, United States
 - **Energy + Environmental Economics (E3)** — [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) — San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta
 - **Integra FEC** — [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406100008) — Austin, Texas
 - **Integra FEC** — [(SPRING) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406115008) — Austin, Texas
 - **Integra FEC** — [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) — Austin, Texas
 - **Integra FEC** — [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) — Austin, Texas
 - **J.S. Held** — [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) — Alpharetta, GA, us
-- **J.S. Held** — [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) — Chicago, IL, us
 - **NERA Economic Consulting** — [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) — Toronto - Bremner
 - **PRECISIONheor (Precision AQ)** — [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) — Remote, Canada
 - **PRECISIONheor (Precision AQ)** — [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) — New York, NY, USA
@@ -127,11 +126,12 @@ _No new roles detected in the latest scan._
 ### Asia
 
 <details>
-<summary><strong>4 roles</strong> — click to expand</summary>
+<summary><strong>5 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) — Beijing, CN
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan
 - **FTI Consulting (Economic Consulting)** — [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) — Singapore, Singapore
+- **PwC (Economics / Transfer Pricing / Forensics)** — [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) — Hanoi
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore
 
 </details>
@@ -159,8 +159,9 @@ _No new roles detected in the latest scan._
 ### Remote / Unspecified
 
 <details>
-<summary><strong>12 roles</strong> — click to expand</summary>
+<summary><strong>13 roles</strong> — click to expand</summary>
 
+- **Berkeley Research Group** — [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) — 2 Locations
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations
 - **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations
 - **IQVIA (HEOR)** — [卫生经济与真实世界洞察实习生 Health Economics & Real World Insights Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897) — 2 Locations

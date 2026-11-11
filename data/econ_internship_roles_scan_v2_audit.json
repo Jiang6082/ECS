@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-10T20:26:34.619Z",
+  "searchedAt": "2026-11-11T20:09:01.907Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -855,8 +855,8 @@
       "company": "Vega Economics",
       "pageUrl": "https://vegaeconomics.com/careers/openings",
       "resolvedUrl": "https://vegaeconomics.com/careers/openings",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 404,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1064,11 +1064,11 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 97
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 97,
-      "relevantRoles": 3
+      "jobsSeen": 95,
+      "relevantRoles": 2
     },
     {
       "company": "J.S. Held",
@@ -1315,8 +1315,8 @@
       "company": "London Economics",
       "pageUrl": "https://londoneconomics.co.uk/recruitment/",
       "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 404,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1350,11 +1350,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 82
+          "jobsSeen": 86
         }
       ],
-      "jobsSeen": 82,
-      "relevantRoles": 5
+      "jobsSeen": 86,
+      "relevantRoles": 6
     },
     {
       "company": "Cornwall Insight",
@@ -1695,10 +1695,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 97
+          "jobsSeen": 96
         }
       ],
-      "jobsSeen": 97,
+      "jobsSeen": 96,
       "relevantRoles": 0
     },
     {
@@ -2275,10 +2275,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 14
+          "jobsSeen": 15
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -2948,11 +2948,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 675
+          "jobsSeen": 683
         }
       ],
-      "jobsSeen": 675,
-      "relevantRoles": 3
+      "jobsSeen": 683,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2972,10 +2972,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 631
+          "jobsSeen": 643
         }
       ],
-      "jobsSeen": 631,
+      "jobsSeen": 643,
       "relevantRoles": 0
     },
     {
@@ -3274,10 +3274,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 9
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -3309,18 +3309,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 18
+          "jobsSeen": 22
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 20
+          "jobsSeen": 21
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 43,
       "relevantRoles": 0
     },
     {
@@ -3341,10 +3341,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1040
+          "jobsSeen": 1055
         }
       ],
-      "jobsSeen": 1040,
+      "jobsSeen": 1055,
       "relevantRoles": 0
     },
     {
@@ -3448,10 +3448,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {

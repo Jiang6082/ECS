@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T20:28:38.594Z",
-  "scanStartedAt": "2026-11-10T20:26:34.619Z",
+  "generatedAt": "2026-11-11T20:11:29.090Z",
+  "scanStartedAt": "2026-11-11T20:09:01.907Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 26,
+    "matching-role-found": 25,
     "confirmed-no-open-postings": 5,
-    "confirmed-openings-no-matching-role": 30,
+    "confirmed-openings-no-matching-role": 31,
     "could-not-fully-verify": 171
   },
   "companies": [
@@ -181,7 +181,7 @@
         "Econ One"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://econone.com/careers/"
       ],
@@ -453,7 +453,7 @@
       "careerPages": [
         "https://vegaeconomics.com/careers/openings"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -810,8 +810,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 97,
-      "relevantRoles": 3
+      "jobsSeen": 95,
+      "relevantRoles": 2
     },
     {
       "company": "Gnarus Advisors",
@@ -1113,7 +1113,7 @@
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1145,8 +1145,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 82,
-      "relevantRoles": 5
+      "jobsSeen": 86,
+      "relevantRoles": 6
     },
     {
       "company": "Cornwall Insight",
@@ -1502,7 +1502,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 97,
+      "jobsSeen": 96,
       "relevantRoles": 0
     },
     {
@@ -2284,7 +2284,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -2928,8 +2928,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 675,
-      "relevantRoles": 3
+      "jobsSeen": 683,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2943,7 +2943,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 631,
+      "jobsSeen": 643,
       "relevantRoles": 0
     },
     {
@@ -3201,7 +3201,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -3231,7 +3231,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 38,
+      "jobsSeen": 43,
       "relevantRoles": 0
     },
     {
@@ -3246,7 +3246,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1040,
+      "jobsSeen": 1055,
       "relevantRoles": 0
     },
     {
@@ -3322,7 +3322,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {

@@ -1,27 +1,27 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-10T20:26:34.619Z
+Last updated: 2026-11-11T20:09:01.907Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 223
-- Current internship roles: 104
-- Entry-level analyst roles: 32 ([list](econ_entry_level_roles.md))
+- Current internship roles: 105
+- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
-- Firms with matching roles: 26
+- Firms with matching roles: 25
 - Confirmed no open postings: 5
-- Openings but no matching role: 30
+- Openings but no matching role: 31
 - Could not fully verify: 171
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 73
+- Litigation, Antitrust & Damages: 72
 - Health Economics & HEOR: 8
-- Big 4 & Advisory Economics: 7
+- Big 4 & Advisory Economics: 8
+- Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
-- Transfer Pricing & Valuation: 5
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 2
 - Macro & Economic Research: 1
