@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-11T20:06:45.045Z
+Scanned: 2026-11-12T20:43:57.430Z
 Firms in universe: 232
-Firms with at least one live ATS board: 58
-Internship roles: 102
-Entry-level analyst roles: 30
+Firms with at least one live ATS board: 59
+Internship roles: 103
+Entry-level analyst roles: 33
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -35,7 +35,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States; Houston, TX, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
-- **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Orange County)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14716) — Costa Mesa, CA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **Berkeley Research Group** — [Intern - Competition Economics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244) — Johannesburg, SA (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
 - **Berkeley Research Group** — [Intern (m/f/d) - Competition Economics (E.CA)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Berlin-GER/Intern--m-f-d----Competition-Economics--ECA-_JR101044) — Berlin, GER (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing not stated in title)
 - **Berkeley Research Group** — [Internship - Competition Economics (April 2027 Start)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--April-2027-Start-_JR101116) — Brussels, BEL (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing: 2027)
@@ -68,6 +67,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **FTI Consulting (Economic Consulting)** — [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) — London, United Kingdom (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027 Summer)
 - **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
+- **Grant Thornton (Transfer Pricing / Economics)** — [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) — New York, NY, United States (Official ATS Oracle:ehzq/CX_1; timing: Summer 2027)
 - **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations (Official ATS Workday:icf/ICFExternal_Career_Site; timing: 2027 Summer)
 - **Integra FEC** — [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406100008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SPRING)
 - **Integra FEC** — [(SPRING) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406115008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SPRING)
@@ -87,6 +87,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern | Roma [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) — Rome (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) — Milan (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) — Hanoi (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
+- **PwC (Economics / Transfer Pricing / Forensics)** — [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) — Brescia (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers; timing: Off-Cycle)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) — Bangkok (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) — 2 Locations (Official ATS Workday:pwc/US_Entry_Level_Careers; timing: Summer 2027)
@@ -128,8 +129,9 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Ankura** — [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104980) — Washington D.C. (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Intellectual Property](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996) — 3 Locations (Official ATS Workday:ankura/Ankura)
 - **Ankura** — [University Associate, Disputes & Economics - Valuation & Transaction Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Valuation---Transaction-Advisory_R104983) — Chicago, IL (Official ATS Workday:ankura/Ankura)
+- **Aurora Energy Research** — [2028 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/36016ed0-32b1-44ac-8d33-0f5ae74932c9) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com)
 - **Aurora Energy Research** — [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com)
-- **Aurora Energy Research** — [Research Associate, UK & Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) — Oxford, UK (Official ATS Pinpoint:careers.auroraer.com)
+- **Aurora Energy Research** — [Research Associate, Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) — Oxford, UK (Official ATS Pinpoint:careers.auroraer.com)
 - **BDO (Transfer Pricing)** — [Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14014) — Atlanta, GA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers)
 - **Berkeley Research Group** — [Analyst, Data Analytics](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Analyst--Data-Analytics_JR101209) — Washington, DC (Official ATS Workday:thinkbrg/BRG_External_Career_Site)
 - **Berkeley Research Group** — [Analyst, Product Success](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Analyst--Product-Success_JR101217-1) — Remote - USA (Official ATS Workday:thinkbrg/BRG_External_Career_Site)
@@ -141,7 +143,9 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) — Atlanta, GA (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/j8PTH47DgC/Research-Analyst-Real-Estate) — Raleigh, NC (Official ATS JazzHR:hraadvisors)
 - **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) — Moscow, ID (Official ATS Lever:economicmodeling)
+- **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5) — Remote (Work From Home) US; Moscow, ID (Official ATS Lever:economicmodeling)
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC)
+- **Oxford Economics** — [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) — New York, US (Official ATS Pinpoint:careers.oxfordeconomics.com)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers)
 - **The Brattle Group** — [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) — Sydney, New South Wales, Australia (Official ATS Greenhouse:thebrattlegroup)
 - **The Cadmus Group** — [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) — US (Official ATS iCIMS:careers-cadmusgroup)
@@ -177,7 +181,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - EmployStats
 - ERS Group
 - Crowninshield Financial Research
-- Stanford Consulting Group
 - Market Platform Dynamics
 - Invotex
 - The Kenrich Group

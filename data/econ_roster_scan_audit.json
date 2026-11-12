@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-11T20:11:29.090Z",
-  "scanStartedAt": "2026-11-11T20:09:01.907Z",
+  "generatedAt": "2026-11-12T20:48:19.925Z",
+  "scanStartedAt": "2026-11-12T20:46:16.794Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 25,
+    "matching-role-found": 26,
     "confirmed-no-open-postings": 5,
     "confirmed-openings-no-matching-role": 31,
-    "could-not-fully-verify": 171
+    "could-not-fully-verify": 170
   },
   "companies": [
     {
@@ -747,7 +747,7 @@
         "Stanford Consulting Group"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.stanford.edu/about",
         "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/stanford/"
@@ -810,7 +810,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 95,
+      "jobsSeen": 94,
       "relevantRoles": 2
     },
     {
@@ -1113,7 +1113,7 @@
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1145,8 +1145,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 86,
-      "relevantRoles": 6
+      "jobsSeen": 89,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1549,7 +1549,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantRoles": 0
     },
     {
@@ -2284,7 +2284,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -2906,7 +2906,7 @@
         "Grant Thornton (Transfer Pricing / Economics)"
       ],
       "category": "Transfer Pricing & Valuation",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://www.grants.gov/",
         "https://grantable.co/grants"
@@ -2928,8 +2928,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 683,
-      "relevantRoles": 4
+      "jobsSeen": 687,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2943,7 +2943,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 643,
+      "jobsSeen": 660,
       "relevantRoles": 0
     },
     {
@@ -3231,7 +3231,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -3246,7 +3246,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1055,
+      "jobsSeen": 1061,
       "relevantRoles": 0
     },
     {
@@ -3369,7 +3369,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {

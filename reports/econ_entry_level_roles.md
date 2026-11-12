@@ -1,11 +1,11 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-11T20:09:01.907Z
-Roles: 33
+Scanned: 2026-11-12T20:46:16.794Z
+Roles: 36
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
-### North America (21)
+### North America (23)
 
 - **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3004/job) - Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | Washington, DC, DC, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -27,18 +27,21 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) - Atlanta, GA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/j8PTH47DgC/Research-Analyst-Real-Estate) - Raleigh, NC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **J.S. Held** - [Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)](https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910) - San Francisco, CA, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
+- **Lightcast** - [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5) - Remote (Work From Home) US; Moscow, ID - Confirmed official posting (Official ATS Lever:economicmodeling): timing not stated in title
+- **Oxford Economics** - [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) - New York, US - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing not stated in title
 - **The Cadmus Group** - [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) - Arlington, VA, US | Boston, MA, US | Waltham, MA, US - Confirmed official posting (Official ATS iCIMS:careers-cadmusgroup): timing not stated in title
 
 ### Europe (4)
 
 - **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Aurora Energy Research** - [Research Associate, UK & Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
+- **Aurora Energy Research** - [Research Associate, Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 - **Cornerstone Research** - [Analyst, London](https://uguk-chire.icims.com/jobs/4083/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 
-### Asia (4)
+### Asia (5)
 
 - **Analysis Group** - [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Aurora Energy Research** - [2028 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/36016ed0-32b1-44ac-8d33-0f5ae74932c9) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2028
 - **Aurora Energy Research** - [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Compass Lexecon** - [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) - Beijing, China - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) - Singapore - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: 2027

@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 72
-Last updated: 2026-11-11T20:09:01.907Z
+Total closures recorded: 74
+Last updated: 2026-11-12T20:46:16.794Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-12 (2)
+
+- **Econ One** - [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) - Los Angeles, California, United States
+- **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us
 
 ### 2026-11-10 (3)
 

@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-11T20:09:01.907Z
+Last updated: 2026-11-12T20:46:16.794Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 223
-- Current internship roles: 105
-- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
-- Firms with matching roles: 25
+- Current internship roles: 106
+- Entry-level analyst roles: 36 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 2
+- Firms with matching roles: 26
 - Confirmed no open postings: 5
 - Openings but no matching role: 31
-- Could not fully verify: 171
+- Could not fully verify: 170
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 72
+- Big 4 & Advisory Economics: 9
 - Health Economics & HEOR: 8
-- Big 4 & Advisory Economics: 8
 - Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
@@ -36,9 +36,9 @@ _None._
 
 _None._
 
-### Asia (0)
+### Asia (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) - Hanoi
 
 ### Oceania (0)
 
@@ -60,13 +60,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **Berkeley Research Group** - [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) - 2 Locations
 
 ## No Longer Present
 
-_None._
+- **Econ One** - [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) - Los Angeles, California, United States
+- **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us
 
 ## Full Reports
 

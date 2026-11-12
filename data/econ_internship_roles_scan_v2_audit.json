@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-11T20:09:01.907Z",
+  "searchedAt": "2026-11-12T20:46:16.794Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1064,10 +1064,10 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 95
+          "jobsSeen": 94
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 94,
       "relevantRoles": 2
     },
     {
@@ -1315,8 +1315,8 @@
       "company": "London Economics",
       "pageUrl": "https://londoneconomics.co.uk/recruitment/",
       "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
-      "pageOk": false,
-      "pageStatus": 404,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1350,11 +1350,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 86
+          "jobsSeen": 89
         }
       ],
-      "jobsSeen": 86,
-      "relevantRoles": 6
+      "jobsSeen": 89,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -1768,10 +1768,10 @@
       "boards": [
         {
           "source": "Greenhouse:sponsorsforeducationalopportunity",
-          "jobsSeen": 24
+          "jobsSeen": 25
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantRoles": 0
     },
     {
@@ -2275,10 +2275,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 15
+          "jobsSeen": 16
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -2948,11 +2948,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 683
+          "jobsSeen": 687
         }
       ],
-      "jobsSeen": 683,
-      "relevantRoles": 4
+      "jobsSeen": 687,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2972,10 +2972,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 643
+          "jobsSeen": 660
         }
       ],
-      "jobsSeen": 643,
+      "jobsSeen": 660,
       "relevantRoles": 0
     },
     {
@@ -3309,18 +3309,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 22
+          "jobsSeen": 21
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 21
+          "jobsSeen": 20
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -3341,10 +3341,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1055
+          "jobsSeen": 1061
         }
       ],
-      "jobsSeen": 1055,
+      "jobsSeen": 1061,
       "relevantRoles": 0
     },
     {
@@ -3517,10 +3517,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 8
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {

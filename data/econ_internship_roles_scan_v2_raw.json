@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-11T20:09:01.907Z",
+  "searchedAt": "2026-11-12T20:46:16.794Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-11T20:09:01.908Z",
+    "generatedAt": "2026-11-12T20:46:16.795Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -3242,10 +3242,10 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 95
+          "jobsSeen": 94
         }
       ],
-      "jobsSeen": 95,
+      "jobsSeen": 94,
       "relevantRoles": 2
     },
     {
@@ -3493,8 +3493,8 @@
       "company": "London Economics",
       "pageUrl": "https://londoneconomics.co.uk/recruitment/",
       "resolvedUrl": "https://londoneconomics.co.uk/recruitment/",
-      "pageOk": false,
-      "pageStatus": 404,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3528,11 +3528,11 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 86
+          "jobsSeen": 89
         }
       ],
-      "jobsSeen": 86,
-      "relevantRoles": 6
+      "jobsSeen": 89,
+      "relevantRoles": 7
     },
     {
       "company": "Cornwall Insight",
@@ -3946,10 +3946,10 @@
       "boards": [
         {
           "source": "Greenhouse:sponsorsforeducationalopportunity",
-          "jobsSeen": 24
+          "jobsSeen": 25
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantRoles": 0
     },
     {
@@ -4453,10 +4453,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 15
+          "jobsSeen": 16
         }
       ],
-      "jobsSeen": 15,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -5126,11 +5126,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 683
+          "jobsSeen": 687
         }
       ],
-      "jobsSeen": 683,
-      "relevantRoles": 4
+      "jobsSeen": 687,
+      "relevantRoles": 3
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -5150,10 +5150,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 643
+          "jobsSeen": 660
         }
       ],
-      "jobsSeen": 643,
+      "jobsSeen": 660,
       "relevantRoles": 0
     },
     {
@@ -5487,18 +5487,18 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 22
+          "jobsSeen": 21
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 21
+          "jobsSeen": 20
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -5519,10 +5519,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1055
+          "jobsSeen": 1061
         }
       ],
-      "jobsSeen": 1055,
+      "jobsSeen": 1061,
       "relevantRoles": 0
     },
     {
@@ -5695,10 +5695,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 8
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -6368,19 +6368,6 @@
       "Region": "North America"
     },
     {
-      "Company": "BDO (Transfer Pricing)",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Orange County)",
-      "Location": "Costa Mesa, CA, United States",
-      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14716",
-      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
-      "PostedAt": "2026-11-10",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
       "Company": "Berkeley Research Group",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Internship",
@@ -6388,7 +6375,7 @@
       "Location": "Johannesburg, SA",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Johannesburg-SA/Intern---Competition-Economics_JR101244",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Africa"
@@ -6440,7 +6427,7 @@
       "Location": "2 Locations",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted Today",
+      "PostedAt": "Posted Yesterday",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6557,7 +6544,7 @@
       "Location": "Berlin, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6570,7 +6557,7 @@
       "Location": "Brussels, Belgium",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Brussels-Belgium/Intern---Competition-Practice---Brussels_JR261310",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6583,7 +6570,7 @@
       "Location": "Dusseldorf, Germany",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Dusseldorf-Germany/Intern---Competition-Practice---Dsseldorf_JR261312",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6596,7 +6583,7 @@
       "Location": "Madrid, Spain",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Madrid-Spain/Intern---Competition-Practice---Madrid_JR261344",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6609,7 +6596,7 @@
       "Location": "Milan, Italy",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Milan-Italy/Intern---Competition-Practice---Milan_JR261355",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6622,7 +6609,7 @@
       "Location": "Paris, France",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Competition-Practice---Paris_JR261357",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6687,7 +6674,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342",
       "Source": "Official ATS Workday:fticonsulting/CompassLexeconCareers",
-      "PostedAt": "Posted 7 Days Ago",
+      "PostedAt": "Posted 8 Days Ago",
       "Notes": "timing: Summer",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6752,7 +6739,7 @@
       "Location": "Milan (Torre Velasca)",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6778,7 +6765,7 @@
       "Location": "Singapore, Singapore",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Asia"
@@ -6791,7 +6778,7 @@
       "Location": "London, United Kingdom",
       "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723",
       "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing: 2027 Summer",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6821,6 +6808,19 @@
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Grant Thornton (Transfer Pricing / Economics)",
+      "Category": "Transfer Pricing & Valuation",
+      "Track": "Internship",
+      "Title": "Transfer Pricing Intern - Summer 2027",
+      "Location": "New York, NY, United States",
+      "URL": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709",
+      "Source": "Official ATS Oracle:ehzq/CX_1",
+      "PostedAt": "2026-11-12",
+      "Notes": "timing: Summer 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
     },
     {
       "Company": "ICF",
@@ -6895,7 +6895,7 @@
       "Location": "Milan, Italy",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 14 Days Ago",
+      "PostedAt": "Posted 15 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6908,7 +6908,7 @@
       "Location": "2 Locations",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6921,7 +6921,7 @@
       "Location": "3 Locations",
       "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888",
       "Source": "Official ATS Workday:iqvia/IQVIA",
-      "PostedAt": "Posted 27 Days Ago",
+      "PostedAt": "Posted 28 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -6947,7 +6947,7 @@
       "Location": "Toronto - Bremner",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 6 Days Ago",
+      "PostedAt": "Posted 7 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -6973,7 +6973,7 @@
       "Location": "London - St. Botolph",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing: 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -6986,7 +6986,7 @@
       "Location": "2 Locations",
       "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1",
       "Source": "Official ATS Workday:mmc/MMC",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7051,7 +7051,7 @@
       "Location": "Rome",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Europe"
@@ -7077,10 +7077,23 @@
       "Location": "Hanoi",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted Today",
+      "PostedAt": "Posted Yesterday",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Asia"
+    },
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Track": "Internship",
+      "Title": "Stage - International Tax & Transfer Pricing - Brescia [TAX]",
+      "Location": "Brescia",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD",
+      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "PostedAt": "Posted Today",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "Remote / Unspecified"
     },
     {
       "Company": "PwC (Economics / Transfer Pricing / Forensics)",
@@ -7103,7 +7116,7 @@
       "Location": "Bangkok",
       "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "PostedAt": "Posted 9 Days Ago",
+      "PostedAt": "Posted 10 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7116,7 +7129,7 @@
       "Location": "2 Locations",
       "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
       "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
-      "PostedAt": "Posted 13 Days Ago",
+      "PostedAt": "Posted 14 Days Ago",
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7495,7 +7508,7 @@
       "Location": "Washington D.C.",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Advisory_R104988",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 23 Days Ago",
+      "PostedAt": "Posted 24 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7560,7 +7573,7 @@
       "Location": "3 Locations",
       "URL": "https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Intellectual-Property_R104996",
       "Source": "Official ATS Workday:ankura/Ankura",
-      "PostedAt": "Posted 16 Days Ago",
+      "PostedAt": "Posted 17 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
@@ -7582,6 +7595,19 @@
       "Company": "Aurora Energy Research",
       "Category": "Energy & Environmental Economics",
       "Track": "Entry-level",
+      "Title": "2028 Graduate Analyst Opportunity (Tokyo)",
+      "Location": "Tokyo, Japan",
+      "URL": "https://careers.auroraer.com/en/postings/36016ed0-32b1-44ac-8d33-0f5ae74932c9",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "PostedAt": "",
+      "Notes": "timing: 2028",
+      "Status": "Confirmed official posting",
+      "Region": "Asia"
+    },
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Track": "Entry-level",
       "Title": "Research Associate",
       "Location": "Tokyo, Japan",
       "URL": "https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31",
@@ -7595,7 +7621,7 @@
       "Company": "Aurora Energy Research",
       "Category": "Energy & Environmental Economics",
       "Track": "Entry-level",
-      "Title": "Research Associate, UK & Ireland",
+      "Title": "Research Associate, Ireland",
       "Location": "Oxford, UK",
       "URL": "https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34",
       "Source": "Official ATS Pinpoint:careers.auroraer.com",
@@ -7625,7 +7651,7 @@
       "Location": "Washington, DC",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Analyst--Data-Analytics_JR101209",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 19 Days Ago",
+      "PostedAt": "Posted 20 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7638,7 +7664,7 @@
       "Location": "Remote - USA",
       "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Analyst--Product-Success_JR101217-1",
       "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
-      "PostedAt": "Posted 8 Days Ago",
+      "PostedAt": "Posted 9 Days Ago",
       "Notes": "timing not stated in title",
       "Status": "Confirmed official posting",
       "Region": "North America"
@@ -7787,6 +7813,19 @@
       "Region": "Remote / Unspecified"
     },
     {
+      "Company": "Lightcast",
+      "Category": "Policy & Research Economics",
+      "Track": "Entry-level",
+      "Title": "Economic Research Analyst / Junior Data Scientist - 1089",
+      "Location": "Remote (Work From Home) US; Moscow, ID",
+      "URL": "https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5",
+      "Source": "Official ATS Lever:economicmodeling",
+      "PostedAt": "2026-11-12T16:49:31.882Z",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
       "Company": "NERA Economic Consulting",
       "Category": "Litigation, Antitrust & Damages",
       "Track": "Entry-level",
@@ -7798,6 +7837,19 @@
       "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
+    },
+    {
+      "Company": "Oxford Economics",
+      "Category": "Macro & Economic Research",
+      "Track": "Entry-level",
+      "Title": "Research Associate - Thought Leadership - New York",
+      "Location": "New York, US",
+      "URL": "https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943",
+      "Source": "Official ATS Pinpoint:careers.oxfordeconomics.com",
+      "PostedAt": "",
+      "Notes": "timing not stated in title",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
     },
     {
       "Company": "PwC (Economics / Transfer Pricing / Forensics)",
@@ -7936,7 +7988,6 @@
     "Georgetown Economic Services",
     "Global Economics Group",
     "Gnarus Advisors",
-    "Grant Thornton (Transfer Pricing / Economics)",
     "Grant Thornton UK Economic Consulting",
     "Greylock McKinnon Associates",
     "Guidehouse",
@@ -8071,7 +8122,6 @@
     "Fathom Consulting",
     "Fideres",
     "Frontier Economics",
-    "Grant Thornton (Transfer Pricing / Economics)",
     "Guidehouse",
     "HKA",
     "HR&A Advisors",
@@ -8082,6 +8132,7 @@
     "Nous Group",
     "S&P Global (Economics)",
     "SEO Amsterdam Economics",
+    "Stanford Consulting Group",
     "Synapse Energy Economics",
     "The Cadmus Group",
     "Urban Institute",
@@ -8242,7 +8293,6 @@
     "SQW",
     "Sapere Research Group",
     "ScottMadden",
-    "Stanford Consulting Group",
     "Steer",
     "Summit Consulting",
     "Swiss Economics",
