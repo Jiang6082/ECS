@@ -1,17 +1,17 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-12T20:46:16.794Z
-Current scan: 2026-11-13T12:22:39.657Z
+Previous scan: 2026-11-13T12:22:39.657Z
+Current scan: 2026-11-13T20:27:06.319Z
 Previous rows: 106
-Current rows: 106
-New stable job URLs: 2
+Current rows: 104
+New stable job URLs: 0
 No longer present: 0
 
 ## New Roles By Region
 
-### North America (1)
+### North America (0)
 
-- **Grant Thornton (Transfer Pricing / Economics)** - [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) - New York, NY, United States - Confirmed official posting (Official ATS Oracle:ehzq/CX_1)
+_None._
 
 ### Europe (0)
 
@@ -41,9 +41,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) - Brescia - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers)
+_None._
 
 ## No Longer Present
 

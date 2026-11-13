@@ -1,30 +1,9 @@
 {
-  "generatedAt": "2026-11-13T12:24:51.047Z",
-  "previousScanAt": "2026-11-12T20:46:16.794Z",
-  "currentScanAt": "2026-11-13T12:22:39.657Z",
+  "generatedAt": "2026-11-13T20:28:41.055Z",
+  "previousScanAt": "2026-11-13T12:22:39.657Z",
+  "currentScanAt": "2026-11-13T20:27:06.319Z",
   "previousRows": 106,
-  "currentRows": 106,
-  "added": [
-    {
-      "Company": "Grant Thornton (Transfer Pricing / Economics)",
-      "Category": "Transfer Pricing & Valuation",
-      "Title": "Transfer Pricing Intern - Summer 2027",
-      "Location": "New York, NY, United States",
-      "Region": "North America",
-      "URL": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709",
-      "Source": "Official ATS Oracle:ehzq/CX_1",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Stage - International Tax & Transfer Pricing - Brescia [TAX]",
-      "Location": "Brescia",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "currentRows": 104,
+  "added": [],
   "removed": []
 }

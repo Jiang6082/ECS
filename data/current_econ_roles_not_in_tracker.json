@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T12:24:51.047Z",
-  "currentScanAt": "2026-11-13T12:22:39.657Z",
+  "generatedAt": "2026-11-13T20:28:41.055Z",
+  "currentScanAt": "2026-11-13T20:27:06.319Z",
   "historicalTrackerUrls": 0,
   "roles": [
     {
@@ -101,19 +101,6 @@
       "Title": "Summer Analyst Intern - Accounting (2027 Start Date)",
       "Location": "Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US",
       "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3021/job",
-      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-      "PostedAt": "",
-      "Notes": "timing: 2027",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
-    },
-    {
-      "Company": "Analysis Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "Summer Analyst Intern - Generalist (2027 Start Date)",
-      "Location": "Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | San Francisco, CA, US",
-      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3005/job",
       "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
       "PostedAt": "",
       "Notes": "timing: 2027",
@@ -319,6 +306,19 @@
       "Company": "BDO (Transfer Pricing)",
       "Category": "Transfer Pricing & Valuation",
       "Track": "Internship",
+      "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)",
+      "Location": "Atlanta, GA, United States",
+      "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11775",
+      "Source": "Official ATS Oracle:ebqb/BDOEntryLevelCareers",
+      "PostedAt": "2026-11-13",
+      "Notes": "timing: Summer 2027",
+      "Status": "Confirmed official posting",
+      "Region": "North America"
+    },
+    {
+      "Company": "BDO (Transfer Pricing)",
+      "Category": "Transfer Pricing & Valuation",
+      "Track": "Internship",
       "Title": "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
       "Location": "Dallas, TX, United States",
       "URL": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832",
@@ -468,19 +468,6 @@
       "Source": "Official ATS Greenhouse:charlesriverassociates",
       "PostedAt": "2023-07-13T09:30:41-04:00",
       "Notes": "timing not stated in title",
-      "Status": "Confirmed official posting",
-      "Region": "Europe"
-    },
-    {
-      "Company": "Charles River Associates",
-      "Category": "Litigation, Antitrust & Damages",
-      "Track": "Internship",
-      "Title": "Intern/Policy Consulting (Life Sciences practice) - Summer 2027",
-      "Location": "Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom",
-      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052",
-      "Source": "Official ATS Greenhouse:charlesriverassociates",
-      "PostedAt": "2026-10-02T10:55:19-04:00",
-      "Notes": "timing: Summer 2027",
       "Status": "Confirmed official posting",
       "Region": "Europe"
     },
@@ -1219,19 +1206,6 @@
       "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: San Diego",
       "Location": "",
       "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/San-Diego-CA/Summer-2027-Intern---Disputes--Claims---Investigations--San-Diego_r2184-2",
-      "Source": "Official ATS Workday:stout/Stout-Careers",
-      "PostedAt": "Posted 30+ Days Ago",
-      "Notes": "timing: Summer 2027",
-      "Status": "Confirmed official posting",
-      "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Stout",
-      "Category": "Transfer Pricing & Valuation",
-      "Track": "Internship",
-      "Title": "Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC",
-      "Location": "",
-      "URL": "https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2",
       "Source": "Official ATS Workday:stout/Stout-Careers",
       "PostedAt": "Posted 30+ Days Ago",
       "Notes": "timing: Summer 2027",

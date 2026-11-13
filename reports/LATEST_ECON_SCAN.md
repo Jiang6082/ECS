@@ -1,23 +1,23 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-13T12:22:39.657Z
+Last updated: 2026-11-13T20:27:06.319Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 224
-- Current internship roles: 106
-- Entry-level analyst roles: 36 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 2
+- Current internship roles: 104
+- Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
 - Firms with matching roles: 26
-- Confirmed no open postings: 5
-- Openings but no matching role: 31
+- Confirmed no open postings: 6
+- Openings but no matching role: 30
 - Could not fully verify: 170
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 72
+- Litigation, Antitrust & Damages: 70
 - Big 4 & Advisory Economics: 9
 - Health Economics & HEOR: 8
 - Transfer Pricing & Valuation: 6
@@ -28,9 +28,9 @@ Last updated: 2026-11-13T12:22:39.657Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **Grant Thornton (Transfer Pricing / Economics)** - [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) - New York, NY, United States
+_None._
 
 ### Europe (0)
 
@@ -60,9 +60,9 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) - Brescia
+_None._
 
 ## No Longer Present
 

@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-13T12:22:39.657Z",
+  "searchedAt": "2026-11-13T20:27:06.319Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -309,10 +309,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 10
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -1063,10 +1063,10 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 96
+          "jobsSeen": 97
         }
       ],
-      "jobsSeen": 96,
+      "jobsSeen": 97,
       "relevantRoles": 2
     },
     {
@@ -1133,8 +1133,8 @@
       "company": "ARPC",
       "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
       "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1145,8 +1145,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1157,8 +1157,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1349,10 +1349,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 89
+          "jobsSeen": 87
         }
       ],
-      "jobsSeen": 89,
+      "jobsSeen": 87,
       "relevantRoles": 7
     },
     {
@@ -1549,8 +1549,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1706,10 +1706,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 96
+          "jobsSeen": 95
         }
       ],
-      "jobsSeen": 96,
+      "jobsSeen": 95,
       "relevantRoles": 0
     },
     {
@@ -1779,10 +1779,10 @@
       "boards": [
         {
           "source": "Greenhouse:sponsorsforeducationalopportunity",
-          "jobsSeen": 25
+          "jobsSeen": 27
         }
       ],
-      "jobsSeen": 25,
+      "jobsSeen": 27,
       "relevantRoles": 0
     },
     {
@@ -1921,8 +1921,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2286,10 +2286,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 16
+          "jobsSeen": 19
         }
       ],
-      "jobsSeen": 16,
+      "jobsSeen": 19,
       "relevantRoles": 0
     },
     {
@@ -2566,10 +2566,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 6
+          "jobsSeen": 7
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 7,
       "relevantRoles": 0
     },
     {
@@ -2825,8 +2825,8 @@
       "company": "Opinion Dynamics",
       "pageUrl": "https://opiniondynamics.com/job-openings/",
       "resolvedUrl": "https://opiniondynamics.com/job-openings/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2853,8 +2853,8 @@
       "company": "Opinion Dynamics",
       "pageUrl": "https://opiniondynamics.com/about-us/",
       "resolvedUrl": "https://opiniondynamics.com/about-us/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2959,11 +2959,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 678
+          "jobsSeen": 694
         }
       ],
-      "jobsSeen": 678,
-      "relevantRoles": 3
+      "jobsSeen": 694,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2983,10 +2983,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 659
+          "jobsSeen": 662
         }
       ],
-      "jobsSeen": 659,
+      "jobsSeen": 662,
       "relevantRoles": 0
     },
     {
@@ -3324,38 +3324,26 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 20
+          "jobsSeen": 21
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
       "company": "Xcenda (Cencora)",
       "pageUrl": "https://www.xcenda.com/careers-student-programs",
-      "resolvedUrl": "https://www.cencora.com/initiatives/pharma/mahc-student-programs",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "myhrabc.wd5.myworkdayjobs.com",
-            "site": "Global"
-          }
-        ]
-      },
+      "resolvedUrl": "https://www.xcenda.com/careers-student-programs",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1056
-        }
-      ],
-      "jobsSeen": 1056,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3459,10 +3447,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
