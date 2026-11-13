@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-12T20:46:16.794Z",
+  "searchedAt": "2026-11-13T12:22:39.657Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -260,7 +260,6 @@
     "Polynomics",
     "Perspective Economics",
     "Pantheon Macroeconomics",
-    "Plum Consulting",
     "Lexonomics",
     "CE Delft",
     "Decisio",
@@ -1064,10 +1063,10 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 94
+          "jobsSeen": 96
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 96,
       "relevantRoles": 2
     },
     {
@@ -1134,8 +1133,8 @@
       "company": "ARPC",
       "pageUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
       "resolvedUrl": "https://www.arpc.afrc.af.mil/Services/Assignments/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1146,8 +1145,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1158,8 +1157,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1550,8 +1549,20 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
+      "pageOk": true,
+      "pageStatus": 202,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Plum Consulting",
+      "pageUrl": "https://www.plum.mobi/",
+      "resolvedUrl": "https://www.plum.mobi/",
       "pageOk": false,
-      "pageStatus": 502,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1910,8 +1921,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2814,8 +2825,8 @@
       "company": "Opinion Dynamics",
       "pageUrl": "https://opiniondynamics.com/job-openings/",
       "resolvedUrl": "https://opiniondynamics.com/job-openings/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2842,8 +2853,8 @@
       "company": "Opinion Dynamics",
       "pageUrl": "https://opiniondynamics.com/about-us/",
       "resolvedUrl": "https://opiniondynamics.com/about-us/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2948,10 +2959,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 687
+          "jobsSeen": 678
         }
       ],
-      "jobsSeen": 687,
+      "jobsSeen": 678,
       "relevantRoles": 3
     },
     {
@@ -2972,10 +2983,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 660
+          "jobsSeen": 659
         }
       ],
-      "jobsSeen": 660,
+      "jobsSeen": 659,
       "relevantRoles": 0
     },
     {
@@ -3309,7 +3320,7 @@
       "boards": [
         {
           "source": "iCIMS:uscareers-lumanity",
-          "jobsSeen": 21
+          "jobsSeen": 20
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
@@ -3320,7 +3331,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -3341,10 +3352,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1061
+          "jobsSeen": 1056
         }
       ],
-      "jobsSeen": 1061,
+      "jobsSeen": 1056,
       "relevantRoles": 0
     },
     {

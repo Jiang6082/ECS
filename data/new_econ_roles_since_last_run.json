@@ -1,51 +1,30 @@
 {
-  "generatedAt": "2026-11-12T20:48:19.983Z",
-  "previousScanAt": "2026-11-11T20:09:01.907Z",
-  "currentScanAt": "2026-11-12T20:46:16.794Z",
-  "previousRows": 105,
+  "generatedAt": "2026-11-13T12:24:51.047Z",
+  "previousScanAt": "2026-11-12T20:46:16.794Z",
+  "currentScanAt": "2026-11-13T12:22:39.657Z",
+  "previousRows": 106,
   "currentRows": 106,
   "added": [
     {
-      "Company": "Berkeley Research Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Summer Economist- 2027",
-      "Location": "2 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164",
-      "Source": "Official ATS Workday:thinkbrg/BRG_External_Career_Site",
+      "Company": "Grant Thornton (Transfer Pricing / Economics)",
+      "Category": "Transfer Pricing & Valuation",
+      "Title": "Transfer Pricing Intern - Summer 2027",
+      "Location": "New York, NY, United States",
+      "Region": "North America",
+      "URL": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709",
+      "Source": "Official ATS Oracle:ehzq/CX_1",
       "Status": "Confirmed official posting"
     },
     {
       "Company": "PwC (Economics / Transfer Pricing / Forensics)",
       "Category": "Big 4 & Advisory Economics",
-      "Title": "Intern - Transfer Pricing",
-      "Location": "Hanoi",
-      "Region": "Asia",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD",
+      "Title": "Stage - International Tax & Transfer Pricing - Brescia [TAX]",
+      "Location": "Brescia",
+      "Region": "Remote / Unspecified",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD",
       "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
-    {
-      "Company": "Econ One",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Summer Analyst (Healthcare Economics)",
-      "Location": "Los Angeles, California, United States",
-      "Region": "North America",
-      "URL": "https://apply.workable.com/econ-one-research/j/7F427BA76D/",
-      "Source": "Official ATS Workable:econ-one-research",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)",
-      "Location": "Chicago, IL, us",
-      "Region": "North America",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

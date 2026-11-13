@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-12T20:46:16.794Z
+Last updated: 2026-11-13T12:22:39.657Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 223
+- Career pages checked: 224
 - Current internship roles: 106
 - Entry-level analyst roles: 36 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 2
-- No longer present since previous scan: 2
+- No longer present since previous scan: 0
 - Firms with matching roles: 26
 - Confirmed no open postings: 5
 - Openings but no matching role: 31
@@ -28,17 +28,17 @@ Last updated: 2026-11-12T20:46:16.794Z
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Grant Thornton (Transfer Pricing / Economics)** - [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) - New York, NY, United States
 
 ### Europe (0)
 
 _None._
 
-### Asia (1)
+### Asia (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) - Hanoi
+_None._
 
 ### Oceania (0)
 
@@ -62,12 +62,11 @@ _None._
 
 ### Remote / Unspecified (1)
 
-- **Berkeley Research Group** - [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) - 2 Locations
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) - Brescia
 
 ## No Longer Present
 
-- **Econ One** - [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) - Los Angeles, California, United States
-- **J.S. Held** - [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) - Chicago, IL, us
+_None._
 
 ## Full Reports
 

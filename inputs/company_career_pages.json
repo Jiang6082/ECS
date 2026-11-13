@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:46:16.795Z",
+  "generatedAt": "2026-11-13T12:22:39.658Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -541,8 +541,10 @@
       "updatedAt": "2026-09-28T20:04:07.317Z"
     },
     "Plum Consulting": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.plum.mobi/"
+      ],
+      "updatedAt": "2026-11-13T12:22:39.658Z"
     },
     "Aldwych Partners": {
       "careerPages": [
