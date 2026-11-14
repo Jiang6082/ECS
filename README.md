@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-13 &nbsp;•&nbsp; **104 open internships** &nbsp;•&nbsp; **0 new today** &nbsp;•&nbsp; **34 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **74 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-14 &nbsp;•&nbsp; **102 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **34 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **76 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,17 +12,21 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-13_
+_Scan date: 2026-11-14_
 
-_No new roles detected in the latest scan._
+**1** new stable job posting since the previous scan:
+
+**North America**
+
+- **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11775) — Atlanta, GA, United States
 
 ---
 
 ## 📋 All Roles Available
 
-**104** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**102** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (43)](#north-america) · [Europe (39)](#europe) · [Asia (5)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (13)](#remote--unspecified)
+**Regions:** [North America (43)](#north-america) · [Europe (38)](#europe) · [Asia (5)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (12)](#remote--unspecified)
 
 ### North America
 
@@ -78,7 +82,7 @@ _No new roles detected in the latest scan._
 ### Europe
 
 <details>
-<summary><strong>39 roles</strong> — click to expand</summary>
+<summary><strong>38 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — Brussels, BE
 - **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — Paris, FR
@@ -109,7 +113,6 @@ _No new roles detected in the latest scan._
 - **FTI Consulting (Economic Consulting)** — [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971) — Milan (Torre Velasca)
 - **FTI Consulting (Economic Consulting)** — [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) — Paris, France
 - **FTI Consulting (Economic Consulting)** — [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) — London, United Kingdom
-- **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain
 - **IQVIA (HEOR)** — [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) — Milan, Italy
 - **NERA Economic Consulting** — [NERA Summer Internship 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) — London - St. Botolph
 - **Oxford Economics** — [2027 UK Placement Programme (London, Belfast & Oxford)](https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9) — London, UK
@@ -158,7 +161,7 @@ _No new roles detected in the latest scan._
 ### Remote / Unspecified
 
 <details>
-<summary><strong>13 roles</strong> — click to expand</summary>
+<summary><strong>12 roles</strong> — click to expand</summary>
 
 - **Berkeley Research Group** — [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) — 2 Locations
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations
@@ -168,7 +171,6 @@ _No new roles detected in the latest scan._
 - **NERA Economic Consulting** — [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) — 6 Locations
 - **NERA Economic Consulting** — [NERA: Internship (Berlin, Frankfurt, and Paris)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) — 2 Locations
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) — Brescia
-- **PwC (Economics / Transfer Pricing / Forensics)** — [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) — Bangkok
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) — 2 Locations
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) — Genève
 - **Stout** — [Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2)
@@ -296,7 +298,7 @@ Every `v2`/`all` run rebuilds [reports/LATEST_ECON_SCAN.md](reports/LATEST_ECON_
 | [reports/new_econ_roles_since_last_run.md](reports/new_econ_roles_since_last_run.md) | New stable job URLs, grouped by region |
 | [reports/current_econ_roles_not_in_tracker.md](reports/current_econ_roles_not_in_tracker.md) | Current roles absent from your application tracker |
 | [reports/econ_roster_scan_audit.md](reports/econ_roster_scan_audit.md) | Every firm split into confirmed vs. unverifiable states |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed, grouped by date detected (74 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that have closed, grouped by date detected (76 so far) |
 | [inputs/econ_firm_roster.json](inputs/econ_firm_roster.json) | The firm universe, practice-area category, and per-firm scope filter |
 | [inputs/ats_seeds.json](inputs/ats_seeds.json) | Verified ATS boards (Greenhouse, Lever, Workday, iCIMS, Workable, Personio, Teamtailor, Pinpoint, Paylocity, Oracle, …) |
 | [inputs/company_career_pages.json](inputs/company_career_pages.json) | Career-page database (auto-extended by discovery) |

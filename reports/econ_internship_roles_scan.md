@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-13T20:25:20.449Z
+Scanned: 2026-11-14T18:41:36.859Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 101
+Internship roles: 99
 Entry-level analyst roles: 31
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
@@ -64,7 +64,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **FTI Consulting (Economic Consulting)** — [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) — Paris, France (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) — Singapore, Singapore (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) — London, United Kingdom (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027 Summer)
-- **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
 - **Grant Thornton (Transfer Pricing / Economics)** — [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) — New York, NY, United States (Official ATS Oracle:ehzq/CX_1; timing: Summer 2027)
 - **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations (Official ATS Workday:icf/ICFExternal_Career_Site; timing: 2027 Summer)
@@ -88,7 +87,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) — Hanoi (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) — Brescia (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers; timing: Off-Cycle)
-- **PwC (Economics / Transfer Pricing / Forensics)** — [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) — Bangkok (Official ATS Workday:pwc/Global_Campus_Careers; timing not stated in title)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) — 2 Locations (Official ATS Workday:pwc/US_Entry_Level_Careers; timing: Summer 2027)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) — Genève (Official ATS Workday:pwc/Global_Campus_Careers; timing: 2027)
 - **RCLCO** — [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) — Austin / Los Angeles / Washington, D.C. (Official ATS Greenhouse:rclco; timing: 2027 Summer)

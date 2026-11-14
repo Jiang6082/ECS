@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 74
-Last updated: 2026-11-13T20:27:06.319Z
+Total closures recorded: 76
+Last updated: 2026-11-14T18:43:13.616Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-14 (2)
+
+- **Analysis Group** - [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles
+- **Charles River Associates** - [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) - Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom
 
 ### 2026-11-12 (2)
 

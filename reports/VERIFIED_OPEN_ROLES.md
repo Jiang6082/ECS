@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-11-13 20:27 UTC · **104 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-11-14 18:43 UTC · **102 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (104)
+## ✅ Confirmed Live On Official Job Boards (102)
 
 ### Analysis Group (10)
 
@@ -115,7 +115,7 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) | San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta | North America |
 
-### FTI Consulting (Economic Consulting) (6)
+### FTI Consulting (Economic Consulting) (5)
 
 | Role | Location | Region |
 |---|---|---|
@@ -123,7 +123,6 @@ _Resume review began Oct 15 and is rolling._
 | [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) | Paris, France | Europe |
 | [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) | Singapore, Singapore | Asia |
 | [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) | London, United Kingdom | Europe |
-| [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) | Madrid, Spain | Europe |
 | [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) | Multiple locations | Remote / Unspecified |
 
 ### Grant Thornton (Transfer Pricing / Economics) (1)
@@ -183,7 +182,7 @@ _Resume review began Oct 15 and is rolling._
 | [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) | Remote, Canada | North America |
 | [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) | New York, NY, USA | North America |
 
-### PwC (Economics / Transfer Pricing / Forensics) (9)
+### PwC (Economics / Transfer Pricing / Forensics) (8)
 
 | Role | Location | Region |
 |---|---|---|
@@ -193,7 +192,6 @@ _Resume review began Oct 15 and is rolling._
 | [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) | Hanoi | Asia |
 | [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) | Brescia | Remote / Unspecified |
 | [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) | Singapore | Asia |
-| [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) | Bangkok | Remote / Unspecified |
 | [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) | Multiple locations | Remote / Unspecified |
 | [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) | Genève | Remote / Unspecified |
 
@@ -270,10 +268,12 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 34 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (14)
+## ⛔ Closed In The Last 14 Days (15)
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| Analysis Group | [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) | 2026-11-14 |
+| Charles River Associates | [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) | 2026-11-14 |
 | Econ One | [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) | 2026-11-12 |
 | J.S. Held | [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) | 2026-11-12 |
 | Analysis Group | [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) \| Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) | 2026-11-10 |
@@ -287,6 +287,5 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | The Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) | 2026-11-03 |
 | The Brattle Group | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | 2026-11-03 |
 | Aurora Energy Research | [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/a55bdd2f-4511-4c41-97dd-aef1b096953b) | 2026-11-01 |
-| PwC (Economics / Transfer Pricing / Forensics) | [Capital Projects & Economics Intern - ambito Infrastrutture, Trasporti e Logistica (Palermo)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Palermo/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica--Palermo-_614318WD) | 2026-10-31 |
 
-_Generated by ECS on 2026-11-13. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-11-14. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

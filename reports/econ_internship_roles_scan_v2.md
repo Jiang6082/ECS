@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-13T20:27:06.319Z
+Scanned: 2026-11-14T18:43:13.616Z
 Firms searched: 232
 Career pages checked: 224
-Internship roles/leads retained: 104
+Internship roles/leads retained: 102
 Entry-level analyst roles (separate report): 34
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -61,7 +61,7 @@ Status guide:
 - **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) - San Francisco, CA - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 - **Trinity Life Sciences** - [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) - Waltham, MA - Headquarters - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 
-### Europe (39)
+### Europe (38)
 
 - **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -92,7 +92,6 @@ Status guide:
 - **FTI Consulting (Economic Consulting)** - [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971) - Milan (Torre Velasca) - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) - Paris, France - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) - London, United Kingdom - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027 Summer
-- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing not stated in title
 - **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy - Confirmed official posting (Official ATS Workday:iqvia/IQVIA): timing not stated in title
 - **NERA Economic Consulting** - [NERA Summer Internship 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) - London - St. Botolph - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: 2027
 - **Oxford Economics** - [2027 UK Placement Programme (London, Belfast & Oxford)](https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9) - London, UK - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing: 2027
@@ -133,7 +132,7 @@ _None._
 
 _None._
 
-### Remote / Unspecified (13)
+### Remote / Unspecified (12)
 
 - **Berkeley Research Group** - [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) - 2 Locations - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) - 2 Locations - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing not stated in title
@@ -143,7 +142,6 @@ _None._
 - **NERA Economic Consulting** - [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) - 6 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing: Summer 2028
 - **NERA Economic Consulting** - [NERA: Internship (Berlin, Frankfurt, and Paris)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) - 2 Locations - Confirmed official posting (Official ATS Workday:mmc/MMC): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) - Brescia - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) - Bangkok - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations - Confirmed official posting (Official ATS Workday:pwc/US_Entry_Level_Careers): timing: Summer 2027
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing Intern – January 2027](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/Transfer-Pricing-Intern---January-2027_759675WD) - Genève - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: 2027
 - **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2) - Confirmed official posting (Official ATS Workday:stout/Stout-Careers): timing: Summer 2027
