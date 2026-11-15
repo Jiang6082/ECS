@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-14T18:43:13.616Z",
+  "searchedAt": "2026-11-15T12:37:45.513Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1676,9 +1676,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -3348,10 +3352,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1058
+          "jobsSeen": 1055
         }
       ],
-      "jobsSeen": 1058,
+      "jobsSeen": 1055,
       "relevantRoles": 0
     },
     {

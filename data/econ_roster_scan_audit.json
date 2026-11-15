@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T18:45:04.684Z",
-  "scanStartedAt": "2026-11-14T18:43:13.616Z",
+  "generatedAt": "2026-11-15T12:39:32.149Z",
+  "scanStartedAt": "2026-11-15T12:37:45.513Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -1502,7 +1502,7 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 95,
       "relevantRoles": 0
@@ -3248,7 +3248,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1058,
+      "jobsSeen": 1055,
       "relevantRoles": 0
     },
     {

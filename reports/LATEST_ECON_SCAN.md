@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-14T18:43:13.616Z
+Last updated: 2026-11-15T12:37:45.513Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 224
-- Current internship roles: 102
+- Current internship roles: 101
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 3
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 2
 - Firms with matching roles: 26
 - Confirmed no open postings: 6
 - Openings but no matching role: 30
@@ -18,8 +18,8 @@ Last updated: 2026-11-14T18:43:13.616Z
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 69
-- Health Economics & HEOR: 8
 - Big 4 & Advisory Economics: 8
+- Health Economics & HEOR: 7
 - Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
@@ -28,9 +28,9 @@ Last updated: 2026-11-14T18:43:13.616Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11775) - Atlanta, GA, United States
+_None._
 
 ### Europe (0)
 
@@ -66,9 +66,8 @@ _None._
 
 ## No Longer Present
 
-- **Analysis Group** - [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job) - US-MA-Boston | US-IL-Chicago | US-CO-Denver | US-CA-Los Angeles
-- **Charles River Associates** - [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) - Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom
-- **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2) - Location not listed
+- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) - Bangkok
 
 ## Full Reports
 

@@ -1,17 +1,17 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-13T20:27:06.319Z
-Current scan: 2026-11-14T18:43:13.616Z
-Previous rows: 104
-Current rows: 102
-New stable job URLs: 1
-No longer present: 3
+Previous scan: 2026-11-14T18:43:13.616Z
+Current scan: 2026-11-15T12:37:45.513Z
+Previous rows: 102
+Current rows: 101
+New stable job URLs: 0
+No longer present: 2
 
 ## New Roles By Region
 
-### North America (1)
+### North America (0)
 
-- **BDO (Transfer Pricing)** - [Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11775) - Atlanta, GA, United States - Confirmed official posting (Official ATS Oracle:ebqb/BDOEntryLevelCareers)
+_None._
 
 ### Europe (0)
 
@@ -47,6 +47,5 @@ _None._
 
 ## No Longer Present
 
-- **Analysis Group** - [Summer Analyst Intern - Generalist (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3005/job)
-- **Charles River Associates** - [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052)
-- **Stout** - [Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Washington-DC/Summer-2027-Intern---Disputes--Claims---Investigations--Washington--DC_r2185-2)
+- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682)
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1)
