@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T12:39:32.149Z",
-  "scanStartedAt": "2026-11-15T12:37:45.513Z",
+  "generatedAt": "2026-11-15T19:22:32.971Z",
+  "scanStartedAt": "2026-11-15T19:20:34.824Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 26,
-    "confirmed-no-open-postings": 6,
-    "confirmed-openings-no-matching-role": 30,
+    "confirmed-no-open-postings": 7,
+    "confirmed-openings-no-matching-role": 29,
     "could-not-fully-verify": 170
   },
   "companies": [
@@ -1479,7 +1479,7 @@
         "Analysys Mason"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://www.analysysmason.com/careers/",
         "https://www.analysysmason.com/careers/your-career-journey/",
@@ -1487,7 +1487,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 37,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {

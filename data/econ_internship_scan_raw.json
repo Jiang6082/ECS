@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-15T12:36:22.230Z",
+  "scannedAt": "2026-11-15T19:19:05.444Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -472,16 +472,16 @@
           "source": "Workday:mmc/MMC",
           "origin": "seeded",
           "ok": true,
-          "count": 47
+          "count": 46
         }
       ],
-      "jobsSeen": 47,
+      "jobsSeen": 46,
       "rejected": {
         "not an internship or entry-level role": 10,
         "PhD/MBA/JD-only": 1,
         "outside firm scope (\\bNERA\\b)": 25,
-        "non-economics practice": 2,
-        "non-economics function": 4
+        "non-economics function": 4,
+        "non-economics practice": 1
       },
       "matches": [
         {
@@ -1198,13 +1198,13 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 842
+          "count": 841
         }
       ],
-      "jobsSeen": 842,
+      "jobsSeen": 841,
       "rejected": {
         "not an internship or entry-level role": 37,
-        "outside firm scope (econ)": 731,
+        "outside firm scope (econ)": 730,
         "non-economics function": 44,
         "non-economics practice": 30
       },
@@ -3802,12 +3802,12 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1925
+          "count": 1923
         }
       ],
-      "jobsSeen": 1925,
+      "jobsSeen": 1923,
       "rejected": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1721,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1719,
         "non-economics practice": 12,
         "non-economics function": 147,
         "not an internship or entry-level role": 42
@@ -4114,12 +4114,12 @@
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 340
+          "count": 335
         }
       ],
-      "jobsSeen": 340,
+      "jobsSeen": 335,
       "rejected": {
-        "outside firm scope (econom)": 262,
+        "outside firm scope (econom)": 257,
         "non-economics function": 61,
         "non-economics practice": 16,
         "recruiting event / talent pool": 1

@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-15T12:37:45.513Z
+Scanned: 2026-11-15T19:20:34.824Z
 Firms searched: 232
 Career pages checked: 224
 Internship roles/leads retained: 101
@@ -148,6 +148,7 @@ _None._
 
 ## Confirmed: Enumerated Source Reports No Open Postings
 
+- Analysys Mason
 - Andersen (Transfer Pricing)
 - Chmura Economics & Analytics
 - Coherent Economics
@@ -160,7 +161,6 @@ _None._
 - Abt Global
 - Acumen
 - AlixPartners
-- Analysys Mason
 - Avalere Health
 - Axiom Economics
 - Baringa

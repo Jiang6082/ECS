@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-15T12:37:45.513Z",
+  "searchedAt": "2026-11-15T19:20:34.824Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -235,7 +235,7 @@
     "S&P Global (Economics)"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-15T12:37:45.514Z",
+    "generatedAt": "2026-11-15T19:20:34.825Z",
     "companies": {
       "Analysis Group": {
         "careerPages": [
@@ -3830,19 +3830,11 @@
       "unsupportedAts": [],
       "boards": [
         {
-          "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 37
-        },
-        {
           "source": "SmartRecruiters:cdn-cgi",
-          "jobsSeen": 0
-        },
-        {
-          "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 37,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -8027,6 +8019,7 @@
     "Xcenda (Cencora)"
   ],
   "confirmedNoOpenPostings": [
+    "Analysys Mason",
     "Andersen (Transfer Pricing)",
     "Chmura Economics & Analytics",
     "Coherent Economics",
@@ -8038,7 +8031,6 @@
     "Abt Global",
     "Acumen",
     "AlixPartners",
-    "Analysys Mason",
     "Avalere Health",
     "Axiom Economics",
     "Baringa",

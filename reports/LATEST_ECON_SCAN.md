@@ -1,6 +1,6 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-15T12:37:45.513Z
+Last updated: 2026-11-15T19:20:34.824Z
 
 ## Summary
 
@@ -9,10 +9,10 @@ Last updated: 2026-11-15T12:37:45.513Z
 - Current internship roles: 101
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 2
+- No longer present since previous scan: 1
 - Firms with matching roles: 26
-- Confirmed no open postings: 6
-- Openings but no matching role: 30
+- Confirmed no open postings: 7
+- Openings but no matching role: 29
 - Could not fully verify: 170
 
 ## Internships By Practice Area
@@ -66,8 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1) - Bangkok
+- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) - Remote, Canada
 
 ## Full Reports
 

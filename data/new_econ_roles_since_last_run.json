@@ -1,29 +1,19 @@
 {
-  "generatedAt": "2026-11-15T12:39:32.195Z",
-  "previousScanAt": "2026-11-14T18:43:13.616Z",
-  "currentScanAt": "2026-11-15T12:37:45.513Z",
-  "previousRows": 102,
+  "generatedAt": "2026-11-15T19:22:33.019Z",
+  "previousScanAt": "2026-11-15T12:37:45.513Z",
+  "currentScanAt": "2026-11-15T19:20:34.824Z",
+  "previousRows": 101,
   "currentRows": 101,
   "added": [],
   "removed": [
     {
-      "Company": "FTI Consulting (Economic Consulting)",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Intern, Economic & Financial Consulting",
-      "Location": "Madrid, Spain",
-      "Region": "Europe",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682",
-      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Tax Transfer Pricing Intern",
-      "Location": "Bangkok",
-      "Region": "Remote / Unspecified",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "Company": "PRECISIONheor (Precision AQ)",
+      "Category": "Health Economics & HEOR",
+      "Title": "Intern, Health Economics and Outcomes Research",
+      "Location": "Remote, Canada",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/precisionaq/jobs/6231563004",
+      "Source": "Official ATS Greenhouse:precisionaq",
       "Status": "Confirmed official posting"
     }
   ]

@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-14T18:43:13.616Z
-Current scan: 2026-11-15T12:37:45.513Z
-Previous rows: 102
+Previous scan: 2026-11-15T12:37:45.513Z
+Current scan: 2026-11-15T19:20:34.824Z
+Previous rows: 101
 Current rows: 101
 New stable job URLs: 0
-No longer present: 2
+No longer present: 1
 
 ## New Roles By Region
 
@@ -47,5 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682)
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Tax Transfer Pricing Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Tax-Transfer-Pricing-Intern_744415WD-1)
+- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004)
