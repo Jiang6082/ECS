@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T19:22:32.971Z",
-  "scanStartedAt": "2026-11-15T19:20:34.824Z",
+  "generatedAt": "2026-11-16T22:53:20.487Z",
+  "scanStartedAt": "2026-11-16T22:51:12.644Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 26,
-    "confirmed-no-open-postings": 7,
-    "confirmed-openings-no-matching-role": 29,
+    "confirmed-no-open-postings": 6,
+    "confirmed-openings-no-matching-role": 30,
     "could-not-fully-verify": 170
   },
   "companies": [
@@ -22,7 +22,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
+      "jobsSeen": 15,
       "relevantRoles": 0
     },
     {
@@ -37,8 +37,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
-      "relevantRoles": 4
+      "jobsSeen": 14,
+      "relevantRoles": 2
     },
     {
       "company": "Compass Lexecon",
@@ -296,7 +296,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 42,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -735,9 +735,11 @@
       ],
       "category": "Litigation, Antitrust & Damages",
       "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://apply.gtefinancial.org/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
     },
@@ -1042,7 +1044,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 2,
+      "jobsSeen": 1,
       "relevantRoles": 0
     },
     {
@@ -1145,8 +1147,8 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 87,
-      "relevantRoles": 7
+      "jobsSeen": 91,
+      "relevantRoles": 8
     },
     {
       "company": "Cornwall Insight",
@@ -1479,7 +1481,7 @@
         "Analysys Mason"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "confirmed-no-open-postings",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.analysysmason.com/careers/",
         "https://www.analysysmason.com/careers/your-career-journey/",
@@ -1487,7 +1489,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 0,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -1504,7 +1506,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 95,
+      "jobsSeen": 94,
       "relevantRoles": 0
     },
     {
@@ -2026,7 +2028,7 @@
         "https://careers.marsden.com/",
         "https://careers.marsden.com/company/marsden-central"
       ],
-      "livePages": 2,
+      "livePages": 0,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2211,7 +2213,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 3,
+      "jobsSeen": 2,
       "relevantRoles": 0
     },
     {
@@ -2286,7 +2288,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 18,
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -2303,7 +2305,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 5,
+      "jobsSeen": 4,
       "relevantRoles": 0
     },
     {
@@ -2528,7 +2530,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -2930,7 +2932,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 690,
+      "jobsSeen": 673,
       "relevantRoles": 4
     },
     {
@@ -2945,7 +2947,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 663,
+      "jobsSeen": 650,
       "relevantRoles": 0
     },
     {
@@ -3233,7 +3235,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 41,
+      "jobsSeen": 44,
       "relevantRoles": 0
     },
     {
@@ -3248,7 +3250,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1055,
+      "jobsSeen": 1046,
       "relevantRoles": 0
     },
     {

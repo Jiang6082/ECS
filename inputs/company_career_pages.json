@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:20:34.825Z",
+  "generatedAt": "2026-11-16T22:51:12.646Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -279,8 +279,10 @@
       "updatedAt": "2026-10-18T16:27:49.848Z"
     },
     "Crowninshield Financial Research": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://apply.gtefinancial.org/"
+      ],
+      "updatedAt": "2026-11-16T22:51:12.646Z"
     },
     "Stanford Consulting Group": {
       "careerPages": [

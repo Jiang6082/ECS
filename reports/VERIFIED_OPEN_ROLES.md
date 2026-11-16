@@ -1,15 +1,15 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-11-15 19:20 UTC · **101 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-11-16 22:51 UTC · **99 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (101)
+## ✅ Confirmed Live On Official Job Boards (99)
 
-### Analysis Group (10)
+### Analysis Group (11)
 
 _Primary deadline (Sep 30) has passed; later applications are reviewed on a rolling basis._
 
@@ -24,6 +24,7 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) \| Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) | Montreal, QC, CA \| Toronto, ON, CA | North America |
 | [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) | Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US | North America |
 | [Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3071/job) | Boston, MA, US \| Chicago, IL, US \| Denver, CO, US \| Los Angeles, CA, US \| New York, NY, US \| San Francisco, CA, US \| Washington, DC, DC, US | North America |
+| [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) | Boston, MA, US \| Los Angeles, CA, US \| New York, NY, US | North America |
 | [Summer Research Professional Intern-Health Care (HEOR, Epidemiology & Market Access) -Montreal/Toronto (2027 Start Date) \| Stage d'été-Professionnel de recherche-Économie de la santé, biostatistique, et épidémiologie - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3065/job) | Montreal, QC, CA \| Toronto, ON, CA | North America |
 
 ### Ankura (8)
@@ -96,11 +97,10 @@ _Resume review began Oct 15 and is rolling._
 | [Intern \| Energy Practice \| Paris](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Energy-Practice---Paris_JR261413) | Paris, France | Europe |
 | [Summer Intern \| Competition Practice \| London](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342) | London, United Kingdom | Europe |
 
-### Cornerstone Research (2)
+### Cornerstone Research (1)
 
 | Role | Location | Region |
 |---|---|---|
-| [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) | UK-London | Europe |
 | [Summer Analyst, London](https://uguk-chire.icims.com/jobs/4088/job) | UK-London | Europe |
 
 ### E.CA Economics (1)
@@ -160,11 +160,10 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) | Alpharetta, GA, us | North America |
 
-### NERA Economic Consulting (4)
+### NERA Economic Consulting (3)
 
 | Role | Location | Region |
 |---|---|---|
-| [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) | Toronto - Bremner | North America |
 | [NERA Summer Internship (Summer 2028 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Summer-Internship--Summer-2028-Grads---Multiple-Locations-_R_364008-1) | Multiple locations | Remote / Unspecified |
 | [NERA Summer Internship 2027 - London](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208) | London - St. Botolph | Europe |
 | [NERA: Internship (Berlin, Frankfurt, and Paris)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Berlin---Linden-14/NERA--Internship--Berlin-and-Frankfurt-_R_281719-1) | Multiple locations | Remote / Unspecified |
@@ -181,14 +180,13 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) | New York, NY, USA | North America |
 
-### PwC (Economics / Transfer Pricing / Forensics) (8)
+### PwC (Economics / Transfer Pricing / Forensics) (7)
 
 | Role | Location | Region |
 |---|---|---|
 | [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern \| Milano [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Capital-Projects---Economics----ambito-Infrastrutture--Trasporti-e-Logistica---Intern----Milano--ADV-_765299WD) | Milan | Europe |
 | [Capital Projects & Economics - ambito Infrastrutture, Trasporti e Logistica - Intern \| Roma [ADV]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Capital-Projects---Economics-Intern---ambito-Infrastrutture--Trasporti-e-Logistica---Roma_721760WD-3) | Rome | Europe |
 | [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) | Milan | Europe |
-| [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) | Hanoi | Asia |
 | [Stage - International Tax & Transfer Pricing - Brescia [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brescia/Stage---International-Tax---Transfer-Pricing---Brescia--TAX-_773805WD) | Brescia | Remote / Unspecified |
 | [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) | Singapore | Asia |
 | [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) | Multiple locations | Remote / Unspecified |
@@ -289,4 +287,4 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | The Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) | 2026-11-03 |
 | The Brattle Group | [Research Associate Intern](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005) | 2026-11-03 |
 
-_Generated by ECS on 2026-11-15. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_
+_Generated by ECS on 2026-11-16. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

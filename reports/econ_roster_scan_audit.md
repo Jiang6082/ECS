@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-11-15T19:20:34.824Z
+Scan started: 2026-11-16T22:51:12.644Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -35,19 +35,18 @@ Canonical companies after aliases: 232
 | Trinity Life Sciences | Health Economics & HEOR | 1/1 pages live | [link](https://www.trinitychurch.com/) |
 | Oxford Economics | Macro & Economic Research | 1/1 pages live | [link](https://careers.oxfordeconomics.com/) |
 
-## Confirmed No Open Postings (7)
+## Confirmed No Open Postings (6)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
 | Edgeworth Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.edgewortheconomics.com/careers-open-positions) |
 | Coherent Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://coherentecon.com/job-openings/) |
-| Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
 | Economic & Planning Systems | Policy & Research Economics | 1/1 pages live | [link](https://www.epsys.com/careers) |
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
 | Andersen (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://careers.andersen.com/jobs/7462?lang=en-us) |
 
-## Confirmed Openings, No Matching Role (29)
+## Confirmed Openings, No Matching Role (30)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -61,6 +60,7 @@ Canonical companies after aliases: 232
 | Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
 | Cornwall Insight | Energy & Environmental Economics | 1/1 pages live | [link](https://cornwallinsight.pinpointhq.com/) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
+| Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
 | Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.seo-usa.org/) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
@@ -115,7 +115,7 @@ Canonical companies after aliases: 232
 | BLDS | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.bldsrestaurant.net/menu/) |
 | EmployStats | Litigation, Antitrust & Damages | no saved page attempted | none |
 | ERS Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.ers.usda.gov/about-ers/careers-at-ers) |
-| Crowninshield Financial Research | Litigation, Antitrust & Damages | no saved page attempted | none |
+| Crowninshield Financial Research | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://apply.gtefinancial.org/) |
 | Market Platform Dynamics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | Invotex | Litigation, Antitrust & Damages | no saved page attempted | none |
 | The Kenrich Group | Litigation, Antitrust & Damages | no saved page attempted | none |
@@ -191,7 +191,7 @@ Canonical companies after aliases: 232
 | ACIL Allen | Economic Consulting (APAC) | 1/1 pages live | [link](https://careercenter.acil.org/) |
 | Synergies Economic Consulting | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.synergies.com.au/careers/) |
 | The Centre for International Economics | Economic Consulting (APAC) | no saved page attempted | none |
-| Marsden Jacob Associates | Economic Consulting (APAC) | 2/2 pages live | [link](https://careers.marsden.com/) [link](https://careers.marsden.com/company/marsden-central) |
+| Marsden Jacob Associates | Economic Consulting (APAC) | 0/2 pages live | [link](https://careers.marsden.com/) [link](https://careers.marsden.com/company/marsden-central) |
 | Oakley Greenwood | Economic Consulting (APAC) | no saved page attempted | none |
 | Incenta Economic Consulting | Economic Consulting (APAC) | 1/1 pages live | [link](https://incentaplus.com/) |
 | Mandala Partners | Economic Consulting (APAC) | no saved page attempted | none |

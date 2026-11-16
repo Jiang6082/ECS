@@ -1,7 +1,7 @@
 # Closed / Removed Roles History
 
 Total closures recorded: 79
-Last updated: 2026-11-15T19:20:34.824Z
+Last updated: 2026-11-16T22:51:12.644Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
@@ -64,7 +64,7 @@ Each role below was present in an earlier scan and absent in a later one. "Detec
 - **Trinity Life Sciences** - [Summer Associate, Evidence Strategy](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Summer-Associate--Evidence-Strategy_JR100866) - 2 Locations
 - **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - London (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3029/job) — _reopened 2026-11-05_
 - **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - CA-QC-Montreal | CA-ON-Toronto
-- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - CA-QC-Montreal | CA-ON-Toronto
+- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - CA-QC-Montreal | CA-ON-Toronto — _reopened 2026-11-16_
 
 ### 2026-10-28 (2)
 

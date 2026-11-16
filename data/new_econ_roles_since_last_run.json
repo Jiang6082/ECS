@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-11-15T19:22:33.019Z",
-  "previousScanAt": "2026-11-15T12:37:45.513Z",
-  "currentScanAt": "2026-11-15T19:20:34.824Z",
+  "generatedAt": "2026-11-16T22:53:20.540Z",
+  "previousScanAt": "2026-11-15T19:20:34.824Z",
+  "currentScanAt": "2026-11-16T22:51:12.644Z",
   "previousRows": 101,
-  "currentRows": 101,
+  "currentRows": 99,
   "added": [],
-  "removed": [
-    {
-      "Company": "PRECISIONheor (Precision AQ)",
-      "Category": "Health Economics & HEOR",
-      "Title": "Intern, Health Economics and Outcomes Research",
-      "Location": "Remote, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/precisionaq/jobs/6231563004",
-      "Source": "Official ATS Greenhouse:precisionaq",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

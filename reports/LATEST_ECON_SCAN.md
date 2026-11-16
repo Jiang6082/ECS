@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-15T19:20:34.824Z
+Last updated: 2026-11-16T22:51:12.644Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 224
-- Current internship roles: 101
+- Career pages checked: 225
+- Current internship roles: 99
 - Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- No longer present since previous scan: 0
 - Firms with matching roles: 26
-- Confirmed no open postings: 7
-- Openings but no matching role: 29
+- Confirmed no open postings: 6
+- Openings but no matching role: 30
 - Could not fully verify: 170
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 69
-- Big 4 & Advisory Economics: 8
+- Litigation, Antitrust & Damages: 68
 - Health Economics & HEOR: 7
+- Big 4 & Advisory Economics: 7
 - Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004) - Remote, Canada
+_None._
 
 ## Full Reports
 

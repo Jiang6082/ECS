@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-15T12:37:45.513Z
-Current scan: 2026-11-15T19:20:34.824Z
+Previous scan: 2026-11-15T19:20:34.824Z
+Current scan: 2026-11-16T22:51:12.644Z
 Previous rows: 101
-Current rows: 101
+Current rows: 99
 New stable job URLs: 0
-No longer present: 1
+No longer present: 0
 
 ## New Roles By Region
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **PRECISIONheor (Precision AQ)** - [Intern, Health Economics and Outcomes Research](https://job-boards.greenhouse.io/precisionaq/jobs/6231563004)
+_None._

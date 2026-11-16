@@ -1,6 +1,6 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-15T19:20:34.824Z
+Scanned: 2026-11-16T22:51:12.644Z
 Roles: 34
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
@@ -29,12 +29,11 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Oxford Economics** - [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) - New York, US - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing not stated in title
 - **The Cadmus Group** - [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) - Arlington, VA, US | Boston, MA, US | Waltham, MA, US - Confirmed official posting (Official ATS iCIMS:careers-cadmusgroup): timing not stated in title
 
-### Europe (4)
+### Europe (3)
 
 - **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [Research Associate, Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
-- **Cornerstone Research** - [Analyst, London](https://uguk-chire.icims.com/jobs/4083/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 
 ### Asia (5)
 
@@ -44,9 +43,9 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **Compass Lexecon** - [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) - Beijing, China - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) - Singapore - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: 2027
 
-### Oceania (0)
+### Oceania (1)
 
-_None._
+- **Aurora Energy Research** - [Research Analyst, China Market](https://careers.auroraer.com/en/postings/a8d286fe-c290-4c3c-96ca-e8c991c30406) - Sydney, Australia - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 
 ### Middle East (0)
 

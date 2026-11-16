@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-15T19:20:34.824Z
+Scanned: 2026-11-16T22:51:12.644Z
 Firms searched: 232
-Career pages checked: 224
-Internship roles/leads retained: 101
+Career pages checked: 225
+Internship roles/leads retained: 99
 Entry-level analyst roles (separate report): 34
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -20,6 +20,7 @@ Status guide:
 - **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Associate Intern - Generalist (MBA/MA) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3071/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US | New York, NY, US | San Francisco, CA, US | Washington, DC, DC, US - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - Boston, MA, US | Los Angeles, CA, US | New York, NY, US - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Research Professional Intern-Health Care (HEOR, Epidemiology & Market Access) -Montreal/Toronto (2027 Start Date) | Stage d'été-Professionnel de recherche-Économie de la santé, biostatistique, et épidémiologie - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3065/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Ankura** - [University Intern, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987) - Los Angeles, CA - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **Ankura** - [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990) - New York, NY - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
@@ -42,7 +43,6 @@ Status guide:
 - **Integra FEC** - [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SUMMER
 - **Integra FEC** - [(SUMMER) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406119008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SUMMER
 - **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) - Alpharetta, GA, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
-- **NERA Economic Consulting** - [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) - Toronto - Bremner - Confirmed official posting (Official ATS Workday:mmc/MMC): timing not stated in title
 - **PRECISIONheor (Precision AQ)** - [Summer 2027 Internship, Market Access Consulting](https://job-boards.greenhouse.io/precisionaq/jobs/6205781004) - New York, NY, USA - Confirmed official posting (Official ATS Greenhouse:precisionaq): timing: Summer 2027; graduation years mentioned: 2027, 2029
 - **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C. - Confirmed official posting (Official ATS Greenhouse:rclco): timing: 2027 Summer
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) - Los Angeles, California, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
@@ -60,7 +60,7 @@ Status guide:
 - **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) - San Francisco, CA - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 - **Trinity Life Sciences** - [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) - Waltham, MA - Headquarters - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 
-### Europe (38)
+### Europe (37)
 
 - **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -85,7 +85,6 @@ Status guide:
 - **Compass Lexecon** - [Intern | Energy Practice | London](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Intern---Energy-Practice---London_JR261417) - London, United Kingdom - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing not stated in title
 - **Compass Lexecon** - [Intern | Energy Practice | Paris](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Paris-France/Intern---Energy-Practice---Paris_JR261413) - Paris, France - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing not stated in title
 - **Compass Lexecon** - [Summer Intern | Competition Practice | London](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342) - London, United Kingdom - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: Summer
-- **Cornerstone Research** - [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing: 2027 Spring
 - **Cornerstone Research** - [Summer Analyst, London](https://uguk-chire.icims.com/jobs/4088/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing: Summer
 - **E.CA Economics** - [Intern at Economics Consultancy (m/f/d)](https://e-ca.jobs.personio.de/job/369975) - Berlin - Confirmed official posting (Official ATS Personio:e-ca): timing not stated in title
 - **FTI Consulting (Economic Consulting)** - [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971) - Milan (Torre Velasca) - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027
@@ -101,12 +100,11 @@ Status guide:
 - **Technopolis Group** - [Full time paid Internship / Stage Paris](https://technopolis-group.jobs.personio.com/job/2247787) - Paris - Confirmed official posting (Official ATS Personio:technopolis-group): timing not stated in title
 - **Technopolis Group** - [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) - Paris - Confirmed official posting (Official ATS Personio:technopolis-group): timing not stated in title
 
-### Asia (5)
+### Asia (4)
 
 - **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) - Singapore, Singapore - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) - Hanoi - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) - Singapore - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: Off-Cycle
 
 ### Oceania (0)
@@ -148,7 +146,6 @@ _None._
 
 ## Confirmed: Enumerated Source Reports No Open Postings
 
-- Analysys Mason
 - Andersen (Transfer Pricing)
 - Chmura Economics & Analytics
 - Coherent Economics
@@ -161,6 +158,7 @@ _None._
 - Abt Global
 - Acumen
 - AlixPartners
+- Analysys Mason
 - Avalere Health
 - Axiom Economics
 - Baringa
