@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-16T22:51:12.644Z",
+  "searchedAt": "2026-11-17T16:40:13.522Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -679,10 +679,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 41
+          "jobsSeen": 42
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -711,10 +711,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 41
+          "jobsSeen": 42
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -1074,10 +1074,10 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 97
+          "jobsSeen": 96
         }
       ],
-      "jobsSeen": 97,
+      "jobsSeen": 96,
       "relevantRoles": 2
     },
     {
@@ -1360,10 +1360,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 91
+          "jobsSeen": 90
         }
       ],
-      "jobsSeen": 91,
+      "jobsSeen": 90,
       "relevantRoles": 8
     },
     {
@@ -1717,10 +1717,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 94
+          "jobsSeen": 93
         }
       ],
-      "jobsSeen": 94,
+      "jobsSeen": 93,
       "relevantRoles": 0
     },
     {
@@ -2090,8 +2090,8 @@
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/",
       "resolvedUrl": "https://careers.marsden.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2102,8 +2102,8 @@
       "company": "Marsden Jacob Associates",
       "pageUrl": "https://careers.marsden.com/company/marsden-central",
       "resolvedUrl": "https://careers.marsden.com/company/marsden-central",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2970,10 +2970,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 673
+          "jobsSeen": 668
         }
       ],
-      "jobsSeen": 673,
+      "jobsSeen": 668,
       "relevantRoles": 4
     },
     {
@@ -2994,10 +2994,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 650
+          "jobsSeen": 654
         }
       ],
-      "jobsSeen": 650,
+      "jobsSeen": 654,
       "relevantRoles": 0
     },
     {
@@ -3363,10 +3363,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1046
+          "jobsSeen": 1044
         }
       ],
-      "jobsSeen": 1046,
+      "jobsSeen": 1044,
       "relevantRoles": 0
     },
     {

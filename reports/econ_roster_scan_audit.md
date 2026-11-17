@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-11-16T22:51:12.644Z
+Scan started: 2026-11-17T16:40:13.522Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -191,7 +191,7 @@ Canonical companies after aliases: 232
 | ACIL Allen | Economic Consulting (APAC) | 1/1 pages live | [link](https://careercenter.acil.org/) |
 | Synergies Economic Consulting | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.synergies.com.au/careers/) |
 | The Centre for International Economics | Economic Consulting (APAC) | no saved page attempted | none |
-| Marsden Jacob Associates | Economic Consulting (APAC) | 0/2 pages live | [link](https://careers.marsden.com/) [link](https://careers.marsden.com/company/marsden-central) |
+| Marsden Jacob Associates | Economic Consulting (APAC) | 2/2 pages live | [link](https://careers.marsden.com/) [link](https://careers.marsden.com/company/marsden-central) |
 | Oakley Greenwood | Economic Consulting (APAC) | no saved page attempted | none |
 | Incenta Economic Consulting | Economic Consulting (APAC) | 1/1 pages live | [link](https://incentaplus.com/) |
 | Mandala Partners | Economic Consulting (APAC) | no saved page attempted | none |

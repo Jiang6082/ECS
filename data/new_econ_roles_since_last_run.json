@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-11-16T22:53:20.540Z",
-  "previousScanAt": "2026-11-15T19:20:34.824Z",
-  "currentScanAt": "2026-11-16T22:51:12.644Z",
-  "previousRows": 101,
-  "currentRows": 99,
-  "added": [],
-  "removed": []
+  "generatedAt": "2026-11-17T16:42:13.681Z",
+  "previousScanAt": "2026-11-16T22:51:12.644Z",
+  "currentScanAt": "2026-11-17T16:40:13.522Z",
+  "previousRows": 99,
+  "currentRows": 101,
+  "added": [
+    {
+      "Company": "Analysis Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)",
+      "Location": "Boston, MA, US | Los Angeles, CA, US | New York, NY, US",
+      "Region": "North America",
+      "URL": "https://associatecareers-analysisgroup.icims.com/jobs/3067/job",
+      "Source": "Official ATS iCIMS:associatecareers-analysisgroup",
+      "Status": "Confirmed official posting"
+    }
+  ],
+  "removed": [
+    {
+      "Company": "Cornerstone Research",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)",
+      "Location": "UK-London",
+      "Region": "Europe",
+      "URL": "https://uguk-chire.icims.com/jobs/4094/job",
+      "Source": "Career page iCIMS:uguk-chire",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "NERA Economic Consulting",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "NERA Co-op Intern (Toronto)",
+      "Location": "Toronto - Bremner",
+      "Region": "North America",
+      "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980",
+      "Source": "Official ATS Workday:mmc/MMC",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Intern - Transfer Pricing",
+      "Location": "Hanoi",
+      "Region": "Asia",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD",
+      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

@@ -1,5 +1,38 @@
 [
   {
+    "Company": "Cornerstone Research",
+    "Title": "2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)",
+    "Location": "UK-London",
+    "Region": "Europe",
+    "URL": "https://uguk-chire.icims.com/jobs/4094/job",
+    "Source": "Career page iCIMS:uguk-chire",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-11-16T22:51:12.644Z",
+    "detectedClosedAt": "2026-11-17T16:40:13.522Z"
+  },
+  {
+    "Company": "NERA Economic Consulting",
+    "Title": "NERA Co-op Intern (Toronto)",
+    "Location": "Toronto - Bremner",
+    "Region": "North America",
+    "URL": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980",
+    "Source": "Official ATS Workday:mmc/MMC",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-11-16T22:51:12.644Z",
+    "detectedClosedAt": "2026-11-17T16:40:13.522Z"
+  },
+  {
+    "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+    "Title": "Intern - Transfer Pricing",
+    "Location": "Hanoi",
+    "Region": "Asia",
+    "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD",
+    "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+    "Status": "Confirmed official posting",
+    "lastSeenOpenAt": "2026-11-16T22:51:12.644Z",
+    "detectedClosedAt": "2026-11-17T16:40:13.522Z"
+  },
+  {
     "Company": "PRECISIONheor (Precision AQ)",
     "Title": "Intern, Health Economics and Outcomes Research",
     "Location": "Remote, Canada",
@@ -19,7 +52,8 @@
     "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-11-14T18:43:13.616Z",
-    "detectedClosedAt": "2026-11-15T12:37:45.513Z"
+    "detectedClosedAt": "2026-11-15T12:37:45.513Z",
+    "reopenedAt": "2026-11-17T16:40:13.522Z"
   },
   {
     "Company": "PwC (Economics / Transfer Pricing / Forensics)",
@@ -274,7 +308,8 @@
     "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
     "Status": "Confirmed official posting",
     "lastSeenOpenAt": "2026-10-29T18:56:42.496Z",
-    "detectedClosedAt": "2026-10-30T10:35:51.514Z"
+    "detectedClosedAt": "2026-10-30T10:35:51.514Z",
+    "reopenedAt": "2026-11-17T16:40:13.522Z"
   },
   {
     "Company": "Analysis Group",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T22:53:20.487Z",
-  "scanStartedAt": "2026-11-16T22:51:12.644Z",
+  "generatedAt": "2026-11-17T16:42:13.634Z",
+  "scanStartedAt": "2026-11-17T16:40:13.522Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -296,7 +296,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantRoles": 0
     },
     {
@@ -812,7 +812,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 97,
+      "jobsSeen": 96,
       "relevantRoles": 2
     },
     {
@@ -1147,7 +1147,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 91,
+      "jobsSeen": 90,
       "relevantRoles": 8
     },
     {
@@ -1506,7 +1506,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 94,
+      "jobsSeen": 93,
       "relevantRoles": 0
     },
     {
@@ -2028,7 +2028,7 @@
         "https://careers.marsden.com/",
         "https://careers.marsden.com/company/marsden-central"
       ],
-      "livePages": 0,
+      "livePages": 2,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2932,7 +2932,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 673,
+      "jobsSeen": 668,
       "relevantRoles": 4
     },
     {
@@ -2947,7 +2947,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 650,
+      "jobsSeen": 654,
       "relevantRoles": 0
     },
     {
@@ -3250,7 +3250,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1046,
+      "jobsSeen": 1044,
       "relevantRoles": 0
     },
     {
