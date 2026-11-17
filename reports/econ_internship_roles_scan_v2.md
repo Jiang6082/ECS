@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-17T16:40:13.522Z
+Scanned: 2026-11-17T21:41:09.230Z
 Firms searched: 232
 Career pages checked: 225
-Internship roles/leads retained: 101
+Internship roles/leads retained: 98
 Entry-level analyst roles (separate report): 34
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
@@ -15,7 +15,7 @@ Status guide:
 
 ## Roles And Leads By Region
 
-### North America (42)
+### North America (39)
 
 - **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -48,7 +48,6 @@ Status guide:
 - **RCLCO** - [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) - Austin / Los Angeles / Washington, D.C. - Confirmed official posting (Official ATS Greenhouse:rclco): timing: 2027 Summer
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) - Los Angeles, California, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
-- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027
 - **Secretariat** - [Intern, Economics (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4408897009) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:secretariatadvisorsllc): timing: Summer 2027; graduation years mentioned: 2027, 2028
 - **The Brattle Group** - [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) - Boston, Massachusetts, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: Summer 2027
 - **The Brattle Group** - [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) - Toronto, Ontario, Canada - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: Summer 2027
@@ -56,8 +55,6 @@ Status guide:
 - **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) - San Francisco, California, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: Summer 2027
 - **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) - New York, New York, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: Summer 2027
 - **The Brattle Group** - [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: Summer 2027
-- **Trinity Life Sciences** - [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) - New York, NY - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
-- **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) - San Francisco, CA - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 - **Trinity Life Sciences** - [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) - Waltham, MA - Headquarters - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 
 ### Europe (39)

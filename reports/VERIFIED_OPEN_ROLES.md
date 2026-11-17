@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-11-17 16:40 UTC · **101 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-11-17 21:41 UTC · **98 roles confirmed live on official job boards** across 26 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (101)
+## ✅ Confirmed Live On Official Job Boards (98)
 
 ### Analysis Group (12)
 
@@ -201,13 +201,12 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) | Austin / Los Angeles / Washington, D.C. | North America |
 
-### Secretariat (5)
+### Secretariat (4)
 
 | Role | Location | Region |
 |---|---|---|
 | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) | Los Angeles, California, United States | North America |
 | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) | Washington, District of Columbia, United States | North America |
-| [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) | Chicago, Illinois, United States | North America |
 | [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) | München, Bavaria, Germany | Europe |
 | [Intern, Economics (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4408897009) | Washington, District of Columbia, United States | North America |
 
@@ -238,12 +237,10 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) | New York, New York, United States | North America |
 | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) | Washington, District of Columbia, United States | North America |
 
-### Trinity Life Sciences (3)
+### Trinity Life Sciences (1)
 
 | Role | Location | Region |
 |---|---|---|
-| [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) | New York, NY | North America |
-| [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) | San Francisco, CA | North America |
 | [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) | Waltham, MA - Headquarters | North America |
 
 ## 🟡 Hand-Checked Roles (12)
@@ -271,6 +268,7 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 | Firm | Role | Detected closed |
 |---|---|---|
+| Secretariat | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009) | 2026-11-17 |
 | Cornerstone Research | [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) | 2026-11-17 |
 | NERA Economic Consulting | [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) | 2026-11-17 |
 | PwC (Economics / Transfer Pricing / Forensics) | [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) | 2026-11-17 |
@@ -288,6 +286,5 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | Aurora Energy Research | [Energy Modelling Intern](https://careers.auroraer.com/en/postings/96f4257b-ede3-46cf-9f86-f4e9d2d6ab1b) | 2026-11-05 |
 | Berkeley Research Group | [Chicago Office Health Analytics Practice Intern](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | 2026-11-05 |
 | J.S. Held | [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000153606929) | 2026-11-04 |
-| The Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735673005) | 2026-11-03 |
 
 _Generated by ECS on 2026-11-17. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

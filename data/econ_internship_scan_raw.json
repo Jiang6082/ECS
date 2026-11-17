@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-17T16:38:23.702Z",
+  "scannedAt": "2026-11-17T21:39:01.050Z",
   "results": [
     {
       "company": "Analysis Group",
@@ -396,12 +396,12 @@
           "source": "Greenhouse:charlesriverassociates",
           "origin": "seeded",
           "ok": true,
-          "count": 87
+          "count": 90
         }
       ],
-      "jobsSeen": 87,
+      "jobsSeen": 90,
       "rejected": {
-        "not an internship or entry-level role": 54,
+        "not an internship or entry-level role": 57,
         "non-economics practice": 9,
         "PhD/MBA/JD-only": 3,
         "non-economics function": 14
@@ -713,14 +713,14 @@
           "source": "Workday:thinkbrg/BRG_External_Career_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 137
+          "count": 134
         }
       ],
-      "jobsSeen": 137,
+      "jobsSeen": 134,
       "rejected": {
-        "not an internship or entry-level role": 67,
+        "not an internship or entry-level role": 65,
         "non-economics practice": 58,
-        "non-economics function": 5
+        "non-economics function": 4
       },
       "matches": [
         {
@@ -810,15 +810,15 @@
           "source": "Workday:fticonsulting/FTIConsultingCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 243
+          "count": 247
         }
       ],
-      "jobsSeen": 243,
+      "jobsSeen": 247,
       "rejected": {
-        "outside firm scope (econ)": 79,
-        "non-economics practice": 91,
-        "non-economics function": 45,
-        "not an internship or entry-level role": 21
+        "non-economics function": 47,
+        "not an internship or entry-level role": 22,
+        "non-economics practice": 92,
+        "outside firm scope (econ)": 79
       },
       "matches": [
         {
@@ -925,7 +925,7 @@
           "source": "Greenhouse:secretariatadvisorsllc",
           "origin": "seeded",
           "ok": true,
-          "count": 87
+          "count": 85
         },
         {
           "source": "Workday:secretariat/Secretariat_careers",
@@ -934,10 +934,10 @@
           "count": 0
         }
       ],
-      "jobsSeen": 87,
+      "jobsSeen": 85,
       "rejected": {
         "non-economics practice": 51,
-        "not an internship or entry-level role": 30,
+        "not an internship or entry-level role": 29,
         "non-economics function": 1
       },
       "matches": [
@@ -951,17 +951,6 @@
           "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
           "PostedAt": "2026-06-09T10:58:27-04:00",
           "Notes": "timing not stated in title"
-        },
-        {
-          "Company": "Secretariat",
-          "Category": "Litigation, Antitrust & Damages",
-          "Track": "Internship",
-          "Title": "Intern, Damages & Valuations (Summer 2027)",
-          "Location": "Chicago, Illinois, United States",
-          "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
-          "Source": "Official ATS Greenhouse:secretariatadvisorsllc",
-          "PostedAt": "2026-09-10T12:07:27-04:00",
-          "Notes": "timing: Summer 2027"
         },
         {
           "Company": "Secretariat",
@@ -1014,13 +1003,13 @@
           "source": "Workday:ankura/Ankura",
           "origin": "seeded",
           "ok": true,
-          "count": 85
+          "count": 84
         }
       ],
-      "jobsSeen": 85,
+      "jobsSeen": 84,
       "rejected": {
         "outside firm scope (econ)": 40,
-        "non-economics function": 5,
+        "non-economics function": 4,
         "non-economics practice": 18,
         "not an internship or entry-level role": 7
       },
@@ -1220,13 +1209,13 @@
           "source": "Workday:guidehouse/External",
           "origin": "seeded",
           "ok": true,
-          "count": 853
+          "count": 856
         }
       ],
-      "jobsSeen": 853,
+      "jobsSeen": 856,
       "rejected": {
-        "outside firm scope (econ)": 743,
         "non-economics function": 45,
+        "outside firm scope (econ)": 746,
         "not an internship or entry-level role": 36,
         "non-economics practice": 29
       },
@@ -1325,13 +1314,13 @@
           "source": "Workday:hl/Campus",
           "origin": "seeded",
           "ok": true,
-          "count": 52
+          "count": 51
         }
       ],
-      "jobsSeen": 52,
+      "jobsSeen": 51,
       "rejected": {
         "outside firm scope (dispute)": 34,
-        "non-economics practice": 18
+        "non-economics practice": 17
       },
       "matches": []
     },
@@ -1504,12 +1493,12 @@
           "source": "Ashby:resolution",
           "origin": "guessed",
           "ok": true,
-          "count": 5
+          "count": 3
         }
       ],
-      "jobsSeen": 5,
+      "jobsSeen": 3,
       "rejected": {
-        "not an internship or entry-level role": 5
+        "not an internship or entry-level role": 3
       },
       "matches": []
     },
@@ -2332,13 +2321,13 @@
           "source": "Greenhouse:baringa",
           "origin": "guessed",
           "ok": true,
-          "count": 93
+          "count": 94
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 94,
       "rejected": {
         "non-economics function": 8,
-        "outside firm scope (econ)": 75,
+        "outside firm scope (econ)": 76,
         "non-economics practice": 5,
         "recruiting event / talent pool": 3,
         "not an internship or entry-level role": 2
@@ -2765,15 +2754,15 @@
           "source": "Workday:icf/ICFExternal_Career_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 370
+          "count": 369
         }
       ],
-      "jobsSeen": 370,
+      "jobsSeen": 369,
       "rejected": {
-        "outside firm scope (econ)": 318,
+        "non-economics function": 22,
+        "outside firm scope (econ)": 317,
         "not an internship or entry-level role": 20,
-        "non-economics practice": 10,
-        "non-economics function": 21
+        "non-economics practice": 9
       },
       "matches": [
         {
@@ -2903,12 +2892,12 @@
           "source": "iCIMS:careers-cadmusgroup",
           "origin": "seeded",
           "ok": true,
-          "count": 21
+          "count": 19
         }
       ],
-      "jobsSeen": 21,
+      "jobsSeen": 19,
       "rejected": {
-        "outside firm scope (econ)": 17,
+        "outside firm scope (econ)": 15,
         "non-economics function": 3
       },
       "matches": [
@@ -3163,12 +3152,12 @@
           "source": "Greenhouse:acumen",
           "origin": "guessed",
           "ok": true,
-          "count": 6
+          "count": 5
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 5,
       "rejected": {
-        "not an internship or entry-level role": 6
+        "not an internship or entry-level role": 5
       },
       "matches": []
     },
@@ -3416,19 +3405,18 @@
           "source": "Workday:pwc/Global_Campus_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 1250
+          "count": 1249
         }
       ],
-      "jobsSeen": 1298,
+      "jobsSeen": 1297,
       "rejected": {
         "outside firm scope (transfer pricing|econom|forensics? consulting|investigations|disputes)": 989,
         "non-economics practice": 186,
         "non-economics function": 62,
         "PhD/MBA/JD-only": 2,
+        "not an internship or entry-level role": 12,
         "recruiting event / talent pool": 36,
-        "not an internship or entry-level role": 11,
-        "dated for a past cycle": 2,
-        "empty title": 1
+        "dated for a past cycle": 2
       },
       "matches": [
         {
@@ -3552,18 +3540,18 @@
           "source": "Oracle:ehzq/CX_1",
           "origin": "seeded",
           "ok": true,
-          "count": 176
+          "count": 177
         },
         {
           "source": "Oracle:ehzq/CX_4",
           "origin": "seeded",
           "ok": true,
-          "count": 166
+          "count": 167
         }
       ],
-      "jobsSeen": 342,
+      "jobsSeen": 344,
       "rejected": {
-        "outside firm scope (econ)": 260,
+        "outside firm scope (econ)": 262,
         "non-economics practice": 41,
         "non-economics function": 36,
         "not an internship or entry-level role": 4
@@ -3590,18 +3578,18 @@
           "source": "Oracle:ebqb/CX_1001",
           "origin": "seeded",
           "ok": true,
-          "count": 59
+          "count": 58
         },
         {
           "source": "Oracle:ebqb/BDOEntryLevelCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 668
+          "count": 666
         }
       ],
-      "jobsSeen": 727,
+      "jobsSeen": 724,
       "rejected": {
-        "outside firm scope (econ)": 648,
+        "outside firm scope (econ)": 645,
         "dated for a past cycle": 2,
         "non-economics function": 34,
         "not an internship or entry-level role": 21,
@@ -3825,15 +3813,14 @@
           "source": "Workday:iqvia/IQVIA",
           "origin": "seeded",
           "ok": true,
-          "count": 1933
+          "count": 1929
         }
       ],
-      "jobsSeen": 1933,
+      "jobsSeen": 1929,
       "rejected": {
-        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1723,
-        "empty title": 1,
-        "non-economics function": 150,
-        "non-economics practice": 11,
+        "outside firm scope (heor|health economics|outcomes research|market access|real world)": 1717,
+        "non-economics function": 155,
+        "non-economics practice": 13,
         "not an internship or entry-level role": 41
       },
       "matches": [
@@ -3888,13 +3875,13 @@
           "source": "Lever:avalerehealth",
           "origin": "seeded",
           "ok": true,
-          "count": 57
+          "count": 56
         }
       ],
-      "jobsSeen": 57,
+      "jobsSeen": 56,
       "rejected": {
         "not an internship or entry-level role": 42,
-        "non-economics function": 15
+        "non-economics function": 14
       },
       "matches": []
     },
@@ -3954,14 +3941,14 @@
           "source": "Workday:trinitylifesciences/Trinity",
           "origin": "seeded",
           "ok": true,
-          "count": 71
+          "count": 64
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 64,
       "rejected": {
-        "non-economics practice": 16,
+        "non-economics practice": 13,
         "not an internship or entry-level role": 13,
-        "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 34,
+        "outside firm scope (\\bvap\\b|value|access|pricing|heor|outcomes|evidence|health economics)": 32,
         "non-economics function": 5
       },
       "matches": [
@@ -3969,31 +3956,9 @@
           "Company": "Trinity Life Sciences",
           "Category": "Health Economics & HEOR",
           "Track": "Internship",
-          "Title": "VAP Summer Associate (NY)",
-          "Location": "New York, NY",
-          "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1",
-          "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-          "PostedAt": "Posted 30+ Days Ago",
-          "Notes": "timing: Summer"
-        },
-        {
-          "Company": "Trinity Life Sciences",
-          "Category": "Health Economics & HEOR",
-          "Track": "Internship",
           "Title": "VAP Summer Associate (Waltham)",
           "Location": "Waltham, MA - Headquarters",
           "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763",
-          "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-          "PostedAt": "Posted 30+ Days Ago",
-          "Notes": "timing: Summer"
-        },
-        {
-          "Company": "Trinity Life Sciences",
-          "Category": "Health Economics & HEOR",
-          "Track": "Internship",
-          "Title": "VAP Summer Associate (SF)",
-          "Location": "San Francisco, CA",
-          "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1",
           "Source": "Official ATS Workday:trinitylifesciences/Trinity",
           "PostedAt": "Posted 30+ Days Ago",
           "Notes": "timing: Summer"

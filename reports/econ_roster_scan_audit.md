@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-11-17T16:40:13.522Z
+Scan started: 2026-11-17T21:41:09.230Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -74,7 +74,7 @@ Canonical companies after aliases: 232
 | Acumen | Policy & Research Economics | 1/1 pages live | [link](https://acumen.org/jobs/) |
 | Synapse Energy Economics | Energy & Environmental Economics | 1/1 pages live | [link](https://synapse.hire.trakstar.com/) |
 | Wood Mackenzie | Energy & Environmental Economics | 3/3 pages live | [link](https://www.woodmac.com/careers/overview/) [link](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers) [link](https://www.woodmac.com/careers/your-career/) |
-| Avalere Health | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.lever.co/avalerehealth) |
+| Avalere Health | Health Economics & HEOR | 0/1 pages live | [link](https://jobs.lever.co/avalerehealth) |
 | Health Management Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.healthmanagement.com/career-opportunities/) |
 | Lumanity | Health Economics & HEOR | 1/1 pages live | [link](https://lumanity.com/careers/current-openings/) |
 | Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |

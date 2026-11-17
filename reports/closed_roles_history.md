@@ -1,14 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 82
-Last updated: 2026-11-17T16:40:13.522Z
+Total closures recorded: 83
+Last updated: 2026-11-17T21:41:09.230Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
 
-### 2026-11-17 (3)
+### 2026-11-17 (4)
 
+- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009) - Denver, Colorado, United States
 - **Cornerstone Research** - [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job) - UK-London
 - **NERA Economic Consulting** - [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980) - Toronto - Bremner
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD) - Hanoi

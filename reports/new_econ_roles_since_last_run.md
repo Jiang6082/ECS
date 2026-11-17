@@ -1,21 +1,22 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-16T22:51:12.644Z
-Current scan: 2026-11-17T16:40:13.522Z
-Previous rows: 99
-Current rows: 101
-New stable job URLs: 1
-No longer present: 3
+Previous scan: 2026-11-17T16:40:13.522Z
+Current scan: 2026-11-17T21:41:09.230Z
+Previous rows: 101
+Current rows: 98
+New stable job URLs: 3
+No longer present: 1
 
 ## New Roles By Region
 
 ### North America (1)
 
-- **Analysis Group** - [Summer Associate Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/3067/job) - Boston, MA, US | Los Angeles, CA, US | New York, NY, US - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup)
+- **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - Boston, MA, US | Los Angeles, CA, US | New York, NY, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup)
 
-### Europe (0)
+### Europe (2)
 
-_None._
+- **FTI Consulting (Economic Consulting)** - [2027 Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/ET-2027--Intern--Economic---Financial-Consulting_JR261872) - Paris, France - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers)
+- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers)
 
 ### Asia (0)
 
@@ -47,6 +48,4 @@ _None._
 
 ## No Longer Present
 
-- **Cornerstone Research** - [2027 Spring Week (LSE,UCL,Imperial applicants only - apply by November 16!)](https://uguk-chire.icims.com/jobs/4094/job)
-- **NERA Economic Consulting** - [NERA Co-op Intern (Toronto)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/NERA-Co-op-Intern--Toronto-_R_371980)
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - Transfer Pricing](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern---Transfer-Pricing_773275WD)
+- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009)

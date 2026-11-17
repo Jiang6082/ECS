@@ -1,9 +1,9 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-17T16:38:23.702Z
+Scanned: 2026-11-17T21:39:01.050Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 99
+Internship roles: 96
 Entry-level analyst roles: 32
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
@@ -93,7 +93,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **RCLCO** — [2027 Summer Intern, Real Estate Economics & Consulting](https://job-boards.greenhouse.io/rclco/jobs/8266046) — Austin / Los Angeles / Washington, D.C. (Official ATS Greenhouse:rclco; timing: 2027 Summer)
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401579009) — Los Angeles, California, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
 - **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401585009) — Washington, District of Columbia, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
-- **Secretariat** — [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) — Chicago, Illinois, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027)
 - **Secretariat** — [Intern, Damages and Valuations](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) — München, Bavaria, Germany (Official ATS Greenhouse:secretariatadvisorsllc; timing not stated in title)
 - **Secretariat** — [Intern, Economics (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4408897009) — Washington, District of Columbia, United States (Official ATS Greenhouse:secretariatadvisorsllc; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Stout** — [Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH](https://stout.wd5.myworkdayjobs.com/Stout-Careers/job/Cleveland-OH/Summer-2027-Intern---Disputes--Claims---Investigations--Cleveland--OH_r2181-2) — Location not listed (Official ATS Workday:stout/Stout-Careers; timing: Summer 2027)
@@ -106,8 +105,6 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) — San Francisco, California, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) — New York, New York, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
-- **Trinity Life Sciences** — [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) — New York, NY (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
-- **Trinity Life Sciences** — [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) — San Francisco, CA (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
 - **Trinity Life Sciences** — [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) — Waltham, MA - Headquarters (Official ATS Workday:trinitylifesciences/Trinity; timing: Summer)
 
 ## Entry-Level Analyst Roles
