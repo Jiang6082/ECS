@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T21:43:20.789Z",
-  "scanStartedAt": "2026-11-17T21:41:09.230Z",
+  "generatedAt": "2026-11-18T21:21:13.210Z",
+  "scanStartedAt": "2026-11-18T21:19:30.742Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 26,
-    "confirmed-no-open-postings": 6,
-    "confirmed-openings-no-matching-role": 30,
-    "could-not-fully-verify": 170
+    "matching-role-found": 24,
+    "confirmed-no-open-postings": 5,
+    "confirmed-openings-no-matching-role": 27,
+    "could-not-fully-verify": 176
   },
   "companies": [
     {
@@ -16,13 +16,13 @@
         "Analysis Group"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "matching-role-found",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.analysisgroup.com/careers/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 15,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -31,14 +31,14 @@
         "Cornerstone Research"
       ],
       "category": "Litigation, Antitrust & Damages",
-      "status": "matching-role-found",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.cornerstone.com/careers/analyst/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 14,
-      "relevantRoles": 2
+      "jobsSeen": 0,
+      "relevantRoles": 0
     },
     {
       "company": "Compass Lexecon",
@@ -170,7 +170,7 @@
       "careerPages": [
         "https://www.fticonsulting.com/careers"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -185,7 +185,7 @@
       "careerPages": [
         "https://econone.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -812,7 +812,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 96,
+      "jobsSeen": 102,
       "relevantRoles": 2
     },
     {
@@ -951,7 +951,7 @@
       "careerPages": [
         "https://my.batestech.edu/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -966,7 +966,7 @@
       "careerPages": [
         "https://alvarezguitars.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1115,7 +1115,7 @@
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1147,7 +1147,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 90,
+      "jobsSeen": 89,
       "relevantRoles": 8
     },
     {
@@ -1203,7 +1203,7 @@
       "careerPages": [
         "https://diw-econ.de/en/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1309,7 +1309,7 @@
       "careerPages": [
         "https://www.learlab.com/careers/vacancies/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1367,7 +1367,7 @@
       "careerPages": [
         "https://cebr.com/join-the-team/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1410,7 +1410,7 @@
       "careerPages": [
         "https://volterrakirkland.com/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1487,7 +1487,7 @@
         "https://www.analysysmason.com/careers/your-career-journey/",
         "https://careers.smartrecruiters.com/AnalysysMason1"
       ],
-      "livePages": 1,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 39,
       "relevantRoles": 0
@@ -1504,9 +1504,9 @@
         "https://www.baringa.com/en/careers/experienced/",
         "https://job-boards.greenhouse.io/baringa"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 94,
+      "jobsSeen": 90,
       "relevantRoles": 0
     },
     {
@@ -1521,7 +1521,7 @@
         "https://www.delta.com/us/en/careers/students-and-early-careers",
         "https://www.delta.com/us/en/careers/overview"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1767,7 +1767,7 @@
       "careerPages": [
         "https://asktheref.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1808,7 +1808,7 @@
       "careerPages": [
         "https://www.dkmedigroup.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1836,7 +1836,7 @@
       "careerPages": [
         "https://steer.education/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2288,7 +2288,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 16,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -2314,13 +2314,13 @@
         "The Cadmus Group"
       ],
       "category": "Energy & Environmental Economics",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://cadmusgroup.com/careers/",
         "https://cadmusgroup.com/search-careers/",
         "https://careers-cadmusgroup.icims.com/jobs/intro"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2440,7 +2440,7 @@
       "careerPages": [
         "https://www.keysermarston.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2530,7 +2530,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 5,
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -2569,7 +2569,7 @@
       "careerPages": [
         "https://econw.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2719,7 +2719,7 @@
       "careerPages": [
         "https://www.scottmadden.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2899,7 +2899,7 @@
       "careerPages": [
         "https://www.kpmguscareers.com/early-career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2915,7 +2915,7 @@
         "https://www.grants.gov/",
         "https://grantable.co/grants"
       ],
-      "livePages": 2,
+      "livePages": 1,
       "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2932,7 +2932,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 666,
+      "jobsSeen": 664,
       "relevantRoles": 4
     },
     {
@@ -2945,9 +2945,9 @@
       "careerPages": [
         "https://jobs.rsmus.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 658,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3003,7 +3003,7 @@
         "Andersen (Transfer Pricing)"
       ],
       "category": "Transfer Pricing & Valuation",
-      "status": "confirmed-no-open-postings",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://careers.andersen.com/jobs/7462?lang=en-us"
       ],
@@ -3097,7 +3097,7 @@
         "https://www.kpmguscareers.com/early-career/",
         "https://www.kpmguscareers.com/job-search/"
       ],
-      "livePages": 3,
+      "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3158,7 +3158,7 @@
       "careerPages": [
         "https://jobs.lever.co/avalerehealth"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3199,13 +3199,13 @@
         "Health Management Associates"
       ],
       "category": "Health Economics & HEOR",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.healthmanagement.com/career-opportunities/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 9,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3229,13 +3229,13 @@
         "Lumanity"
       ],
       "category": "Health Economics & HEOR",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://lumanity.com/careers/current-openings/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3250,7 +3250,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1042,
+      "jobsSeen": 1041,
       "relevantRoles": 0
     },
     {
@@ -3326,7 +3326,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 12,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3367,13 +3367,13 @@
         "Wakely Consulting Group"
       ],
       "category": "Health Economics & HEOR",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.wakely.com/join-our-team/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {

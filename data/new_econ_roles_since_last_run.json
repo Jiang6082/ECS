@@ -1,49 +1,38 @@
 {
-  "generatedAt": "2026-11-17T21:43:20.845Z",
-  "previousScanAt": "2026-11-17T16:40:13.522Z",
-  "currentScanAt": "2026-11-17T21:41:09.230Z",
-  "previousRows": 101,
-  "currentRows": 98,
-  "added": [
-    {
-      "Company": "Analysis Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)",
-      "Location": "Boston, MA, US | Los Angeles, CA, US | New York, NY, US",
-      "Region": "North America",
-      "URL": "https://analystcareers-analysisgroup.icims.com/jobs/3064/job",
-      "Source": "Official ATS iCIMS:analystcareers-analysisgroup",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "FTI Consulting (Economic Consulting)",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "2027 Intern, Economic & Financial Consulting",
-      "Location": "Paris, France",
-      "Region": "Europe",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/ET-2027--Intern--Economic---Financial-Consulting_JR261872",
-      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "FTI Consulting (Economic Consulting)",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Intern, Economic & Financial Consulting",
-      "Location": "Madrid, Spain",
-      "Region": "Europe",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682",
-      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "Status": "Confirmed official posting"
-    }
-  ],
+  "generatedAt": "2026-11-18T21:21:13.250Z",
+  "previousScanAt": "2026-11-17T21:41:09.230Z",
+  "currentScanAt": "2026-11-18T21:19:30.742Z",
+  "previousRows": 98,
+  "currentRows": 86,
+  "added": [],
   "removed": [
+    {
+      "Company": "Trinity Life Sciences",
+      "Category": "Health Economics & HEOR",
+      "Title": "VAP Summer Associate (NY)",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1",
+      "Source": "Official ATS Workday:trinitylifesciences/Trinity",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "Trinity Life Sciences",
+      "Category": "Health Economics & HEOR",
+      "Title": "VAP Summer Associate (SF)",
+      "Location": "San Francisco, CA",
+      "Region": "North America",
+      "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1",
+      "Source": "Official ATS Workday:trinitylifesciences/Trinity",
+      "Status": "Confirmed official posting"
+    },
     {
       "Company": "Secretariat",
       "Category": "Litigation, Antitrust & Damages",
       "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Denver, Colorado, United States",
+      "Location": "Chicago, Illinois, United States",
       "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009",
+      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
       "Source": "Career page Greenhouse:secretariatadvisorsllc",
       "Status": "Confirmed official posting"
     }

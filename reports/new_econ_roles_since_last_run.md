@@ -1,22 +1,21 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-17T16:40:13.522Z
-Current scan: 2026-11-17T21:41:09.230Z
-Previous rows: 101
-Current rows: 98
-New stable job URLs: 3
-No longer present: 1
+Previous scan: 2026-11-17T21:41:09.230Z
+Current scan: 2026-11-18T21:19:30.742Z
+Previous rows: 98
+Current rows: 86
+New stable job URLs: 0
+No longer present: 3
 
 ## New Roles By Region
 
-### North America (1)
+### North America (0)
 
-- **Analysis Group** - [Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3064/job) - Boston, MA, US | Los Angeles, CA, US | New York, NY, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup)
+_None._
 
-### Europe (2)
+### Europe (0)
 
-- **FTI Consulting (Economic Consulting)** - [2027 Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/ET-2027--Intern--Economic---Financial-Consulting_JR261872) - Paris, France - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers)
-- **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers)
+_None._
 
 ### Asia (0)
 
@@ -48,4 +47,6 @@ _None._
 
 ## No Longer Present
 
-- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401619009)
+- **Trinity Life Sciences** - [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1)
+- **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1)
+- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009)

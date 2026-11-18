@@ -1,11 +1,17 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 83
-Last updated: 2026-11-17T21:41:09.230Z
+Total closures recorded: 86
+Last updated: 2026-11-18T21:19:30.742Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-18 (3)
+
+- **Trinity Life Sciences** - [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1) - New York, NY
+- **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1) - San Francisco, CA
+- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009) - Chicago, Illinois, United States
 
 ### 2026-11-17 (4)
 

@@ -1,21 +1,19 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-11-17T21:41:09.230Z
+Scan started: 2026-11-18T21:19:30.742Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
-## Matching Roles Found (26)
+## Matching Roles Found (24)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
-| Analysis Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.analysisgroup.com/careers/) |
-| Cornerstone Research | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.cornerstone.com/careers/analyst/) |
 | Compass Lexecon | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.compasslexecon.com/careers/students-graduates) |
 | Charles River Associates | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.crai.com/cra-careers/jobs/) |
 | NERA Economic Consulting | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.nera.com/open-roles.html) |
 | The Brattle Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.brattle.com/careers/current-openings/) |
 | Berkeley Research Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.thinkbrg.com/careers/early-careers/) |
-| FTI Consulting (Economic Consulting) | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.fticonsulting.com/careers) |
+| FTI Consulting (Economic Consulting) | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://www.fticonsulting.com/careers) |
 | Secretariat | Litigation, Antitrust & Damages | 3/3 pages live | [link](https://secretariat-intl.com/careers/current-openings/) [link](https://secretariat-intl.com/careers/) [link](https://job-boards.greenhouse.io/secretariatadvisorsllc/) |
 | Ankura | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://ankura.com/job-openings) |
 | Stout | Transfer Pricing & Valuation | 3/3 pages live | [link](https://www.stout.com/en/careers) [link](https://www.stout.com/en/careers/search) [link](https://stout.wd5.myworkdayjobs.com/Stout-Careers) |
@@ -28,14 +26,14 @@ Canonical companies after aliases: 232
 | RCLCO | Policy & Research Economics | 1/1 pages live | [link](https://job-boards.greenhouse.io/rclco) |
 | Energy + Environmental Economics (E3) | Energy & Environmental Economics | 1/1 pages live | [link](https://www.ethree.com/careers/) |
 | PwC (Economics / Transfer Pricing / Forensics) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://jobs.us.pwc.com/entry-level-transfer-pricing) |
-| Grant Thornton (Transfer Pricing / Economics) | Transfer Pricing & Valuation | 2/2 pages live | [link](https://www.grants.gov/) [link](https://grantable.co/grants) |
+| Grant Thornton (Transfer Pricing / Economics) | Transfer Pricing & Valuation | 1/2 pages live | [link](https://www.grants.gov/) [link](https://grantable.co/grants) |
 | BDO (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.bdo.com/careers) |
 | PRECISIONheor (Precision AQ) | Health Economics & HEOR | 1/1 pages live | [link](https://job-boards.greenhouse.io/precisionaq) |
 | IQVIA (HEOR) | Health Economics & HEOR | 1/2 pages live | [link](https://jobs.iqvia.com/en) [link](https://iqvia.wd1.myworkdayjobs.com/IQVIA/) |
 | Trinity Life Sciences | Health Economics & HEOR | 1/1 pages live | [link](https://www.trinitychurch.com/) |
 | Oxford Economics | Macro & Economic Research | 1/1 pages live | [link](https://careers.oxfordeconomics.com/) |
 
-## Confirmed No Open Postings (6)
+## Confirmed No Open Postings (5)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
@@ -44,13 +42,13 @@ Canonical companies after aliases: 232
 | Economic & Planning Systems | Policy & Research Economics | 1/1 pages live | [link](https://www.epsys.com/careers) |
 | REMI | Policy & Research Economics | 1/1 pages live | [link](https://www.remi.com/careers/) |
 | Chmura Economics & Analytics | Policy & Research Economics | 1/1 pages live | [link](https://www.chmura.com/events) |
-| Andersen (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://careers.andersen.com/jobs/7462?lang=en-us) |
 
-## Confirmed Openings, No Matching Role (30)
+## Confirmed Openings, No Matching Role (27)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
-| Econ One | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://econone.com/careers/) |
+| Cornerstone Research | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.cornerstone.com/careers/analyst/) |
+| Econ One | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://econone.com/careers/) |
 | AlixPartners | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.alixpartners.com/careers/job-search/) |
 | Guidehouse | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://guidehouse.com/careers/internship) |
 | Houlihan Lokey (Dispute Resolution Consulting) | Litigation, Antitrust & Damages | no saved page attempted | none |
@@ -60,31 +58,28 @@ Canonical companies after aliases: 232
 | Frontier Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://frontier.edu/) |
 | Cornwall Insight | Energy & Environmental Economics | 1/1 pages live | [link](https://cornwallinsight.pinpointhq.com/) |
 | Fathom Consulting | Macro & Economic Research | 0/1 pages live | [link](https://www.fathom-consulting.com/career-enquiries/) |
-| Analysys Mason | Competition & Regulatory (Europe) | 1/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
-| Baringa | Energy & Environmental Economics | 3/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
+| Analysys Mason | Competition & Regulatory (Europe) | 3/3 pages live | [link](https://www.analysysmason.com/careers/) [link](https://www.analysysmason.com/careers/your-career-journey/) [link](https://careers.smartrecruiters.com/AnalysysMason1) |
+| Baringa | Energy & Environmental Economics | 2/3 pages live | [link](https://www.baringa.com/en/careers/) [link](https://www.baringa.com/en/careers/experienced/) [link](https://job-boards.greenhouse.io/baringa) |
 | SEO Amsterdam Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.seo-usa.org/) |
 | Axiom Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.axiomlaw.com/careers/lawyers) |
 | Nous Group | Economic Consulting (APAC) | no saved page attempted | none |
 | Abt Global | Policy & Research Economics | 1/1 pages live | [link](https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions) |
 | Eastern Research Group | Policy & Research Economics | 1/1 pages live | [link](https://www.erg.com/jobs) |
 | Urban Institute | Policy & Research Economics | 3/3 pages live | [link](https://www.urban.org/about/careers) [link](https://urban.wd115.myworkdayjobs.com/Urban-Careers/) [link](https://www.urban.org/tags/job-opportunities) |
-| The Cadmus Group | Energy & Environmental Economics | 3/3 pages live | [link](https://cadmusgroup.com/careers/) [link](https://cadmusgroup.com/search-careers/) [link](https://careers-cadmusgroup.icims.com/jobs/intro) |
 | HR&A Advisors | Policy & Research Economics | 1/1 pages live | [link](https://hraadvisors.applytojob.com/apply/) |
 | Lightcast | Policy & Research Economics | 1/1 pages live | [link](https://jobs.lever.co/economicmodeling/) |
 | Acumen | Policy & Research Economics | 1/1 pages live | [link](https://acumen.org/jobs/) |
 | Synapse Energy Economics | Energy & Environmental Economics | 1/1 pages live | [link](https://synapse.hire.trakstar.com/) |
 | Wood Mackenzie | Energy & Environmental Economics | 3/3 pages live | [link](https://www.woodmac.com/careers/overview/) [link](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers) [link](https://www.woodmac.com/careers/your-career/) |
-| Avalere Health | Health Economics & HEOR | 0/1 pages live | [link](https://jobs.lever.co/avalerehealth) |
-| Health Management Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.healthmanagement.com/career-opportunities/) |
-| Lumanity | Health Economics & HEOR | 1/1 pages live | [link](https://lumanity.com/careers/current-openings/) |
-| Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
+| Avalere Health | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.lever.co/avalerehealth) |
 | Capital Economics | Macro & Economic Research | 1/1 pages live | [link](https://apply.workable.com/capital-economics/) |
 | S&P Global (Economics) | Macro & Economic Research | no saved page attempted | none |
 
-## Could Not Fully Verify (170)
+## Could Not Fully Verify (176)
 
 | Company | Category | Source health | Saved pages |
 | --- | --- | --- | --- |
+| Analysis Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.analysisgroup.com/careers/) |
 | Bates White | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.bateswhite.com/careers/current-openings) |
 | Keystone Strategy | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.keystone.com/careers) |
 | Intensity | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://intensity.com/opening/analyst) |
@@ -128,36 +123,36 @@ Canonical companies after aliases: 232
 | Quadrant Economics | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://quadrant.gg/) |
 | Vocational Economics | Litigation, Antitrust & Damages | no saved page attempted | none |
 | ARPC | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://www.arpc.afrc.af.mil/Services/Assignments/) |
-| Bates Group | Litigation, Antitrust & Damages | 0/1 pages live | [link](https://my.batestech.edu/) |
-| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://alvarezguitars.com/) |
+| Bates Group | Litigation, Antitrust & Damages | 1/1 pages live | [link](https://my.batestech.edu/) |
+| Alvarez & Marsal (Disputes & Investigations) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://alvarezguitars.com/) |
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |
 | RBB Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.rbbecon.com/careers/) |
 | Copenhagen Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://copenhageneconomics.com/careers/vacancies/) |
 | Economic Insight | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.economic-insight.com/careers/) |
 | Europe Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CEPA | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.cepa.co.uk/careers/working-at-cepa) |
-| London Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
+| London Economics | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
 | Cambridge Econometrics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.camecon.com/careers) |
 | Swiss Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.swiss-economics.ch/career.html) |
 | Polynomics | Competition & Regulatory (Europe) | no saved page attempted | none |
-| DIW Econ | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://diw-econ.de/en/career/) |
+| DIW Econ | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://diw-econ.de/en/career/) |
 | WIK-Consult | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.wik.org/ueber-uns/karriere) |
 | Ecorys | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.ecorys.com/en/vacancies) |
 | Vivid Economics (McKinsey) | Competition & Regulatory (Europe) | 2/2 pages live | [link](https://www.vividseats.com/login?msockid=00f5230c6f6d64482ce834e86ee265c9) [link](https://www.vividseats.com/login?msockid=102cf583207b67a034ebe26721f4666d) |
 | Accuracy | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://careers.accuracy.com/) |
 | Economic Consulting Associates | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://jobs.gohire.io/economic-consulting-associates-limited-ngbjy15r/) |
-| Lear | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.learlab.com/careers/vacancies/) |
+| Lear | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://www.learlab.com/careers/vacancies/) |
 | Reckon LLP | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.reckon.co.uk/junior-consultant-opportunity) |
 | Perspective Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | DotEcon | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dotecon.com/careers) |
-| Cebr | Macro & Economic Research | 1/1 pages live | [link](https://cebr.com/join-the-team/) |
+| Cebr | Macro & Economic Research | 0/1 pages live | [link](https://cebr.com/join-the-team/) |
 | Pantheon Macroeconomics | Macro & Economic Research | no saved page attempted | none |
-| Volterra Partners | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://volterrakirkland.com/) |
+| Volterra Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://volterrakirkland.com/) |
 | Plum Consulting | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://www.plum.mobi/) |
 | Aldwych Partners | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.aldwychconsulting.com/) |
 | Indepen | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://indepenn.com/) |
 | First Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.firstphx.org/) |
-| LCP Delta | Energy & Environmental Economics | 3/3 pages live | [link](https://delta.lcp.com/careers) [link](https://www.delta.com/us/en/careers/students-and-early-careers) [link](https://www.delta.com/us/en/careers/overview) |
+| LCP Delta | Energy & Environmental Economics | 2/3 pages live | [link](https://delta.lcp.com/careers) [link](https://www.delta.com/us/en/careers/students-and-early-careers) [link](https://www.delta.com/us/en/careers/overview) |
 | AFRY Management Consulting | Energy & Environmental Economics | 1/1 pages live | [link](https://afry.com/en) |
 | Lexonomics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CE Delft | Energy & Environmental Economics | no saved page attempted | none |
@@ -173,12 +168,12 @@ Canonical companies after aliases: 232
 | THEMA Consulting Group | Energy & Environmental Economics | no saved page attempted | none |
 | Ramboll Management Consulting | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.ramboll.com/careers) |
 | Afi | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://fest.afi.com/) |
-| REF-E | Energy & Environmental Economics | 0/1 pages live | [link](https://asktheref.org/) |
+| REF-E | Energy & Environmental Economics | 1/1 pages live | [link](https://asktheref.org/) |
 | Prometeia | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Indecon | Competition & Regulatory (Europe) | no saved page attempted | none |
-| DKM Economic Consultants | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.dkmedigroup.com/) |
+| DKM Economic Consultants | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://www.dkmedigroup.com/) |
 | SQW | Competition & Regulatory (Europe) | no saved page attempted | none |
-| Steer | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://steer.education/) |
+| Steer | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://steer.education/) |
 | BiGGAR Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | Metro Dynamics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.metrostate.edu/students) |
 | HoustonKemp | Economic Consulting (APAC) | 1/1 pages live | [link](https://houstonkemp.com/careers/graduates/) |
@@ -205,17 +200,18 @@ Canonical companies after aliases: 232
 | Westat | Policy & Research Economics | 1/1 pages live | [link](https://www.westat.com/careers/) |
 | NORC at the University of Chicago | Policy & Research Economics | 1/1 pages live | [link](https://www.norc.org/about/careers/job-openings.html) |
 | American Institutes for Research | Policy & Research Economics | 1/1 pages live | [link](https://www.air.org/build-career-air) |
+| The Cadmus Group | Energy & Environmental Economics | 2/3 pages live | [link](https://cadmusgroup.com/careers/) [link](https://cadmusgroup.com/search-careers/) [link](https://careers-cadmusgroup.icims.com/jobs/intro) |
 | Chemonics International | Policy & Research Economics | 1/1 pages live | [link](https://www.chemonics.com/careers/) |
 | DAI Global | Policy & Research Economics | 1/1 pages live | [link](https://careers.daicompanies.com/) |
 | Econsult Solutions | Policy & Research Economics | 1/1 pages live | [link](https://econsultsolutions.com/careers/) |
 | BAE Urban Economics | Policy & Research Economics | 1/1 pages live | [link](https://www.bae1.com/careers) |
-| Keyser Marston Associates | Policy & Research Economics | 1/1 pages live | [link](https://www.keysermarston.com/careers/) |
+| Keyser Marston Associates | Policy & Research Economics | 0/1 pages live | [link](https://www.keysermarston.com/careers/) |
 | TischlerBise | Policy & Research Economics | no saved page attempted | none |
 | EBP US | Policy & Research Economics | 0/1 pages live | [link](https://www.ebp-us.com/en/job-openings-0) |
 | MDRC | Policy & Research Economics | 1/1 pages live | [link](https://www.mdrc.org/about/careers) |
 | Econometrica | Policy & Research Economics | no saved page attempted | none |
 | L&M Policy Research | Policy & Research Economics | no saved page attempted | none |
-| ECONorthwest | Policy & Research Economics | 1/1 pages live | [link](https://econw.com/careers/) |
+| ECONorthwest | Policy & Research Economics | 0/1 pages live | [link](https://econw.com/careers/) |
 | Beacon Economics | Policy & Research Economics | 0/1 pages live | [link](https://beacons.ai/) |
 | Camoin Associates | Policy & Research Economics | 1/1 pages live | [link](https://charles-camoin.com/en/home/charles-camoin/work/) |
 | Estolano Advisors | Policy & Research Economics | 1/1 pages live | [link](https://estolanoadvisors.com/careers) |
@@ -223,7 +219,7 @@ Canonical companies after aliases: 232
 | Christensen Associates Energy Consulting | Energy & Environmental Economics | 1/1 pages live | [link](https://www.caenergy.com/careers/) |
 | London Economics International | Energy & Environmental Economics | 1/1 pages live | [link](https://londoneconomics.com/careers) |
 | Concentric Energy Advisors | Energy & Environmental Economics | 1/1 pages live | [link](https://ceadvisors.com/careers/) |
-| ScottMadden | Energy & Environmental Economics | 1/1 pages live | [link](https://www.scottmadden.com/careers/) |
+| ScottMadden | Energy & Environmental Economics | 0/1 pages live | [link](https://www.scottmadden.com/careers/) |
 | Demand Side Analytics | Energy & Environmental Economics | 1/1 pages live | [link](https://demandsideanalytics.com/careers/) |
 | Resources for the Future | Energy & Environmental Economics | 1/1 pages live | [link](https://www.rff.org/careers/) |
 | Rhodium Group | Energy & Environmental Economics | no saved page attempted | none |
@@ -232,21 +228,24 @@ Canonical companies after aliases: 232
 | Opinion Dynamics | Energy & Environmental Economics | 2/3 pages live | [link](https://opiniondynamics.com/job-openings/) [link](https://job-boards.greenhouse.io/opiniondynamics) [link](https://opiniondynamics.com/about-us/) |
 | Deloitte (Economics / Transfer Pricing) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://apply.deloitte.com/en_US/careers/SearchJobs/) |
 | EY (QUEST / Economic Advisory / Transfer Pricing) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://usearlycareers.ey.com/) |
-| KPMG (Economic & Valuation Services) | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmguscareers.com/early-career/) |
-| RSM (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://jobs.rsmus.com/) |
+| KPMG (Economic & Valuation Services) | Big 4 & Advisory Economics | 0/1 pages live | [link](https://www.kpmguscareers.com/early-career/) |
+| RSM (Transfer Pricing) | Transfer Pricing & Valuation | 0/1 pages live | [link](https://jobs.rsmus.com/) |
 | Crowe (Transfer Pricing) | Transfer Pricing & Valuation | 2/3 pages live | [link](https://www.crowe.com/careers) [link](https://careers.crowe.com/) [link](https://careers.crowe.com/student-careers) |
 | Baker Tilly (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://bakerconstruction.com/) |
 | Ryan (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://www.ryan.com/who-we-are/careers) |
+| Andersen (Transfer Pricing) | Transfer Pricing & Valuation | 1/1 pages live | [link](https://careers.andersen.com/jobs/7462?lang=en-us) |
 | Economics Partners | Transfer Pricing & Valuation | no saved page attempted | none |
 | Deloitte UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html) |
 | KPMG UK Economics | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.kpmgcareers.co.uk/) |
 | EY UK Economic Advisory | Big 4 & Advisory Economics | 1/1 pages live | [link](https://ukcareers.ey.com/students/programmes/undergraduate-programmes/summer-internship-programme/economic-advisory-summer-internship) |
 | Grant Thornton UK Economic Consulting | Big 4 & Advisory Economics | 1/1 pages live | [link](https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/) |
-| KPMG Singapore Economics & Regulation | Big 4 & Advisory Economics | 3/3 pages live | [link](https://kpmg.com/us/en.html) [link](https://www.kpmguscareers.com/early-career/) [link](https://www.kpmguscareers.com/job-search/) |
+| KPMG Singapore Economics & Regulation | Big 4 & Advisory Economics | 1/3 pages live | [link](https://kpmg.com/us/en.html) [link](https://www.kpmguscareers.com/early-career/) [link](https://www.kpmguscareers.com/job-search/) |
 | Evidera (Thermo Fisher) | Health Economics & HEOR | 1/1 pages live | [link](https://jobs.thermofisher.com/global/en/) |
 | Dobson DaVanzo & Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.dobsondavanzo.com/careers/) |
 | Milliman | Health Economics & HEOR | 1/1 pages live | [link](https://careers.milliman.com/en/Search) |
+| Health Management Associates | Health Economics & HEOR | 1/1 pages live | [link](https://www.healthmanagement.com/career-opportunities/) |
 | Genesis Research Group | Health Economics & HEOR | 1/1 pages live | [link](https://genesisrg.com/careers/) |
+| Lumanity | Health Economics & HEOR | 1/1 pages live | [link](https://lumanity.com/careers/current-openings/) |
 | Xcenda (Cencora) | Health Economics & HEOR | 1/1 pages live | [link](https://www.xcenda.com/careers-student-programs) |
 | OPEN Health | Health Economics & HEOR | 3/3 pages live | [link](https://www.openhealthgroup.com/careers/) [link](http://careers.openhealthgroup.com/) [link](https://www.openhealthgroup.com/open-roles/) |
 | Medicus Economics | Health Economics & HEOR | 1/1 pages live | [link](https://medicushcs.com/) |
@@ -254,5 +253,6 @@ Canonical companies after aliases: 232
 | RTI Health Solutions | Health Economics & HEOR | 2/2 pages live | [link](https://www.rti.org/careers) [link](https://careers.rti.org/) |
 | Broadstreet HEOR | Health Economics & HEOR | 1/1 pages live | [link](https://broadstreetglobal.com/) |
 | Health Advances | Health Economics & HEOR | 1/3 pages live | [link](https://www.healthadvances.com/careers) [link](https://www.healthadvances.com/careers/explore) [link](https://healthadvances.hrmdirect.com/employment/job-openings.php?search=true) |
+| Wakely Consulting Group | Health Economics & HEOR | 1/1 pages live | [link](https://www.wakely.com/join-our-team/) |
 | Moody's Analytics (Economics) | Macro & Economic Research | 1/1 pages live | [link](https://careers.moodys.com/en/search-jobs) |
 
