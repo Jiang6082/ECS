@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-17T21:41:09.230Z
-Current scan: 2026-11-18T21:19:30.742Z
-Previous rows: 98
-Current rows: 86
-New stable job URLs: 0
-No longer present: 3
+Previous scan: 2026-11-18T21:19:30.742Z
+Current scan: 2026-11-19T21:22:01.445Z
+Previous rows: 86
+Current rows: 99
+New stable job URLs: 2
+No longer present: 1
 
 ## New Roles By Region
 
@@ -13,9 +13,9 @@ No longer present: 3
 
 _None._
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Stage---International-Tax---Transfer-Pricing---Milano--TAX-_774911WD) - Milan - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers)
 
 ### Asia (0)
 
@@ -41,12 +41,10 @@ _None._
 
 _None._
 
-### Remote / Unspecified (0)
+### Remote / Unspecified (1)
 
-_None._
+- **ICF** - [Energy Market Intern](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Energy-Market-Intern_R2603883) - 2 Locations - Confirmed official posting (Official ATS Workday:icf/ICFExternal_Career_Site)
 
 ## No Longer Present
 
-- **Trinity Life Sciences** - [VAP Summer Associate (NY)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1)
-- **Trinity Life Sciences** - [VAP Summer Associate (SF)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1)
-- **Secretariat** - [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009)
+- **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE)

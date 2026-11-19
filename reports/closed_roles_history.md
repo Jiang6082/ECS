@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 86
-Last updated: 2026-11-18T21:19:30.742Z
+Total closures recorded: 87
+Last updated: 2026-11-19T21:22:01.445Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-19 (1)
+
+- **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) - Singapore, Singapore
 
 ### 2026-11-18 (3)
 

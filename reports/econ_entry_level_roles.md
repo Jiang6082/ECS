@@ -1,12 +1,15 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-18T21:19:30.742Z
-Roles: 27
+Scanned: 2026-11-19T21:22:01.445Z
+Roles: 34
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
-### North America (17)
+### North America (21)
 
+- **Analysis Group** - [Analyst - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3020/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Associate - Generalist - Montreal / Toronto (2027 Start Date) | Responsable de projets - Généraliste - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3050/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
+- **Analysis Group** - [Associate - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://associatecareers-analysisgroup.icims.com/jobs/2959/job) - Boston, MA, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Ankura** - [University Associate, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Associate--Disputes---Economics---Financial-Services-Advisory_R104988) - Washington D.C. - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **Ankura** - [University Associate, Disputes & Economics - Financial Services Advisory (NYC)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Associate--Disputes---Economics---Financial-Services-Advisory--NYC-_R104989) - New York, NY - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
 - **Ankura** - [University Associate, Disputes & Economics - Healthcare and Life Sciences](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/University-Associate--Disputes---Economics---Healthcare-and-Life-Sciences_R104973) - Chicago, IL - Confirmed official posting (Official ATS Workday:ankura/Ankura): timing not stated in title
@@ -24,13 +27,17 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **HR&A Advisors** - [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/j8PTH47DgC/Research-Analyst-Real-Estate) - Raleigh, NC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **J.S. Held** - [Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)](https://jobs.smartrecruiters.com/JSHeldLLC/744000145775910) - San Francisco, CA, us - Confirmed official posting (Career page SmartRecruiters:JSHeldLLC): career_page=https://careers.smartrecruiters.com/JSHeldLLC | timing: Summer 2027
 - **Oxford Economics** - [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) - New York, US - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing not stated in title
+- **The Cadmus Group** - [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) - Arlington, VA, US | Boston, MA, US | Waltham, MA, US - Confirmed official posting (Official ATS iCIMS:careers-cadmusgroup): timing not stated in title
 
-### Europe (1)
+### Europe (3)
 
+- **Analysis Group** - [Analyst - Generalist - London (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2956/job) - London, UK - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [Research Associate, Ireland](https://careers.auroraer.com/en/postings/f8966b28-4438-40b1-b526-55230a4acc34) - Oxford, UK - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
+- **Cornerstone Research** - [Analyst, Brussels](https://ugbe-chire.icims.com/jobs/4082/job) - BE-Brussels - Confirmed official posting (Career page iCIMS:ugbe-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing not stated in title
 
-### Asia (4)
+### Asia (5)
 
+- **Analysis Group** - [Analyst - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/2990/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Aurora Energy Research** - [2028 Graduate Analyst Opportunity (Tokyo)](https://careers.auroraer.com/en/postings/36016ed0-32b1-44ac-8d33-0f5ae74932c9) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing: 2028
 - **Aurora Energy Research** - [Research Associate](https://careers.auroraer.com/en/postings/f564f5e6-867d-4bed-92ec-7b8ca70ffe31) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **Compass Lexecon** - [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) - Beijing, China - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: 2026

@@ -1,39 +1,40 @@
 {
-  "generatedAt": "2026-11-18T21:21:13.250Z",
-  "previousScanAt": "2026-11-17T21:41:09.230Z",
-  "currentScanAt": "2026-11-18T21:19:30.742Z",
-  "previousRows": 98,
-  "currentRows": 86,
-  "added": [],
+  "generatedAt": "2026-11-19T21:23:58.197Z",
+  "previousScanAt": "2026-11-18T21:19:30.742Z",
+  "currentScanAt": "2026-11-19T21:22:01.445Z",
+  "previousRows": 86,
+  "currentRows": 99,
+  "added": [
+    {
+      "Company": "ICF",
+      "Category": "Policy & Research Economics",
+      "Title": "Energy Market Intern",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Energy-Market-Intern_R2603883",
+      "Source": "Official ATS Workday:icf/ICFExternal_Career_Site",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Stage - International Tax & Transfer Pricing - Milano [TAX]",
+      "Location": "Milan",
+      "Region": "Europe",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Stage---International-Tax---Transfer-Pricing---Milano--TAX-_774911WD",
+      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "Status": "Confirmed official posting"
+    }
+  ],
   "removed": [
     {
-      "Company": "Trinity Life Sciences",
-      "Category": "Health Economics & HEOR",
-      "Title": "VAP Summer Associate (NY)",
-      "Location": "New York, NY",
-      "Region": "North America",
-      "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/VAP-Summer-Associate--NY-_JR100764-1",
-      "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Trinity Life Sciences",
-      "Category": "Health Economics & HEOR",
-      "Title": "VAP Summer Associate (SF)",
-      "Location": "San Francisco, CA",
-      "Region": "North America",
-      "URL": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/VAP-Summer-Associate--SF-_JR100765-1",
-      "Source": "Official ATS Workday:trinitylifesciences/Trinity",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "Secretariat",
+      "Company": "FTI Consulting (Economic Consulting)",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "Intern, Damages & Valuations (Summer 2027)",
-      "Location": "Chicago, Illinois, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4401614009",
-      "Source": "Career page Greenhouse:secretariatadvisorsllc",
+      "Title": "2027 Internship, Risk & Investigations, Forensic and Litigation Consulting",
+      "Location": "Singapore, Singapore",
+      "Region": "Asia",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
       "Status": "Confirmed official posting"
     }
   ]
