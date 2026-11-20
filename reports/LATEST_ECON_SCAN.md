@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-19T21:22:01.445Z
+Last updated: 2026-11-20T21:00:58.334Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 225
-- Current internship roles: 99
-- Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 2
-- No longer present since previous scan: 1
+- Current internship roles: 94
+- Entry-level analyst roles: 35 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 2
 - Firms with matching roles: 26
 - Confirmed no open postings: 6
 - Openings but no matching role: 31
@@ -17,13 +17,13 @@ Last updated: 2026-11-19T21:22:01.445Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 69
-- Transfer Pricing & Valuation: 7
+- Litigation, Antitrust & Damages: 66
 - Big 4 & Advisory Economics: 7
+- Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
-- Health Economics & HEOR: 4
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 3
+- Health Economics & HEOR: 3
 - Macro & Economic Research: 1
 
 ## New Roles Since Previous Scan
@@ -32,9 +32,9 @@ Last updated: 2026-11-19T21:22:01.445Z
 
 _None._
 
-### Europe (1)
+### Europe (0)
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Stage---International-Tax---Transfer-Pricing---Milano--TAX-_774911WD) - Milan
+_None._
 
 ### Asia (0)
 
@@ -60,13 +60,14 @@ _None._
 
 _None._
 
-### Remote / Unspecified (1)
+### Remote / Unspecified (0)
 
-- **ICF** - [Energy Market Intern](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Energy-Market-Intern_R2603883) - 2 Locations
+_None._
 
 ## No Longer Present
 
-- **FTI Consulting (Economic Consulting)** - [2027 Internship, Risk & Investigations, Forensic and Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Singapore-Singapore/Intern--Risk---Investigations--between-Aug-Sept-to-Dec-2026----Forensic-and-Litigation-Consulting_JR250SB-TEE) - Singapore, Singapore
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) - Milan
+- **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy
 
 ## Full Reports
 

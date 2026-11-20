@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-19T21:22:01.445Z",
+  "searchedAt": "2026-11-20T21:00:58.334Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -308,10 +308,10 @@
         },
         {
           "source": "iCIMS:professionalcareers-analysisgroup",
-          "jobsSeen": 10
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 14,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -679,10 +679,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 41
+          "jobsSeen": 40
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -711,10 +711,10 @@
       "boards": [
         {
           "source": "Workday:stout/Stout-Experienced-Careers",
-          "jobsSeen": 41
+          "jobsSeen": 40
         }
       ],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -1075,14 +1075,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 104
+          "jobsSeen": 107
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 104,
+      "jobsSeen": 107,
       "relevantRoles": 2
     },
     {
@@ -1365,10 +1365,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 87
+          "jobsSeen": 88
         }
       ],
-      "jobsSeen": 87,
+      "jobsSeen": 88,
       "relevantRoles": 8
     },
     {
@@ -1662,10 +1662,18 @@
       "boards": [
         {
           "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 39
+          "jobsSeen": 38
+        },
+        {
+          "source": "SmartRecruiters:cdn-cgi",
+          "jobsSeen": 0
+        },
+        {
+          "source": "SmartRecruiters:external-referrals",
+          "jobsSeen": 0
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -1684,13 +1692,9 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse_eu": [
-          "baringa"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1714,10 +1718,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 89
+          "jobsSeen": 101
         }
       ],
-      "jobsSeen": 89,
+      "jobsSeen": 101,
       "relevantRoles": 0
     },
     {
@@ -2967,11 +2971,11 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 659
+          "jobsSeen": 650
         }
       ],
-      "jobsSeen": 659,
-      "relevantRoles": 5
+      "jobsSeen": 650,
+      "relevantRoles": 4
     },
     {
       "company": "RSM (Transfer Pricing)",
@@ -2991,10 +2995,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 666
+          "jobsSeen": 657
         }
       ],
-      "jobsSeen": 666,
+      "jobsSeen": 657,
       "relevantRoles": 0
     },
     {
@@ -3332,14 +3336,14 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 23
+          "jobsSeen": 22
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 44,
+      "jobsSeen": 43,
       "relevantRoles": 0
     },
     {
@@ -3360,10 +3364,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1042
+          "jobsSeen": 1031
         }
       ],
-      "jobsSeen": 1042,
+      "jobsSeen": 1031,
       "relevantRoles": 0
     },
     {
@@ -3467,10 +3471,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 12
+          "jobsSeen": 11
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantRoles": 0
     },
     {
