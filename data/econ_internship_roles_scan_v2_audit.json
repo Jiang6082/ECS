@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-20T21:00:58.334Z",
+  "searchedAt": "2026-11-21T20:02:26.776Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1075,15 +1075,15 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 107
+          "jobsSeen": 104
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 107,
-      "relevantRoles": 2
+      "jobsSeen": 104,
+      "relevantRoles": 0
     },
     {
       "company": "J.S. Held",
@@ -1692,9 +1692,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -2298,10 +2302,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 12
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -2971,10 +2975,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 650
+          "jobsSeen": 647
         }
       ],
-      "jobsSeen": 650,
+      "jobsSeen": 647,
       "relevantRoles": 4
     },
     {
@@ -2995,10 +2999,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 657
+          "jobsSeen": 656
         }
       ],
-      "jobsSeen": 657,
+      "jobsSeen": 656,
       "relevantRoles": 0
     },
     {
@@ -3297,10 +3301,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 9
+          "jobsSeen": 8
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {
@@ -3364,10 +3368,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1031
+          "jobsSeen": 1030
         }
       ],
-      "jobsSeen": 1031,
+      "jobsSeen": 1030,
       "relevantRoles": 0
     },
     {

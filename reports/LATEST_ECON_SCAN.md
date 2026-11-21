@@ -1,23 +1,23 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-20T21:00:58.334Z
+Last updated: 2026-11-21T20:02:26.776Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 225
-- Current internship roles: 94
-- Entry-level analyst roles: 35 ([list](econ_entry_level_roles.md))
+- Current internship roles: 93
+- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 2
-- Firms with matching roles: 26
-- Confirmed no open postings: 6
+- No longer present since previous scan: 3
+- Firms with matching roles: 25
+- Confirmed no open postings: 7
 - Openings but no matching role: 31
 - Could not fully verify: 169
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 66
+- Litigation, Antitrust & Damages: 65
 - Big 4 & Advisory Economics: 7
 - Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
@@ -66,8 +66,9 @@ _None._
 
 ## No Longer Present
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Intern - International Tax & Transfer Pricing - Milano [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1) - Milan
-- **IQVIA (HEOR)** - [Health Economics internship](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642) - Milan, Italy
+- **IQVIA (HEOR)** - [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888) - 3 Locations
+- **FTI Consulting (Economic Consulting)** - [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971) - Milan (Torre Velasca)
+- **FTI Consulting (Economic Consulting)** - [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723) - London, United Kingdom
 
 ## Full Reports
 

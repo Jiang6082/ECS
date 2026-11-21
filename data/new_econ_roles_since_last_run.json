@@ -1,29 +1,39 @@
 {
-  "generatedAt": "2026-11-20T21:03:09.219Z",
-  "previousScanAt": "2026-11-19T21:22:01.445Z",
-  "currentScanAt": "2026-11-20T21:00:58.334Z",
-  "previousRows": 99,
-  "currentRows": 94,
+  "generatedAt": "2026-11-21T20:04:23.910Z",
+  "previousScanAt": "2026-11-20T21:00:58.334Z",
+  "currentScanAt": "2026-11-21T20:02:26.776Z",
+  "previousRows": 94,
+  "currentRows": 93,
   "added": [],
   "removed": [
     {
-      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
-      "Category": "Big 4 & Advisory Economics",
-      "Title": "Intern - International Tax & Transfer Pricing - Milano [TAX]",
-      "Location": "Milan",
-      "Region": "Europe",
-      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Intern---International-Tax---Transfer-Pricing---Milano--TAX-_747803WD-1",
-      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
+      "Company": "IQVIA (HEOR)",
+      "Category": "Health Economics & HEOR",
+      "Title": "真实世界证据实习生 Real World Evidence Intern",
+      "Location": "3 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888",
+      "Source": "Official ATS Workday:iqvia/IQVIA",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "IQVIA (HEOR)",
-      "Category": "Health Economics & HEOR",
-      "Title": "Health Economics internship",
-      "Location": "Milan, Italy",
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Graduate Intern, Economic & Financial Consulting",
+      "Location": "Milan (Torre Velasca)",
       "Region": "Europe",
-      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Milan-Italy/Health-Economics-internship_R1572642",
-      "Source": "Official ATS Workday:iqvia/IQVIA",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "FTI Consulting (Economic Consulting)",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "2027 Summer Internship, Economic & Financial Consulting",
+      "Location": "London, United Kingdom",
+      "Region": "Europe",
+      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723",
+      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
       "Status": "Confirmed official posting"
     }
   ]
