@@ -1,39 +1,40 @@
 {
-  "generatedAt": "2026-11-21T20:04:23.910Z",
-  "previousScanAt": "2026-11-20T21:00:58.334Z",
-  "currentScanAt": "2026-11-21T20:02:26.776Z",
-  "previousRows": 94,
+  "generatedAt": "2026-11-22T20:19:00.008Z",
+  "previousScanAt": "2026-11-21T20:02:26.776Z",
+  "currentScanAt": "2026-11-22T20:17:10.451Z",
+  "previousRows": 93,
   "currentRows": 93,
-  "added": [],
+  "added": [
+    {
+      "Company": "The Brattle Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
+      "Location": "Chicago, Illinois, United States",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005",
+      "Source": "Official ATS Greenhouse:thebrattlegroup",
+      "Status": "Confirmed official posting"
+    }
+  ],
   "removed": [
     {
-      "Company": "IQVIA (HEOR)",
-      "Category": "Health Economics & HEOR",
-      "Title": "真实世界证据实习生 Real World Evidence Intern",
-      "Location": "3 Locations",
-      "Region": "Remote / Unspecified",
-      "URL": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888",
-      "Source": "Official ATS Workday:iqvia/IQVIA",
+      "Company": "The Brattle Group",
+      "Category": "Litigation, Antitrust & Damages",
+      "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
+      "Location": "San Francisco, California, United States",
+      "Region": "North America",
+      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
+      "Source": "Official ATS Greenhouse:thebrattlegroup",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "FTI Consulting (Economic Consulting)",
+      "Company": "J.S. Held",
       "Category": "Litigation, Antitrust & Damages",
-      "Title": "2027 Graduate Intern, Economic & Financial Consulting",
-      "Location": "Milan (Torre Velasca)",
-      "Region": "Europe",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971",
-      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "FTI Consulting (Economic Consulting)",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "2027 Summer Internship, Economic & Financial Consulting",
-      "Location": "London, United Kingdom",
-      "Region": "Europe",
-      "URL": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723",
-      "Source": "Official ATS Workday:fticonsulting/FTIConsultingCareers",
+      "Title": "Economic Damages & Valuation Internship - Summer 2027",
+      "Location": "Alpharetta, GA, us",
+      "Region": "North America",
+      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038",
+      "Source": "Career page SmartRecruiters:JSHeldLLC",
       "Status": "Confirmed official posting"
     }
   ]

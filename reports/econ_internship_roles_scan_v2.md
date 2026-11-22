@@ -1,6 +1,6 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-21T20:02:26.776Z
+Scanned: 2026-11-22T20:17:10.451Z
 Firms searched: 232
 Career pages checked: 225
 Internship roles/leads retained: 93
@@ -143,6 +143,7 @@ _None._
 - Andersen (Transfer Pricing)
 - Chmura Economics & Analytics
 - Coherent Economics
+- Cornwall Insight
 - Economic & Planning Systems
 - Edgeworth Economics
 - REMI
@@ -158,7 +159,6 @@ _None._
 - Axiom Economics
 - Baringa
 - Capital Economics
-- Cornwall Insight
 - Eastern Research Group
 - Econ One
 - Fathom Consulting

@@ -1,17 +1,17 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-20T21:00:58.334Z
-Current scan: 2026-11-21T20:02:26.776Z
-Previous rows: 94
+Previous scan: 2026-11-21T20:02:26.776Z
+Current scan: 2026-11-22T20:17:10.451Z
+Previous rows: 93
 Current rows: 93
-New stable job URLs: 0
-No longer present: 3
+New stable job URLs: 1
+No longer present: 2
 
 ## New Roles By Region
 
-### North America (0)
+### North America (1)
 
-_None._
+- **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) - Chicago, Illinois, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup)
 
 ### Europe (0)
 
@@ -47,6 +47,5 @@ _None._
 
 ## No Longer Present
 
-- **IQVIA (HEOR)** - [真实世界证据实习生 Real World Evidence Intern](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/-Real-World-Evidence-Intern_R1535888)
-- **FTI Consulting (Economic Consulting)** - [2027 Graduate Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Milan-Torre-Velasca/XMLNAME-2027-Graduate-Intern--Economic---Financial-Consulting_JR260971)
-- **FTI Consulting (Economic Consulting)** - [2027 Summer Internship, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723)
+- **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005)
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038)

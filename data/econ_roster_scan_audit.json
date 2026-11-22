@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T20:04:23.857Z",
-  "scanStartedAt": "2026-11-21T20:02:26.776Z",
+  "generatedAt": "2026-11-22T20:18:59.966Z",
+  "scanStartedAt": "2026-11-22T20:17:10.451Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
     "matching-role-found": 25,
-    "confirmed-no-open-postings": 7,
-    "confirmed-openings-no-matching-role": 31,
+    "confirmed-no-open-postings": 8,
+    "confirmed-openings-no-matching-role": 30,
     "could-not-fully-verify": 169
   },
   "companies": [
@@ -1156,7 +1156,7 @@
         "Cornwall Insight"
       ],
       "category": "Energy & Environmental Economics",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "confirmed-no-open-postings",
       "careerPages": [
         "https://cornwallinsight.pinpointhq.com/"
       ],
@@ -2932,7 +2932,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 647,
+      "jobsSeen": 645,
       "relevantRoles": 4
     },
     {
@@ -3250,7 +3250,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1030,
+      "jobsSeen": 1028,
       "relevantRoles": 0
     },
     {

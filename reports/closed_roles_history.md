@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 92
-Last updated: 2026-11-21T20:02:26.776Z
+Total closures recorded: 94
+Last updated: 2026-11-22T20:17:10.451Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-22 (2)
+
+- **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) - San Francisco, California, United States
+- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) - Alpharetta, GA, us
 
 ### 2026-11-21 (3)
 
