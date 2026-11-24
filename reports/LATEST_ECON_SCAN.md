@@ -1,25 +1,25 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-22T20:17:10.451Z
+Last updated: 2026-11-24T00:44:21.379Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 225
-- Current internship roles: 93
+- Current internship roles: 92
 - Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 2
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 0
 - Firms with matching roles: 25
-- Confirmed no open postings: 8
-- Openings but no matching role: 30
+- Confirmed no open postings: 9
+- Openings but no matching role: 29
 - Could not fully verify: 169
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 65
-- Big 4 & Advisory Economics: 7
 - Transfer Pricing & Valuation: 6
+- Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
 - Policy & Research Economics: 3
@@ -28,9 +28,9 @@ Last updated: 2026-11-22T20:17:10.451Z
 
 ## New Roles Since Previous Scan
 
-### North America (1)
+### North America (0)
 
-- **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) - Chicago, Illinois, United States
+_None._
 
 ### Europe (0)
 
@@ -66,8 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **The Brattle Group** - [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005) - San Francisco, California, United States
-- **J.S. Held** - [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038) - Alpharetta, GA, us
+_None._
 
 ## Full Reports
 

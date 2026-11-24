@@ -1,41 +1,9 @@
 {
-  "generatedAt": "2026-11-22T20:19:00.008Z",
-  "previousScanAt": "2026-11-21T20:02:26.776Z",
-  "currentScanAt": "2026-11-22T20:17:10.451Z",
+  "generatedAt": "2026-11-24T00:46:27.782Z",
+  "previousScanAt": "2026-11-22T20:17:10.451Z",
+  "currentScanAt": "2026-11-24T00:44:21.379Z",
   "previousRows": 93,
-  "currentRows": 93,
-  "added": [
-    {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "Chicago, Illinois, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "Status": "Confirmed official posting"
-    }
-  ],
-  "removed": [
-    {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-      "Location": "San Francisco, California, United States",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "J.S. Held",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Economic Damages & Valuation Internship - Summer 2027",
-      "Location": "Alpharetta, GA, us",
-      "Region": "North America",
-      "URL": "https://jobs.smartrecruiters.com/JSHeldLLC/744000148797038",
-      "Source": "Career page SmartRecruiters:JSHeldLLC",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "currentRows": 92,
+  "added": [],
+  "removed": []
 }
