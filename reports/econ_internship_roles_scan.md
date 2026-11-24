@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-24T00:42:22.981Z
+Scanned: 2026-11-24T22:58:19.174Z
 Firms in universe: 232
 Firms with at least one live ATS board: 60
-Internship roles: 91
-Entry-level analyst roles: 32
+Internship roles: 93
+Entry-level analyst roles: 33
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -44,6 +44,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Berkeley Research Group** — [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) — 2 Locations (Official ATS Workday:thinkbrg/BRG_External_Career_Site; timing: 2027)
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) — Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) — Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
+- **Charles River Associates** — [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8413002) — Toronto, ON, Canada (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Charles River Associates** — [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) — London, United Kingdom (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Charles River Associates** — [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) — College Station, TX, United States; Tallahassee, FL, United States (Official ATS Greenhouse:charlesriverassociates; timing: Spring 2027; graduation years mentioned: 2027)
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
@@ -96,6 +97,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Technopolis Group** — [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) — Paris (Official ATS Personio:technopolis-group; timing not stated in title)
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) — Boston, Massachusetts, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) — Toronto, Ontario, Canada (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
+- **The Brattle Group** — [Research Analyst - International Arbitration - Madrid - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4758296005) — Madrid, Spain (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005) — Washington, District of Columbia, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) — New York, New York, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
 - **The Brattle Group** — [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) — Chicago, Illinois, United States (Official ATS Greenhouse:thebrattlegroup; timing: Summer 2027)
@@ -134,6 +136,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC)
 - **Oxford Economics** — [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) — New York, US (Official ATS Pinpoint:careers.oxfordeconomics.com)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers)
+- **The Brattle Group** — [Research Analyst - International Arbitration - Madrid - Immediate Start](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4744137005) — Madrid, Spain (Official ATS Greenhouse:thebrattlegroup)
 - **The Brattle Group** — [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) — Sydney, New South Wales, Australia (Official ATS Greenhouse:thebrattlegroup)
 - **The Cadmus Group** — [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) — US (Official ATS iCIMS:careers-cadmusgroup)
 

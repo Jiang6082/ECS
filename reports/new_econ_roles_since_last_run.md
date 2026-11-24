@@ -1,11 +1,11 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-22T20:17:10.451Z
-Current scan: 2026-11-24T00:44:21.379Z
-Previous rows: 93
-Current rows: 92
+Previous scan: 2026-11-24T00:44:21.379Z
+Current scan: 2026-11-24T23:00:08.045Z
+Previous rows: 92
+Current rows: 94
 New stable job URLs: 0
-No longer present: 0
+No longer present: 1
 
 ## New Roles By Region
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD)

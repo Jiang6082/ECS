@@ -1,9 +1,20 @@
 {
-  "generatedAt": "2026-11-24T00:46:27.782Z",
-  "previousScanAt": "2026-11-22T20:17:10.451Z",
-  "currentScanAt": "2026-11-24T00:44:21.379Z",
-  "previousRows": 93,
-  "currentRows": 92,
+  "generatedAt": "2026-11-24T23:01:54.974Z",
+  "previousScanAt": "2026-11-24T00:44:21.379Z",
+  "currentScanAt": "2026-11-24T23:00:08.045Z",
+  "previousRows": 92,
+  "currentRows": 94,
   "added": [],
-  "removed": []
+  "removed": [
+    {
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
+      "Location": "2 Locations",
+      "Region": "Remote / Unspecified",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
+      "Source": "Official ATS Workday:pwc/US_Entry_Level_Careers",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

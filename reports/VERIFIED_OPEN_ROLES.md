@@ -1,13 +1,13 @@
 # Open Econ Consulting Internships
 
-**Last scan:** 2026-11-24 00:44 UTC · **92 roles confirmed live on official job boards** across 25 firms · **12 hand-checked roles** on sites the scanner can't read
+**Last scan:** 2026-11-24 23:00 UTC · **94 roles confirmed live on official job boards** across 25 firms · **12 hand-checked roles** on sites the scanner can't read
 
 Every role below is economics-consulting work (litigation & antitrust economics, competition, damages, transfer pricing economics, regulatory/policy, energy economics, health economics). Technology, construction, engineering, forensic accounting, restructuring and strategy-only roles are filtered out.
 
 - **Confirmed live** = returned by the firm's own applicant-tracking system during the scan above. Updated automatically every day.
 - **Hand-checked** = sites without a machine-readable job board; status as of the date shown.
 
-## ✅ Confirmed Live On Official Job Boards (92)
+## ✅ Confirmed Live On Official Job Boards (94)
 
 ### Analysis Group (12)
 
@@ -68,7 +68,7 @@ _Primary deadline (Sep 30) has passed; later applications are reviewed on a roll
 | [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) | Brussels, BEL | Europe |
 | [Summer Economist- 2027](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Washington-DC/Economist-Intern--2027_JR101164) | Multiple locations | Remote / Unspecified |
 
-### Charles River Associates (7)
+### Charles River Associates (8)
 
 _Resume review began Oct 15 and is rolling._
 
@@ -76,6 +76,7 @@ _Resume review began Oct 15 and is rolling._
 |---|---|---|
 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States | North America |
 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States | North America |
+| [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8413002) | Toronto, ON, Canada | North America |
 | [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) | London, United Kingdom | Europe |
 | [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) | College Station, TX, United States; Tallahassee, FL, United States | North America |
 | [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) | Brussels, Belgium | Europe |
@@ -213,7 +214,7 @@ _Resume review began Oct 15 and is rolling._
 | [Full time paid Internship / Stage Paris](https://technopolis-group.jobs.personio.com/job/2247787) | Paris | Europe |
 | [Full time paid Internship DSU/ Stage DSU Paris](https://technopolis-group.jobs.personio.com/job/2827272) | Paris | Europe |
 
-### The Brattle Group (6)
+### The Brattle Group (7)
 
 _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are still live on Brattle's board._
 
@@ -221,6 +222,7 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 |---|---|---|
 | [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) | Boston, Massachusetts, United States | North America |
 | [Energy Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | Toronto, Ontario, Canada | North America |
+| [Research Analyst - International Arbitration - Madrid - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4758296005) | Madrid, Spain | Europe |
 | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735518005) | Washington, District of Columbia, United States | North America |
 | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) | New York, New York, United States | North America |
 | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) | Chicago, Illinois, United States | North America |
@@ -251,9 +253,9 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 
 ## Entry-Level (Full-Time 2027) Analyst Roles
 
-33 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
+34 full-time analyst/associate roles for 2027 graduates are listed separately in [econ_entry_level_roles.md](econ_entry_level_roles.md).
 
-## ⛔ Closed In The Last 14 Days (24)
+## ⛔ Closed In The Last 14 Days (21)
 
 | Firm | Role | Detected closed |
 |---|---|---|
@@ -278,8 +280,5 @@ _Both stated deadlines (Sep 14, Oct 12) have passed, but these postings are stil
 | Charles River Associates | [Intern/Policy Consulting (Life Sciences practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) | 2026-11-14 |
 | Econ One | [Summer Analyst (Healthcare Economics)](https://apply.workable.com/econ-one-research/j/7F427BA76D/) | 2026-11-12 |
 | J.S. Held | [IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobs.smartrecruiters.com/JSHeldLLC/744000149712349) | 2026-11-12 |
-| Analysis Group | [Summer Research Professional Intern - Generalist - Montreal/Toronto (2027 Start Date) \| Stage d'été - Professionnel de recherche - Généraliste - Montréal/Toronto (Date de début 2027)](https://analystcareers-analysisgroup.icims.com/jobs/3007/job) | 2026-11-10 |
-| Secretariat | [Intern, Damages & Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) | 2026-11-10 |
-| J.S. Held | [Economic Damages & Valuation Internship - Summer 2027](https://jobs.smartrecruiters.com/JSHeldLLC/744000145773114) | 2026-11-10 |
 
 _Generated by ECS on 2026-11-24. Full detail: [econ_internship_roles_scan_v2.md](econ_internship_roles_scan_v2.md) · [CSV](VERIFIED_OPEN_ROLES.csv)_

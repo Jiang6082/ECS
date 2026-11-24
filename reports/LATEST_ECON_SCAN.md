@@ -1,15 +1,15 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-24T00:44:21.379Z
+Last updated: 2026-11-24T23:00:08.045Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 225
-- Current internship roles: 92
-- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
+- Current internship roles: 94
+- Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 0
+- No longer present since previous scan: 1
 - Firms with matching roles: 25
 - Confirmed no open postings: 9
 - Openings but no matching role: 29
@@ -17,7 +17,7 @@ Last updated: 2026-11-24T00:44:21.379Z
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 65
+- Litigation, Antitrust & Damages: 67
 - Transfer Pricing & Valuation: 6
 - Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 5
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
 
 ## Full Reports
 

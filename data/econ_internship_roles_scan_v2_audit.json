@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-24T00:44:21.379Z",
+  "searchedAt": "2026-11-24T23:00:08.045Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1075,14 +1075,14 @@
       "boards": [
         {
           "source": "SmartRecruiters:JSHeldLLC",
-          "jobsSeen": 107
+          "jobsSeen": 109
         },
         {
           "source": "SmartRecruiters:external-referrals",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 107,
+      "jobsSeen": 109,
       "relevantRoles": 0
     },
     {
@@ -1161,8 +1161,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1173,8 +1173,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1565,8 +1565,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": false,
-      "pageStatus": 502,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1625,24 +1625,42 @@
       "company": "Analysys Mason",
       "pageUrl": "https://www.analysysmason.com/careers/",
       "resolvedUrl": "https://www.analysysmason.com/careers/",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "smartrecruiters": [
+          "AnalysysMason1"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "SmartRecruiters:AnalysysMason1",
+          "jobsSeen": 38
+        }
+      ],
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
       "company": "Analysys Mason",
       "pageUrl": "https://www.analysysmason.com/careers/your-career-journey/",
       "resolvedUrl": "https://www.analysysmason.com/careers/your-career-journey/",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "smartrecruiters": [
+          "AnalysysMason1"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "SmartRecruiters:AnalysysMason1",
+          "jobsSeen": 38
+        }
+      ],
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -1692,9 +1710,13 @@
       "company": "Baringa",
       "pageUrl": "https://www.baringa.com/en/careers/experienced/",
       "resolvedUrl": "https://www.baringa.com/en/careers/experienced/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse_eu": [
+          "baringa"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -1718,10 +1740,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 101
+          "jobsSeen": 103
         }
       ],
-      "jobsSeen": 101,
+      "jobsSeen": 103,
       "relevantRoles": 0
     },
     {
@@ -1933,8 +1955,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2298,10 +2320,10 @@
       "boards": [
         {
           "source": "Greenhouse:americaninstitutesforresearch",
-          "jobsSeen": 9
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {
@@ -2578,10 +2600,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 6
+          "jobsSeen": 8
         }
       ],
-      "jobsSeen": 6,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {
@@ -2971,10 +2993,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 640
+          "jobsSeen": 631
         }
       ],
-      "jobsSeen": 640,
+      "jobsSeen": 631,
       "relevantRoles": 4
     },
     {
@@ -3297,10 +3319,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-healthmanagement",
-          "jobsSeen": 7
+          "jobsSeen": 5
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -3364,10 +3386,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1035
+          "jobsSeen": 1044
         }
       ],
-      "jobsSeen": 1035,
+      "jobsSeen": 1044,
       "relevantRoles": 0
     },
     {
@@ -3540,10 +3562,10 @@
       "boards": [
         {
           "source": "iCIMS:careers-wakely",
-          "jobsSeen": 13
+          "jobsSeen": 12
         }
       ],
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0
     },
     {
