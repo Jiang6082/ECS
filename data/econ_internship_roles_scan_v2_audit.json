@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-24T23:00:08.045Z",
+  "searchedAt": "2026-11-25T22:22:41.653Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -280,7 +280,6 @@
     "Econometrica",
     "L&M Policy Research",
     "Rhodium Group",
-    "Monitoring Analytics",
     "Economics Partners",
     "KNG Health Consulting",
     "S&P Global (Economics)"
@@ -1161,8 +1160,8 @@
       "company": "Bates Group",
       "pageUrl": "https://my.batestech.edu/",
       "resolvedUrl": "https://my.batestech.edu/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1173,8 +1172,8 @@
       "company": "Alvarez & Marsal (Disputes & Investigations)",
       "pageUrl": "https://alvarezguitars.com/",
       "resolvedUrl": "https://alvarezguitars.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1305,9 +1304,9 @@
     {
       "company": "Economic Insight",
       "pageUrl": "https://www.economic-insight.com/careers/",
-      "resolvedUrl": "https://economic-insight.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://www.economic-insight.com/careers/",
+      "pageOk": false,
+      "pageStatus": 500,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1365,10 +1364,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 86
+          "jobsSeen": 85
         }
       ],
-      "jobsSeen": 86,
+      "jobsSeen": 85,
       "relevantRoles": 8
     },
     {
@@ -1565,8 +1564,8 @@
       "company": "Volterra Partners",
       "pageUrl": "https://volterrakirkland.com/",
       "resolvedUrl": "https://volterrakirkland.com/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 502,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1625,42 +1624,24 @@
       "company": "Analysys Mason",
       "pageUrl": "https://www.analysysmason.com/careers/",
       "resolvedUrl": "https://www.analysysmason.com/careers/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "smartrecruiters": [
-          "AnalysysMason1"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 38
-        }
-      ],
-      "jobsSeen": 38,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
       "company": "Analysys Mason",
       "pageUrl": "https://www.analysysmason.com/careers/your-career-journey/",
       "resolvedUrl": "https://www.analysysmason.com/careers/your-career-journey/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "smartrecruiters": [
-          "AnalysysMason1"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 403,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 38
-        }
-      ],
-      "jobsSeen": 38,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -1740,10 +1721,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 103
+          "jobsSeen": 102
         }
       ],
-      "jobsSeen": 103,
+      "jobsSeen": 102,
       "relevantRoles": 0
     },
     {
@@ -1955,8 +1936,8 @@
       "company": "REF-E",
       "pageUrl": "https://asktheref.org/",
       "resolvedUrl": "https://asktheref.org/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2089,8 +2070,8 @@
       "company": "ACIL Allen",
       "pageUrl": "https://careercenter.acil.org/",
       "resolvedUrl": "https://careercenter.acil.org/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2856,6 +2837,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "Monitoring Analytics",
+      "pageUrl": "https://www.monitoringanalytics.com/company/careers.shtml",
+      "resolvedUrl": "https://www.monitoringanalytics.com/company/careers.shtml",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Opinion Dynamics",
       "pageUrl": "https://opiniondynamics.com/job-openings/",
       "resolvedUrl": "https://opiniondynamics.com/job-openings/",
@@ -2993,10 +2986,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 631
+          "jobsSeen": 621
         }
       ],
-      "jobsSeen": 631,
+      "jobsSeen": 621,
       "relevantRoles": 4
     },
     {
@@ -3017,10 +3010,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 649
+          "jobsSeen": 642
         }
       ],
-      "jobsSeen": 649,
+      "jobsSeen": 642,
       "relevantRoles": 0
     },
     {
@@ -3358,14 +3351,14 @@
         },
         {
           "source": "iCIMS:emeacareers-lumanity",
-          "jobsSeen": 22
+          "jobsSeen": 23
         },
         {
           "source": "iCIMS:earlycareer-lumanity",
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 43,
+      "jobsSeen": 44,
       "relevantRoles": 0
     },
     {
@@ -3386,10 +3379,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1044
+          "jobsSeen": 1047
         }
       ],
-      "jobsSeen": 1044,
+      "jobsSeen": 1047,
       "relevantRoles": 0
     },
     {

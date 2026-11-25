@@ -1,21 +1,21 @@
 # New Econ Consulting Roles Since Last Run
 
-Previous scan: 2026-11-24T00:44:21.379Z
-Current scan: 2026-11-24T23:00:08.045Z
-Previous rows: 92
-Current rows: 94
-New stable job URLs: 0
-No longer present: 1
+Previous scan: 2026-11-24T23:00:08.045Z
+Current scan: 2026-11-25T22:22:41.653Z
+Previous rows: 94
+Current rows: 98
+New stable job URLs: 2
+No longer present: 0
 
 ## New Roles By Region
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8413002) - Toronto, ON, Canada - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates)
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **The Brattle Group** - [Research Analyst - International Arbitration - Madrid - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4758296005) - Madrid, Spain - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup)
 
 ### Asia (0)
 
@@ -47,4 +47,4 @@ _None._
 
 ## No Longer Present
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD)
+_None._

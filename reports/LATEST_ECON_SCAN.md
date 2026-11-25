@@ -1,40 +1,40 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-24T23:00:08.045Z
+Last updated: 2026-11-25T22:22:41.653Z
 
 ## Summary
 
 - Firms searched: 232
-- Career pages checked: 225
-- Current internship roles: 94
-- Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
-- Firms with matching roles: 25
-- Confirmed no open postings: 9
-- Openings but no matching role: 29
-- Could not fully verify: 169
+- Career pages checked: 226
+- Current internship roles: 98
+- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 2
+- No longer present since previous scan: 0
+- Firms with matching roles: 26
+- Confirmed no open postings: 8
+- Openings but no matching role: 28
+- Could not fully verify: 170
 
 ## Internships By Practice Area
 
 - Litigation, Antitrust & Damages: 67
+- Policy & Research Economics: 7
 - Transfer Pricing & Valuation: 6
 - Big 4 & Advisory Economics: 6
 - Energy & Environmental Economics: 5
 - Competition & Regulatory (Europe): 3
-- Policy & Research Economics: 3
 - Health Economics & HEOR: 3
 - Macro & Economic Research: 1
 
 ## New Roles Since Previous Scan
 
-### North America (0)
+### North America (1)
 
-_None._
+- **Charles River Associates** - [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8413002) - Toronto, ON, Canada
 
-### Europe (0)
+### Europe (1)
 
-_None._
+- **The Brattle Group** - [Research Analyst - International Arbitration - Madrid - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4758296005) - Madrid, Spain
 
 ### Asia (0)
 
@@ -66,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **PwC (Economics / Transfer Pricing / Forensics)** - [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) - 2 Locations
+_None._
 
 ## Full Reports
 

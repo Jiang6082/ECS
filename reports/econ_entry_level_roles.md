@@ -1,7 +1,7 @@
 # Entry-Level Econ Consulting Analyst Roles
 
-Scanned: 2026-11-24T23:00:08.045Z
-Roles: 34
+Scanned: 2026-11-25T22:22:41.653Z
+Roles: 33
 
 Full-time analyst / research analyst / associate roles aimed at new graduates, found on the same official boards as the internship scan.
 
@@ -23,9 +23,9 @@ Full-time analyst / research analyst / associate roles aimed at new graduates, f
 - **HR&A Advisors** - [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/OIdLbkgMzp/Analyst-Inclusive-Cities) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) - Washington, DC, DC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
-- **HR&A Advisors** - [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) - Atlanta, GA - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
+- **HR&A Advisors** - [Analyst, Tech & Society](https://hraadvisors.applytojob.com/apply/UidawXAPEQ/Analyst-Tech-Society) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
 - **HR&A Advisors** - [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/j8PTH47DgC/Research-Analyst-Real-Estate) - Raleigh, NC - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing not stated in title
-- **Oxford Economics** - [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) - New York, US - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing not stated in title
+- **Oxford Economics** - [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) - New York, US - Confirmed official posting (Official ATS Pinpoint:careers.oxfordeconomics.com): timing not stated in title; graduation years mentioned: 2025, 2026
 - **The Cadmus Group** - [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) - Arlington, VA, US | Boston, MA, US | Waltham, MA, US - Confirmed official posting (Official ATS iCIMS:careers-cadmusgroup): timing not stated in title
 
 ### Europe (4)
@@ -59,9 +59,9 @@ _None._
 
 _None._
 
-### Global / Multiple Regions (1)
+### Global / Multiple Regions (0)
 
-- **The Brattle Group** - [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) - Sydney, New South Wales, Australia - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing not stated in title; graduation years mentioned: 2027
+_None._
 
 ### Remote / Unspecified (3)
 

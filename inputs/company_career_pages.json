@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:00:08.046Z",
+  "generatedAt": "2026-11-25T22:22:41.654Z",
   "companies": {
     "Analysis Group": {
       "careerPages": [
@@ -1087,8 +1087,10 @@
       "updatedAt": "2026-10-23T17:51:43.912Z"
     },
     "Monitoring Analytics": {
-      "careerPages": [],
-      "updatedAt": "2026-09-27T00:00:00.000Z"
+      "careerPages": [
+        "https://www.monitoringanalytics.com/company/careers.shtml"
+      ],
+      "updatedAt": "2026-11-25T22:22:41.654Z"
     },
     "Opinion Dynamics": {
       "careerPages": [

@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-24T23:00:08.045Z
+Scanned: 2026-11-25T22:22:41.653Z
 Firms searched: 232
-Career pages checked: 225
-Internship roles/leads retained: 94
-Entry-level analyst roles (separate report): 34
+Career pages checked: 226
+Internship roles/leads retained: 98
+Entry-level analyst roles (separate report): 33
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
 
@@ -15,7 +15,7 @@ Status guide:
 
 ## Roles And Leads By Region
 
-### North America (39)
+### North America (43)
 
 - **Analysis Group** - [Associate Intern - Health Care (HEOR, Epidemiology & Market Access) - Montreal / Toronto (2027 Start Date) | Stage - Responsable de projets - Économie de la santé, biostatistique, et épidémiologie - Montréal / Toronto (Date de début 2027)](https://associatecareers-analysisgroup.icims.com/jobs/3066/job) - Montreal, QC, CA | Toronto, ON, CA - Confirmed official posting (Official ATS iCIMS:associatecareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Summer Analyst Intern - Accounting (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3021/job) - Boston, MA, US | Chicago, IL, US | Denver, CO, US | Los Angeles, CA, US - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -40,6 +40,10 @@ Status guide:
 - **Charles River Associates** - [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) - College Station, TX, United States; Tallahassee, FL, United States - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Spring 2027; graduation years mentioned: 2027
 - **Energy + Environmental Economics (E3)** - [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) - San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta - Confirmed official posting (Official ATS Lever:ethree): timing: 2027
 - **Grant Thornton (Transfer Pricing / Economics)** - [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) - New York, NY, United States - Confirmed official posting (Official ATS Oracle:ehzq/CX_1): timing: Summer 2027
+- **HR&A Advisors** - [2027 Summer Analyst Internship, Housing Affordability](https://hraadvisors.applytojob.com/apply/YNIOvLjcnS/2027-Summer-Analyst-Internship-Housing-Affordability) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing: 2027 Summer
+- **HR&A Advisors** - [2027 Summer Analyst Internship, Inclusive Cities](https://hraadvisors.applytojob.com/apply/7sE5ZbYB4P/2027-Summer-Analyst-Internship-Inclusive-Cities) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing: 2027 Summer
+- **HR&A Advisors** - [2027 Summer Analyst Internship, Tech & Society](https://hraadvisors.applytojob.com/apply/z6KCQOeODg/2027-Summer-Analyst-Internship-Tech-Society) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing: 2027 Summer
+- **HR&A Advisors** - [2027 Summer Analyst Internship, Vital Places](https://hraadvisors.applytojob.com/apply/7fDnBYwIzt/2027-Summer-Analyst-Internship-Vital-Places) - New York, NY - Confirmed official posting (Official ATS JazzHR:hraadvisors): timing: 2027 Summer
 - **Integra FEC** - [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406100008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SPRING
 - **Integra FEC** - [(SPRING) Research Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406115008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SPRING
 - **Integra FEC** - [(SUMMER) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406109008) - Austin, Texas - Confirmed official posting (Official ATS Greenhouse:integra): timing: SUMMER
@@ -100,7 +104,7 @@ Status guide:
 ### Asia (3)
 
 - **Analysis Group** - [Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) - Beijing (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3008/job) - Beijing, CN - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
+- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/a0fa0ca9-5ff2-459f-95c6-2912c80e6afe) - Tokyo, Japan - Confirmed official posting (Official ATS Pinpoint:careers.auroraer.com): timing not stated in title
 - **PwC (Economics / Transfer Pricing / Forensics)** - [Tax - Transfer Pricing Off-Cycle Internship (Jan - Jun 27)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Off-Cycle-Internship--Jan---Jun-27-_742311WD) - Singapore - Confirmed official posting (Official ATS Workday:pwc/Global_Campus_Careers): timing: Off-Cycle
 
 ### Oceania (0)
@@ -149,7 +153,6 @@ _None._
 - Economic & Planning Systems
 - Edgeworth Economics
 - REMI
-- Steer
 
 ## Confirmed: Open Postings Exist, None Matched
 
@@ -167,7 +170,6 @@ _None._
 - Frontier Economics
 - Guidehouse
 - HKA
-- HR&A Advisors
 - Health Management Associates
 - Houlihan Lokey (Dispute Resolution Consulting)
 - J.S. Held
@@ -340,6 +342,7 @@ No official source was enumerated (email-only applications, unsupported ATS, or 
 - SQW
 - Sapere Research Group
 - ScottMadden
+- Steer
 - Summit Consulting
 - Swiss Economics
 - Synergies Economic Consulting

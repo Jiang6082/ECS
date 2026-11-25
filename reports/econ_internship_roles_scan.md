@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-24T22:58:19.174Z
+Scanned: 2026-11-25T22:20:48.775Z
 Firms in universe: 232
-Firms with at least one live ATS board: 60
-Internship roles: 93
-Entry-level analyst roles: 33
+Firms with at least one live ATS board: 59
+Internship roles: 97
+Entry-level analyst roles: 32
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -33,7 +33,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Aurora Energy Research** — [Energy Modelling Intern](https://careers.auroraer.com/en/postings/a60abede-6bfd-4587-8367-6970c649d9da) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Energy Modelling Intern (with preference for women)](https://careers.auroraer.com/en/postings/0cee7a3a-b797-4169-af07-4b78630a6c32) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **Aurora Energy Research** — [Energy Research Intern (with preference for women)](https://careers.auroraer.com/en/postings/4a7d9277-c38e-4a4f-b652-47f7705d0136) — São Paulo, Brazil (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
-- **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
+- **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/a0fa0ca9-5ff2-459f-95c6-2912c80e6afe) — Tokyo, Japan (Official ATS Pinpoint:careers.auroraer.com; timing not stated in title)
 - **BDO (Transfer Pricing)** — [Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13676) — Chicago, IL, United States; Dallas, TX, United States; Grand Rapids, MI, United States; Houston, TX, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/11775) — Atlanta, GA, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
 - **BDO (Transfer Pricing)** — [Tax Intern, Transfer Pricing - Summer 2027 (Dallas)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13832) — Dallas, TX, United States (Official ATS Oracle:ebqb/BDOEntryLevelCareers; timing: Summer 2027)
@@ -68,6 +68,10 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
 - **FTI Consulting (Economic Consulting)** — [Praktikant (m/w/d), Valuation & IP](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Frankfurt-Germany/Praktikant--m-w-d---Valuation---IP_JR260651) — 2 Locations (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
 - **Grant Thornton (Transfer Pricing / Economics)** — [Transfer Pricing Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115709) — New York, NY, United States (Official ATS Oracle:ehzq/CX_1; timing: Summer 2027)
+- **HR&A Advisors** — [2027 Summer Analyst Internship, Housing Affordability](https://hraadvisors.applytojob.com/apply/YNIOvLjcnS/2027-Summer-Analyst-Internship-Housing-Affordability) — New York, NY (Official ATS JazzHR:hraadvisors; timing: 2027 Summer)
+- **HR&A Advisors** — [2027 Summer Analyst Internship, Inclusive Cities](https://hraadvisors.applytojob.com/apply/7sE5ZbYB4P/2027-Summer-Analyst-Internship-Inclusive-Cities) — New York, NY (Official ATS JazzHR:hraadvisors; timing: 2027 Summer)
+- **HR&A Advisors** — [2027 Summer Analyst Internship, Tech & Society](https://hraadvisors.applytojob.com/apply/z6KCQOeODg/2027-Summer-Analyst-Internship-Tech-Society) — New York, NY (Official ATS JazzHR:hraadvisors; timing: 2027 Summer)
+- **HR&A Advisors** — [2027 Summer Analyst Internship, Vital Places](https://hraadvisors.applytojob.com/apply/7fDnBYwIzt/2027-Summer-Analyst-Internship-Vital-Places) — New York, NY (Official ATS JazzHR:hraadvisors; timing: 2027 Summer)
 - **ICF** — [2027 Summer Intern, Energy Markets and Policy (Reston, VA; Arlington, VA)](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Markets-and-Policy--Reston--VA--Arlington--VA-_R2603249) — 2 Locations (Official ATS Workday:icf/ICFExternal_Career_Site; timing: 2027 Summer)
 - **ICF** — [Energy Market Intern](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Energy-Market-Intern_R2603883) — 2 Locations (Official ATS Workday:icf/ICFExternal_Career_Site; timing not stated in title)
 - **Integra FEC** — [(SPRING) Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5406100008) — Austin, Texas (Official ATS Greenhouse:integra; timing: SPRING)
@@ -130,14 +134,13 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **HR&A Advisors** — [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/OIdLbkgMzp/Analyst-Inclusive-Cities) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
-- **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/uXBi868QGn/Analyst-Real-Estate) — Atlanta, GA (Official ATS JazzHR:hraadvisors)
+- **HR&A Advisors** — [Analyst, Tech & Society](https://hraadvisors.applytojob.com/apply/UidawXAPEQ/Analyst-Tech-Society) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Research Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/j8PTH47DgC/Research-Analyst-Real-Estate) — Raleigh, NC (Official ATS JazzHR:hraadvisors)
 - **Lightcast** — [Economic Research Analyst / Junior Data Scientist - 1089](https://jobs.lever.co/economicmodeling/33baa88b-3388-4402-9a5c-b00914351277) — Moscow, ID (Official ATS Lever:economicmodeling)
 - **NERA Economic Consulting** — [NERA Research Associate (Summer 2027 Grads) (Multiple Locations)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) — 6 Locations (Official ATS Workday:mmc/MMC)
 - **Oxford Economics** — [Research Associate - Thought Leadership - New York](https://careers.oxfordeconomics.com/en/postings/9bcbcc7c-719c-4d1a-91f3-f19ebf654943) — New York, US (Official ATS Pinpoint:careers.oxfordeconomics.com)
 - **PwC (Economics / Transfer Pricing / Forensics)** — [Tax - Transfer Pricing Associate (July 2027 Intake)](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Transfer-Pricing-Associate---July-2027-Intake-_738826WD) — Singapore (Official ATS Workday:pwc/Global_Campus_Careers)
 - **The Brattle Group** — [Research Analyst - International Arbitration - Madrid - Immediate Start](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4744137005) — Madrid, Spain (Official ATS Greenhouse:thebrattlegroup)
-- **The Brattle Group** — [Research Analyst Graduate Program - Sydney](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) — Sydney, New South Wales, Australia (Official ATS Greenhouse:thebrattlegroup)
 - **The Cadmus Group** — [Water Policy Junior Analyst - Entry Level](https://careers-cadmusgroup.icims.com/jobs/3251/job) — US (Official ATS iCIMS:careers-cadmusgroup)
 
 ## Firms Without A Live ATS Board (v1)
@@ -236,6 +239,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - Indecon
 - DKM Economic Consultants
 - SQW
+- Steer
 - BiGGAR Economics
 - Metro Dynamics
 - HoustonKemp
