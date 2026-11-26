@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-25T22:22:41.653Z",
+  "searchedAt": "2026-11-26T22:15:31.878Z",
   "companies": [
     "Analysis Group",
     "Cornerstone Research",
@@ -1304,9 +1304,9 @@
     {
       "company": "Economic Insight",
       "pageUrl": "https://www.economic-insight.com/careers/",
-      "resolvedUrl": "https://www.economic-insight.com/careers/",
-      "pageOk": false,
-      "pageStatus": 500,
+      "resolvedUrl": "https://economic-insight.com/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1364,10 +1364,10 @@
       "boards": [
         {
           "source": "Pinpoint:auroraer.pinpointhq.com",
-          "jobsSeen": 85
+          "jobsSeen": 83
         }
       ],
-      "jobsSeen": 85,
+      "jobsSeen": 83,
       "relevantRoles": 8
     },
     {
@@ -1661,7 +1661,7 @@
       "boards": [
         {
           "source": "SmartRecruiters:AnalysysMason1",
-          "jobsSeen": 38
+          "jobsSeen": 39
         },
         {
           "source": "SmartRecruiters:cdn-cgi",
@@ -1672,7 +1672,7 @@
           "jobsSeen": 0
         }
       ],
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -1721,10 +1721,10 @@
       "boards": [
         {
           "source": "Greenhouse:baringa",
-          "jobsSeen": 102
+          "jobsSeen": 101
         }
       ],
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantRoles": 0
     },
     {
@@ -2070,8 +2070,8 @@
       "company": "ACIL Allen",
       "pageUrl": "https://careercenter.acil.org/",
       "resolvedUrl": "https://careercenter.acil.org/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2581,10 +2581,10 @@
       "boards": [
         {
           "source": "Greenhouse:acumen",
-          "jobsSeen": 8
+          "jobsSeen": 7
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantRoles": 0
     },
     {
@@ -2986,10 +2986,10 @@
       "boards": [
         {
           "source": "Oracle:ebqb/BDOExperiencedCareers",
-          "jobsSeen": 621
+          "jobsSeen": 620
         }
       ],
-      "jobsSeen": 621,
+      "jobsSeen": 620,
       "relevantRoles": 4
     },
     {
@@ -3010,10 +3010,10 @@
       "boards": [
         {
           "source": "Workday:rsm/RSMCareers",
-          "jobsSeen": 642
+          "jobsSeen": 639
         }
       ],
-      "jobsSeen": 642,
+      "jobsSeen": 639,
       "relevantRoles": 0
     },
     {
@@ -3379,10 +3379,10 @@
       "boards": [
         {
           "source": "Workday:myhrabc/Global",
-          "jobsSeen": 1047
+          "jobsSeen": 1038
         }
       ],
-      "jobsSeen": 1047,
+      "jobsSeen": 1038,
       "relevantRoles": 0
     },
     {
@@ -3486,10 +3486,10 @@
         },
         {
           "source": "iCIMS:rtihs-rtiinc",
-          "jobsSeen": 11
+          "jobsSeen": 10
         }
       ],
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {

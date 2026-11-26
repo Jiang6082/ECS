@@ -1,30 +1,71 @@
 {
-  "generatedAt": "2026-11-25T22:24:35.489Z",
-  "previousScanAt": "2026-11-24T23:00:08.045Z",
-  "currentScanAt": "2026-11-25T22:22:41.653Z",
-  "previousRows": 94,
-  "currentRows": 98,
+  "generatedAt": "2026-11-26T22:17:21.962Z",
+  "previousScanAt": "2026-11-25T22:22:41.653Z",
+  "currentScanAt": "2026-11-26T22:15:31.878Z",
+  "previousRows": 98,
+  "currentRows": 99,
   "added": [
     {
-      "Company": "Charles River Associates",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)",
-      "Location": "Toronto, ON, Canada",
-      "Region": "North America",
-      "URL": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8413002",
-      "Source": "Official ATS Greenhouse:charlesriverassociates",
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Research Intern (長期インターン)",
+      "Location": "Tokyo, Japan",
+      "Region": "Asia",
+      "URL": "https://careers.auroraer.com/en/postings/a0fa0ca9-5ff2-459f-95c6-2912c80e6afe",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
       "Status": "Confirmed official posting"
     },
     {
-      "Company": "The Brattle Group",
-      "Category": "Litigation, Antitrust & Damages",
-      "Title": "Research Analyst - International Arbitration - Madrid - Summer 2027",
-      "Location": "Madrid, Spain",
-      "Region": "Europe",
-      "URL": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4758296005",
-      "Source": "Official ATS Greenhouse:thebrattlegroup",
+      "Company": "HR&A Advisors",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Analyst Internship, Housing Affordability",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://hraadvisors.applytojob.com/apply/YNIOvLjcnS/2027-Summer-Analyst-Internship-Housing-Affordability",
+      "Source": "Official ATS JazzHR:hraadvisors",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "HR&A Advisors",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Analyst Internship, Inclusive Cities",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://hraadvisors.applytojob.com/apply/7sE5ZbYB4P/2027-Summer-Analyst-Internship-Inclusive-Cities",
+      "Source": "Official ATS JazzHR:hraadvisors",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "HR&A Advisors",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Analyst Internship, Tech & Society",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://hraadvisors.applytojob.com/apply/z6KCQOeODg/2027-Summer-Analyst-Internship-Tech-Society",
+      "Source": "Official ATS JazzHR:hraadvisors",
+      "Status": "Confirmed official posting"
+    },
+    {
+      "Company": "HR&A Advisors",
+      "Category": "Policy & Research Economics",
+      "Title": "2027 Summer Analyst Internship, Vital Places",
+      "Location": "New York, NY",
+      "Region": "North America",
+      "URL": "https://hraadvisors.applytojob.com/apply/7fDnBYwIzt/2027-Summer-Analyst-Internship-Vital-Places",
+      "Source": "Official ATS JazzHR:hraadvisors",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": []
+  "removed": [
+    {
+      "Company": "Aurora Energy Research",
+      "Category": "Energy & Environmental Economics",
+      "Title": "Research Intern (長期インターン)",
+      "Location": "Tokyo, Japan",
+      "Region": "Asia",
+      "URL": "https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534",
+      "Source": "Official ATS Pinpoint:careers.auroraer.com",
+      "Status": "Confirmed official posting"
+    }
+  ]
 }

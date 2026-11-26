@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T22:24:35.434Z",
-  "scanStartedAt": "2026-11-25T22:22:41.653Z",
+  "generatedAt": "2026-11-26T22:17:21.910Z",
+  "scanStartedAt": "2026-11-26T22:15:31.878Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
@@ -1072,7 +1072,7 @@
       "careerPages": [
         "https://www.economic-insight.com/careers/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1147,7 +1147,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 85,
+      "jobsSeen": 83,
       "relevantRoles": 8
     },
     {
@@ -1489,7 +1489,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 38,
+      "jobsSeen": 39,
       "relevantRoles": 0
     },
     {
@@ -1506,7 +1506,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 102,
+      "jobsSeen": 101,
       "relevantRoles": 0
     },
     {
@@ -1984,7 +1984,7 @@
       "careerPages": [
         "https://careercenter.acil.org/"
       ],
-      "livePages": 0,
+      "livePages": 1,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2530,7 +2530,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 8,
+      "jobsSeen": 7,
       "relevantRoles": 0
     },
     {
@@ -2934,7 +2934,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 621,
+      "jobsSeen": 620,
       "relevantRoles": 4
     },
     {
@@ -2949,7 +2949,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 642,
+      "jobsSeen": 639,
       "relevantRoles": 0
     },
     {
@@ -3252,7 +3252,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1047,
+      "jobsSeen": 1038,
       "relevantRoles": 0
     },
     {
@@ -3328,7 +3328,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 11,
+      "jobsSeen": 10,
       "relevantRoles": 0
     },
     {

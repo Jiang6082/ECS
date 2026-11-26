@@ -1,6 +1,6 @@
 # Econ Consulting Roster Scan Audit
 
-Scan started: 2026-11-25T22:22:41.653Z
+Scan started: 2026-11-26T22:15:31.878Z
 Source roster entries: 232
 Canonical companies after aliases: 232
 
@@ -133,7 +133,7 @@ Canonical companies after aliases: 232
 | Oxera | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://careers.oxera.com/jobs) |
 | RBB Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.rbbecon.com/careers/) |
 | Copenhagen Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://copenhageneconomics.com/careers/vacancies/) |
-| Economic Insight | Competition & Regulatory (Europe) | 0/1 pages live | [link](https://www.economic-insight.com/careers/) |
+| Economic Insight | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.economic-insight.com/careers/) |
 | Europe Economics | Competition & Regulatory (Europe) | no saved page attempted | none |
 | CEPA | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://www.cepa.co.uk/careers/working-at-cepa) |
 | London Economics | Competition & Regulatory (Europe) | 1/1 pages live | [link](https://londoneconomics.co.uk/recruitment/) |
@@ -188,7 +188,7 @@ Canonical companies after aliases: 232
 | Deloitte Access Economics | Economic Consulting (APAC) | 1/1 pages live | [link](https://jobs.deloitte.com.au/) |
 | NZIER | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.nzier.org.nz/careers) |
 | Castalia | Economic Consulting (APAC) | 1/1 pages live | [link](https://castalia-advisors.com/join/) |
-| ACIL Allen | Economic Consulting (APAC) | 0/1 pages live | [link](https://careercenter.acil.org/) |
+| ACIL Allen | Economic Consulting (APAC) | 1/1 pages live | [link](https://careercenter.acil.org/) |
 | Synergies Economic Consulting | Economic Consulting (APAC) | 1/1 pages live | [link](https://www.synergies.com.au/careers/) |
 | The Centre for International Economics | Economic Consulting (APAC) | no saved page attempted | none |
 | Marsden Jacob Associates | Economic Consulting (APAC) | 2/2 pages live | [link](https://careers.marsden.com/) [link](https://careers.marsden.com/company/marsden-central) |
