@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan v2
 
-Scanned: 2026-11-26T22:15:31.878Z
+Scanned: 2026-11-27T21:54:56.546Z
 Firms searched: 232
 Career pages checked: 226
-Internship roles/leads retained: 99
-Entry-level analyst roles (separate report): 33
+Internship roles/leads retained: 102
+Entry-level analyst roles (separate report): 34
 
 Scope: litigation/antitrust economics, competition & regulatory economics, policy & research economics, energy economics, transfer pricing & valuation, Big-4 economics practices, health economics / HEOR, and macro research consultancies. Target: internships, summer analyst/associate/consultant programs, placements and vacation schemes for the 2027 cycle (undated postings kept).
 
@@ -61,7 +61,7 @@ Status guide:
 - **The Brattle Group** - [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) - Washington, District of Columbia, United States - Confirmed official posting (Official ATS Greenhouse:thebrattlegroup): timing: Summer 2027
 - **Trinity Life Sciences** - [VAP Summer Associate (Waltham)](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/VAP-Summer-Associate--Waltham-_JR100763) - Waltham, MA - Headquarters - Confirmed official posting (Official ATS Workday:trinitylifesciences/Trinity): timing: Summer
 
-### Europe (38)
+### Europe (41)
 
 - **Analysis Group** - [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) - Brussels, BE - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
 - **Analysis Group** - [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) - Paris, FR - Confirmed official posting (Official ATS iCIMS:analystcareers-analysisgroup): timing: 2027
@@ -73,6 +73,7 @@ Status guide:
 - **Berkeley Research Group** - [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) - Brussels, BEL - Confirmed official posting (Official ATS Workday:thinkbrg/BRG_External_Career_Site): timing not stated in title
 - **Charles River Associates** - [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) - London, United Kingdom - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: Summer 2027; graduation years mentioned: 2027, 2028
 - **Charles River Associates** - [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) - Brussels, Belgium - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing not stated in title
+- **Charles River Associates** - [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8420886) - Paris, France - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing not stated in title
 - **Charles River Associates** - [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) - Munich, Germany - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing not stated in title
 - **Charles River Associates** - [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/w/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) - Munich, Germany - Confirmed official posting (Official ATS Greenhouse:charlesriverassociates): timing: 2027
 - **Compass Lexecon** - [Intern | Competition Practice | Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) - Berlin, Germany - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing not stated in title
@@ -88,6 +89,8 @@ Status guide:
 - **Compass Lexecon** - [Summer Intern | Competition Practice | London](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342) - London, United Kingdom - Confirmed official posting (Official ATS Workday:fticonsulting/CompassLexeconCareers): timing: Summer
 - **Cornerstone Research** - [Summer Analyst, London](https://uguk-chire.icims.com/jobs/4088/job) - UK-London - Confirmed official posting (Career page iCIMS:uguk-chire): career_page=https://www.cornerstone.com/careers/analyst/ | timing: Summer
 - **E.CA Economics** - [Intern at Economics Consultancy (m/f/d)](https://e-ca.jobs.personio.de/job/369975) - Berlin - Confirmed official posting (Official ATS Personio:e-ca): timing not stated in title
+- **Frontier Economics** - [2027 Economic Analyst Internship (Long-term) - Dublin](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/Dublin/XMLNAME-2027-Economic-Analyst-Intern--Long-term----Dublin_JR10246) - Dublin - Confirmed official posting (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers): timing: 2027
+- **Frontier Economics** - [2027 Economic Internship (Short-term) - Dublin](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/Dublin/XMLNAME-2027-Economic-Intern--Short-term----Dublin_JR10245) - Dublin - Confirmed official posting (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) - Paris, France - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [2027 Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/ET-2027--Intern--Economic---Financial-Consulting_JR261872) - Paris, France - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing: 2027
 - **FTI Consulting (Economic Consulting)** - [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) - Madrid, Spain - Confirmed official posting (Official ATS Workday:fticonsulting/FTIConsultingCareers): timing not stated in title
@@ -168,7 +171,6 @@ _None._
 - Econ One
 - Fathom Consulting
 - Fideres
-- Frontier Economics
 - Guidehouse
 - HKA
 - Health Management Associates

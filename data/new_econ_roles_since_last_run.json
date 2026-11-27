@@ -1,71 +1,20 @@
 {
-  "generatedAt": "2026-11-26T22:17:21.962Z",
-  "previousScanAt": "2026-11-25T22:22:41.653Z",
-  "currentScanAt": "2026-11-26T22:15:31.878Z",
-  "previousRows": 98,
-  "currentRows": 99,
+  "generatedAt": "2026-11-27T21:56:42.457Z",
+  "previousScanAt": "2026-11-26T22:15:31.878Z",
+  "currentScanAt": "2026-11-27T21:54:56.546Z",
+  "previousRows": 99,
+  "currentRows": 102,
   "added": [
     {
-      "Company": "Aurora Energy Research",
-      "Category": "Energy & Environmental Economics",
-      "Title": "Research Intern (長期インターン)",
-      "Location": "Tokyo, Japan",
-      "Region": "Asia",
-      "URL": "https://careers.auroraer.com/en/postings/a0fa0ca9-5ff2-459f-95c6-2912c80e6afe",
-      "Source": "Official ATS Pinpoint:careers.auroraer.com",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "HR&A Advisors",
-      "Category": "Policy & Research Economics",
-      "Title": "2027 Summer Analyst Internship, Housing Affordability",
-      "Location": "New York, NY",
-      "Region": "North America",
-      "URL": "https://hraadvisors.applytojob.com/apply/YNIOvLjcnS/2027-Summer-Analyst-Internship-Housing-Affordability",
-      "Source": "Official ATS JazzHR:hraadvisors",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "HR&A Advisors",
-      "Category": "Policy & Research Economics",
-      "Title": "2027 Summer Analyst Internship, Inclusive Cities",
-      "Location": "New York, NY",
-      "Region": "North America",
-      "URL": "https://hraadvisors.applytojob.com/apply/7sE5ZbYB4P/2027-Summer-Analyst-Internship-Inclusive-Cities",
-      "Source": "Official ATS JazzHR:hraadvisors",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "HR&A Advisors",
-      "Category": "Policy & Research Economics",
-      "Title": "2027 Summer Analyst Internship, Tech & Society",
-      "Location": "New York, NY",
-      "Region": "North America",
-      "URL": "https://hraadvisors.applytojob.com/apply/z6KCQOeODg/2027-Summer-Analyst-Internship-Tech-Society",
-      "Source": "Official ATS JazzHR:hraadvisors",
-      "Status": "Confirmed official posting"
-    },
-    {
-      "Company": "HR&A Advisors",
-      "Category": "Policy & Research Economics",
-      "Title": "2027 Summer Analyst Internship, Vital Places",
-      "Location": "New York, NY",
-      "Region": "North America",
-      "URL": "https://hraadvisors.applytojob.com/apply/7fDnBYwIzt/2027-Summer-Analyst-Internship-Vital-Places",
-      "Source": "Official ATS JazzHR:hraadvisors",
+      "Company": "PwC (Economics / Transfer Pricing / Forensics)",
+      "Category": "Big 4 & Advisory Economics",
+      "Title": "Stage - Transfer Pricing - Roma [TAX]",
+      "Location": "Rome",
+      "Region": "Europe",
+      "URL": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Stage---Transfer-Pricing---Roma--TAX-_776731WD-1",
+      "Source": "Official ATS Workday:pwc/Global_Campus_Careers",
       "Status": "Confirmed official posting"
     }
   ],
-  "removed": [
-    {
-      "Company": "Aurora Energy Research",
-      "Category": "Energy & Environmental Economics",
-      "Title": "Research Intern (長期インターン)",
-      "Location": "Tokyo, Japan",
-      "Region": "Asia",
-      "URL": "https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534",
-      "Source": "Official ATS Pinpoint:careers.auroraer.com",
-      "Status": "Confirmed official posting"
-    }
-  ]
+  "removed": []
 }

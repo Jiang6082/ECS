@@ -2,7 +2,7 @@
 
 Automated scan of economic-consulting internships — litigation & antitrust economics, competition & regulatory, policy research, energy, transfer pricing & valuation, Big-4 economics practices, and health economics / HEOR — across a **232-firm universe**. GitHub is the shared source of truth — pull the repo, run the scan, and everyone sees the same latest roles.
 
-> **Last scan:** 2026-11-26 &nbsp;•&nbsp; **99 open internships** &nbsp;•&nbsp; **5 new today** &nbsp;•&nbsp; **33 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **95 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-27 &nbsp;•&nbsp; **102 open internships** &nbsp;•&nbsp; **1 new today** &nbsp;•&nbsp; **34 entry-level analyst roles** ([list](reports/econ_entry_level_roles.md)) &nbsp;•&nbsp; **95 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open econ-consulting internship with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -12,28 +12,21 @@ Automated scan of economic-consulting internships — litigation & antitrust eco
 
 ## 🆕 New Roles Released Today
 
-_Scan date: 2026-11-26_
+_Scan date: 2026-11-27_
 
-**5** new stable job postings since the previous scan:
+**1** new stable job posting since the previous scan:
 
-**North America**
+**Europe**
 
-- **HR&A Advisors** — [2027 Summer Analyst Internship, Housing Affordability](https://hraadvisors.applytojob.com/apply/YNIOvLjcnS/2027-Summer-Analyst-Internship-Housing-Affordability) — New York, NY
-- **HR&A Advisors** — [2027 Summer Analyst Internship, Inclusive Cities](https://hraadvisors.applytojob.com/apply/7sE5ZbYB4P/2027-Summer-Analyst-Internship-Inclusive-Cities) — New York, NY
-- **HR&A Advisors** — [2027 Summer Analyst Internship, Tech & Society](https://hraadvisors.applytojob.com/apply/z6KCQOeODg/2027-Summer-Analyst-Internship-Tech-Society) — New York, NY
-- **HR&A Advisors** — [2027 Summer Analyst Internship, Vital Places](https://hraadvisors.applytojob.com/apply/7fDnBYwIzt/2027-Summer-Analyst-Internship-Vital-Places) — New York, NY
-
-**Asia**
-
-- **Aurora Energy Research** — [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/a0fa0ca9-5ff2-459f-95c6-2912c80e6afe) — Tokyo, Japan
+- **PwC (Economics / Transfer Pricing / Forensics)** — [Stage - Transfer Pricing - Roma [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Stage---Transfer-Pricing---Roma--TAX-_776731WD-1) — Rome
 
 ---
 
 ## 📋 All Roles Available
 
-**99** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
+**102** open internship roles, grouped by region. Click a title to open the posting. Rows marked _(verify)_ are web-discovered leads rather than direct ATS postings.
 
-**Regions:** [North America (43)](#north-america) · [Europe (38)](#europe) · [Asia (3)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (11)](#remote--unspecified)
+**Regions:** [North America (43)](#north-america) · [Europe (41)](#europe) · [Asia (3)](#asia) · [South America (3)](#south-america) · [Africa (1)](#africa) · [Remote / Unspecified (11)](#remote--unspecified)
 
 ### North America
 
@@ -89,7 +82,7 @@ _Scan date: 2026-11-26_
 ### Europe
 
 <details>
-<summary><strong>38 roles</strong> — click to expand</summary>
+<summary><strong>41 roles</strong> — click to expand</summary>
 
 - **Analysis Group** — [Analyst Intern - Generalist - Brussels (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3045/job) — Brussels, BE
 - **Analysis Group** — [Analyst Intern - Generalist / Stage - Analyste - Généraliste - Paris (2027 Start Date)](https://analystcareers-analysisgroup.icims.com/jobs/3068/job) — Paris, FR
@@ -101,6 +94,7 @@ _Scan date: 2026-11-26_
 - **Berkeley Research Group** — [Internship - Competition Economics (German Speaker)](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) — Brussels, BEL
 - **Charles River Associates** — [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) — London, United Kingdom
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium
+- **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8420886) — Paris, France
 - **Charles River Associates** — [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) — Munich, Germany
 - **Charles River Associates** — [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/w/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) — Munich, Germany
 - **Compass Lexecon** — [Intern \| Competition Practice \| Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany
@@ -116,6 +110,8 @@ _Scan date: 2026-11-26_
 - **Compass Lexecon** — [Summer Intern \| Competition Practice \| London](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342) — London, United Kingdom
 - **Cornerstone Research** — [Summer Analyst, London](https://uguk-chire.icims.com/jobs/4088/job) — UK-London
 - **E.CA Economics** — [Intern at Economics Consultancy (m/f/d)](https://e-ca.jobs.personio.de/job/369975) — Berlin
+- **Frontier Economics** — [2027 Economic Analyst Internship (Long-term) - Dublin](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/Dublin/XMLNAME-2027-Economic-Analyst-Intern--Long-term----Dublin_JR10246) — Dublin
+- **Frontier Economics** — [2027 Economic Internship (Short-term) - Dublin](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/Dublin/XMLNAME-2027-Economic-Intern--Short-term----Dublin_JR10245) — Dublin
 - **FTI Consulting (Economic Consulting)** — [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) — Paris, France
 - **FTI Consulting (Economic Consulting)** — [2027 Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/ET-2027--Intern--Economic---Financial-Consulting_JR261872) — Paris, France
 - **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain

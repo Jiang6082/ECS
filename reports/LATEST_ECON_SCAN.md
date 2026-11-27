@@ -1,47 +1,44 @@
 # ECS Latest Econ Consulting Scan
 
-Last updated: 2026-11-26T22:15:31.878Z
+Last updated: 2026-11-27T21:54:56.546Z
 
 ## Summary
 
 - Firms searched: 232
 - Career pages checked: 226
-- Current internship roles: 99
-- Entry-level analyst roles: 33 ([list](econ_entry_level_roles.md))
-- New stable job URLs since previous scan: 5
-- No longer present since previous scan: 1
-- Firms with matching roles: 26
+- Current internship roles: 102
+- Entry-level analyst roles: 34 ([list](econ_entry_level_roles.md))
+- New stable job URLs since previous scan: 1
+- No longer present since previous scan: 0
+- Firms with matching roles: 27
 - Confirmed no open postings: 8
-- Openings but no matching role: 28
+- Openings but no matching role: 27
 - Could not fully verify: 170
 
 ## Internships By Practice Area
 
-- Litigation, Antitrust & Damages: 67
+- Litigation, Antitrust & Damages: 68
 - Policy & Research Economics: 7
 - Big 4 & Advisory Economics: 7
 - Transfer Pricing & Valuation: 6
 - Energy & Environmental Economics: 5
-- Competition & Regulatory (Europe): 3
+- Competition & Regulatory (Europe): 5
 - Health Economics & HEOR: 3
 - Macro & Economic Research: 1
 
 ## New Roles Since Previous Scan
 
-### North America (4)
-
-- **HR&A Advisors** - [2027 Summer Analyst Internship, Housing Affordability](https://hraadvisors.applytojob.com/apply/YNIOvLjcnS/2027-Summer-Analyst-Internship-Housing-Affordability) - New York, NY
-- **HR&A Advisors** - [2027 Summer Analyst Internship, Inclusive Cities](https://hraadvisors.applytojob.com/apply/7sE5ZbYB4P/2027-Summer-Analyst-Internship-Inclusive-Cities) - New York, NY
-- **HR&A Advisors** - [2027 Summer Analyst Internship, Tech & Society](https://hraadvisors.applytojob.com/apply/z6KCQOeODg/2027-Summer-Analyst-Internship-Tech-Society) - New York, NY
-- **HR&A Advisors** - [2027 Summer Analyst Internship, Vital Places](https://hraadvisors.applytojob.com/apply/7fDnBYwIzt/2027-Summer-Analyst-Internship-Vital-Places) - New York, NY
-
-### Europe (0)
+### North America (0)
 
 _None._
 
-### Asia (1)
+### Europe (1)
 
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/a0fa0ca9-5ff2-459f-95c6-2912c80e6afe) - Tokyo, Japan
+- **PwC (Economics / Transfer Pricing / Forensics)** - [Stage - Transfer Pricing - Roma [TAX]](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Rome/Stage---Transfer-Pricing---Roma--TAX-_776731WD-1) - Rome
+
+### Asia (0)
+
+_None._
 
 ### Oceania (0)
 
@@ -69,7 +66,7 @@ _None._
 
 ## No Longer Present
 
-- **Aurora Energy Research** - [Research Intern (長期インターン)](https://careers.auroraer.com/en/postings/bed9158a-d9ec-4893-a524-4aa9d18d0534) - Tokyo, Japan
+_None._
 
 ## Full Reports
 

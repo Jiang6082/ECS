@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T22:17:21.910Z",
-  "scanStartedAt": "2026-11-26T22:15:31.878Z",
+  "generatedAt": "2026-11-27T21:56:42.406Z",
+  "scanStartedAt": "2026-11-27T21:54:56.546Z",
   "sourceRosterEntries": 232,
   "canonicalCompanies": 232,
   "counts": {
-    "matching-role-found": 26,
+    "matching-role-found": 27,
     "confirmed-no-open-postings": 8,
-    "confirmed-openings-no-matching-role": 28,
+    "confirmed-openings-no-matching-role": 27,
     "could-not-fully-verify": 170
   },
   "companies": [
@@ -185,7 +185,7 @@
       "careerPages": [
         "https://econone.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1008,7 +1008,7 @@
         "Frontier Economics"
       ],
       "category": "Competition & Regulatory (Europe)",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "matching-role-found",
       "careerPages": [
         "https://frontier.edu/"
       ],
@@ -1115,7 +1115,7 @@
       "careerPages": [
         "https://londoneconomics.co.uk/recruitment/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1147,7 +1147,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 83,
+      "jobsSeen": 85,
       "relevantRoles": 8
     },
     {
@@ -1203,7 +1203,7 @@
       "careerPages": [
         "https://diw-econ.de/en/career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1309,7 +1309,7 @@
       "careerPages": [
         "https://www.learlab.com/careers/vacancies/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1367,7 +1367,7 @@
       "careerPages": [
         "https://cebr.com/join-the-team/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1489,7 +1489,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 39,
+      "jobsSeen": 40,
       "relevantRoles": 0
     },
     {
@@ -1506,7 +1506,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 101,
+      "jobsSeen": 102,
       "relevantRoles": 0
     },
     {
@@ -1808,7 +1808,7 @@
       "careerPages": [
         "https://www.dkmedigroup.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1836,7 +1836,7 @@
       "careerPages": [
         "https://steer.education/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2440,7 +2440,7 @@
       "careerPages": [
         "https://www.keysermarston.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2530,7 +2530,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 7,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -2569,7 +2569,7 @@
       "careerPages": [
         "https://econw.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2719,7 +2719,7 @@
       "careerPages": [
         "https://www.scottmadden.com/careers/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2901,7 +2901,7 @@
       "careerPages": [
         "https://www.kpmguscareers.com/early-career/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -2947,9 +2947,9 @@
       "careerPages": [
         "https://jobs.rsmus.com/"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 639,
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -3099,7 +3099,7 @@
         "https://www.kpmguscareers.com/early-career/",
         "https://www.kpmguscareers.com/job-search/"
       ],
-      "livePages": 3,
+      "livePages": 1,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -3237,7 +3237,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 44,
+      "jobsSeen": 46,
       "relevantRoles": 0
     },
     {
@@ -3252,7 +3252,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 1038,
+      "jobsSeen": 1024,
       "relevantRoles": 0
     },
     {

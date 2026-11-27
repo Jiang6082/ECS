@@ -1,10 +1,10 @@
 # Econ Consulting Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-26T22:13:42.718Z
+Scanned: 2026-11-27T21:53:13.700Z
 Firms in universe: 232
 Firms with at least one live ATS board: 59
-Internship roles: 98
-Entry-level analyst roles: 32
+Internship roles: 101
+Entry-level analyst roles: 33
 
 Criteria: open posting on an official ATS board; internship / summer analyst / summer associate / placement wording; economics-consulting function (large multi-practice firms must also match an economics, disputes, transfer-pricing, policy or HEOR keyword); excludes PhD/MBA/JD-only, recruiting events, and titles dated for past cycles.
 
@@ -48,6 +48,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Charles River Associates** — [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8186451) — London, United Kingdom (Official ATS Greenhouse:charlesriverassociates; timing: Summer 2027; graduation years mentioned: 2027, 2028)
 - **Charles River Associates** — [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) — College Station, TX, United States; Tallahassee, FL, United States (Official ATS Greenhouse:charlesriverassociates; timing: Spring 2027; graduation years mentioned: 2027)
 - **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4467334) — Brussels, Belgium (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
+- **Charles River Associates** — [Intern (European Competition practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8420886) — Paris, France (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
 - **Charles River Associates** — [Intern (European Competition practice) - m/f/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5174914) — Munich, Germany (Official ATS Greenhouse:charlesriverassociates; timing not stated in title)
 - **Charles River Associates** — [Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/w/d](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) — Munich, Germany (Official ATS Greenhouse:charlesriverassociates; timing: 2027)
 - **Compass Lexecon** — [Intern | Competition Practice | Berlin](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Berlin-Germany/Intern---Competition-Practice---Berlin_JR261308) — Berlin, Germany (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing not stated in title)
@@ -63,6 +64,8 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Compass Lexecon** — [Summer Intern | Competition Practice | London](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/London-United-Kingdom/Summer-Intern---Competition-Practice---London_JR261342) — London, United Kingdom (Official ATS Workday:fticonsulting/CompassLexeconCareers; timing: Summer)
 - **E.CA Economics** — [Intern at Economics Consultancy (m/f/d)](https://e-ca.jobs.personio.de/job/369975) — Berlin (Official ATS Personio:e-ca; timing not stated in title)
 - **Energy + Environmental Economics (E3)** — [2027 Consulting Internship](https://jobs.lever.co/ethree/4e029b3e-2c44-4f90-a04c-3980f4dedd57) — San Francisco, CA; Boston, MA; New York, NY; Calgary, Alberta (Official ATS Lever:ethree; timing: 2027)
+- **Frontier Economics** — [2027 Economic Analyst Internship (Long-term) - Dublin](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/Dublin/XMLNAME-2027-Economic-Analyst-Intern--Long-term----Dublin_JR10246) — Dublin (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers; timing: 2027)
+- **Frontier Economics** — [2027 Economic Internship (Short-term) - Dublin](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/Dublin/XMLNAME-2027-Economic-Intern--Short-term----Dublin_JR10245) — Dublin (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [2027 Intern (Energy), Economic Regulation Advisory](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Energy---Economic-Regulation-Advisory_JR260063) — Paris, France (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [2027 Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Paris-France/ET-2027--Intern--Economic---Financial-Consulting_JR261872) — Paris, France (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing: 2027)
 - **FTI Consulting (Economic Consulting)** — [Intern, Economic & Financial Consulting](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Madrid-Spain/Intern--Economic---Financial-Consulting_JR260682) — Madrid, Spain (Official ATS Workday:fticonsulting/FTIConsultingCareers; timing not stated in title)
@@ -132,6 +135,7 @@ Criteria: open posting on an official ATS board; internship / summer analyst / s
 - **Berkeley Research Group** — [Analyst, Product Success](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Remote---USA/Analyst--Product-Success_JR101217-1) — Remote - USA (Official ATS Workday:thinkbrg/BRG_External_Career_Site)
 - **Compass Lexecon** — [Analyst - Beijing - Q3 2026](https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/job/Beijing-China/Analyst---Beijing---Q3-2026_JR260964) — Beijing, China (Official ATS Workday:fticonsulting/CompassLexeconCareers)
 - **Eastern Research Group** — [Entry-Level Occupational Safety and Health Data Analyst](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) — Fairfax, VA; Washington, DC; Arlington, VA; Alexandria, VA (Official ATS Lever:erg)
+- **Frontier Economics** — [2027 Graduate Economic Analyst - London](https://frontiereconomics.wd3.myworkdayjobs.com/Frontier_Economics_Careers/job/London/XMLNAME-2027-Graduate-Economic-Analyst---London_JR10236) — London (Official ATS Workday:frontiereconomics/Frontier_Economics_Careers)
 - **HR&A Advisors** — [Analyst, Inclusive Cities](https://hraadvisors.applytojob.com/apply/OIdLbkgMzp/Analyst-Inclusive-Cities) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/8bcLYtkdBZ/Analyst-Real-Estate) — New York, NY (Official ATS JazzHR:hraadvisors)
 - **HR&A Advisors** — [Analyst, Real Estate](https://hraadvisors.applytojob.com/apply/qq1AGC21ZP/Analyst-Real-Estate) — Washington, DC, DC (Official ATS JazzHR:hraadvisors)
